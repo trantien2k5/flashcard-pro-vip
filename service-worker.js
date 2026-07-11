@@ -111,6 +111,10 @@ self.addEventListener('fetch', (event) => {
 
     const url = new URL(request.url);
 
+    // The Cache API only supports http/https - skip everything else (chrome-extension://,
+    // moz-extension://, etc. from browser extensions injecting requests into the page).
+    if (url.protocol !== 'http:' && url.protocol !== 'https:') return;
+
     // App shell (HTML/CSS/JS/manifest) and same-origin navigations: network-first.
     if (request.mode === 'navigate' || (url.origin === self.location.origin && isShellRequest(url))) {
         event.respondWith(networkFirst(request.mode === 'navigate' ? './index.html' : request, SHELL_CACHE));
