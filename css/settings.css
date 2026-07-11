@@ -1,11 +1,11 @@
-/* TOEIC Vocab Spark - Settings tab: card menu, detail panels, controls */
+/* TOEIC Vocab Spark - Settings tab: inline groups, sections, controls */
 
-/* Settings View Styles - full-bleed, left-aligned like Home/Topics tabs (no centered boxed column) */
+/* Settings View Styles */
 .settings-container {
     width: 100%;
 }
 
-/* Settings page intro header - matches Topics view-header / Home welcome-text sizing */
+/* Settings page intro header */
 .settings-page-header {
     margin-bottom: 24px;
 }
@@ -22,271 +22,101 @@
     color: var(--text-secondary);
 }
 
-/* Settings Menu Grid - auto-fit so it's 1 column on mobile and multiple on wider screens, no manual breakpoint needed */
-.settings-menu-grid {
+/* Consolidated settings section layouts */
+.settings-page-sections {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 14px;
+    grid-template-columns: 1fr;
+    gap: 24px;
 }
 
-.settings-menu-card {
-    /* Cards are real <button> elements now - reset native button chrome */
-    font-family: inherit;
-    text-align: left;
-    width: 100%;
+@media (min-width: 1024px) {
+    .settings-page-sections {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.settings-section-card {
     background-color: var(--bg-card);
     border: 1px solid var(--border-color);
-    border-radius: var(--radius-md);
-    padding: 16px 20px;
-    cursor: pointer;
-    transition: all var(--transition-fast);
+    border-radius: var(--radius-lg);
+    padding: 24px;
     display: flex;
-    align-items: center;
-    gap: 16px;
+    flex-direction: column;
+    box-shadow: var(--shadow-sm);
     backdrop-filter: var(--glass-blur);
 }
 
-.settings-menu-card:hover {
-    background-color: var(--bg-card-hover);
-    border-color: var(--border-focus);
-    box-shadow: var(--shadow-md);
+.settings-section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border-color);
+    margin-bottom: 16px;
 }
 
-.settings-menu-card-body {
-    flex: 1;
-    min-width: 0;
-}
-
-.settings-menu-card h3 {
+.settings-section-header h3 {
     font-size: 18px;
     font-weight: 700;
-    margin-bottom: 4px;
     color: var(--text-primary);
-}
-
-.settings-menu-card p {
-    font-size: 14px;
-    color: var(--text-secondary);
-    line-height: 1.4;
-    margin-bottom: 0;
-}
-
-/* Icon Wrappers with Gradients */
-.menu-icon-wrapper {
-    width: 46px;
-    height: 46px;
-    border-radius: var(--radius-md);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #ffffff;
-    flex-shrink: 0;
-}
-
-.menu-icon-wrapper i {
-    width: 22px;
-    height: 22px;
-}
-
-.menu-icon-wrapper.study-icon {
-    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
-    color: #ffffff;
-}
-.menu-icon-wrapper.review-icon {
-    background: linear-gradient(135deg, #ec4899, #be185d);
-    color: #ffffff;
-}
-.menu-icon-wrapper.sound-icon {
-    background: linear-gradient(135deg, #f97316, #c2410c);
-}
-.menu-icon-wrapper.theme-icon {
-    background: linear-gradient(135deg, #8b5cf6, #6d28d9);
-}
-.menu-icon-wrapper.data-icon {
-    background: linear-gradient(135deg, #10b981, #047857);
-}
-.menu-icon-wrapper.info-icon {
-    background: linear-gradient(135deg, #6b7280, #374151);
-}
-
-.settings-menu-arrow {
-    width: 18px;
-    height: 18px;
-    color: var(--text-secondary);
-    transition: transform var(--transition-fast);
-    flex-shrink: 0;
-    margin-top: 4px;
-}
-
-.settings-menu-card:hover .settings-menu-arrow {
-    transform: translateX(4px);
-    color: var(--primary);
-}
-
-/* Settings Modal - native <dialog>, centered card on desktop, near-fullscreen bottom sheet on mobile.
-   Centering is done explicitly with position:fixed + top/left/transform rather than relying on the
-   browser's default <dialog> auto-margin centering, which is inconsistent across engines. */
-@keyframes settingsModalIn {
-    from {
-        opacity: 0;
-        transform: translate(-50%, -50%) scale(0.98);
-    }
-    to {
-        opacity: 1;
-        transform: translate(-50%, -50%) scale(1);
-    }
-}
-
-.settings-modal {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    right: auto;
-    bottom: auto;
-    transform: translate(-50%, -50%);
     margin: 0;
-    padding: 0;
-    width: min(560px, calc(100vw - 32px));
-    max-height: min(680px, 85vh);
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-lg);
-    background-color: var(--bg-sidebar);
-    color: var(--text-primary);
-    box-shadow: var(--shadow-lg);
-    backdrop-filter: var(--glass-blur);
-    overflow: hidden;
-    display: none;
-    flex-direction: column;
 }
 
-.settings-modal[open] {
-    display: flex;
-    animation: settingsModalIn var(--transition-fast) forwards;
-}
-
-.settings-modal::backdrop {
-    background: rgba(5, 8, 15, 0.6);
-    backdrop-filter: blur(2px);
-}
-
-.settings-modal-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 12px;
-    padding: 18px 20px;
-    border-bottom: 1px solid var(--border-color);
-    flex-shrink: 0;
-}
-
-.settings-modal-title {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 19px;
-    font-weight: 800;
-    color: var(--text-primary);
-}
-
-.settings-modal-title .settings-emoji-icon {
-    font-size: 19px;
+.settings-section-header .settings-emoji-icon {
+    font-size: 20px;
     line-height: 1;
 }
 
-.btn-settings-modal-close {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 34px;
-    height: 34px;
-    background: var(--bg-input);
-    border: 1px solid var(--border-color);
-    color: var(--text-secondary);
-    cursor: pointer;
-    border-radius: var(--radius-full);
-    transition: all var(--transition-fast);
-    flex-shrink: 0;
-}
-
-.btn-settings-modal-close:hover {
-    background-color: var(--danger-bg);
-    border-color: var(--danger);
-    color: var(--danger);
-}
-
-.btn-settings-modal-close i {
-    width: 18px;
-    height: 18px;
-}
-
-.settings-modal-body {
-    padding: 20px;
-    overflow-y: auto;
-}
-
-/* Mobile: modern bottom-sheet popup instead of a small centered box */
-@media (max-width: 640px) {
-    .settings-modal {
-        top: auto;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        max-width: 100%;
-        max-height: 88vh;
-        transform: none;
-        border-radius: var(--radius-lg) var(--radius-lg) 0 0;
-        border-bottom: none;
-    }
-
-    @keyframes settingsModalIn {
-        from {
-            opacity: 0;
-            transform: translateY(100%);
-        }
-        to {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    }
-}
-
-/* Each setting is its own card, laid out in a grid - matches topic-card / settings-menu-card, not one giant box */
-.settings-group {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 14px;
-}
-
-.setting-row {
-    background-color: var(--bg-card);
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-md);
+/* Nested setting rows within the section cards (removes card-in-card double styling) */
+.settings-section-card .setting-row {
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    padding: 14px 0;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.08);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 18px;
     gap: 16px;
-    backdrop-filter: var(--glass-blur);
-    transition: all var(--transition-fast);
+    transition: none;
+    backdrop-filter: none;
 }
 
-.setting-row:hover {
-    border-color: var(--border-focus);
-    box-shadow: var(--shadow-md);
-    transform: translateY(-2px);
+.light-theme .settings-section-card .setting-row {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.08);
 }
 
-.setting-row.block-row {
-    grid-column: 1 / -1;
+.settings-section-card .setting-row:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.settings-section-card .setting-row:first-child {
+    padding-top: 0;
+}
+
+.settings-section-card .setting-row:hover {
+    box-shadow: none;
+    transform: none;
+    border-color: transparent;
+}
+
+.settings-section-card .setting-row.block-row {
     flex-direction: column;
     align-items: flex-start;
-    gap: 12px;
+    gap: 14px;
+}
+
+.settings-group {
+    display: flex;
+    flex-direction: column;
 }
 
 .setting-info h4 {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 600;
     margin-bottom: 4px;
+    color: var(--text-primary);
 }
 
 .setting-info p {
@@ -453,19 +283,47 @@
     background: var(--bg-input);
     border: 1px solid var(--border-color);
     color: var(--text-primary);
+    padding: 10px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all var(--transition-fast);
 }
 
 .action-btn.secondary:hover {
     background-color: var(--border-color);
 }
 
+.action-btn.secondary i {
+    width: 16px;
+    height: 16px;
+}
+
 .action-btn.danger {
     background: var(--danger-bg);
     border: 1px solid var(--danger);
     color: var(--danger);
+    padding: 10px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all var(--transition-fast);
 }
 
 .action-btn.danger:hover {
     background: var(--danger);
     color: white;
+}
+
+.action-btn.danger i {
+    width: 16px;
+    height: 16px;
 }

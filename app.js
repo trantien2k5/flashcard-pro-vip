@@ -1486,31 +1486,7 @@ function showToast(message, type = 'info') {
 
 // --- Event Listeners Mapping ---
 function setupEventListeners() {
-    // Settings modals: each category card opens its own <dialog> popup.
-    document.querySelectorAll('.settings-menu-card').forEach(card => {
-        card.addEventListener('click', () => {
-            const modalId = card.getAttribute('data-open-modal');
-            const modal = document.getElementById(modalId);
-            if (modal && typeof modal.showModal === 'function') {
-                modal.showModal();
-            }
-        });
-    });
 
-    // Close button inside each modal
-    document.querySelectorAll('.btn-settings-modal-close').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const modal = btn.closest('dialog.settings-modal');
-            if (modal) modal.close();
-        });
-    });
-
-    // Click on the backdrop (outside the modal content box) closes it
-    document.querySelectorAll('dialog.settings-modal').forEach(modal => {
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) modal.close();
-        });
-    });
 
     // Navigation Tabs Switcher
     elements.navButtons.forEach(btn => {
@@ -1532,8 +1508,7 @@ function setupEventListeners() {
             
             activeTab = tabId;
 
-            // Close any settings modal left open when navigating away
-            document.querySelectorAll('dialog.settings-modal[open]').forEach(modal => modal.close());
+
 
             // Reload specific stats if going to review
             if (tabId === 'review') {
