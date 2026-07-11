@@ -2,6 +2,10 @@
  * TOEIC Vocab Spark - Main Logic & State Engine
  */
 
+// Bump this on every code change (shown in Settings > Thông tin) so the user can
+// tell at a glance whether a new update has actually loaded.
+const APP_VERSION = '1.1.0 (11/07/2026)';
+
 // --- Global Error Capturing & Recovery (Try-Catch Toàn cục) ---
 window.addEventListener('error', (event) => {
     console.error('Phát hiện lỗi runtime:', event.error || event.message);
@@ -167,6 +171,7 @@ const elements = {
     settingsSpeechVoice: document.getElementById('settings-speech-voice'),
     infoDataSize: document.getElementById('info-data-size'),
     infoTotalWords: document.getElementById('info-total-words'),
+    infoAppVersion: document.getElementById('info-app-version'),
     
     // Notebook View
     btnToggleNotebook: document.getElementById('btn-toggle-notebook'),
@@ -306,6 +311,11 @@ function saveSettings() {
 }
 
 function updateSettingsInfoCard() {
+    // 0. App version (bumped on every code update, see APP_VERSION)
+    if (elements.infoAppVersion) {
+        elements.infoAppVersion.innerText = APP_VERSION;
+    }
+
     // 1. Data size
     const progressStr = localStorage.getItem('toeic_vocab_progress') || '';
     const settingsStr = localStorage.getItem('toeic_vocab_settings') || '';
