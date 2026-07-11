@@ -62,10 +62,20 @@
     margin: 0;
 }
 
-.settings-section-header .settings-emoji-icon {
-    font-size: 20px;
-    line-height: 1;
+.settings-section-header i {
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+.settings-section-header i.study-color { color: #3b82f6; }
+.settings-section-header i.review-color { color: #ec4899; }
+.settings-section-header i.sound-color { color: #f97316; }
+.settings-section-header i.theme-color { color: #8b5cf6; }
+.settings-section-header i.data-color { color: #10b981; }
+.settings-section-header i.info-color { color: #9ca3af; }
 
 /* Nested setting rows within the section cards (removes card-in-card double styling) */
 .settings-section-card .setting-row {
