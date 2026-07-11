@@ -1,0 +1,139 @@
+/* TOEIC Vocab Spark - Design Styles System */
+
+/* CSS Reset & Variables */
+:root {
+    /* Fonts */
+    --font-main: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    
+    /* Transitions */
+    --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    --card-flip-duration: 0.6s;
+    
+    /* Border Radius */
+    --radius-sm: 8px;
+    --radius-md: 14px;
+    --radius-lg: 24px;
+    --radius-full: 9999px;
+    
+    /* Shadows */
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 20px 40px -10px rgba(0, 0, 0, 0.2), 0 10px 15px -5px rgba(0, 0, 0, 0.2);
+    --shadow-glow: 0 0 20px rgba(99, 102, 241, 0.3);
+}
+
+/* Dark Theme (Default) */
+body.dark-theme {
+    --bg-app: #090d16;
+    --bg-sidebar: #0f1524;
+    --bg-card: rgba(22, 30, 49, 0.7);
+    --bg-card-hover: rgba(30, 41, 67, 0.95);
+    --bg-input: #151d30;
+    --border-color: rgba(255, 255, 255, 0.06);
+    --border-focus: rgba(99, 102, 241, 0.5);
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+    
+    /* Brand Colors */
+    --primary: #6366f1;
+    --primary-light: rgba(99, 102, 241, 0.15);
+    --primary-gradient: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%);
+    --accent-gradient: linear-gradient(135deg, #ec4899 0%, #d946ef 100%);
+    
+    /* States */
+    --success: #10b981;
+    --success-bg: rgba(16, 185, 129, 0.15);
+    --warning: #f59e0b;
+    --warning-bg: rgba(245, 158, 11, 0.15);
+    --danger: #ef4444;
+    --danger-bg: rgba(239, 68, 68, 0.15);
+    --info: #0ea5e9;
+    --info-bg: rgba(14, 165, 233, 0.15);
+    
+    /* Scrollbars */
+    --scrollbar-track: #0d121f;
+    --scrollbar-thumb: #1e293b;
+    --glass-blur: blur(12px) saturate(180%);
+}
+
+/* Light Theme */
+body.light-theme {
+    --bg-app: #f4f6fa;
+    --bg-sidebar: #ffffff;
+    --bg-card: rgba(255, 255, 255, 0.75);
+    --bg-card-hover: rgba(255, 255, 255, 0.95);
+    --bg-input: #f1f5f9;
+    --border-color: rgba(0, 0, 0, 0.06);
+    --border-focus: rgba(99, 102, 241, 0.5);
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --text-muted: #94a3b8;
+    
+    /* Brand Colors */
+    --primary: #4f46e5;
+    --primary-light: rgba(79, 70, 229, 0.08);
+    --primary-gradient: linear-gradient(135deg, #4f46e5 0%, #3730a3 100%);
+    --accent-gradient: linear-gradient(135deg, #db2777 0%, #c026d3 100%);
+    
+    /* States */
+    --success: #059669;
+    --success-bg: rgba(5, 150, 105, 0.1);
+    --warning: #d97706;
+    --warning-bg: rgba(217, 119, 6, 0.1);
+    --danger: #dc2626;
+    --danger-bg: rgba(220, 38, 38, 0.1);
+    --info: #0284c7;
+    --info-bg: rgba(2, 132, 199, 0.1);
+    
+    /* Scrollbars */
+    --scrollbar-track: #f1f5f9;
+    --scrollbar-thumb: #cbd5e1;
+    --glass-blur: blur(12px) saturate(180%);
+}
+
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-main);
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    background-color: var(--bg-app);
+    color: var(--text-primary);
+    transition: background-color var(--transition-normal), color var(--transition-normal);
+    overflow-x: hidden;
+    min-height: 100vh;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+input, textarea {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: var(--scrollbar-track);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thumb);
+    border-radius: var(--radius-full);
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--primary);
+}

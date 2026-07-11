@@ -1,0 +1,149 @@
+/* TOEIC Vocab Spark - App shell: container, sidebar/nav, main content, tab switching */
+
+/* App Container Layout */
+.app-container {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+    width: 100%;
+}
+
+/* Sidebar & Navigation Styles */
+.app-sidebar {
+    background-color: var(--bg-sidebar);
+    border-right: 1px solid var(--border-color);
+    padding: 40px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    width: 280px;
+    z-index: 100;
+    backdrop-filter: var(--glass-blur);
+    gap: 48px;
+    flex-shrink: 0;
+}
+
+.logo-area {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo-icon {
+    width: 42px;
+    height: 42px;
+    border-radius: var(--radius-md);
+    background: var(--primary-gradient);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    box-shadow: var(--shadow-glow);
+    flex-shrink: 0;
+}
+
+.logo-icon i {
+    width: 22px;
+    height: 22px;
+    animation: pulse-glow 2s infinite alternate;
+}
+
+.logo-area h1 {
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    color: var(--text-primary);
+}
+
+.logo-area h1 span {
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.app-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+}
+
+.nav-btn {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--text-secondary);
+    padding: 14px 20px;
+    border-radius: var(--radius-md);
+    font-size: 15px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    position: relative;
+    width: 100%;
+}
+
+.nav-emoji-icon {
+    font-size: 20px;
+    width: 24px;
+    height: 24px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+
+.nav-btn:hover {
+    color: var(--text-primary);
+    background-color: var(--primary-light);
+}
+
+.nav-btn.active {
+    color: var(--primary);
+    background-color: var(--primary-light);
+    box-shadow: none;
+}
+
+body.light-theme .nav-btn.active {
+    color: var(--primary);
+    background-color: var(--primary-light);
+}
+
+.nav-btn .badge {
+    background: var(--danger);
+    color: white;
+    font-size: 11px;
+    padding: 2px 6px;
+    border-radius: var(--radius-full);
+    min-width: 18px;
+    text-align: center;
+    font-weight: 700;
+    margin-left: auto; /* Push badge to the far right of the button */
+}
+
+/* Main Content Area */
+.app-main {
+    flex: 1;
+    padding: 40px;
+    position: relative;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+/* Tab Content Visibility */
+.tab-content {
+    display: none;
+    animation: fadeIn var(--transition-normal) forwards;
+}
+
+.tab-content.active {
+    display: block;
+}

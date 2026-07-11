@@ -1,0 +1,253 @@
+/* TOEIC Vocab Spark - Home tab: welcome banner, dashboard cards, FSRS info banner */
+
+/* Welcome Banner */
+.welcome-banner {
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.08) 0%, rgba(236, 72, 153, 0.04) 100%);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    gap: 20px;
+}
+
+.welcome-text h2 {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.welcome-text p {
+    color: var(--text-secondary);
+    font-size: 15px;
+}
+
+.global-stats-summary {
+    display: flex;
+    gap: 16px;
+}
+
+.global-stats-summary .stat-item {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    padding: 14px 20px;
+    border-radius: var(--radius-md);
+    text-align: center;
+    min-width: 110px;
+    backdrop-filter: var(--glass-blur);
+}
+
+.stat-item .stat-num {
+    display: block;
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--primary);
+}
+
+.stat-item .stat-label {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+/* Dashboard Grid Layout */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 24px;
+    margin-bottom: 30px;
+}
+
+.dashboard-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: var(--glass-blur);
+    transition: all var(--transition-normal);
+}
+
+.dashboard-card:hover {
+    transform: translateY(-4px);
+    background-color: var(--bg-card-hover);
+    border-color: var(--border-focus);
+    box-shadow: var(--shadow-md);
+}
+
+.dashboard-card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -50%;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle, rgba(99, 102, 241, 0.05) 0%, rgba(255, 255, 255, 0) 70%);
+    border-radius: var(--radius-full);
+    pointer-events: none;
+}
+
+.dashboard-card.review-card::before {
+    background: radial-gradient(circle, rgba(236, 72, 153, 0.05) 0%, rgba(255, 255, 255, 0) 70%);
+}
+
+.d-card-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+.d-card-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: var(--radius-md);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.d-card-icon i {
+    width: 22px;
+    height: 22px;
+}
+
+.study-icon {
+    background-color: var(--primary-light);
+    color: var(--primary);
+}
+
+.review-icon {
+    background-color: rgba(236, 72, 153, 0.15);
+    color: #ec4899;
+}
+
+.dashboard-card h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.dashboard-card p {
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+    margin-bottom: 24px;
+    flex: 1;
+}
+
+.d-card-status {
+    margin-bottom: 20px;
+}
+
+.status-indicator-badge {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: var(--radius-full);
+    font-size: 12px;
+    font-weight: 600;
+    background-color: var(--bg-input);
+    border: 1px solid var(--border-color);
+}
+
+.status-indicator-badge.due {
+    color: var(--danger);
+    background-color: var(--danger-bg);
+    border-color: var(--danger);
+    animation: pulse-badge 2s infinite alternate;
+}
+
+@keyframes pulse-badge {
+    0% {
+        box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.2);
+    }
+    100% {
+        box-shadow: 0 0 0 8px rgba(239, 68, 68, 0);
+    }
+}
+
+.d-card-btn {
+    background: var(--bg-input);
+    border: 1px solid var(--border-color);
+    outline: none;
+    color: var(--text-primary);
+    padding: 12px 20px;
+    border-radius: var(--radius-md);
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: all var(--transition-fast);
+    width: 100%;
+}
+
+.d-card-btn:hover {
+    background: var(--primary-gradient);
+    color: white;
+    border-color: transparent;
+    box-shadow: var(--shadow-glow);
+    transform: translateY(-1px);
+}
+
+.d-card-btn i {
+    width: 16px;
+    height: 16px;
+    transition: transform var(--transition-fast);
+}
+
+.d-card-btn:hover i {
+    transform: translateX(4px);
+}
+
+/* Info Banner for FSRS */
+.info-banner-fsrs {
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.04) 0%, rgba(22, 30, 49, 0.4) 100%);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    backdrop-filter: var(--glass-blur);
+}
+
+.info-fsrs-icon {
+    width: 44px;
+    height: 44px;
+    background-color: var(--primary-light);
+    color: var(--primary);
+    border-radius: var(--radius-md);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.info-fsrs-icon i {
+    width: 20px;
+    height: 20px;
+}
+
+.info-fsrs-text h4 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: var(--text-primary);
+}
+
+.info-fsrs-text p {
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+}
+

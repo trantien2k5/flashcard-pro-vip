@@ -16,7 +16,17 @@ const CURRENT_CACHES = [SHELL_CACHE, DATA_CACHE, RUNTIME_CACHE];
 const SHELL_ASSETS = [
     './',
     './index.html',
-    './styles.css',
+    './css/base.css',
+    './css/layout.css',
+    './css/home.css',
+    './css/topics.css',
+    './css/flashcard.css',
+    './css/quiz.css',
+    './css/review.css',
+    './css/notebook.css',
+    './css/settings.css',
+    './css/components.css',
+    './css/responsive.css',
     './app.js',
     './manifest.json',
     './icons/icon.svg'

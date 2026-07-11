@@ -1,0 +1,187 @@
+/* TOEIC Vocab Spark - Quiz mode UI + feedback box */
+
+/* Quiz UI Mode Styles */
+.quiz-progress-bar-wrapper {
+    margin-bottom: 20px;
+}
+
+.quiz-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 30px;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    backdrop-filter: var(--glass-blur);
+    box-shadow: var(--shadow-lg);
+}
+
+.quiz-question-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.quiz-badge {
+    background-color: var(--primary-light);
+    color: var(--primary);
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    border-radius: var(--radius-sm);
+    letter-spacing: 0.5px;
+}
+
+.quiz-question {
+    font-size: 38px;
+    font-weight: 800;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.quiz-pronunciation {
+    font-size: 16px;
+    color: var(--text-secondary);
+    margin-bottom: 30px;
+}
+
+.quiz-question-prompt {
+    font-size: 14px;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+    letter-spacing: 0.5px;
+    width: 100%;
+    text-align: left;
+}
+
+.quiz-options {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.option-btn {
+    width: 100%;
+    background-color: var(--bg-input);
+    border: 1px solid var(--border-color);
+    outline: none;
+    padding: 16px 20px;
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.option-btn:hover {
+    background-color: var(--bg-card-hover);
+    border-color: var(--text-secondary);
+}
+
+.option-btn.correct {
+    background-color: var(--success-bg) !important;
+    border-color: var(--success) !important;
+    color: var(--success) !important;
+    font-weight: 700;
+}
+
+.option-btn.correct::after {
+    content: "✓";
+    font-size: 16px;
+}
+
+.option-btn.incorrect {
+    background-color: var(--danger-bg) !important;
+    border-color: var(--danger) !important;
+    color: var(--danger) !important;
+}
+
+.option-btn.incorrect::after {
+    content: "✗";
+    font-size: 16px;
+}
+
+.option-btn.disabled {
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+/* Quiz Feedback Box */
+.quiz-feedback {
+    margin-top: 24px;
+    width: 100%;
+    padding: 16px;
+    border-radius: var(--radius-md);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    animation: slideUp var(--transition-fast) forwards;
+}
+
+.quiz-feedback.correct-feedback {
+    background-color: var(--success-bg);
+    color: var(--success);
+    border: 1px solid var(--success);
+}
+
+.quiz-feedback.incorrect-feedback {
+    background-color: var(--danger-bg);
+    color: var(--danger);
+    border: 1px solid var(--danger);
+}
+
+.feedback-icon i {
+    width: 24px;
+    height: 24px;
+}
+
+.feedback-text {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.quiz-controls {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 16px;
+}
+
+.action-btn {
+    background: var(--primary-gradient);
+    color: white;
+    border: none;
+    outline: none;
+    padding: 12px 24px;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all var(--transition-fast);
+    box-shadow: var(--shadow-sm);
+}
+
+.action-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.action-btn i {
+    width: 18px;
+    height: 18px;
+}

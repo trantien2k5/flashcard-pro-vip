@@ -1,0 +1,404 @@
+/* TOEIC Vocab Spark - Settings tab: card menu, detail panels, controls */
+
+/* Settings View Styles - full-bleed, left-aligned like Home/Topics tabs (no centered boxed column) */
+.settings-container {
+    width: 100%;
+}
+
+/* Settings page intro header - matches Topics view-header / Home welcome-text sizing */
+.settings-page-header {
+    margin-bottom: 24px;
+}
+
+.settings-page-header h2 {
+    font-size: 22px;
+    font-weight: 800;
+    margin-bottom: 6px;
+    color: var(--text-primary);
+}
+
+.settings-page-header p {
+    font-size: 14px;
+    color: var(--text-secondary);
+}
+
+/* Settings Menu Grid */
+.settings-menu-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+}
+
+.settings-menu-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 16px 20px;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    backdrop-filter: var(--glass-blur);
+}
+
+.settings-menu-card:hover {
+    background-color: var(--bg-card-hover);
+    border-color: var(--border-focus);
+    box-shadow: var(--shadow-md);
+}
+
+.settings-menu-card-body {
+    flex: 1;
+    min-width: 0;
+}
+
+.settings-menu-card h3 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    color: var(--text-primary);
+}
+
+.settings-menu-card p {
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.4;
+    margin-bottom: 0;
+}
+
+/* Icon Wrappers with Gradients */
+.menu-icon-wrapper {
+    width: 46px;
+    height: 46px;
+    border-radius: var(--radius-md);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    flex-shrink: 0;
+}
+
+.menu-icon-wrapper i {
+    width: 22px;
+    height: 22px;
+}
+
+.menu-icon-wrapper.study-icon {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    color: #ffffff;
+}
+.menu-icon-wrapper.review-icon {
+    background: linear-gradient(135deg, #ec4899, #be185d);
+    color: #ffffff;
+}
+.menu-icon-wrapper.sound-icon {
+    background: linear-gradient(135deg, #f97316, #c2410c);
+}
+.menu-icon-wrapper.theme-icon {
+    background: linear-gradient(135deg, #8b5cf6, #6d28d9);
+}
+.menu-icon-wrapper.data-icon {
+    background: linear-gradient(135deg, #10b981, #047857);
+}
+.menu-icon-wrapper.info-icon {
+    background: linear-gradient(135deg, #6b7280, #374151);
+}
+
+.settings-menu-arrow {
+    width: 18px;
+    height: 18px;
+    color: var(--text-secondary);
+    transition: transform var(--transition-fast);
+    flex-shrink: 0;
+    margin-top: 4px;
+}
+
+.settings-menu-card:hover .settings-menu-arrow {
+    transform: translateX(4px);
+    color: var(--primary);
+}
+
+/* Settings Detail Panel */
+@keyframes slideInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.settings-detail-panel {
+    animation: slideInLeft var(--transition-normal) forwards;
+}
+
+/* iOS-style nav header: back chevron + inline page title */
+.settings-detail-header {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-bottom: 18px;
+    margin-left: -8px;
+}
+
+.btn-settings-back {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    background: none;
+    border: none;
+    outline: none;
+    color: var(--primary);
+    cursor: pointer;
+    border-radius: var(--radius-full);
+    transition: all var(--transition-fast);
+    flex-shrink: 0;
+}
+
+.btn-settings-back:hover {
+    background-color: rgba(99, 102, 241, 0.08);
+}
+
+.btn-settings-back i {
+    width: 22px;
+    height: 22px;
+}
+
+.settings-detail-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--text-primary);
+}
+
+.settings-detail-title .settings-emoji-icon {
+    font-size: 19px;
+    line-height: 1;
+}
+
+/* Each setting is its own card, laid out in a grid - matches topic-card / settings-menu-card, not one giant box */
+.settings-group {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+}
+
+.setting-row {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 18px;
+    gap: 16px;
+    backdrop-filter: var(--glass-blur);
+    transition: all var(--transition-fast);
+}
+
+.setting-row:hover {
+    border-color: var(--border-focus);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+}
+
+.setting-row.block-row {
+    grid-column: 1 / -1;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.setting-info h4 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.setting-info p {
+    font-size: 13px;
+    color: var(--text-muted);
+    line-height: 1.4;
+}
+
+.warning-text {
+    color: var(--danger) !important;
+}
+
+/* Theme Switcher buttons */
+.theme-switch-wrapper {
+    display: inline-flex;
+    background-color: var(--bg-input);
+    padding: 4px;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border-color);
+}
+
+.theme-btn {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--text-secondary);
+    padding: 8px 16px;
+    border-radius: var(--radius-sm);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all var(--transition-fast);
+}
+
+.theme-btn.active {
+    color: var(--text-primary);
+    background-color: var(--bg-card);
+    box-shadow: var(--shadow-sm);
+}
+
+.theme-btn i {
+    width: 14px;
+    height: 14px;
+}
+
+/* Speech Rate slider */
+.slider-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-width: 180px;
+}
+
+.slider-wrapper input[type="range"] {
+    flex: 1;
+    accent-color: var(--primary);
+    cursor: pointer;
+}
+
+#speech-rate-val {
+    font-size: 13px;
+    font-weight: 700;
+    min-width: 32px;
+    text-align: right;
+}
+
+/* Custom Settings Controls */
+.settings-input-num {
+    width: 80px;
+    background-color: var(--bg-input);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    padding: 8px 12px;
+    border-radius: var(--radius-md);
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    outline: none;
+    transition: all var(--transition-fast);
+}
+
+.settings-input-num:focus {
+    border-color: var(--primary);
+}
+
+.settings-select {
+    background-color: var(--bg-input);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    padding: 8px 12px;
+    border-radius: var(--radius-md);
+    font-size: 13px;
+    font-weight: 600;
+    outline: none;
+    cursor: pointer;
+}
+
+/* Premium iOS Switch Control */
+.switch-control {
+    position: relative;
+    display: inline-block;
+    width: 46px;
+    height: 24px;
+}
+
+.switch-control input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider-switch {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--bg-input);
+    border: 1px solid var(--border-color);
+    transition: .3s;
+    border-radius: 24px;
+}
+
+.slider-switch:before {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    left: 3px;
+    bottom: 3px;
+    background-color: var(--text-secondary);
+    transition: .3s;
+    border-radius: 50%;
+}
+
+.switch-control input:checked + .slider-switch {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.switch-control input:checked + .slider-switch:before {
+    transform: translateX(22px);
+    background-color: white;
+}
+
+.info-val {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--primary);
+}
+
+/* Action row for settings */
+.buttons-row {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+
+.action-btn.secondary {
+    background: var(--bg-input);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+.action-btn.secondary:hover {
+    background-color: var(--border-color);
+}
+
+.action-btn.danger {
+    background: var(--danger-bg);
+    border: 1px solid var(--danger);
+    color: var(--danger);
+}
+
+.action-btn.danger:hover {
+    background: var(--danger);
+    color: white;
+}

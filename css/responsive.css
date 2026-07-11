@@ -1,0 +1,232 @@
+/* TOEIC Vocab Spark - Mobile responsive overrides (<=768px), loaded last so it wins the cascade */
+
+@media (max-width: 768px) {
+    .app-container {
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    .app-sidebar {
+        display: contents;
+    }
+    
+    .logo-area {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        background-color: var(--bg-sidebar);
+        border-bottom: 1px solid var(--border-color);
+        padding: 12px 20px;
+        width: 100%;
+        backdrop-filter: var(--glass-blur);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 60px;
+    }
+    
+    .app-nav {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 100%;
+        height: 68px;
+        border-top: 1px solid var(--border-color);
+        background-color: var(--bg-sidebar);
+        padding: 8px 10px;
+        gap: 0;
+    }
+    
+    .nav-btn {
+        flex-direction: column;
+        gap: 4px;
+        padding: 6px;
+        font-size: 11px;
+        align-items: center;
+        justify-content: center;
+        flex: 1;
+        width: auto;
+        border-radius: var(--radius-sm);
+    }
+    
+    .nav-btn .badge {
+        position: absolute;
+        top: 4px;
+        right: 25%;
+        min-width: 16px;
+        height: 16px;
+        font-size: 9px;
+        padding: 1px 4px;
+    }
+    
+    .app-main {
+        padding: 16px;
+        padding-bottom: 90px;
+        height: auto;
+        overflow-y: visible;
+    }
+
+    .view-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+    
+    .view-header h3 {
+        width: 100%;
+        margin-top: 4px;
+    }
+    
+    .study-mode-selector {
+        width: 100%;
+        display: flex;
+    }
+    
+    .mode-btn {
+        flex: 1;
+        justify-content: center;
+    }
+
+    .flashcard-stage {
+        gap: 0;
+        margin-bottom: 24px;
+    }
+    
+    .welcome-banner {
+        flex-direction: column;
+        padding: 20px;
+        align-items: stretch;
+    }
+    
+    .global-stats-summary {
+        justify-content: space-between;
+    }
+    
+    .global-stats-summary .stat-item {
+        flex: 1;
+    }
+    
+    .flashcard-wrapper {
+        height: 420px;
+    }
+    
+    .card-face {
+        padding: 24px;
+    }
+    
+    .card-word {
+        font-size: 32px;
+    }
+    
+    .quiz-card {
+        padding: 20px;
+    }
+    
+    .quiz-question {
+        font-size: 30px;
+    }
+    
+    .review-stats {
+        grid-template-columns: 1fr;
+    }
+    
+    .buttons-row {
+        flex-direction: column;
+    }
+    
+    .theme-switch-wrapper {
+        width: 100%;
+    }
+    
+    .theme-btn {
+        flex: 1;
+        justify-content: center;
+    }
+
+    .dashboard-grid {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+    
+    .dashboard-card {
+        padding: 20px;
+    }
+    
+    .info-banner-fsrs {
+        flex-direction: column;
+        padding: 20px;
+        gap: 12px;
+    }
+
+    .settings-group {
+        padding: 20px;
+    }
+
+    /* Responsive Fullscreen Focused Study Mode */
+    .app-container.fullscreen-study-mode .logo-area {
+        display: none !important;
+    }
+    .app-container.fullscreen-study-mode .app-nav {
+        display: none !important;
+    }
+    .app-container.fullscreen-study-mode .app-main {
+        padding-bottom: 20px;
+    }
+
+    .notebook-view-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+    }
+
+    .notebook-tab-selectors {
+        width: 100%;
+    }
+
+    .notebook-tab-btn {
+        flex: 1;
+        justify-content: center;
+    }
+
+    .notebook-filters-row {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 16px;
+    }
+
+    .notebook-filters-row .search-box {
+        max-width: 100%;
+    }
+
+    .filter-controls {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .filter-group {
+        justify-content: space-between;
+    }
+
+    .filter-group select {
+        width: 70%;
+    }
+
+    .review-header-row {
+        flex-direction: row;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 16px;
+    }
+
+    .notebook-action-btn span {
+        display: none;
+    }
+
+    .notebook-action-btn {
+        padding: 8px 10px;
+    }
+}
