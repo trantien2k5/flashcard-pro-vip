@@ -1,0 +1,2738 @@
+[
+    {
+        "id": 13049,
+        "word": "second",
+        "pronunciation": "/ˈsɛkɪnd/",
+        "audio": "second.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thứ hai",
+        "definition": "Something that is number two in a series.",
+        "example": "We need to understand the concept of second.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giây.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "second process, key second",
+        "wordFamily": "second (noun)",
+        "image": "second.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13050,
+        "word": "minute",
+        "pronunciation": "/ˈmɪnɪt/",
+        "audio": "minute.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phút",
+        "definition": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
+        "example": "You have twenty minutes to complete the test.",
+        "exampleVi": "Bạn có hai mươi phút để hoàn thành bài kiểm tra.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "minute process, key minute",
+        "wordFamily": "minute (noun)",
+        "image": "minute.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13051,
+        "word": "hour",
+        "pronunciation": "/ˈaʊɚ/",
+        "audio": "hour.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giờ",
+        "definition": "A time period of sixty minutes; one twenty-fourth of a day.",
+        "example": "I spent an hour at lunch.",
+        "exampleVi": "Tôi đã dành một giờ vào bữa trưa.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hour process, key hour",
+        "wordFamily": "hour (noun)",
+        "image": "hour.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13052,
+        "word": "day",
+        "pronunciation": "/deɪ/",
+        "audio": "day.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngày",
+        "definition": "Any period of 24 hours.",
+        "example": "I've been here for two days and a bit.",
+        "exampleVi": "Tôi đã ở đây được hai ngày rưỡi rồi.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "day process, key day",
+        "wordFamily": "day (noun)",
+        "image": "day.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13053,
+        "word": "week",
+        "pronunciation": "/wiːk/",
+        "audio": "week.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuần",
+        "definition": "Any period of seven consecutive days.",
+        "example": "We need to understand the concept of week.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tuần.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "week process, key week",
+        "wordFamily": "week (noun)",
+        "image": "week.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13054,
+        "word": "month",
+        "pronunciation": "/mʌnθ/",
+        "audio": "month.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng",
+        "definition": "A period into which a year is divided, historically based on the phases of the moon.",
+        "example": "July is my favourite month.",
+        "exampleVi": "Tháng bảy là tháng yêu thích của tôi.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "month process, key month",
+        "wordFamily": "month (noun)",
+        "image": "month.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13055,
+        "word": "year",
+        "pronunciation": "/jɪə/",
+        "audio": "year.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "năm",
+        "definition": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+        "example": "we moved to this town a year ago;  I quit smoking exactly one year ago",
+        "exampleVi": "chúng tôi chuyển đến thị trấn này một năm trước;  Tôi đã bỏ thuốc lá đúng một năm trước",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "year process, key year",
+        "wordFamily": "year (noun)",
+        "image": "year.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13056,
+        "word": "decade",
+        "pronunciation": "/dəˈkeɪd/",
+        "audio": "decade.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thập kỷ",
+        "definition": "A group, set, or series of ten , particularly:",
+        "example": "a decade of soldiers",
+        "exampleVi": "một thập kỷ của người lính",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "decade process, key decade",
+        "wordFamily": "decade (noun)",
+        "image": "decade.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13057,
+        "word": "century",
+        "pronunciation": "/ˈsɛn.t͡ʃə.ɹiː/",
+        "audio": "century.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thế kỷ",
+        "definition": "A period of 100 consecutive years; often specifically a numbered period with conventional start and end dates, e.g., the twentieth century, which stretches from (strictly) 1901 through 2000, or (informally) 1900 through 1999. The first century AD was from 1 to 100.",
+        "example": "We need to understand the concept of century.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thế kỷ.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "century process, key century",
+        "wordFamily": "century (noun)",
+        "image": "century.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13058,
+        "word": "morning",
+        "pronunciation": "/ˈmɔːnɪŋ/",
+        "audio": "morning.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi sáng",
+        "definition": "The part of the day from dawn to noon.",
+        "example": "I'll see you tomorrow morning.",
+        "exampleVi": "Tôi sẽ gặp bạn vào sáng mai.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "morning process, key morning",
+        "wordFamily": "morning (noun)",
+        "image": "morning.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13059,
+        "word": "afternoon",
+        "pronunciation": "/af.təɾˈnʉːn/",
+        "audio": "afternoon.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi chiều",
+        "definition": "The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.",
+        "example": "We need to understand the concept of afternoon.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về buổi chiều.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "afternoon process, key afternoon",
+        "wordFamily": "afternoon (noun)",
+        "image": "afternoon.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13060,
+        "word": "evening",
+        "pronunciation": "/ˈivnɪŋ/",
+        "audio": "evening.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi tối",
+        "definition": "The time of the day between dusk and night, when it gets dark.",
+        "example": "We need to understand the concept of evening.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về buổi tối.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "evening process, key evening",
+        "wordFamily": "evening (noun)",
+        "image": "evening.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13061,
+        "word": "night",
+        "pronunciation": "/naɪt/",
+        "audio": "night.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đêm",
+        "definition": "The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.",
+        "example": "How do you sleep at night when you attack your kids like that!?",
+        "exampleVi": "Làm sao bạn có thể ngủ vào ban đêm khi bạn tấn công con bạn như vậy!?",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "night process, key night",
+        "wordFamily": "night (noun)",
+        "image": "night.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13062,
+        "word": "today",
+        "pronunciation": "/təˈdeɪ/",
+        "audio": "today.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Hôm nay",
+        "definition": "A current day or date.",
+        "example": "Today is the day we'll fix this once and for all.",
+        "exampleVi": "Hôm nay là ngày chúng ta sẽ khắc phục điều này một lần và mãi mãi.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "today process, key today",
+        "wordFamily": "today (noun)",
+        "image": "today.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13063,
+        "word": "yesterday",
+        "pronunciation": "/ˈjɛstədeɪ/",
+        "audio": "yesterday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Hôm qua",
+        "definition": "The day immediately before today; one day ago.",
+        "example": "Today is the child of yesterday and the parent of tomorrow.",
+        "exampleVi": "Hôm nay là đứa trẻ của ngày hôm qua và là cha mẹ của ngày mai.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "yesterday process, key yesterday",
+        "wordFamily": "yesterday (noun)",
+        "image": "yesterday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13064,
+        "word": "tomorrow",
+        "pronunciation": "/təˈmɔɹoʊ/",
+        "audio": "tomorrow.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Ngày mai",
+        "definition": "The day after the present day.",
+        "example": "We need to understand the concept of tomorrow.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ngày mai.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tomorrow process, key tomorrow",
+        "wordFamily": "tomorrow (noun)",
+        "image": "tomorrow.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13065,
+        "word": "monday",
+        "pronunciation": "/ˈmʌn.deɪ/",
+        "audio": "monday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Thứ hai",
+        "definition": "the day of the week after Sunday and before Tuesday",
+        "example": "The meeting has been rescheduled to Monday morning.",
+        "exampleVi": "Cuộc họp đã được dời sang sáng thứ Hai.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "monday process, key monday",
+        "wordFamily": "monday (noun)",
+        "image": "monday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13066,
+        "word": "tuesday",
+        "pronunciation": "/ˈtʃuːz.deɪ/",
+        "audio": "tuesday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Thứ ba",
+        "definition": "the day of the week after Monday and before Wednesday",
+        "example": "We usually submit the weekly report on Tuesday.",
+        "exampleVi": "Chúng tôi thường nộp báo cáo hàng tuần vào thứ Ba.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tuesday process, key tuesday",
+        "wordFamily": "tuesday (noun)",
+        "image": "tuesday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13067,
+        "word": "wednesday",
+        "pronunciation": "/ˈwenz.deɪ/",
+        "audio": "wednesday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Thứ Tư",
+        "definition": "the day of the week after Tuesday and before Thursday",
+        "example": "The training session will be held on Wednesday afternoon.",
+        "exampleVi": "Buổi đào tạo sẽ được tổ chức vào chiều thứ Tư.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wednesday process, key wednesday",
+        "wordFamily": "wednesday (noun)",
+        "image": "wednesday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13068,
+        "word": "thursday",
+        "pronunciation": "/ˈθɜːz.deɪ/",
+        "audio": "thursday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thứ năm",
+        "definition": "the day of the week after Wednesday and before Friday",
+        "example": "Our flight departs early on Thursday morning.",
+        "exampleVi": "Chuyến bay của chúng tôi khởi hành sớm vào sáng thứ Năm.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "thursday process, key thursday",
+        "wordFamily": "thursday (noun)",
+        "image": "thursday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13069,
+        "word": "friday",
+        "pronunciation": "/ˈfraɪ.deɪ/",
+        "audio": "friday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Thứ sáu",
+        "definition": "the day of the week after Thursday and before Saturday",
+        "example": "Most employees leave the office early on Friday.",
+        "exampleVi": "Hầu hết nhân viên đều rời văn phòng sớm vào thứ Sáu.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "friday process, key friday",
+        "wordFamily": "friday (noun)",
+        "image": "friday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13070,
+        "word": "saturday",
+        "pronunciation": "/ˈsæt.ə.deɪ/",
+        "audio": "saturday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Thứ bảy",
+        "definition": "the day of the week after Friday and before Sunday",
+        "example": "The store is open until midnight on Saturday.",
+        "exampleVi": "Cửa hàng mở cửa đến nửa đêm vào thứ Bảy.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "saturday process, key saturday",
+        "wordFamily": "saturday (noun)",
+        "image": "saturday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13071,
+        "word": "sunday",
+        "pronunciation": "/ˈsʌn.deɪ/",
+        "audio": "sunday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chủ nhật",
+        "definition": "the day of the week after Saturday and before Monday, considered a day of rest in many cultures",
+        "example": "The office is closed on Sunday.",
+        "exampleVi": "Văn phòng đóng cửa vào Chủ Nhật.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sunday process, key sunday",
+        "wordFamily": "sunday (noun)",
+        "image": "sunday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13072,
+        "word": "january",
+        "pronunciation": "/ˈdʒæn.ju.er.i/",
+        "audio": "january.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng Giêng",
+        "definition": "the first month of the year, in the Gregorian calendar",
+        "example": "The new policy will take effect in January.",
+        "exampleVi": "Chính sách mới sẽ có hiệu lực vào tháng Một.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "january process, key january",
+        "wordFamily": "january (noun)",
+        "image": "january.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13073,
+        "word": "february",
+        "pronunciation": "/ˈfeb.ru.er.i/",
+        "audio": "february.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng 2",
+        "definition": "the second month of the year, in the Gregorian calendar",
+        "example": "Our annual conference is scheduled for February.",
+        "exampleVi": "Hội nghị thường niên của chúng tôi được lên lịch vào tháng Hai.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "february process, key february",
+        "wordFamily": "february (noun)",
+        "image": "february.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13074,
+        "word": "march",
+        "pronunciation": "/mɑːtʃ/",
+        "audio": "march.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bước đều",
+        "definition": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.",
+        "example": "We need to understand the concept of march.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tuần hành.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "march process, key march",
+        "wordFamily": "march (noun)",
+        "image": "march.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13075,
+        "word": "april",
+        "pronunciation": "/ˈeɪ.prəl/",
+        "audio": "april.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng tư",
+        "definition": "the fourth month of the year, in the Gregorian calendar",
+        "example": "The company's fiscal year begins in April.",
+        "exampleVi": "Năm tài chính của công ty bắt đầu vào tháng Tư.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "april process, key april",
+        "wordFamily": "april (noun)",
+        "image": "april.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13076,
+        "word": "may",
+        "pronunciation": "/meɪ/",
+        "audio": "may.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "có thể",
+        "definition": "To be strong; to have power (over).",
+        "example": "We need to understand the concept of may.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tháng năm.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "may process, key may",
+        "wordFamily": "may (verb)",
+        "image": "may.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13077,
+        "word": "june",
+        "pronunciation": "/dʒuːn/",
+        "audio": "june.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng sáu",
+        "definition": "the sixth month of the year, in the Gregorian calendar",
+        "example": "Graduation ceremonies usually take place in June.",
+        "exampleVi": "Lễ tốt nghiệp thường diễn ra vào tháng Sáu.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "june process, key june",
+        "wordFamily": "june (noun)",
+        "image": "june.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13078,
+        "word": "july",
+        "pronunciation": "/dʒʊˈlaɪ/",
+        "audio": "july.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng bảy",
+        "definition": "the seventh month of the year, in the Gregorian calendar",
+        "example": "The factory closes for a two-week holiday in July.",
+        "exampleVi": "Nhà máy đóng cửa nghỉ lễ hai tuần vào tháng Bảy.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "july process, key july",
+        "wordFamily": "july (noun)",
+        "image": "july.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13079,
+        "word": "august",
+        "pronunciation": "/ɔːˈɡʌst/",
+        "audio": "august.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tháng tám",
+        "definition": "Awe-inspiring, majestic, noble, venerable.",
+        "example": "an august patron of the arts",
+        "exampleVi": "một người bảo trợ tháng 8 của nghệ thuật",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "august process, key august",
+        "wordFamily": "august (noun)",
+        "image": "august.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13080,
+        "word": "september",
+        "pronunciation": "/september/",
+        "audio": "september.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng 9",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word september.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tháng chín.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "september process, key september",
+        "wordFamily": "september (noun)",
+        "image": "september.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13081,
+        "word": "october",
+        "pronunciation": "/october/",
+        "audio": "october.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng mười",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word october.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tháng mười.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "october process, key october",
+        "wordFamily": "october (noun)",
+        "image": "october.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13082,
+        "word": "november",
+        "pronunciation": "/november/",
+        "audio": "november.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng mười một",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word november.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tháng 11.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "november process, key november",
+        "wordFamily": "november (noun)",
+        "image": "november.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13083,
+        "word": "december",
+        "pronunciation": "/december/",
+        "audio": "december.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháng 12",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word december.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tháng mười hai.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "december process, key december",
+        "wordFamily": "december (noun)",
+        "image": "december.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13084,
+        "word": "season",
+        "pronunciation": "/ˈsiːzən/",
+        "audio": "season.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mùa",
+        "definition": "Each of the four divisions of a year: spring, summer, autumn (fall) and winter",
+        "example": "We need to understand the concept of season.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mùa.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "season process, key season",
+        "wordFamily": "season (noun)",
+        "image": "season.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13085,
+        "word": "spring",
+        "pronunciation": "/spɹɪŋ/",
+        "audio": "spring.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "mùa xuân",
+        "definition": "To weaken, as a joint, ligament, or muscle, by sudden and excessive exertion, as by wrenching; to overstrain, or stretch injuriously, but without luxation",
+        "example": "to sprain one's ankle",
+        "exampleVi": "bong gân mắt cá chân",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "spring process, key spring",
+        "wordFamily": "spring (noun)",
+        "image": "spring.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13086,
+        "word": "summer",
+        "pronunciation": "/ˈsʌmə(ɹ)/",
+        "audio": "summer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mùa hè",
+        "definition": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag. Typically regarded as being from June 21 to September 22 or 23 in parts of the USA, the months of June, July and August in the United Kingdom and the months of December, January and February in the Southern Hemisphere.",
+        "example": "the heat of summer",
+        "exampleVi": "cái nóng của mùa hè",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "summer process, key summer",
+        "wordFamily": "summer (noun)",
+        "image": "summer.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13087,
+        "word": "autumn",
+        "pronunciation": "/ˈɔːtəm/",
+        "audio": "autumn.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mùa thu",
+        "definition": "Traditionally the third of the four seasons, when deciduous trees lose their leaves; typically regarded as being from September 24 to December 22 in parts of the Northern Hemisphere, and the months of March, April and May in the Southern Hemisphere.",
+        "example": "We need to understand the concept of autumn.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mùa thu.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "autumn process, key autumn",
+        "wordFamily": "autumn (noun)",
+        "image": "autumn.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13088,
+        "word": "winter",
+        "pronunciation": "/ˈwɪntɚ/",
+        "audio": "winter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mùa đông",
+        "definition": "Traditionally the fourth of the four seasons, typically regarded as being from December 23 to March 20 in continental regions of the Northern Hemisphere or the months of June, July and August in the Southern Hemisphere. It is the time when the sun is lowest in the sky, resulting in short days, and the time of year with the lowest atmospheric temperatures for the region.",
+        "example": "We need to understand the concept of winter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mùa đông.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "winter process, key winter",
+        "wordFamily": "winter (noun)",
+        "image": "winter.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13089,
+        "word": "clock",
+        "pronunciation": "/klɒk/",
+        "audio": "clock.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái đồng hồ",
+        "definition": "An instrument used to measure or keep track of time; a non-portable timepiece.",
+        "example": "We need to understand the concept of clock.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đồng hồ.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "clock process, key clock",
+        "wordFamily": "clock (noun)",
+        "image": "clock.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13090,
+        "word": "watch",
+        "pronunciation": "/wɒt͡ʃ/",
+        "audio": "watch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồng hồ ",
+        "definition": "A portable or wearable timepiece.",
+        "example": "More people today carry a watch on their wrists than in their pockets.",
+        "exampleVi": "Ngày nay nhiều người đeo đồng hồ trên cổ tay hơn là để trong túi.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "watch process, key watch",
+        "wordFamily": "watch (noun)",
+        "image": "watch.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13091,
+        "word": "calendar",
+        "pronunciation": "/ˈkæl.ən.də/",
+        "audio": "calendar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch",
+        "definition": "Any system by which time is divided into days, weeks, months, and years.",
+        "example": "The three principal calendars are the Gregorian, Jewish, and Islamic calendars.",
+        "exampleVi": "Ba loại lịch chính là lịch Gregorian, lịch Do Thái và lịch Hồi giáo.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "calendar process, key calendar",
+        "wordFamily": "calendar (noun)",
+        "image": "calendar.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13092,
+        "word": "schedule",
+        "pronunciation": "/ˈskɛ.dʒu.əl/",
+        "audio": "schedule.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch trình",
+        "definition": "A slip of paper; a short note.",
+        "example": "We need to understand the concept of schedule.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lịch trình.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "schedule process, key schedule",
+        "wordFamily": "schedule (noun)",
+        "image": "schedule.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13093,
+        "word": "appointment",
+        "pronunciation": "/əˈpɔɪnt.mɛnt/",
+        "audio": "appointment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc hẹn",
+        "definition": "The act of appointing a person to hold an office or to have a position of trust",
+        "example": "His appointment was deemed suitable",
+        "exampleVi": "Việc bổ nhiệm ông được cho là phù hợp",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "appointment process, key appointment",
+        "wordFamily": "appointment (noun)",
+        "image": "appointment.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13094,
+        "word": "date",
+        "pronunciation": "/deɪt/",
+        "audio": "date.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngày",
+        "definition": "The fruit of the date palm, Phoenix dactylifera, somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel.",
+        "example": "We made a nice cake from dates.",
+        "exampleVi": "Chúng tôi đã làm một chiếc bánh rất ngon từ quả chà là.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "date process, key date",
+        "wordFamily": "date (noun)",
+        "image": "date.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13095,
+        "word": "holiday",
+        "pronunciation": "/ˈhɒlɪdeɪ/",
+        "audio": "holiday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngày lễ",
+        "definition": "A day on which a festival, religious event, or national celebration is traditionally observed.",
+        "example": "Today is a Wiccan holiday!",
+        "exampleVi": "Hôm nay là ngày lễ Wiccan!",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "holiday process, key holiday",
+        "wordFamily": "holiday (noun)",
+        "image": "holiday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13096,
+        "word": "weekend",
+        "pronunciation": "/wiːˈkɛnd/",
+        "audio": "weekend.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngày cuối tuần",
+        "definition": "The break in the working week, usually two days including the traditional holy or sabbath day. Thus in western countries, Saturday and Sunday.",
+        "example": "We need to understand the concept of weekend.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cuối tuần.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "weekend process, key weekend",
+        "wordFamily": "weekend (noun)",
+        "image": "weekend.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13097,
+        "word": "weekday",
+        "pronunciation": "/ˈwiːkdeɪ/",
+        "audio": "weekday.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngày trong tuần",
+        "definition": "A day of the week except those which form the weekend; that is:",
+        "example": "We need to understand the concept of weekday.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ngày trong tuần.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "weekday process, key weekday",
+        "wordFamily": "weekday (noun)",
+        "image": "weekday.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13098,
+        "word": "timezone",
+        "pronunciation": "/timezone/",
+        "audio": "timezone.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "múi giờ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word timezone.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ múi giờ.",
+        "topic": "Time Calendar",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "timezone process, key timezone",
+        "wordFamily": "timezone (noun)",
+        "image": "timezone.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "deadline",
+        "pronunciation": "/ˈdɛd.laɪn/",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời hạn",
+        "definition": "A specific time or date by which something must be completed.",
+        "example": "The project deadline is set for the end of the month.",
+        "exampleVi": "Thời hạn dự án được đặt vào cuối tháng.",
+        "collocations": "strict deadline, project deadline, meet a deadline",
+        "wordFamily": "deadlines",
+        "id": 13099,
+        "audio": "deadline.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "deadline.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "duration",
+        "pronunciation": "/djʊˈreɪ.ʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời gian kéo dài",
+        "definition": "The length of time that something lasts.",
+        "example": "The duration of the meeting will be two hours.",
+        "exampleVi": "Thời gian kéo dài của cuộc họp sẽ là hai giờ.",
+        "collocations": "short duration, long duration, duration of time",
+        "wordFamily": "durational",
+        "id": 13100,
+        "audio": "duration.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "duration.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "interval",
+        "pronunciation": "/ˈɪn.tə.vəl/",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoảng thời gian",
+        "definition": "A period of time between two events.",
+        "example": "We will take a short interval after the presentation.",
+        "exampleVi": "Chúng ta sẽ nghỉ một khoảng thời gian ngắn sau buổi thuyết trình.",
+        "collocations": "regular interval, time interval, interval of time",
+        "wordFamily": "intervals",
+        "id": 13101,
+        "audio": "interval.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "interval.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "timeline",
+        "pronunciation": "/ˈtaɪm.laɪn/",
+        "partOfSpeech": "noun",
+        "vietnamese": "dòng thời gian",
+        "definition": "A graphical representation of a chronological sequence of events.",
+        "example": "The timeline for the project outlines all key milestones.",
+        "exampleVi": "Dòng thời gian cho dự án phác thảo tất cả các cột mốc quan trọng.",
+        "collocations": "project timeline, create a timeline, timeline of events",
+        "wordFamily": "timelines",
+        "id": 13102,
+        "audio": "timeline.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "timeline.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "frequency",
+        "pronunciation": "/ˈfriː.kwən.si/",
+        "partOfSpeech": "noun",
+        "vietnamese": "tần suất",
+        "definition": "The rate at which something occurs over a particular period.",
+        "example": "We need to assess the frequency of our team meetings.",
+        "exampleVi": "Chúng ta cần đánh giá tần suất của các cuộc họp nhóm.",
+        "collocations": "high frequency, low frequency, frequency of occurrence",
+        "wordFamily": "frequent, frequently",
+        "id": 13103,
+        "audio": "frequency.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "frequency.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "chronology",
+        "pronunciation": "/krəˈnɒl.ə.dʒi/",
+        "partOfSpeech": "noun",
+        "vietnamese": "niên đại học",
+        "definition": "The arrangement of events or dates in the order of their occurrence.",
+        "example": "The chronology of the events will help us understand the timeline better.",
+        "exampleVi": "Niên đại học của các sự kiện sẽ giúp chúng ta hiểu rõ hơn về dòng thời gian.",
+        "collocations": "historical chronology, chronological order, establish chronology",
+        "wordFamily": "chronological",
+        "id": 13104,
+        "audio": "chronology.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "chronology.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "milestone",
+        "pronunciation": "/ˈmaɪl.stoʊn/",
+        "partOfSpeech": "noun",
+        "vietnamese": "cột mốc",
+        "definition": "An important event or point in a process.",
+        "example": "Reaching this milestone is crucial for the project's success.",
+        "exampleVi": "Đạt được cột mốc này là rất quan trọng cho sự thành công của dự án.",
+        "collocations": "key milestone, significant milestone, project milestone",
+        "wordFamily": "milestones",
+        "id": 13105,
+        "audio": "milestone.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "milestone.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "synchronize",
+        "pronunciation": "/ˈsɪŋ.krə.naɪz/",
+        "partOfSpeech": "verb",
+        "vietnamese": "đồng bộ hóa",
+        "definition": "To cause to occur or operate at the same time or rate.",
+        "example": "We need to synchronize our schedules for the upcoming conference.",
+        "exampleVi": "Chúng ta cần đồng bộ hóa lịch trình của mình cho hội nghị sắp tới.",
+        "collocations": "synchronize schedules, synchronize clocks, synchronize activities",
+        "wordFamily": "synchronization",
+        "id": 13106,
+        "audio": "synchronize.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "synchronize.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "anticipate",
+        "pronunciation": "/ænˈtɪs.ɪ.peɪt/",
+        "partOfSpeech": "verb",
+        "vietnamese": "dự đoán",
+        "definition": "To expect or predict something will happen.",
+        "example": "We anticipate the project will be completed ahead of schedule.",
+        "exampleVi": "Chúng tôi dự đoán rằng dự án sẽ hoàn thành trước thời hạn.",
+        "collocations": "anticipate challenges, anticipate results, anticipate changes",
+        "wordFamily": "anticipation",
+        "id": 13107,
+        "audio": "anticipate.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "anticipate.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "quarter",
+        "pronunciation": "/ˈkwɔːrtər/",
+        "partOfSpeech": "noun",
+        "vietnamese": "quý",
+        "definition": "a period of three months in a financial year.",
+        "example": "The company reported a significant increase in profits for the last quarter.",
+        "exampleVi": "Công ty đã báo cáo sự gia tăng đáng kể về lợi nhuận trong quý vừa qua.",
+        "collocations": "fiscal quarter, quarterly report, first quarter",
+        "wordFamily": "quarters, quarterly",
+        "id": 13108,
+        "audio": "quarter.mp3",
+        "topic": "Time & Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "quarter.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13109,
+        "word": "timetable",
+        "pronunciation": "/ˈtaɪmˌteɪbəl/",
+        "audio": "timetable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời gian biểu",
+        "definition": "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "example": "The timetable has been changed several times since it was first announced.",
+        "exampleVi": "Lịch trình đã được thay đổi nhiều lần kể từ lần đầu tiên được công bố.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "timetable process, key timetable",
+        "wordFamily": "timetable (noun)",
+        "image": "timetable.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13110,
+        "word": "alarm",
+        "pronunciation": "/əˈlɑːm/",
+        "audio": "alarm.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "báo thức",
+        "definition": "A summons to arms, as on the approach of an enemy.",
+        "example": "We need to understand the concept of alarm.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm báo động.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "alarm process, key alarm",
+        "wordFamily": "alarm (noun)",
+        "image": "alarm.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13111,
+        "word": "period",
+        "pronunciation": "/ˈpɪəɹɪəd/",
+        "audio": "period.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoảng thời gian",
+        "definition": "A length of time.",
+        "example": "There was a period of confusion following the announcement.",
+        "exampleVi": "Có một khoảng thời gian bối rối sau thông báo.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "period process, key period",
+        "wordFamily": "period (noun)",
+        "image": "period.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13112,
+        "word": "agenda",
+        "pronunciation": "/əˈdʒɛn.də/",
+        "audio": "agenda.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chương trình nghị sự",
+        "definition": "A temporally organized plan for matters to be attended to.",
+        "example": "We need to understand the concept of agenda.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chương trình nghị sự.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "agenda process, key agenda",
+        "wordFamily": "agenda (noun)",
+        "image": "agenda.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13113,
+        "word": "term",
+        "pronunciation": "/tɜːm/",
+        "audio": "term.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuật ngữ",
+        "definition": "That which limits the extent of anything; limit, extremity, bound, boundary.",
+        "example": "\"Alright, look...we can spend the holidays with your parents, but this time it will be on my terms.\"",
+        "exampleVi": "\"Được rồi, nghe này...chúng ta có thể dành kỳ nghỉ với bố mẹ cậu, nhưng lần này sẽ theo điều kiện của tôi.\"",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "term process, key term",
+        "wordFamily": "term (noun)",
+        "image": "term.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13114,
+        "word": "era",
+        "pronunciation": "/ˈɪə̯ɹ.ə/",
+        "audio": "era.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời đại",
+        "definition": "A time period of indeterminate length, generally more than one year.",
+        "example": "We need to understand the concept of era.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thời đại.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "era process, key era",
+        "wordFamily": "era (noun)",
+        "image": "era.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13115,
+        "word": "stopwatch",
+        "pronunciation": "/stopwatch/",
+        "audio": "stopwatch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồng hồ bấm giờ",
+        "definition": "A timepiece designed to measure the amount of time elapsed from a particular time when activated and when the piece is deactivated.",
+        "example": "We need to understand the concept of stopwatch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đồng hồ bấm giờ.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stopwatch process, key stopwatch",
+        "wordFamily": "stopwatch (noun)",
+        "image": "stopwatch.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13116,
+        "word": "span",
+        "pronunciation": "/spæn/",
+        "audio": "span.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoảng thời gian",
+        "definition": "The space from the thumb to the end of the little finger when extended; nine inches; an eighth of a fathom.",
+        "example": "We need to understand the concept of span.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về nhịp.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "span process, key span",
+        "wordFamily": "span (noun)",
+        "image": "span.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13117,
+        "word": "semester",
+        "pronunciation": "/sɪˈmɛstə/",
+        "audio": "semester.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học kỳ",
+        "definition": "Half of a school year or academic year such as fall or spring semester.",
+        "example": "We need to understand the concept of semester.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm học kỳ.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "semester process, key semester",
+        "wordFamily": "semester (noun)",
+        "image": "semester.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13118,
+        "word": "timer",
+        "pronunciation": "/ˈtaɪmɚ/",
+        "audio": "timer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hẹn giờ",
+        "definition": "Someone or something which times.",
+        "example": "We need to understand the concept of timer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bộ đếm thời gian.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "timer process, key timer",
+        "wordFamily": "timer (noun)",
+        "image": "timer.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13119,
+        "word": "millisecond",
+        "pronunciation": "/ˈmɪlɪˌsɛkənd/",
+        "audio": "millisecond.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mili giây",
+        "definition": "One one-thousandth of a second. Symbol: ms.",
+        "example": "We need to understand the concept of millisecond.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mili giây.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "millisecond process, key millisecond",
+        "wordFamily": "millisecond (noun)",
+        "image": "millisecond.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13120,
+        "word": "epoch",
+        "pronunciation": "/ˈiːˌpɒk/",
+        "audio": "epoch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "epoch",
+        "definition": "A particular period of history, especially one considered noteworthy or remarkable.",
+        "example": "We need to understand the concept of epoch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thời đại.",
+        "topic": "Time Calendar",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "epoch process, key epoch",
+        "wordFamily": "epoch (noun)",
+        "image": "epoch.webp",
+        "tags": [
+            "time",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

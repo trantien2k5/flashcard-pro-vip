@@ -1,0 +1,1826 @@
+[
+    {
+        "id": 12164,
+        "word": "law",
+        "pronunciation": "/lɔː/",
+        "audio": "law.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "pháp luật",
+        "definition": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
+        "example": "entrapment is against the law",
+        "exampleVi": "bắt giữ là vi phạm pháp luật",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "law process, key law",
+        "wordFamily": "law (noun)",
+        "image": "law.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12165,
+        "word": "legal",
+        "pronunciation": "/ˈliː.ɡəl/",
+        "audio": "legal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hợp pháp",
+        "definition": "The legal department of a company.",
+        "example": "Legal wants this in writing.",
+        "exampleVi": "Pháp lý muốn điều này bằng văn bản.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "legal process, key legal",
+        "wordFamily": "legal (noun)",
+        "image": "legal.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12166,
+        "word": "illegal",
+        "pronunciation": "/ɪˈliːɡəl/",
+        "audio": "illegal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bất hợp pháp",
+        "definition": "An illegal act or technique.",
+        "example": "We need to understand the concept of illegal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bất hợp pháp.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "illegal process, key illegal",
+        "wordFamily": "illegal (noun)",
+        "image": "illegal.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12167,
+        "word": "lawyer",
+        "pronunciation": "/ˈlɔɪ.ə(ɹ)/",
+        "audio": "lawyer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "luật sư",
+        "definition": "A professional person qualified (as by a law degree or bar exam) and authorized to practice law, i.e. represent parties in lawsuits or trials and give legal advice.",
+        "example": "A lawyer's time and advice are his stock in trade. - aphorism often credited to Abraham Lincoln, but without attestation",
+        "exampleVi": "Thời gian và lời khuyên của một luật sư là cổ phiếu của anh ta trong giao dịch. - câu cách ngôn thường được cho là của Abraham Lincoln, nhưng không có sự chứng thực",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lawyer process, key lawyer",
+        "wordFamily": "lawyer (noun)",
+        "image": "lawyer.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12168,
+        "word": "attorney",
+        "pronunciation": "/əˈtɜː(ɹ)ni/",
+        "audio": "attorney.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "luật sư",
+        "definition": "A lawyer; one who advises or represents others in legal matters as a profession.",
+        "example": "We need to understand the concept of attorney.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm luật sư.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "attorney process, key attorney",
+        "wordFamily": "attorney (noun)",
+        "image": "attorney.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12169,
+        "word": "court",
+        "pronunciation": "/kɔːt/",
+        "audio": "court.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tòa án",
+        "definition": "An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.",
+        "example": "The girls were playing in the court.",
+        "exampleVi": "Các cô gái đang chơi ở sân.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "court process, key court",
+        "wordFamily": "court (noun)",
+        "image": "court.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12170,
+        "word": "judge",
+        "pronunciation": "/d͡ʒʌd͡ʒ/",
+        "audio": "judge.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phán xét",
+        "definition": "A public official whose duty it is to administer the law, especially by presiding over trials and rendering judgments; a justice.",
+        "example": "We need to understand the concept of judge.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thẩm phán.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "judge process, key judge",
+        "wordFamily": "judge (noun)",
+        "image": "judge.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12171,
+        "word": "jury",
+        "pronunciation": "/ˈd͡ʒʊə.ɹi/",
+        "audio": "jury.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bồi thẩm đoàn",
+        "definition": "A group of individuals chosen from the general population to hear and decide a case in a court of law.",
+        "example": "We need to understand the concept of jury.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bồi thẩm đoàn.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "jury process, key jury",
+        "wordFamily": "jury (noun)",
+        "image": "jury.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12172,
+        "word": "trial",
+        "pronunciation": "/ˈtɹaɪəl/",
+        "audio": "trial.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự thử nghiệm",
+        "definition": "An opportunity to test something out; a test.",
+        "example": "They will perform the trials for the new equipment next week.",
+        "exampleVi": "Họ sẽ tiến hành thử nghiệm thiết bị mới vào tuần tới.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "trial process, key trial",
+        "wordFamily": "trial (noun)",
+        "image": "trial.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12173,
+        "word": "case",
+        "pronunciation": "/keɪs/",
+        "audio": "case.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trường hợp",
+        "definition": "An actual event, situation, or fact.",
+        "example": "For a change, in this case, he was telling the truth.",
+        "exampleVi": "Để thay đổi, trong trường hợp này, anh ấy đã nói sự thật.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "case process, key case",
+        "wordFamily": "case (noun)",
+        "image": "case.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12174,
+        "word": "suit",
+        "pronunciation": "/s(j)uːt/",
+        "audio": "suit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bộ đồ",
+        "definition": "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "example": "Nick hired a navy-blue suit for the wedding.",
+        "exampleVi": "Nick đã thuê một bộ đồ màu xanh nước biển cho đám cưới.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "suit process, key suit",
+        "wordFamily": "suit (noun)",
+        "image": "suit.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12175,
+        "word": "sue",
+        "pronunciation": "/suː/",
+        "audio": "sue.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kiện",
+        "definition": "To file a legal action against someone, generally a non-criminal action.",
+        "example": "We need to understand the concept of sue.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiện tụng.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sue process, key sue",
+        "wordFamily": "sue (verb)",
+        "image": "sue.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12176,
+        "word": "evidence",
+        "pronunciation": "[ˈɛvəɾəns]",
+        "audio": "evidence.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chứng cớ",
+        "definition": "Facts or observations presented in support of an assertion.",
+        "example": "There is no evidence that anyone was here earlier.",
+        "exampleVi": "Không có bằng chứng nào cho thấy có người đã ở đây trước đó.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "evidence process, key evidence",
+        "wordFamily": "evidence (noun)",
+        "image": "evidence.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12177,
+        "word": "witness",
+        "pronunciation": "/ˈwɪtnəs/",
+        "audio": "witness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân chứng",
+        "definition": "Attestation of a fact or event; testimony.",
+        "example": "She can bear witness, since she was there at the time.",
+        "exampleVi": "Cô ấy có thể làm chứng vì cô ấy đã ở đó vào thời điểm đó.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "witness process, key witness",
+        "wordFamily": "witness (noun)",
+        "image": "witness.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12178,
+        "word": "testimony",
+        "pronunciation": "/ˈtɛstɪməni/",
+        "audio": "testimony.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lời khai",
+        "definition": "Statements made by a witness in court.",
+        "example": "We need to understand the concept of testimony.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lời chứng.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "testimony process, key testimony",
+        "wordFamily": "testimony (noun)",
+        "image": "testimony.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12179,
+        "word": "verdict",
+        "pronunciation": "/ˈvɝ.dɪkt/",
+        "audio": "verdict.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phán quyết",
+        "definition": "A decision on an issue of fact in a civil or criminal case or an inquest.",
+        "example": "The jury returned a “not guilty” verdict.",
+        "exampleVi": "Bồi thẩm đoàn đã đưa ra phán quyết \"không có tội\".",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "verdict process, key verdict",
+        "wordFamily": "verdict (noun)",
+        "image": "verdict.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12180,
+        "word": "sentence",
+        "pronunciation": "[ˈsɛntn̩t͡s]",
+        "audio": "sentence.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "câu",
+        "definition": "The decision or judgement of a jury or court; a verdict.",
+        "example": "The court returned a sentence of guilt in the first charge, but innocence in the second.",
+        "exampleVi": "Tòa tuyên án có tội ở cáo buộc đầu tiên nhưng vô tội ở cáo buộc thứ hai.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sentence process, key sentence",
+        "wordFamily": "sentence (noun)",
+        "image": "sentence.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12181,
+        "word": "prison",
+        "pronunciation": "/ˈpɹɪzən/",
+        "audio": "prison.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà tù",
+        "definition": "A place or institution of confinement, especially of long-term confinement for those convicted of serious crimes or otherwise considered undesirable by the government.",
+        "example": "The cold stone walls of the prison had stood for over a century.",
+        "exampleVi": "Những bức tường đá lạnh lẽo của nhà tù đã tồn tại hơn một thế kỷ.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "prison process, key prison",
+        "wordFamily": "prison (noun)",
+        "image": "prison.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12182,
+        "word": "jail",
+        "pronunciation": "/dʒeɪl/",
+        "audio": "jail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà tù",
+        "definition": "A place or institution for the confinement of persons held in lawful custody or detention, especially for minor offenses or with reference to some future judicial proceeding.",
+        "example": "We need to understand the concept of jail.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà tù.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "jail process, key jail",
+        "wordFamily": "jail (noun)",
+        "image": "jail.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12183,
+        "word": "crime",
+        "pronunciation": "/kɹaɪm/",
+        "audio": "crime.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tội phạm",
+        "definition": "A specific act committed in violation of the law.",
+        "example": "We need to understand the concept of crime.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tội phạm.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "crime process, key crime",
+        "wordFamily": "crime (noun)",
+        "image": "crime.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12184,
+        "word": "statute",
+        "pronunciation": "/ˈstætʃuːt/",
+        "audio": "statute.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quy chế",
+        "definition": "Written law, as laid down by the legislature.",
+        "example": "We need to understand the concept of statute.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm pháp luật.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "statute process, key statute",
+        "wordFamily": "statute (noun)",
+        "image": "statute.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12185,
+        "word": "regulation",
+        "pronunciation": "/ˌɹɛɡjʊˈleɪʃən/",
+        "audio": "regulation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quy định",
+        "definition": "The act of regulating or the condition of being regulated.",
+        "example": "We need to understand the concept of regulation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm điều chỉnh.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "regulation process, key regulation",
+        "wordFamily": "regulation (noun)",
+        "image": "regulation.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12186,
+        "word": "code",
+        "pronunciation": "/kəʊd/",
+        "audio": "code.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mã số",
+        "definition": "A short symbol, often with little relation to the item it represents.",
+        "example": "This flavour of soup has been assigned the code WRT-9.",
+        "exampleVi": "Hương vị súp này đã được gán mã WRT-9.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "code process, key code",
+        "wordFamily": "code (noun)",
+        "image": "code.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12187,
+        "word": "rights",
+        "pronunciation": "/ɹaɪts/",
+        "audio": "rights.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quyền",
+        "definition": "That which complies with justice, law or reason.",
+        "example": "We're on the side of right in this contest.",
+        "exampleVi": "Chúng tôi đứng về phía bên phải trong cuộc thi này.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rights process, key rights",
+        "wordFamily": "rights (noun)",
+        "image": "rights.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12188,
+        "word": "justice",
+        "pronunciation": "/ˈdʒʌs.tɪs/",
+        "audio": "justice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công lý",
+        "definition": "The state or characteristic of being just or fair.",
+        "example": "the justice of a description",
+        "exampleVi": "sự công bằng của một mô tả",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "justice process, key justice",
+        "wordFamily": "justice (noun)",
+        "image": "justice.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12189,
+        "word": "defense",
+        "pronunciation": "/dɪˈfɛns/",
+        "audio": "defense.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng thủ",
+        "definition": "The action of defending or protecting from attack, danger, or injury.",
+        "example": "We need to understand the concept of defense.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phòng thủ.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "defense process, key defense",
+        "wordFamily": "defense (noun)",
+        "image": "defense.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12190,
+        "word": "prosecution",
+        "pronunciation": "/ˌpɹɑ.səˈkju.ʃən/",
+        "audio": "prosecution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "truy tố",
+        "definition": "The act of prosecuting a scheme or endeavor.",
+        "example": "The prosecution of the war fell to Winston Churchill.",
+        "exampleVi": "Việc truy tố chiến tranh rơi vào tay Winston Churchill.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "prosecution process, key prosecution",
+        "wordFamily": "prosecution (noun)",
+        "image": "prosecution.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12191,
+        "word": "appeal",
+        "pronunciation": "/əˈpiːl/",
+        "audio": "appeal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bắt mắt",
+        "definition": "An application for the removal of a cause or suit from an inferior to a superior judge or court for re-examination or review.",
+        "example": "We need to understand the concept of appeal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kháng cáo.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "appeal process, key appeal",
+        "wordFamily": "appeal (noun)",
+        "image": "appeal.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12192,
+        "word": "client",
+        "pronunciation": "/ˈklʌɪənt/",
+        "audio": "client.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A customer, a buyer or receiver of goods or services.",
+        "example": "We need to understand the concept of client.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khách hàng.",
+        "topic": "Legal",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "client process, key client",
+        "wordFamily": "client (noun)",
+        "image": "client.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12193,
+        "word": "lawsuit",
+        "pronunciation": "/ˈlɔˌs(j)ut/",
+        "audio": "lawsuit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vụ kiện",
+        "definition": "In civil law, a case where two or more people disagree and one or more of the parties take the case to a court for resolution.",
+        "example": "The lawyer advised his client against filing a lawsuit as it would take a lot of time and money to resolve.",
+        "exampleVi": "Luật sư khuyên khách hàng của mình không nên khởi kiện vì việc giải quyết sẽ tốn rất nhiều thời gian và tiền bạc.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "lawsuit process, key lawsuit",
+        "wordFamily": "lawsuit (noun)",
+        "image": "lawsuit.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12194,
+        "word": "arbitration",
+        "pronunciation": "/ˌɑː.bɪˈtɹeɪ.ʃən/",
+        "audio": "arbitration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trọng tài",
+        "definition": "The act or process of arbitrating.",
+        "example": "We need to understand the concept of arbitration.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trọng tài.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "arbitration process, key arbitration",
+        "wordFamily": "arbitration (noun)",
+        "image": "arbitration.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12195,
+        "word": "ordinance",
+        "pronunciation": "/ˈɔːd.nənts/",
+        "audio": "ordinance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "pháp lệnh",
+        "definition": "A local law",
+        "example": "We need to understand the concept of ordinance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm pháp lệnh.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ordinance process, key ordinance",
+        "wordFamily": "ordinance (noun)",
+        "image": "ordinance.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12196,
+        "word": "plaintiff",
+        "pronunciation": "/ˈpleɪntɪf/",
+        "audio": "plaintiff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nguyên đơn",
+        "definition": "A party bringing a suit in civil law against a defendant; accusers.",
+        "example": "We need to understand the concept of plaintiff.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nguyên đơn.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "plaintiff process, key plaintiff",
+        "wordFamily": "plaintiff (noun)",
+        "image": "plaintiff.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12197,
+        "word": "counsel",
+        "pronunciation": "/ˈkaʊn.səl/",
+        "audio": "counsel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cố vấn",
+        "definition": "The exchange of opinions and advice especially in legal issues; consultation.",
+        "example": "We need to understand the concept of counsel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tư vấn.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "counsel process, key counsel",
+        "wordFamily": "counsel (noun)",
+        "image": "counsel.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12198,
+        "word": "defendant",
+        "pronunciation": "/dɪˈfɛnd.ənt/",
+        "audio": "defendant.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "bị đơn",
+        "definition": "Serving, or suitable, for defense; defensive, defending.",
+        "example": "We need to understand the concept of defendant.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bị cáo.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "defendant process, key defendant",
+        "wordFamily": "defendant (noun)",
+        "image": "defendant.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12199,
+        "word": "judgment",
+        "pronunciation": "/ˈdʒʌdʒ.mənt/",
+        "audio": "judgment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phán quyết",
+        "definition": "The act of judging.",
+        "example": "We need to understand the concept of judgment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phán xét.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "judgment process, key judgment",
+        "wordFamily": "judgment (noun)",
+        "image": "judgment.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12200,
+        "word": "constitution",
+        "pronunciation": "/ˌkɒnstɪˈtjuːʃən/",
+        "audio": "constitution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiến pháp",
+        "definition": "The act, or process of setting something up, or establishing something; the composition or structure of such a thing; its makeup.",
+        "example": "We need to understand the concept of constitution.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hiến pháp.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "constitution process, key constitution",
+        "wordFamily": "constitution (noun)",
+        "image": "constitution.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12201,
+        "word": "litigation",
+        "pronunciation": "/ˌlɪtəˈɡeɪʃən/",
+        "audio": "litigation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiện tụng",
+        "definition": "The conduct of a lawsuit.",
+        "example": "That attorney has been chastised for his litigation behavior.",
+        "exampleVi": "Luật sư đó đã bị trừng phạt vì hành vi kiện tụng của mình.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "litigation process, key litigation",
+        "wordFamily": "litigation (noun)",
+        "image": "litigation.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12202,
+        "word": "exhibit",
+        "pronunciation": "/ɛɡ-/",
+        "audio": "exhibit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "triển lãm",
+        "definition": "An instance of exhibiting.",
+        "example": "We need to understand the concept of exhibit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm triển lãm.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "exhibit process, key exhibit",
+        "wordFamily": "exhibit (noun)",
+        "image": "exhibit.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12203,
+        "word": "proceeding",
+        "pronunciation": "/pɹəˈsiːdɪŋ/",
+        "audio": "proceeding.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thủ tục tố tụng",
+        "definition": "To move, pass, or go forward or onward; to advance; to carry on",
+        "example": "To proceed on a journey.",
+        "exampleVi": "Để tiếp tục một cuộc hành trình.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "proceeding process, key proceeding",
+        "wordFamily": "proceeding (noun)",
+        "image": "proceeding.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12204,
+        "word": "hearing",
+        "pronunciation": "/ˈhiːɹ.ɪŋ/",
+        "audio": "hearing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "điều trần",
+        "definition": "(stative) To perceive sounds through the ear.",
+        "example": "I was deaf, and now I can hear.",
+        "exampleVi": "Tôi đã bị điếc và bây giờ tôi có thể nghe được.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hearing process, key hearing",
+        "wordFamily": "hearing (noun)",
+        "image": "hearing.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12205,
+        "word": "notary",
+        "pronunciation": "/notary/",
+        "audio": "notary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công chứng viên",
+        "definition": "A lawyer of noncontentious private civil law who drafts, takes, and records legal instruments for private parties, and provides legal advice, but does not appear in court on clients' behalf.",
+        "example": "We need to understand the concept of notary.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công chứng.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "notary process, key notary",
+        "wordFamily": "notary (noun)",
+        "image": "notary.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12206,
+        "word": "expert",
+        "pronunciation": "/ˈɛkspəːt/",
+        "audio": "expert.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyên gia",
+        "definition": "A person with extensive knowledge or ability in a given subject.",
+        "example": "We called in several experts on the subject, but they couldn't reach an agreement.",
+        "exampleVi": "Chúng tôi đã mời một số chuyên gia về chủ đề này nhưng họ không thể đạt được thỏa thuận.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "expert process, key expert",
+        "wordFamily": "expert (noun)",
+        "image": "expert.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12207,
+        "word": "magistrate",
+        "pronunciation": "/ˈmædʒɪstɹeɪt/",
+        "audio": "magistrate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thẩm phán",
+        "definition": "A judicial officer with limited authority to administer and enforce the law. A magistrate's court may have jurisdiction in civil or criminal cases, or both.",
+        "example": "We need to understand the concept of magistrate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thẩm phán.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "magistrate process, key magistrate",
+        "wordFamily": "magistrate (noun)",
+        "image": "magistrate.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12208,
+        "word": "action",
+        "pronunciation": "/ˈæk.ʃən/",
+        "audio": "action.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành động",
+        "definition": "Something done so as to accomplish a purpose.",
+        "example": "We need to understand the concept of action.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hành động.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "action process, key action",
+        "wordFamily": "action (noun)",
+        "image": "action.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12209,
+        "word": "barrister",
+        "pronunciation": "/ˈbæ.ɹɪst.ə(ɹ)/",
+        "audio": "barrister.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "luật sư",
+        "definition": "A lawyer with the right to speak and argue as an advocate in higher lawcourts.",
+        "example": "We need to understand the concept of barrister.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm luật sư.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "barrister process, key barrister",
+        "wordFamily": "barrister (noun)",
+        "image": "barrister.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12210,
+        "word": "advocate",
+        "pronunciation": "/ˈæd.və.keɪt/",
+        "audio": "advocate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bào chữa",
+        "definition": "Someone whose job is to speak for someone's case in a court of law; a counsel.",
+        "example": "We need to understand the concept of advocate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người bào chữa.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "advocate process, key advocate",
+        "wordFamily": "advocate (noun)",
+        "image": "advocate.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12211,
+        "word": "solicitor",
+        "pronunciation": "/səˈlɪsɪtə/",
+        "audio": "solicitor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "luật sư",
+        "definition": "One who solicits.",
+        "example": "We need to understand the concept of solicitor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm luật sư.",
+        "topic": "Legal",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "solicitor process, key solicitor",
+        "wordFamily": "solicitor (noun)",
+        "image": "solicitor.webp",
+        "tags": [
+            "legal",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

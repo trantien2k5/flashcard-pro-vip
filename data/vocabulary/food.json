@@ -1,0 +1,3004 @@
+[
+    {
+        "id": 11468,
+        "word": "bread",
+        "pronunciation": "/bɹeːd/",
+        "audio": "bread.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bánh mỳ",
+        "definition": "A foodstuff made by baking dough made from cereals.",
+        "example": "We need to understand the concept of bread.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bánh mì.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bread process, key bread",
+        "wordFamily": "bread (noun)",
+        "image": "bread.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11469,
+        "word": "rice",
+        "pronunciation": "/ɹaɪs/",
+        "audio": "rice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơm",
+        "definition": "Cereal plants, Oryza sativa of the grass family whose seeds are used as food.",
+        "example": "We need to understand the concept of rice.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về gạo.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rice process, key rice",
+        "wordFamily": "rice (noun)",
+        "image": "rice.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11470,
+        "word": "meat",
+        "pronunciation": "/miːt/",
+        "audio": "meat.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thịt",
+        "definition": "The flesh (muscle tissue) of an animal used as food.",
+        "example": "A large portion of domestic meat production comes from animals raised on factory farms.",
+        "exampleVi": "Phần lớn sản lượng thịt trong nước đến từ động vật được nuôi trong các trang trại công nghiệp.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "meat process, key meat",
+        "wordFamily": "meat (noun)",
+        "image": "meat.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11471,
+        "word": "fish",
+        "pronunciation": "/fɪʃ/",
+        "audio": "fish.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cá",
+        "definition": "A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills.",
+        "example": "Salmon is a fish.",
+        "exampleVi": "Cá hồi là một loại cá.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fish process, key fish",
+        "wordFamily": "fish (noun)",
+        "image": "fish.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11472,
+        "word": "chicken",
+        "pronunciation": "/ˈt͡ʃɪkɪn/",
+        "audio": "chicken.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thịt gà",
+        "definition": "A domestic fowl, Gallus gallus, especially when young.",
+        "example": "We need to understand the concept of chicken.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về con gà.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chicken process, key chicken",
+        "wordFamily": "chicken (noun)",
+        "image": "chicken.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11473,
+        "word": "beef",
+        "pronunciation": "/biːf/",
+        "audio": "beef.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thịt bò",
+        "definition": "The meat from a cow, bull or other bovine.",
+        "example": "I love eating beef.",
+        "exampleVi": "Tôi thích ăn thịt bò.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "beef process, key beef",
+        "wordFamily": "beef (noun)",
+        "image": "beef.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11474,
+        "word": "pork",
+        "pronunciation": "/pɔːk/",
+        "audio": "pork.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thịt lợn",
+        "definition": "The meat of a pig; swineflesh.",
+        "example": "The cafeteria serves pork on Tuesdays.",
+        "exampleVi": "Quán cà phê phục vụ thịt lợn vào các ngày thứ Ba.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pork process, key pork",
+        "wordFamily": "pork (noun)",
+        "image": "pork.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11475,
+        "word": "vegetable",
+        "pronunciation": "/ˈvɛd͡ʒtəbəl/",
+        "audio": "vegetable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rau quả",
+        "definition": "Any plant.",
+        "example": "We need to understand the concept of vegetable.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về rau.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "vegetable process, key vegetable",
+        "wordFamily": "vegetable (noun)",
+        "image": "vegetable.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11476,
+        "word": "fruit",
+        "pronunciation": "/fɹuːt/",
+        "audio": "fruit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoa quả",
+        "definition": "(often in the plural) In general, a product of plant growth useful to man or animals.",
+        "example": "We need to understand the concept of fruit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trái cây.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fruit process, key fruit",
+        "wordFamily": "fruit (noun)",
+        "image": "fruit.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11477,
+        "word": "egg",
+        "pronunciation": "/eɪɡ/",
+        "audio": "egg.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trứng",
+        "definition": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+        "example": "We need to understand the concept of egg.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về quả trứng.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "egg process, key egg",
+        "wordFamily": "egg (noun)",
+        "image": "egg.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11478,
+        "word": "cheese",
+        "pronunciation": "/t͡ʃiz/",
+        "audio": "cheese.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phô mai",
+        "definition": "A dairy product made from curdled or cultured milk.",
+        "example": "We need to understand the concept of cheese.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phô mai.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cheese process, key cheese",
+        "wordFamily": "cheese (noun)",
+        "image": "cheese.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11479,
+        "word": "butter",
+        "pronunciation": "/ˈbʊtə/",
+        "audio": "butter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bơ",
+        "definition": "A soft, fatty foodstuff made by churning the cream of milk (generally cow's milk).",
+        "example": "We need to understand the concept of butter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bơ.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "butter process, key butter",
+        "wordFamily": "butter (noun)",
+        "image": "butter.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11480,
+        "word": "milk",
+        "pronunciation": "[mɛlk]",
+        "audio": "milk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sữa",
+        "definition": "A white liquid produced by the mammary glands of female mammals to nourish their young. From certain animals, especially cows, it is also called dairy milk and is a common food for humans as a beverage or used to produce various dairy products such as butter, cheese, and yogurt.",
+        "example": "We need to understand the concept of milk.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sữa.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "milk process, key milk",
+        "wordFamily": "milk (noun)",
+        "image": "milk.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11481,
+        "word": "sugar",
+        "pronunciation": "/ˈʃʊɡə(ɹ)/",
+        "audio": "sugar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường",
+        "definition": "Sucrose in the form of small crystals, obtained from sugar cane or sugar beet and used to sweeten food and drink.",
+        "example": "We need to understand the concept of sugar.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đường.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sugar process, key sugar",
+        "wordFamily": "sugar (noun)",
+        "image": "sugar.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11482,
+        "word": "salt",
+        "pronunciation": "/sɔlt/",
+        "audio": "salt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "muối",
+        "definition": "A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative.",
+        "example": "We need to understand the concept of salt.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về muối.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "salt process, key salt",
+        "wordFamily": "salt (noun)",
+        "image": "salt.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11483,
+        "word": "pepper",
+        "pronunciation": "/ˈpɛpə/",
+        "audio": "pepper.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hạt tiêu",
+        "definition": "A plant of the family Piperaceae.",
+        "example": "We need to understand the concept of pepper.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về hạt tiêu.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pepper process, key pepper",
+        "wordFamily": "pepper (noun)",
+        "image": "pepper.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11484,
+        "word": "oil",
+        "pronunciation": "/ɔɪl/",
+        "audio": "oil.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dầu",
+        "definition": "Liquid fat.",
+        "example": "We need to understand the concept of oil.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về dầu.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "oil process, key oil",
+        "wordFamily": "oil (noun)",
+        "image": "oil.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11485,
+        "word": "sauce",
+        "pronunciation": "/sɔːs/",
+        "audio": "sauce.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nước xốt",
+        "definition": "A liquid (often thickened) condiment or accompaniment to food.",
+        "example": "apple sauce; mint sauce",
+        "exampleVi": "sốt táo; nước sốt bạc hà",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sauce process, key sauce",
+        "wordFamily": "sauce (noun)",
+        "image": "sauce.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11486,
+        "word": "soup",
+        "pronunciation": "/suːp/",
+        "audio": "soup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "canh",
+        "definition": "Any of various dishes commonly made by combining liquids, such as water or stock with other ingredients, such as meat and vegetables, that contribute flavor and texture.",
+        "example": "Pho is a traditional Vietnamese soup.",
+        "exampleVi": "Phở là món súp truyền thống của người Việt.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "soup process, key soup",
+        "wordFamily": "soup (noun)",
+        "image": "soup.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11487,
+        "word": "salad",
+        "pronunciation": "/ˈsæləd/",
+        "audio": "salad.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xa lát",
+        "definition": "A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise.",
+        "example": "We need to understand the concept of salad.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm salad.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "salad process, key salad",
+        "wordFamily": "salad (noun)",
+        "image": "salad.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11488,
+        "word": "noodle",
+        "pronunciation": "/nuːdl̩/",
+        "audio": "noodle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mì sợi",
+        "definition": "(usually in the plural) a string or strip of pasta",
+        "example": "She slurped a long noodle up out of her soup.",
+        "exampleVi": "Cô ấy húp một sợi mì dài ra khỏi súp.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "noodle process, key noodle",
+        "wordFamily": "noodle (noun)",
+        "image": "noodle.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11489,
+        "word": "pasta",
+        "pronunciation": "/ˈpɐːstə/",
+        "audio": "pasta.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mì ống",
+        "definition": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating.",
+        "example": "We need to understand the concept of pasta.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mì ống.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pasta process, key pasta",
+        "wordFamily": "pasta (noun)",
+        "image": "pasta.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11490,
+        "word": "garlic",
+        "pronunciation": "/ˈɡɑːlɪk/",
+        "audio": "garlic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tỏi",
+        "definition": "A plant, Allium sativum, related to the onion, having a pungent bulb much used in cooking.",
+        "example": "We need to understand the concept of garlic.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tỏi.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "garlic process, key garlic",
+        "wordFamily": "garlic (noun)",
+        "image": "garlic.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11491,
+        "word": "onion",
+        "pronunciation": "/ˈʌŋjɪn/",
+        "audio": "onion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "củ hành",
+        "definition": "A monocotyledonous plant (Allium cepa), allied to garlic, used as vegetable and spice.",
+        "example": "We need to understand the concept of onion.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về hành tây.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "onion process, key onion",
+        "wordFamily": "onion (noun)",
+        "image": "onion.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11492,
+        "word": "potato",
+        "pronunciation": "/pəˈteɪ.təʊ/",
+        "audio": "potato.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoai tây",
+        "definition": "The tuber of a plant, Solanum tuberosum, eaten as a starchy vegetable, particularly in the Americas and Europe; this plant.",
+        "example": "We need to understand the concept of potato.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về khoai tây.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "potato process, key potato",
+        "wordFamily": "potato (noun)",
+        "image": "potato.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11493,
+        "word": "tomato",
+        "pronunciation": "[tʰə̥ˈmɐːtʰɐʉ]",
+        "audio": "tomato.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cà chua",
+        "definition": "A widely cultivated plant, Solanum lycopersicum, having edible fruit.",
+        "example": "We need to understand the concept of tomato.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cà chua.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tomato process, key tomato",
+        "wordFamily": "tomato (noun)",
+        "image": "tomato.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11494,
+        "word": "carrot",
+        "pronunciation": "/ˈkæɹ.ət/",
+        "audio": "carrot.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cà rốt",
+        "definition": "A vegetable with a nutritious, juicy, sweet root that is often orange in colour, Daucus carota, especially the subspecies sativus in the family Apiaceae.",
+        "example": "We need to understand the concept of carrot.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cà rốt.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "carrot process, key carrot",
+        "wordFamily": "carrot (noun)",
+        "image": "carrot.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11495,
+        "word": "bean",
+        "pronunciation": "/biːn/",
+        "audio": "bean.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hạt đậu",
+        "definition": "A reusable software component written in Java.",
+        "example": "We need to understand the concept of bean.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đậu.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bean process, key bean",
+        "wordFamily": "bean (noun)",
+        "image": "bean.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11496,
+        "word": "nut",
+        "pronunciation": "[nɐt]",
+        "audio": "nut.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hạt",
+        "definition": "A hard-shelled seed.",
+        "example": "There are many sort of nuts: peanuts, cashews, pistachios, Brazil nuts and more.",
+        "exampleVi": "Có rất nhiều loại hạt: đậu phộng, hạt điều, quả hồ trăn, hạt Brazil và nhiều loại khác.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nut process, key nut",
+        "wordFamily": "nut (noun)",
+        "image": "nut.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11497,
+        "word": "grain",
+        "pronunciation": "/ɡɹeɪn/",
+        "audio": "grain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngũ cốc",
+        "definition": "The harvested seeds of various grass food crops eg: wheat, corn, barley.",
+        "example": "We stored a thousand tons of grain for the winter.",
+        "exampleVi": "Chúng tôi đã dự trữ một nghìn tấn ngũ cốc cho mùa đông.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "grain process, key grain",
+        "wordFamily": "grain (noun)",
+        "image": "grain.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11498,
+        "word": "flour",
+        "pronunciation": "/ˈflaʊə/",
+        "audio": "flour.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bột mì",
+        "definition": "Powder obtained by grinding or milling cereal grains, especially wheat, or other foodstuffs such as soybeans and potatoes, and used to bake bread, cakes, and pastry.",
+        "example": "We need to understand the concept of flour.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bột mì.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "flour process, key flour",
+        "wordFamily": "flour (noun)",
+        "image": "flour.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11499,
+        "word": "honey",
+        "pronunciation": "/ˈhʌni/",
+        "audio": "honey.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Mật ong",
+        "definition": "A viscous, sweet fluid produced from plant nectar by bees. Often used to sweeten tea or to spread on baked goods.",
+        "example": "We need to understand the concept of honey.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mật ong.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "honey process, key honey",
+        "wordFamily": "honey (noun)",
+        "image": "honey.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11500,
+        "word": "jam",
+        "pronunciation": "/ˈdʒæːm/",
+        "audio": "jam.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mứt",
+        "definition": "A sweet mixture of fruit boiled with sugar and allowed to congeal. Often spread on bread or toast or used in jam tarts.",
+        "example": "We need to understand the concept of jam.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mứt.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "jam process, key jam",
+        "wordFamily": "jam (noun)",
+        "image": "jam.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11501,
+        "word": "spices",
+        "pronunciation": "/ˈspaɪsɪz/",
+        "audio": "spices.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gia vị",
+        "definition": "Aromatic or pungent plant matter (usually dried) used to season or flavour food.",
+        "example": "We need to understand the concept of spices.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về gia vị.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "spices process, key spices",
+        "wordFamily": "spices (noun)",
+        "image": "spices.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11502,
+        "word": "herb",
+        "pronunciation": "/hɜːb/",
+        "audio": "herb.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thảo dược",
+        "definition": "Any green, leafy plant, or parts thereof, used to flavour or season food.",
+        "example": "We need to understand the concept of herb.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thảo mộc.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "herb process, key herb",
+        "wordFamily": "herb (noun)",
+        "image": "herb.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11503,
+        "word": "curry",
+        "pronunciation": "/ˈkʌ.ɹi/",
+        "audio": "curry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cà ri",
+        "definition": "One of a family of dishes originating from South Asian cuisine, flavoured by a spiced sauce.",
+        "example": "We need to understand the concept of curry.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cà ri.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "curry process, key curry",
+        "wordFamily": "curry (noun)",
+        "image": "curry.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11504,
+        "word": "seafood",
+        "pronunciation": "/ˈsiːfuːd/",
+        "audio": "seafood.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hải sản",
+        "definition": "Fish, shellfish, seaweed, and other edible aquatic life.",
+        "example": "We need to understand the concept of seafood.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về hải sản.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "seafood process, key seafood",
+        "wordFamily": "seafood (noun)",
+        "image": "seafood.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11505,
+        "word": "shrimp",
+        "pronunciation": "/ʃɹɪmp/",
+        "audio": "shrimp.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "con tôm",
+        "definition": "Any of many swimming, often edible crustaceans, chiefly of the infraorder Caridea or the suborder Dendrobranchiata, with slender legs, long whiskers and a long abdomen.",
+        "example": "We need to understand the concept of shrimp.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về con tôm.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shrimp process, key shrimp",
+        "wordFamily": "shrimp (noun)",
+        "image": "shrimp.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11506,
+        "word": "crab",
+        "pronunciation": "/kɹæb/",
+        "audio": "crab.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cua",
+        "definition": "A crustacean of the infraorder Brachyura, having five pairs of legs, the foremost of which are in the form of claws, and a carapace.",
+        "example": "We need to understand the concept of crab.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cua.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "crab process, key crab",
+        "wordFamily": "crab (noun)",
+        "image": "crab.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11507,
+        "word": "lobster",
+        "pronunciation": "/ˈlɒb.stə/",
+        "audio": "lobster.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tôm",
+        "definition": "A crustacean of the Nephropidae family, dark green or blue-black in colour turning bright red when cooked, with a hard shell and claws, which is used as a seafood.",
+        "example": "We need to understand the concept of lobster.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tôm hùm.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lobster process, key lobster",
+        "wordFamily": "lobster (noun)",
+        "image": "lobster.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11508,
+        "word": "dessert",
+        "pronunciation": "/dɪˈzɜːt/",
+        "audio": "dessert.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "món tráng miệng",
+        "definition": "A sweet confection served as the last course of a meal",
+        "example": "We need to understand the concept of dessert.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về món tráng miệng.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dessert process, key dessert",
+        "wordFamily": "dessert (noun)",
+        "image": "dessert.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11509,
+        "word": "cake",
+        "pronunciation": "/keɪk/",
+        "audio": "cake.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bánh ngọt",
+        "definition": "A rich, sweet dessert food, typically made of flour, sugar and eggs and baked in an oven, and often covered in icing.",
+        "example": "We need to understand the concept of cake.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bánh.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cake process, key cake",
+        "wordFamily": "cake (noun)",
+        "image": "cake.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11510,
+        "word": "cookie",
+        "pronunciation": "/ˈkuːki/",
+        "audio": "cookie.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bánh quy",
+        "definition": "A small, flat, baked good which is either crisp or soft but firm.",
+        "example": "We need to understand the concept of cookie.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cookie.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cookie process, key cookie",
+        "wordFamily": "cookie (noun)",
+        "image": "cookie.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11511,
+        "word": "chocolate",
+        "pronunciation": "/ˈt͡ʃɔk(ə)lət/",
+        "audio": "chocolate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sôcôla",
+        "definition": "A food made from ground roasted cocoa beans.",
+        "example": "Chocolate is a very popular treat.",
+        "exampleVi": "Sô cô la là một món ăn rất phổ biến.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chocolate process, key chocolate",
+        "wordFamily": "chocolate (noun)",
+        "image": "chocolate.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11512,
+        "word": "candy",
+        "pronunciation": "/ˈkændi/",
+        "audio": "candy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kẹo",
+        "definition": "Edible, sweet-tasting confectionery containing sugar, or sometimes artificial sweeteners, and often flavored with fruit, chocolate, nuts, herbs and spices, or artificial flavors.",
+        "example": "We need to understand the concept of candy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về kẹo.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "candy process, key candy",
+        "wordFamily": "candy (noun)",
+        "image": "candy.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11513,
+        "word": "icecream",
+        "pronunciation": "/icecream/",
+        "audio": "icecream.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kem",
+        "definition": "A dessert made from frozen sweetened cream or a similar substance, usually flavoured.",
+        "example": "Strawberries are particularly delicious with ice cream.",
+        "exampleVi": "Dâu tây đặc biệt ngon với kem.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "icecream process, key icecream",
+        "wordFamily": "icecream (noun)",
+        "image": "icecream.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11514,
+        "word": "pastry",
+        "pronunciation": "/ˈpeɪstɹi/",
+        "audio": "pastry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bánh ngọt",
+        "definition": "A baked food item made from flour and fat pastes such as pie crust; also tarts, bear claws, napoleons, puff pastries, etc.",
+        "example": "That pastry shop sells not just pastries, but all kinds of baked goods.",
+        "exampleVi": "Cửa hàng bánh ngọt đó không chỉ bán bánh ngọt mà còn bán tất cả các loại đồ nướng.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pastry process, key pastry",
+        "wordFamily": "pastry (noun)",
+        "image": "pastry.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11515,
+        "word": "pie",
+        "pronunciation": "/paɪ/",
+        "audio": "pie.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bánh",
+        "definition": "A type of pastry that consists of an outer crust and a filling.",
+        "example": "The family had steak and kidney pie for dinner and cherry pie for dessert.",
+        "exampleVi": "Bữa tối cả gia đình ăn bít tết và bánh thận, tráng miệng là bánh anh đào.",
+        "topic": "Food",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pie process, key pie",
+        "wordFamily": "pie (noun)",
+        "image": "pie.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "appetizer",
+        "pronunciation": "/ˈæp.ɪ.taɪ.zər/",
+        "partOfSpeech": "noun",
+        "vietnamese": "món khai vị",
+        "definition": "a small dish served before the main meal to stimulate the appetite",
+        "example": "The restaurant offers a variety of appetizers to start your dining experience.",
+        "exampleVi": "Nhà hàng cung cấp nhiều món khai vị để bắt đầu trải nghiệm ẩm thực của bạn.",
+        "collocations": "cold appetizer, hot appetizer, savory appetizer",
+        "wordFamily": "appetizers",
+        "id": 11516,
+        "audio": "appetizer.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "appetizer.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "cuisine",
+        "pronunciation": "/kwɪˈziːn/",
+        "partOfSpeech": "noun",
+        "vietnamese": "ẩm thực",
+        "definition": "a style or method of cooking, especially as characteristic of a particular country or region",
+        "example": "French cuisine is renowned for its rich flavors and elegant presentation.",
+        "exampleVi": "Ẩm thực Pháp nổi tiếng với hương vị phong phú và cách trình bày tinh tế.",
+        "collocations": "Italian cuisine, Asian cuisine, traditional cuisine",
+        "wordFamily": "cuisines",
+        "id": 11517,
+        "audio": "cuisine.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "cuisine.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "gourmet",
+        "pronunciation": "/ɡʊrˈmeɪ/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "sang trọng",
+        "definition": "of high quality and often expensive food and drink",
+        "example": "The gourmet restaurant attracts food enthusiasts from all over the city.",
+        "exampleVi": "Nhà hàng sang trọng thu hút những người yêu thích ẩm thực từ khắp nơi trong thành phố.",
+        "collocations": "gourmet meal, gourmet food, gourmet chef",
+        "wordFamily": "gourmets",
+        "id": 11518,
+        "audio": "gourmet.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "gourmet.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "buffet",
+        "pronunciation": "/bəˈfeɪ/",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiệc buffet",
+        "definition": "a meal where guests serve themselves from a variety of dishes set out on a table",
+        "example": "The hotel offers a breakfast buffet with a wide selection of dishes.",
+        "exampleVi": "Khách sạn cung cấp tiệc buffet sáng với nhiều món ăn đa dạng.",
+        "collocations": "breakfast buffet, buffet style, buffet dinner",
+        "wordFamily": "buffets",
+        "id": 11519,
+        "audio": "buffet.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "buffet.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "cater",
+        "pronunciation": "/ˈkeɪ.tər/",
+        "partOfSpeech": "verb",
+        "vietnamese": "cung cấp thực phẩm",
+        "definition": "to provide food and drink for an event or gathering",
+        "example": "We need to cater the event with a selection of international dishes.",
+        "exampleVi": "Chúng ta cần cung cấp thực phẩm cho sự kiện với một lựa chọn các món ăn quốc tế.",
+        "collocations": "cater an event, cater for guests, professionally cater",
+        "wordFamily": "catering, catered",
+        "id": 11520,
+        "audio": "cater.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "cater.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "portion",
+        "pronunciation": "/ˈpɔːr.ʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần ăn",
+        "definition": "a part of a whole, especially a serving of food",
+        "example": "Each portion of the dish is carefully measured to ensure consistency.",
+        "exampleVi": "Mỗi phần ăn của món ăn được đo lường cẩn thận để đảm bảo tính đồng nhất.",
+        "collocations": "large portion, small portion, portion size",
+        "wordFamily": "portions",
+        "id": 11521,
+        "audio": "portion.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "portion.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "savor",
+        "pronunciation": "/ˈseɪ.vər/",
+        "partOfSpeech": "verb",
+        "vietnamese": "thưởng thức",
+        "definition": "to enjoy the taste or smell of something completely",
+        "example": "Take a moment to savor the rich flavors of this dish.",
+        "exampleVi": "Hãy dành một chút thời gian để thưởng thức hương vị phong phú của món ăn này.",
+        "collocations": "savor the moment, savor the flavor, savor every bite",
+        "wordFamily": "savored, savoring",
+        "id": 11522,
+        "audio": "savor.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "savor.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "delicacy",
+        "pronunciation": "/ˈdel.ɪ.kə.si/",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặc sản",
+        "definition": "a rare or luxurious food item that is considered a delicacy",
+        "example": "Truffles are considered a delicacy in many gourmet restaurants.",
+        "exampleVi": "Nấm truffle được coi là một đặc sản trong nhiều nhà hàng sang trọng.",
+        "collocations": "local delicacy, rare delicacy, culinary delicacy",
+        "wordFamily": "delicacies",
+        "id": 11523,
+        "audio": "delicacy.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "delicacy.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "ferment",
+        "pronunciation": "/fərˈment/",
+        "partOfSpeech": "verb",
+        "vietnamese": "lên men",
+        "definition": "to undergo fermentation, a process that converts sugar to acids, gases, or alcohol",
+        "example": "Many cultures use fermenting to preserve food and enhance flavors.",
+        "exampleVi": "Nhiều nền văn hóa sử dụng quá trình lên men để bảo quản thực phẩm và tăng cường hương vị.",
+        "collocations": "ferment food, naturally ferment, fermenting process",
+        "wordFamily": "fermentation, fermented",
+        "id": 11524,
+        "audio": "ferment.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "ferment.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "artisan",
+        "pronunciation": "/ˈɑːr.tɪ.zən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghệ nhân",
+        "definition": "a worker in a skilled trade, especially one that involves making things by hand, often related to food",
+        "example": "The artisan bakery is known for its handcrafted breads and pastries.",
+        "exampleVi": "Tiệm bánh nghệ nhân nổi tiếng với những chiếc bánh và bánh ngọt được làm thủ công.",
+        "collocations": "artisan cheese, artisan bread, artisan food",
+        "wordFamily": "artisans",
+        "id": 11525,
+        "audio": "artisan.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "artisan.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "garnish",
+        "pronunciation": "/ˈɡɑːrn.ɪʃ/",
+        "partOfSpeech": "verb",
+        "vietnamese": "trang trí",
+        "definition": "to decorate a dish with small amounts of food or herbs for flavor or appearance",
+        "example": "The chef decided to garnish the plate with fresh herbs for a vibrant look.",
+        "exampleVi": "Đầu bếp quyết định trang trí đĩa với các loại thảo mộc tươi để tạo vẻ ngoài sống động.",
+        "collocations": "garnish with herbs, garnish the dish, beautifully garnish",
+        "wordFamily": "garnishes, garnishing",
+        "id": 11526,
+        "audio": "garnish.mp3",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "garnish.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11527,
+        "word": "starter",
+        "pronunciation": "/ˈstɑːtə(ɹ)/",
+        "audio": "starter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "món khai vị",
+        "definition": "Someone who starts something.",
+        "example": "a starter on a journey",
+        "exampleVi": "sự khởi đầu của một cuộc hành trình",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "starter process, key starter",
+        "wordFamily": "starter (noun)",
+        "image": "starter.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11528,
+        "word": "produce",
+        "pronunciation": "/pɹəˈdjuːs/",
+        "audio": "produce.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "sản xuất",
+        "definition": "To yield, make or manufacture; to generate.",
+        "example": "We need to understand the concept of produce.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sản phẩm.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "produce process, key produce",
+        "wordFamily": "produce (noun)",
+        "image": "produce.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11529,
+        "word": "confectionery",
+        "pronunciation": "/confectionery/",
+        "audio": "confectionery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bánh kẹo",
+        "definition": "Foodstuffs that taste very sweet, taken as a group; candies, sweetmeats and confections collectively.",
+        "example": "We need to understand the concept of confectionery.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bánh kẹo.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "confectionery process, key confectionery",
+        "wordFamily": "confectionery (noun)",
+        "image": "confectionery.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11530,
+        "word": "recipe",
+        "pronunciation": "/ˈɹɛs.ə.pi/",
+        "audio": "recipe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công thức nấu ăn",
+        "definition": "A formula for preparing or using a medicine; a prescription; also, a medicine prepared from such instructions.",
+        "example": "We need to understand the concept of recipe.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về công thức.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "recipe process, key recipe",
+        "wordFamily": "recipe (noun)",
+        "image": "recipe.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11531,
+        "word": "cereal",
+        "pronunciation": "[ˈsɪəɹiːəɫ]",
+        "audio": "cereal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngũ cốc",
+        "definition": "A type of grass (such as wheat, rice or oats) cultivated for its edible grains.",
+        "example": "We need to understand the concept of cereal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ngũ cốc.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cereal process, key cereal",
+        "wordFamily": "cereal (noun)",
+        "image": "cereal.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11532,
+        "word": "dairy",
+        "pronunciation": "/ˈdɛəɹi/",
+        "audio": "dairy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sữa",
+        "definition": "(also dairy products or dairy produce) Products produced from milk.",
+        "example": "We need to understand the concept of dairy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sữa.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dairy process, key dairy",
+        "wordFamily": "dairy (noun)",
+        "image": "dairy.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11533,
+        "word": "spice",
+        "pronunciation": "/spaɪs/",
+        "audio": "spice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gia vị",
+        "definition": "Aromatic or pungent plant matter (usually dried) used to season or flavour food.",
+        "example": "We need to understand the concept of spice.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về gia vị.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "spice process, key spice",
+        "wordFamily": "spice (noun)",
+        "image": "spice.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11534,
+        "word": "entree",
+        "pronunciation": "/entree/",
+        "audio": "entree.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "entree",
+        "definition": "(French Canada) A smaller dish served before the main course of a meal.",
+        "example": "We need to understand the concept of entree.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm entree.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "entree process, key entree",
+        "wordFamily": "entree (noun)",
+        "image": "entree.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11535,
+        "word": "beverage",
+        "pronunciation": "/ˈbevəɹɪdʒ/",
+        "audio": "beverage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồ uống",
+        "definition": "A liquid to consume; a drink, such as tea, coffee, liquor, beer, milk, juice, or soft drinks, usually excluding water.",
+        "example": "We need to understand the concept of beverage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đồ uống.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "beverage process, key beverage",
+        "wordFamily": "beverage (noun)",
+        "image": "beverage.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11536,
+        "word": "seasoning",
+        "pronunciation": "/seasoning/",
+        "audio": "seasoning.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gia vị",
+        "definition": "Something used to add taste or flavour to food, such as salt and pepper or other condiment, herb or spice.",
+        "example": "We need to understand the concept of seasoning.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gia vị.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "seasoning process, key seasoning",
+        "wordFamily": "seasoning (noun)",
+        "image": "seasoning.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11537,
+        "word": "snack",
+        "pronunciation": "/snæk/",
+        "audio": "snack.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bữa ăn nhẹ",
+        "definition": "A light meal.",
+        "example": "We need to understand the concept of snack.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đồ ăn nhẹ.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "snack process, key snack",
+        "wordFamily": "snack (noun)",
+        "image": "snack.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11538,
+        "word": "maincourse",
+        "pronunciation": "/maincourse/",
+        "audio": "maincourse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "món chính",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word maincourse.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ maincourse.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "maincourse process, key maincourse",
+        "wordFamily": "maincourse (noun)",
+        "image": "maincourse.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11539,
+        "word": "preservative",
+        "pronunciation": "/preservative/",
+        "audio": "preservative.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất bảo quản",
+        "definition": "Any agent, natural or artificial that acts to preserve, especially when added to food.",
+        "example": "We need to understand the concept of preservative.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chất bảo quản.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "preservative process, key preservative",
+        "wordFamily": "preservative (noun)",
+        "image": "preservative.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11540,
+        "word": "calorie",
+        "pronunciation": "/ˈkæləɹi/",
+        "audio": "calorie.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "calo",
+        "definition": "(nutrition) Kilogram calorie or large calorie. A unit of energy 1000 times larger than the gram calorie. It is equivalent to the gram kilocalorie, approximately 4.2 kilojoules.",
+        "example": "We need to understand the concept of calorie.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm calo.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "calorie process, key calorie",
+        "wordFamily": "calorie (noun)",
+        "image": "calorie.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11541,
+        "word": "diet",
+        "pronunciation": "/ˈdaɪət/",
+        "audio": "diet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "diet",
+        "definition": "The food and beverage a person or animal consumes.",
+        "example": "The diet of the Giant Panda consists mainly of bamboo.",
+        "exampleVi": "Chế độ ăn của Gấu trúc khổng lồ chủ yếu bao gồm tre.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "diet process, key diet",
+        "wordFamily": "diet (noun)",
+        "image": "diet.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11542,
+        "word": "nutrition",
+        "pronunciation": "/njuːˈtɹɪ.ʃən/",
+        "audio": "nutrition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nutrition",
+        "definition": "The organic process by which an organism assimilates food and uses it for growth and maintenance.",
+        "example": "We need to understand the concept of nutrition.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dinh dưỡng.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "nutrition process, key nutrition",
+        "wordFamily": "nutrition (noun)",
+        "image": "nutrition.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11543,
+        "word": "ingredient",
+        "pronunciation": "/ɪnˈɡɹiːdi.ənt/",
+        "audio": "ingredient.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ingredient",
+        "definition": "One of the substances present in a mixture, especially food.",
+        "example": "We need to understand the concept of ingredient.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thành phần.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ingredient process, key ingredient",
+        "wordFamily": "ingredient (noun)",
+        "image": "ingredient.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11544,
+        "word": "poultry",
+        "pronunciation": "/ˈpɒltɹi/",
+        "audio": "poultry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "poultry",
+        "definition": "Domestic fowl (e.g. chickens, ducks, turkeys, and geese) raised for food (either meat or eggs).",
+        "example": "We need to understand the concept of poultry.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về gia cầm.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "poultry process, key poultry",
+        "wordFamily": "poultry (noun)",
+        "image": "poultry.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11545,
+        "word": "condiment",
+        "pronunciation": "/ˈkɒn.dɪ.mənt/",
+        "audio": "condiment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "condiment",
+        "definition": "Something used to enhance the flavor of food; for example, salt or pepper.",
+        "example": "We need to understand the concept of condiment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gia vị.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "condiment process, key condiment",
+        "wordFamily": "condiment (noun)",
+        "image": "condiment.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11546,
+        "word": "bakery",
+        "pronunciation": "/ˈbeɪ.kə.ɹi/",
+        "audio": "bakery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bakery",
+        "definition": "A shop in which bread (and often other baked goods such as cakes) is baked and/or sold.",
+        "example": "We need to understand the concept of bakery.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tiệm bánh.",
+        "topic": "Food",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bakery process, key bakery",
+        "wordFamily": "bakery (noun)",
+        "image": "bakery.webp",
+        "tags": [
+            "food",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

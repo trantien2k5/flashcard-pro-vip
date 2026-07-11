@@ -1,0 +1,2662 @@
+[
+    {
+        "id": 11164,
+        "word": "happy",
+        "pronunciation": "/ˈhæpiː/",
+        "audio": "happy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vui mừng",
+        "definition": "A happy event, thing, person, etc.",
+        "example": "We need to understand the concept of happy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hạnh phúc.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "happy process, key happy",
+        "wordFamily": "happy (noun)",
+        "image": "happy.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11165,
+        "word": "sad",
+        "pronunciation": "/sæd/",
+        "audio": "sad.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "buồn",
+        "definition": "To make melancholy; to sadden or grieve (someone).",
+        "example": "We need to understand the concept of sad.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm buồn.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sad process, key sad",
+        "wordFamily": "sad (verb)",
+        "image": "sad.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11166,
+        "word": "angry",
+        "pronunciation": "/ˈæŋ.ɡɹi/",
+        "audio": "angry.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tức giận",
+        "definition": "Displaying or feeling anger.",
+        "example": "An angry mob started looting the warehouse.",
+        "exampleVi": "Một đám đông giận dữ bắt đầu cướp phá nhà kho.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "angry process, key angry",
+        "wordFamily": "angry (adjective)",
+        "image": "angry.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11167,
+        "word": "excited",
+        "pronunciation": "/ɪkˈsaɪtɪd/",
+        "audio": "excited.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hào hứng",
+        "definition": "To stir the emotions of.",
+        "example": "The fireworks which opened the festivities excited anyone present.",
+        "exampleVi": "Màn pháo hoa khai mạc lễ hội khiến bất cứ ai có mặt đều phấn khích.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "excited process, key excited",
+        "wordFamily": "excited (verb)",
+        "image": "excited.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11168,
+        "word": "nervous",
+        "pronunciation": "/ˈnɜːvəs/",
+        "audio": "nervous.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "lo lắng",
+        "definition": "Of sinews and tendons.",
+        "example": "We need to understand the concept of nervous.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hồi hộp.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nervous process, key nervous",
+        "wordFamily": "nervous (adjective)",
+        "image": "nervous.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11169,
+        "word": "scared",
+        "pronunciation": "/skɛəd/",
+        "audio": "scared.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "sợ hãi",
+        "definition": "To frighten, terrify, startle, especially in a minor way.",
+        "example": "Did it scare you when I said \"Boo!\"?",
+        "exampleVi": "Bạn có sợ khi tôi nói \"Boo!\" không?",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "scared process, key scared",
+        "wordFamily": "scared (verb)",
+        "image": "scared.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11170,
+        "word": "surprised",
+        "pronunciation": "/səˈpɹaɪzd/",
+        "audio": "surprised.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "ngạc nhiên",
+        "definition": "To cause (someone) to feel unusually alarmed or delighted by something unexpected.",
+        "example": "It surprises me that I owe twice as much as I thought I did.",
+        "exampleVi": "Tôi ngạc nhiên rằng tôi nợ gấp đôi số tiền tôi nghĩ.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "surprised process, key surprised",
+        "wordFamily": "surprised (verb)",
+        "image": "surprised.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11171,
+        "word": "bored",
+        "pronunciation": "/bɔːd/",
+        "audio": "bored.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chán",
+        "definition": "To inspire boredom in somebody.",
+        "example": "We need to understand the concept of bored.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm buồn chán.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bored process, key bored",
+        "wordFamily": "bored (verb)",
+        "image": "bored.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11172,
+        "word": "tired",
+        "pronunciation": "/taɪəd/",
+        "audio": "tired.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "mệt",
+        "definition": "To become sleepy or weary.",
+        "example": "We need to understand the concept of tired.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mệt mỏi.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tired process, key tired",
+        "wordFamily": "tired (verb)",
+        "image": "tired.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11173,
+        "word": "proud",
+        "pronunciation": "/pɹaʊd/",
+        "audio": "proud.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tự hào",
+        "definition": "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified.",
+        "example": "I am proud of Sivu’s schoolwork.",
+        "exampleVi": "Tôi tự hào về việc học của Sivu.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "proud process, key proud",
+        "wordFamily": "proud (adjective)",
+        "image": "proud.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11174,
+        "word": "embarrassed",
+        "pronunciation": "/ɪmˈbæɹ.əst/",
+        "audio": "embarrassed.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lúng túng",
+        "definition": "To humiliate; to disrupt somebody's composure or comfort with acting publicly or freely; to disconcert; to abash",
+        "example": "The crowd's laughter and jeers embarrassed him.",
+        "exampleVi": "Tiếng cười và sự chế nhạo của đám đông làm anh xấu hổ.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "embarrassed process, key embarrassed",
+        "wordFamily": "embarrassed (verb)",
+        "image": "embarrassed.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11175,
+        "word": "confused",
+        "pronunciation": "/kənˈfjuːzd/",
+        "audio": "confused.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bối rối",
+        "definition": "To puzzle, perplex, baffle, bewilder (somebody).",
+        "example": "We need to understand the concept of confused.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mê lầm.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "confused process, key confused",
+        "wordFamily": "confused (verb)",
+        "image": "confused.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11176,
+        "word": "jealous",
+        "pronunciation": "/ˈdʒɛləs/",
+        "audio": "jealous.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "ghen tị",
+        "definition": "Suspecting rivalry in love; troubled by worries that one might have been replaced in someone's affections; suspicious of a lover's or spouse's fidelity.",
+        "example": "We need to understand the concept of jealous.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ghen tị.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "jealous process, key jealous",
+        "wordFamily": "jealous (adjective)",
+        "image": "jealous.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11177,
+        "word": "grateful",
+        "pronunciation": "/ˈɡɹeɪtfəl/",
+        "audio": "grateful.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tri ân",
+        "definition": "Appreciative; thankful.",
+        "example": "I'm grateful that you helped me out.",
+        "exampleVi": "Tôi biết ơn vì bạn đã giúp đỡ tôi.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "grateful process, key grateful",
+        "wordFamily": "grateful (adjective)",
+        "image": "grateful.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11178,
+        "word": "disappointed",
+        "pronunciation": "/ˌdɪsəˈpɔɪntɪd/",
+        "audio": "disappointed.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thất vọng",
+        "definition": "To sadden or displease (someone) by underperforming, or by not delivering something promised or hoped for.",
+        "example": "His lack of respect disappointed her.",
+        "exampleVi": "Sự thiếu tôn trọng của anh làm cô thất vọng.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "disappointed process, key disappointed",
+        "wordFamily": "disappointed (verb)",
+        "image": "disappointed.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11179,
+        "word": "frustrated",
+        "pronunciation": "/fɹəsˈtɹeɪt.ɪd/",
+        "audio": "frustrated.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bực bội",
+        "definition": "To disappoint or defeat; to vex by depriving of something expected or desired.",
+        "example": "It frustrates me to do all this work and then lose it all.",
+        "exampleVi": "Tôi nản lòng khi làm tất cả công việc này và sau đó mất tất cả.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "frustrated process, key frustrated",
+        "wordFamily": "frustrated (verb)",
+        "image": "frustrated.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11180,
+        "word": "curious",
+        "pronunciation": "/ˈkjɔː-/",
+        "audio": "curious.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tò mò",
+        "definition": "Tending to ask questions, or to want to explore or investigate; inquisitive; (with a negative connotation) nosy, prying.",
+        "example": "Young children are naturally curious about the world and everything in it.",
+        "exampleVi": "Trẻ nhỏ có bản chất tò mò về thế giới và mọi thứ trong đó.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "curious process, key curious",
+        "wordFamily": "curious (adjective)",
+        "image": "curious.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11181,
+        "word": "lonely",
+        "pronunciation": "/ˈləʊnli/",
+        "audio": "lonely.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "cô đơn",
+        "definition": "Unhappy because of feeling isolated from contact with other people.",
+        "example": "We need to understand the concept of lonely.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cô đơn.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lonely process, key lonely",
+        "wordFamily": "lonely (adjective)",
+        "image": "lonely.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11182,
+        "word": "relaxed",
+        "pronunciation": "/ɹɪˈlækst/",
+        "audio": "relaxed.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thư giãn",
+        "definition": "To calm down.",
+        "example": "We need to understand the concept of relaxed.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thư giãn.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "relaxed process, key relaxed",
+        "wordFamily": "relaxed (verb)",
+        "image": "relaxed.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11183,
+        "word": "stressed",
+        "pronunciation": "/stɹɛst/",
+        "audio": "stressed.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "nhấn mạnh",
+        "definition": "To apply force to (a body or structure) causing strain.",
+        "example": "We need to understand the concept of stressed.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhấn mạnh.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stressed process, key stressed",
+        "wordFamily": "stressed (verb)",
+        "image": "stressed.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11184,
+        "word": "anxious",
+        "pronunciation": "/ˈaŋ(k)ʃəs/",
+        "audio": "anxious.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "lo lắng",
+        "definition": "Nervous and worried.",
+        "example": "We need to understand the concept of anxious.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lo lắng.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "anxious process, key anxious",
+        "wordFamily": "anxious (adjective)",
+        "image": "anxious.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11185,
+        "word": "confident",
+        "pronunciation": "/ˈkɒn.fɪ.dənt/",
+        "audio": "confident.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tự tin",
+        "definition": "A person in whom one can confide or share one's secrets: a friend.",
+        "example": "We need to understand the concept of confident.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tự tin.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "confident process, key confident",
+        "wordFamily": "confident (noun)",
+        "image": "confident.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11186,
+        "word": "eager",
+        "pronunciation": "/ˈiːɡə/",
+        "audio": "eager.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "háo hức",
+        "definition": "Sharp; sour; acid.",
+        "example": "We need to understand the concept of eager.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm háo hức.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "eager process, key eager",
+        "wordFamily": "eager (adjective)",
+        "image": "eager.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11187,
+        "word": "hopeful",
+        "pronunciation": "/ˈhəʊpfəl/",
+        "audio": "hopeful.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hy vọng",
+        "definition": "Someone who is hoping for success or victory, especially as a candidate in a political election.",
+        "example": "Several presidential hopefuls are campaigning in New Hampshire this week.",
+        "exampleVi": "Một số ứng cử viên tổng thống đang vận động tranh cử ở New Hampshire trong tuần này.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hopeful process, key hopeful",
+        "wordFamily": "hopeful (noun)",
+        "image": "hopeful.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11188,
+        "word": "guilty",
+        "pronunciation": "/ˈɡɪl.ti/",
+        "audio": "guilty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tội lỗi",
+        "definition": "A plea by a defendant who does not contest a charge.",
+        "example": "We need to understand the concept of guilty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tội lỗi.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "guilty process, key guilty",
+        "wordFamily": "guilty (noun)",
+        "image": "guilty.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11189,
+        "word": "content",
+        "pronunciation": "/kənˈtent/",
+        "audio": "content.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hài lòng, mãn nguyện",
+        "definition": "in a state of peaceful happiness; satisfied with the way things are",
+        "example": "After finishing the project, she felt content with her performance.",
+        "exampleVi": "Sau khi hoàn thành dự án, cô ấy cảm thấy hài lòng với thành quả của mình.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "feel content, content with life",
+        "wordFamily": "contentment (noun), contentedly (adverb)",
+        "image": "content.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11190,
+        "word": "shocked",
+        "pronunciation": "/ʃɒkt/",
+        "audio": "shocked.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bị sốc",
+        "definition": "To cause to be emotionally shocked, to cause (someone) to feel surprised and upset.",
+        "example": "The disaster shocked the world.",
+        "exampleVi": "Thảm họa đã gây chấn động thế giới.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shocked process, key shocked",
+        "wordFamily": "shocked (verb)",
+        "image": "shocked.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11191,
+        "word": "cheerful",
+        "pronunciation": "/ˈt͡ʃɪəfəl/",
+        "audio": "cheerful.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "vui vẻ",
+        "definition": "Noticeably happy and optimistic.",
+        "example": "We need to understand the concept of cheerful.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vui vẻ.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cheerful process, key cheerful",
+        "wordFamily": "cheerful (adjective)",
+        "image": "cheerful.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11192,
+        "word": "gloomy",
+        "pronunciation": "/ˈɡlumi/",
+        "audio": "gloomy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "ảm đạm",
+        "definition": "Not very illuminated; dim because of darkness, especially when appearing depressing or frightening.",
+        "example": "The cavern was gloomy.",
+        "exampleVi": "Hang động thật ảm đạm.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gloomy process, key gloomy",
+        "wordFamily": "gloomy (adjective)",
+        "image": "gloomy.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11193,
+        "word": "delighted",
+        "pronunciation": "/dɪˈlaɪtəd/",
+        "audio": "delighted.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "vui mừng",
+        "definition": "To give delight to; to affect with great pleasure; to please highly.",
+        "example": "A beautiful landscape delights the eye.",
+        "exampleVi": "Một phong cảnh đẹp làm vui mắt.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "delighted process, key delighted",
+        "wordFamily": "delighted (verb)",
+        "image": "delighted.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11194,
+        "word": "furious",
+        "pronunciation": "/ˈfjʊə.ɹɪəs/",
+        "audio": "furious.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "giận dữ",
+        "definition": "Feeling great anger; raging; violent.",
+        "example": "a furious animal; parent furious at their child's behaviour",
+        "exampleVi": "một con vật hung dữ; cha mẹ tức giận với hành vi của con mình",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "furious process, key furious",
+        "wordFamily": "furious (noun)",
+        "image": "furious.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11195,
+        "word": "envious",
+        "pronunciation": "/ˈɛnvɪəs/",
+        "audio": "envious.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "ghen tị",
+        "definition": "Feeling or exhibiting envy; jealously desiring the excellence or good fortune of another; maliciously grudging",
+        "example": "an envious man, disposition, or attack; envious tongues",
+        "exampleVi": "một người đàn ông ghen tị, có tính cách hoặc tấn công; lưỡi ghen tị",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "envious process, key envious",
+        "wordFamily": "envious (noun)",
+        "image": "envious.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11196,
+        "word": "ashamed",
+        "pronunciation": "/əˈʃeɪmd/",
+        "audio": "ashamed.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xấu hổ",
+        "definition": "To feel shame; to be ashamed.",
+        "example": "We need to understand the concept of ashamed.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xấu hổ.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ashamed process, key ashamed",
+        "wordFamily": "ashamed (noun)",
+        "image": "ashamed.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11197,
+        "word": "satisfied",
+        "pronunciation": "/ˈsætɪsfaɪd/",
+        "audio": "satisfied.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thỏa mãn",
+        "definition": "To do enough for; to meet the needs of; to fulfill the wishes or requirements of.",
+        "example": "I'm not satisfied with the quality of the food here.",
+        "exampleVi": "Tôi không hài lòng với chất lượng đồ ăn ở đây.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "satisfied process, key satisfied",
+        "wordFamily": "satisfied (noun)",
+        "image": "satisfied.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11198,
+        "word": "disgusted",
+        "pronunciation": "/dɪsˈɡʌstɪd/",
+        "audio": "disgusted.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "ghê tởm",
+        "definition": "To cause an intense dislike for something.",
+        "example": "It disgusts me to see her chew with her mouth open.",
+        "exampleVi": "Tôi thấy ghê tởm khi thấy cô ấy nhai mà há miệng.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "disgusted process, key disgusted",
+        "wordFamily": "disgusted (noun)",
+        "image": "disgusted.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11199,
+        "word": "afraid",
+        "pronunciation": "/əˈfɹeɪd/",
+        "audio": "afraid.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "sợ",
+        "definition": "(usually used predicatively, not attributively, be afraid) Impressed with fear or apprehension; in fear.",
+        "example": "He is afraid of death.",
+        "exampleVi": "Anh ấy sợ chết.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "afraid process, key afraid",
+        "wordFamily": "afraid (noun)",
+        "image": "afraid.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11200,
+        "word": "panicked",
+        "pronunciation": "/panicked/",
+        "audio": "panicked.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hoảng loạn",
+        "definition": "To feel overwhelming fear.",
+        "example": "We need to understand the concept of panicked.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hoảng loạn.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "panicked process, key panicked",
+        "wordFamily": "panicked (noun)",
+        "image": "panicked.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11201,
+        "word": "calm",
+        "pronunciation": "/kam/",
+        "audio": "calm.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điềm tĩnh",
+        "definition": "(in a person) The state of being calm; peacefulness; absence of worry, anger, fear or other strong negative emotion.",
+        "example": "We need to understand the concept of calm.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bình tĩnh.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "calm process, key calm",
+        "wordFamily": "calm (noun)",
+        "image": "calm.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11202,
+        "word": "bothered",
+        "pronunciation": "/bothered/",
+        "audio": "bothered.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bị làm phiền",
+        "definition": "To annoy, to disturb, to irritate.",
+        "example": "Would it bother you if I smoked?",
+        "exampleVi": "Bạn có thấy phiền nếu tôi hút thuốc không?",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bothered process, key bothered",
+        "wordFamily": "bothered (noun)",
+        "image": "bothered.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11203,
+        "word": "relieved",
+        "pronunciation": "/ɹɪˈliːvd/",
+        "audio": "relieved.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "nhẹ nhõm",
+        "definition": "To ease (a person, person's thoughts etc.) from mental distress; to stop (someone) feeling anxious or worried, to alleviate the distress of.",
+        "example": "I was greatly relieved by the jury's verdict.",
+        "exampleVi": "Tôi rất nhẹ nhõm trước phán quyết của bồi thẩm đoàn.",
+        "topic": "Emotions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "relieved process, key relieved",
+        "wordFamily": "relieved (noun)",
+        "image": "relieved.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11204,
+        "word": "irritation",
+        "pronunciation": "/ˌɪɹɪˈteɪʃən/",
+        "audio": "irritation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khó chịu",
+        "definition": "The act of irritating or annoying",
+        "example": "What irritation causes you to be so moody?",
+        "exampleVi": "Điều gì khiến bạn ủ rũ đến thế?",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "irritation process, key irritation",
+        "wordFamily": "irritation (noun)",
+        "image": "irritation.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11205,
+        "word": "enthusiasm",
+        "pronunciation": "/-θuː-/",
+        "audio": "enthusiasm.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự nhiệt tình",
+        "definition": "Possession by a god; divine inspiration or frenzy.",
+        "example": "We need to understand the concept of enthusiasm.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhiệt tình.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "enthusiasm process, key enthusiasm",
+        "wordFamily": "enthusiasm (noun)",
+        "image": "enthusiasm.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11206,
+        "word": "hesitation",
+        "pronunciation": "/hɛzɪˈteɪʃən/",
+        "audio": "hesitation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "do dự",
+        "definition": "An act of hesitating",
+        "example": "We need to understand the concept of hesitation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm do dự.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hesitation process, key hesitation",
+        "wordFamily": "hesitation (noun)",
+        "image": "hesitation.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11207,
+        "word": "excitement",
+        "pronunciation": "/ɪkˈsaɪtmənt/",
+        "audio": "excitement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự phấn khích",
+        "definition": "The state of being excited (emotionally aroused).",
+        "example": "We need to understand the concept of excitement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hứng thú.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "excitement process, key excitement",
+        "wordFamily": "excitement (noun)",
+        "image": "excitement.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11208,
+        "word": "anxiety",
+        "pronunciation": "/ˌæŋ(ɡ)ˈzaɪ.ə.ti/",
+        "audio": "anxiety.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lo lắng",
+        "definition": "An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.",
+        "example": "We need to understand the concept of anxiety.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lo lắng.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "anxiety process, key anxiety",
+        "wordFamily": "anxiety (noun)",
+        "image": "anxiety.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11209,
+        "word": "confidence",
+        "pronunciation": "/ˈkɒnfɪdəns/",
+        "audio": "confidence.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự tự tin",
+        "definition": "Self-assurance.",
+        "example": "We need to understand the concept of confidence.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sự tự tin.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "confidence process, key confidence",
+        "wordFamily": "confidence (noun)",
+        "image": "confidence.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11210,
+        "word": "satisfaction",
+        "pronunciation": "/sætɪsˈfækʃən/",
+        "audio": "satisfaction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự hài lòng",
+        "definition": "A fulfilment of a need or desire.",
+        "example": "He enjoyed the dish with great satisfaction. He'll order it again the next time he arrives.",
+        "exampleVi": "Anh ấy rất hài lòng khi thưởng thức món ăn. Anh ấy sẽ đặt hàng lại vào lần tới khi anh ấy đến.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "satisfaction process, key satisfaction",
+        "wordFamily": "satisfaction (noun)",
+        "image": "satisfaction.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11211,
+        "word": "tolerance",
+        "pronunciation": "/ˈtɒləɹəns/",
+        "audio": "tolerance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự khoan dung",
+        "definition": "The ability to endure pain or hardship; endurance.",
+        "example": "We need to understand the concept of tolerance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khoan dung.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tolerance process, key tolerance",
+        "wordFamily": "tolerance (noun)",
+        "image": "tolerance.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11212,
+        "word": "frustration",
+        "pronunciation": "/fɹʌsˈtɹeɪʃən/",
+        "audio": "frustration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự thất vọng",
+        "definition": "The feeling of annoyance when one's actions are criticized or hindered",
+        "example": "We need to understand the concept of frustration.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thất vọng.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "frustration process, key frustration",
+        "wordFamily": "frustration (noun)",
+        "image": "frustration.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11213,
+        "word": "eagerness",
+        "pronunciation": "/eagerness/",
+        "audio": "eagerness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự háo hức",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word eagerness.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ háo hức.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "eagerness process, key eagerness",
+        "wordFamily": "eagerness (noun)",
+        "image": "eagerness.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11214,
+        "word": "resentment",
+        "pronunciation": "/resentment/",
+        "audio": "resentment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "oán giận",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word resentment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ oán giận.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "resentment process, key resentment",
+        "wordFamily": "resentment (noun)",
+        "image": "resentment.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11215,
+        "word": "impatience",
+        "pronunciation": "/ɪmˈpeɪʃəns/",
+        "audio": "impatience.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiếu kiên nhẫn",
+        "definition": "The quality of being impatient; lacking patience; restlessness and intolerance of delays; anxiety and eagerness, especially to begin something.",
+        "example": "We need to understand the concept of impatience.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thiếu kiên nhẫn.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "impatience process, key impatience",
+        "wordFamily": "impatience (noun)",
+        "image": "impatience.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11216,
+        "word": "remorse",
+        "pronunciation": "/remorse/",
+        "audio": "remorse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hối hận",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word remorse.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hối hận.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "remorse process, key remorse",
+        "wordFamily": "remorse (noun)",
+        "image": "remorse.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11217,
+        "word": "optimism",
+        "pronunciation": "/optimism/",
+        "audio": "optimism.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự lạc quan",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word optimism.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lạc quan.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "optimism process, key optimism",
+        "wordFamily": "optimism (noun)",
+        "image": "optimism.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11218,
+        "word": "disappointment",
+        "pronunciation": "/disappointment/",
+        "audio": "disappointment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự thất vọng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word disappointment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thất vọng.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "disappointment process, key disappointment",
+        "wordFamily": "disappointment (noun)",
+        "image": "disappointment.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11219,
+        "word": "regret",
+        "pronunciation": "/regret/",
+        "audio": "regret.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hối tiếc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word regret.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hối tiếc.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "regret process, key regret",
+        "wordFamily": "regret (noun)",
+        "image": "regret.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11220,
+        "word": "gratitude",
+        "pronunciation": "/gratitude/",
+        "audio": "gratitude.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lòng biết ơn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word gratitude.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ biết ơn.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gratitude process, key gratitude",
+        "wordFamily": "gratitude (noun)",
+        "image": "gratitude.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11221,
+        "word": "pessimism",
+        "pronunciation": "/pessimism/",
+        "audio": "pessimism.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự bi quan",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word pessimism.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bi quan.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pessimism process, key pessimism",
+        "wordFamily": "pessimism (noun)",
+        "image": "pessimism.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11222,
+        "word": "indifference",
+        "pronunciation": "/indifference/",
+        "audio": "indifference.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự thờ ơ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word indifference.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thờ ơ.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "indifference process, key indifference",
+        "wordFamily": "indifference (noun)",
+        "image": "indifference.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11223,
+        "word": "depression",
+        "pronunciation": "/dɪˈpɹɛʃən/",
+        "audio": "depression.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trầm cảm",
+        "definition": "In psychotherapy and psychiatry, a state of mind producing serious, long-term lowering of enjoyment of life or inability to visualize a happy future.",
+        "example": "I used to suffer from depression, but now I'm mostly content with my life.",
+        "exampleVi": "Tôi từng bị trầm cảm nhưng hiện tại tôi gần như hài lòng với cuộc sống của mình.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "depression process, key depression",
+        "wordFamily": "depression (noun)",
+        "image": "depression.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11224,
+        "word": "sympathy",
+        "pronunciation": "/sympathy/",
+        "audio": "sympathy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đồng cảm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word sympathy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cảm thông.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sympathy process, key sympathy",
+        "wordFamily": "sympathy (noun)",
+        "image": "sympathy.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11225,
+        "word": "stress",
+        "pronunciation": "/stɹɛs/",
+        "audio": "stress.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "căng thẳng",
+        "definition": "(Cause of) discomfort.",
+        "example": "We need to understand the concept of stress.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm căng thẳng.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stress process, key stress",
+        "wordFamily": "stress (noun)",
+        "image": "stress.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11226,
+        "word": "apathy",
+        "pronunciation": "/apathy/",
+        "audio": "apathy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự thờ ơ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word apathy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thờ ơ.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "apathy process, key apathy",
+        "wordFamily": "apathy (noun)",
+        "image": "apathy.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11227,
+        "word": "apprehension",
+        "pronunciation": "/æp.ɹɪˈhɛn.ʃən/",
+        "audio": "apprehension.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự e ngại",
+        "definition": "The physical act of seizing or taking hold of (something); seizing.",
+        "example": "We need to understand the concept of apprehension.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sợ hãi.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "apprehension process, key apprehension",
+        "wordFamily": "apprehension (noun)",
+        "image": "apprehension.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11228,
+        "word": "empathy",
+        "pronunciation": "/empathy/",
+        "audio": "empathy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đồng cảm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word empathy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đồng cảm.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "empathy process, key empathy",
+        "wordFamily": "empathy (noun)",
+        "image": "empathy.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11229,
+        "word": "reluctance",
+        "pronunciation": "/ɹɪˈlʌktəns/",
+        "audio": "reluctance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự miễn cưỡng",
+        "definition": "Unwillingness to do something.",
+        "example": "We need to understand the concept of reluctance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm miễn cưỡng.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "reluctance process, key reluctance",
+        "wordFamily": "reluctance (noun)",
+        "image": "reluctance.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11230,
+        "word": "compassion",
+        "pronunciation": "/compassion/",
+        "audio": "compassion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lòng trắc ẩn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word compassion.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ từ bi.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compassion process, key compassion",
+        "wordFamily": "compassion (noun)",
+        "image": "compassion.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11231,
+        "word": "warmth",
+        "pronunciation": "/warmth/",
+        "audio": "warmth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự ấm áp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word warmth.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ấm áp.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "warmth process, key warmth",
+        "wordFamily": "warmth (noun)",
+        "image": "warmth.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11232,
+        "word": "friendliness",
+        "pronunciation": "/friendliness/",
+        "audio": "friendliness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự thân thiện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word friendliness.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thân thiện.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "friendliness process, key friendliness",
+        "wordFamily": "friendliness (noun)",
+        "image": "friendliness.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11233,
+        "word": "hostility",
+        "pronunciation": "/hostility/",
+        "audio": "hostility.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự thù địch",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hostility.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thù địch.",
+        "topic": "Emotions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hostility process, key hostility",
+        "wordFamily": "hostility (noun)",
+        "image": "hostility.webp",
+        "tags": [
+            "emotions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

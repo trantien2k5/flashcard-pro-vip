@@ -1,0 +1,2738 @@
+[
+    {
+        "id": 12780,
+        "word": "sale",
+        "pronunciation": "/seɪl/",
+        "audio": "sale.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "doanh thu",
+        "definition": "A hall.",
+        "example": "We need to understand the concept of sale.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bán hàng.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sale process, key sale",
+        "wordFamily": "sale (noun)",
+        "image": "sale.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12781,
+        "word": "sell",
+        "pronunciation": "/sɛl/",
+        "audio": "sell.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bán",
+        "definition": "An act of selling.",
+        "example": "This is going to be a tough sell.",
+        "exampleVi": "Đây sẽ là một cuộc bán hàng khó khăn.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sell process, key sell",
+        "wordFamily": "sell (noun)",
+        "image": "sell.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12782,
+        "word": "buy",
+        "pronunciation": "/baɪ/",
+        "audio": "buy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mua",
+        "definition": "Something which is bought; a purchase.",
+        "example": "At only $30, the second-hand kitchen table was a great buy.",
+        "exampleVi": "Chỉ với 30 USD, chiếc bàn bếp cũ là một lựa chọn tuyệt vời.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "buy process, key buy",
+        "wordFamily": "buy (noun)",
+        "image": "buy.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12783,
+        "word": "purchase",
+        "pronunciation": "/ˈpɜːtʃəs/",
+        "audio": "purchase.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mua",
+        "definition": "The acquisition of title to, or property in, anything for a price; buying for money or its equivalent.",
+        "example": "They offer a free hamburger with the purchase of a drink.",
+        "exampleVi": "Họ cung cấp một chiếc bánh hamburger miễn phí khi mua đồ uống.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "purchase process, key purchase",
+        "wordFamily": "purchase (noun)",
+        "image": "purchase.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12784,
+        "word": "customer",
+        "pronunciation": "/ˈkʌstəmə/",
+        "audio": "customer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A patron, a client; one who purchases or receives a product or service from a business or merchant, or intends to do so.",
+        "example": "Every person who passes by is a potential customer.",
+        "exampleVi": "Mỗi người đi ngang qua đều là khách hàng tiềm năng.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "customer process, key customer",
+        "wordFamily": "customer (noun)",
+        "image": "customer.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12785,
+        "word": "client",
+        "pronunciation": "/ˈklʌɪənt/",
+        "audio": "client.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A customer, a buyer or receiver of goods or services.",
+        "example": "We need to understand the concept of client.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khách hàng.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "client process, key client",
+        "wordFamily": "client (noun)",
+        "image": "client.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12786,
+        "word": "deal",
+        "pronunciation": "/diːl/",
+        "audio": "deal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thỏa thuận",
+        "definition": "A division, a portion, a share.",
+        "example": "We gave three deals of grain in tribute to the king.",
+        "exampleVi": "Chúng tôi đã dâng ba lạng thóc để cống nạp cho nhà vua.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "deal process, key deal",
+        "wordFamily": "deal (noun)",
+        "image": "deal.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12787,
+        "word": "contract",
+        "pronunciation": "/ˈkɒntɹækt/",
+        "audio": "contract.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hợp đồng",
+        "definition": "An agreement between two or more parties, to perform a specific job or work order, often temporary or of fixed duration and usually governed by a written agreement.",
+        "example": "Marriage is a contract.",
+        "exampleVi": "Hôn nhân là một hợp đồng.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "contract process, key contract",
+        "wordFamily": "contract (noun)",
+        "image": "contract.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12788,
+        "word": "negotiate",
+        "pronunciation": "/nəˈɡəʊ.ʃi.eɪt/",
+        "audio": "negotiate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thương lượng",
+        "definition": "To confer with others in order to come to terms or reach an agreement.",
+        "example": "We need to understand the concept of negotiate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đàm phán.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "negotiate process, key negotiate",
+        "wordFamily": "negotiate (verb)",
+        "image": "negotiate.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12789,
+        "word": "price",
+        "pronunciation": "/pɹaɪs/",
+        "audio": "price.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá ",
+        "definition": "The cost required to gain possession of something.",
+        "example": "We need to understand the concept of price.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giá cả.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "price process, key price",
+        "wordFamily": "price (noun)",
+        "image": "price.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12790,
+        "word": "discount",
+        "pronunciation": "/dɪsˈkaʊnt/",
+        "audio": "discount.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giảm giá",
+        "definition": "A reduction in price.",
+        "example": "This store offers discounts on all its wares. That store specializes in discount wares, too.",
+        "exampleVi": "Cửa hàng này cung cấp giảm giá cho tất cả các sản phẩm của mình. Cửa hàng đó cũng chuyên về đồ giảm giá.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "discount process, key discount",
+        "wordFamily": "discount (noun)",
+        "image": "discount.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12791,
+        "word": "promotion",
+        "pronunciation": "/pɹəˈməʊʃən/",
+        "audio": "promotion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khuyến mãi",
+        "definition": "An advancement in rank or position.",
+        "example": "I'll have to give myself a promotion!",
+        "exampleVi": "Tôi sẽ phải tự thăng chức cho mình!",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "promotion process, key promotion",
+        "wordFamily": "promotion (noun)",
+        "image": "promotion.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12792,
+        "word": "commission",
+        "pronunciation": "/kəˈmɪʃən/",
+        "audio": "commission.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhiệm vụ",
+        "definition": "A sending or mission (to do or accomplish something).",
+        "example": "We need to understand the concept of commission.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hoa hồng.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "commission process, key commission",
+        "wordFamily": "commission (noun)",
+        "image": "commission.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12793,
+        "word": "quota",
+        "pronunciation": "/ˈkwoʊtə/",
+        "audio": "quota.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hạn ngạch",
+        "definition": "A proportional part or share; the share or proportion assigned to each in a division.",
+        "example": "We need to understand the concept of quota.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hạn ngạch.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "quota process, key quota",
+        "wordFamily": "quota (noun)",
+        "image": "quota.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12794,
+        "word": "revenue",
+        "pronunciation": "/ˈɹɛvənjuː/",
+        "audio": "revenue.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "doanh thu",
+        "definition": "The income returned by an investment.",
+        "example": "We need to understand the concept of revenue.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm doanh thu.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "revenue process, key revenue",
+        "wordFamily": "revenue (noun)",
+        "image": "revenue.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12795,
+        "word": "income",
+        "pronunciation": "/ˈɪnˌkʌm/",
+        "audio": "income.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thu nhập",
+        "definition": "Money one earns by working or by capitalising on the work of others.",
+        "example": "We need to understand the concept of income.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thu nhập.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "income process, key income",
+        "wordFamily": "income (noun)",
+        "image": "income.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12796,
+        "word": "profit",
+        "pronunciation": "/ˈpɹɒfɪt/",
+        "audio": "profit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lợi nhuận",
+        "definition": "Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price.",
+        "example": "We need to understand the concept of profit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lợi nhuận.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "profit process, key profit",
+        "wordFamily": "profit (noun)",
+        "image": "profit.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12797,
+        "word": "marketing",
+        "pronunciation": "/marketing/",
+        "audio": "marketing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tiếp thị",
+        "definition": "To make (products or services) available for sale and promote them.",
+        "example": "We plan to market an ecology model by next quarter.",
+        "exampleVi": "Chúng tôi dự định tung ra thị trường một mô hình sinh thái vào quý tới.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "marketing process, key marketing",
+        "wordFamily": "marketing (verb)",
+        "image": "marketing.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12798,
+        "word": "pitch",
+        "pronunciation": "/pɪtʃ/",
+        "audio": "pitch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sân bóng đá",
+        "definition": "A sticky, gummy substance secreted by trees; sap.",
+        "example": "It is hard to get this pitch off my hand.",
+        "exampleVi": "Thật khó để có được cú ném này khỏi tay tôi.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pitch process, key pitch",
+        "wordFamily": "pitch (noun)",
+        "image": "pitch.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12799,
+        "word": "lead",
+        "pronunciation": "/lɛd/",
+        "audio": "lead.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chỉ huy",
+        "definition": "A heavy, pliable, inelastic metal element, having a bright, bluish color, but easily tarnished; both malleable and ductile, though with little tenacity. It is easily fusible, forms alloys with other metals, and is an ingredient of solder and type metal. Atomic number 82, symbol Pb (from Latin plumbum).",
+        "example": "We need to understand the concept of lead.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chì.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lead process, key lead",
+        "wordFamily": "lead (noun)",
+        "image": "lead.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12800,
+        "word": "retail",
+        "pronunciation": "/ˈɹiˌteɪl/",
+        "audio": "retail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bán lẻ",
+        "definition": "The sale of goods directly to the consumer, encompassing the storefronts, mail-order, websites, etc., and the corporate mechanisms, branding, advertising, etc. that support them.",
+        "example": "She works in retail.",
+        "exampleVi": "Cô ấy làm việc trong lĩnh vực bán lẻ.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "retail process, key retail",
+        "wordFamily": "retail (noun)",
+        "image": "retail.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12801,
+        "word": "wholesale",
+        "pronunciation": "/ˈhoʊlseɪl/",
+        "audio": "wholesale.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bán buôn",
+        "definition": "The sale of products, often in large quantities, to retailers or other merchants.",
+        "example": "We need to understand the concept of wholesale.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bán buôn.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wholesale process, key wholesale",
+        "wordFamily": "wholesale (noun)",
+        "image": "wholesale.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12802,
+        "word": "order",
+        "pronunciation": "/ˈɔːdə/",
+        "audio": "order.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặt hàng",
+        "definition": "Arrangement, disposition, or sequence.",
+        "example": "We need to understand the concept of order.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trật tự.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "order process, key order",
+        "wordFamily": "order (noun)",
+        "image": "order.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12803,
+        "word": "invoice",
+        "pronunciation": "/ˈɪnˌvɔɪs/",
+        "audio": "invoice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hóa đơn",
+        "definition": "A bill; a commercial document issued by a seller to a buyer indicating the products, quantities and agreed prices for products or services that the seller has already provided the buyer with. An invoice indicates that, unless paid in advance, payment is due by the buyer to the seller, according to the agreed terms.",
+        "example": "We need to understand the concept of invoice.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hóa đơn.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "invoice process, key invoice",
+        "wordFamily": "invoice (noun)",
+        "image": "invoice.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12804,
+        "word": "receipt",
+        "pronunciation": "/ɹɪˈsiːt/",
+        "audio": "receipt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biên lai",
+        "definition": "The act of receiving, or the fact of having been received.",
+        "example": "A balance payable on receipt of the goods.",
+        "exampleVi": "Số dư thanh toán khi nhận hàng.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "receipt process, key receipt",
+        "wordFamily": "receipt (noun)",
+        "image": "receipt.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12805,
+        "word": "payment",
+        "pronunciation": "/ˈpeɪmənt/",
+        "audio": "payment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự chi trả",
+        "definition": "The act of paying.",
+        "example": "We need to understand the concept of payment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thanh toán.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "payment process, key payment",
+        "wordFamily": "payment (noun)",
+        "image": "payment.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12806,
+        "word": "transaction",
+        "pronunciation": "/tɹænˈzækʃən/",
+        "audio": "transaction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao dịch",
+        "definition": "The act of conducting or carrying out (business, negotiations, plans).",
+        "example": "The transaction was made on Friday with the supplier.",
+        "exampleVi": "Giao dịch được thực hiện vào thứ Sáu với nhà cung cấp.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "transaction process, key transaction",
+        "wordFamily": "transaction (noun)",
+        "image": "transaction.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12807,
+        "word": "seller",
+        "pronunciation": "/ˈsɛlə/",
+        "audio": "seller.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bán",
+        "definition": "Someone who sells; a vendor; a clerk.",
+        "example": "Alisha was a seller of fine books.",
+        "exampleVi": "Alisha là một người bán sách hay.",
+        "topic": "Sales",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "seller process, key seller",
+        "wordFamily": "seller (noun)",
+        "image": "seller.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12808,
+        "word": "market",
+        "pronunciation": "/market/",
+        "audio": "market.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thị trường",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word market.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thị trường.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "market process, key market",
+        "wordFamily": "market (noun)",
+        "image": "market.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12809,
+        "word": "demand",
+        "pronunciation": "/demand/",
+        "audio": "demand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhu cầu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word demand.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhu cầu.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demand process, key demand",
+        "wordFamily": "demand (noun)",
+        "image": "demand.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12810,
+        "word": "vendor",
+        "pronunciation": "/vendor/",
+        "audio": "vendor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà cung cấp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word vendor.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhà cung cấp.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vendor process, key vendor",
+        "wordFamily": "vendor (noun)",
+        "image": "vendor.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12811,
+        "word": "distributor",
+        "pronunciation": "/distributor/",
+        "audio": "distributor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà phân phối",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word distributor.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhà phân phối.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "distributor process, key distributor",
+        "wordFamily": "distributor (noun)",
+        "image": "distributor.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12812,
+        "word": "acquisition",
+        "pronunciation": "/acquisition/",
+        "audio": "acquisition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mua lại",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word acquisition.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng việc mua lại từ.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "acquisition process, key acquisition",
+        "wordFamily": "acquisition (noun)",
+        "image": "acquisition.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12813,
+        "word": "wholesaler",
+        "pronunciation": "/wholesaler/",
+        "audio": "wholesaler.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bán buôn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word wholesaler.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bán buôn.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wholesaler process, key wholesaler",
+        "wordFamily": "wholesaler (noun)",
+        "image": "wholesaler.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12814,
+        "word": "agreement",
+        "pronunciation": "/agreement/",
+        "audio": "agreement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thỏa thuận",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word agreement.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thỏa thuận.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "agreement process, key agreement",
+        "wordFamily": "agreement (noun)",
+        "image": "agreement.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12815,
+        "word": "representative",
+        "pronunciation": "/representative/",
+        "audio": "representative.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đại diện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word representative.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đại diện.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "representative process, key representative",
+        "wordFamily": "representative (noun)",
+        "image": "representative.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12816,
+        "word": "shopper",
+        "pronunciation": "/shopper/",
+        "audio": "shopper.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người mua hàng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word shopper.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ người mua sắm.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shopper process, key shopper",
+        "wordFamily": "shopper (noun)",
+        "image": "shopper.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12817,
+        "word": "retailer",
+        "pronunciation": "/retailer/",
+        "audio": "retailer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà bán lẻ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word retailer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bán lẻ.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "retailer process, key retailer",
+        "wordFamily": "retailer (noun)",
+        "image": "retailer.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12818,
+        "word": "agent",
+        "pronunciation": "/agent/",
+        "audio": "agent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đại lý",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word agent.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đại lý.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "agent process, key agent",
+        "wordFamily": "agent (noun)",
+        "image": "agent.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12819,
+        "word": "broker",
+        "pronunciation": "/broker/",
+        "audio": "broker.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người môi giới",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word broker.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ môi giới.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "broker process, key broker",
+        "wordFamily": "broker (noun)",
+        "image": "broker.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12820,
+        "word": "merchant",
+        "pronunciation": "/merchant/",
+        "audio": "merchant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bán",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word merchant.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thương gia.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "merchant process, key merchant",
+        "wordFamily": "merchant (noun)",
+        "image": "merchant.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12821,
+        "word": "buyer",
+        "pronunciation": "/buyer/",
+        "audio": "buyer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người mua",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word buyer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ người mua.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "buyer process, key buyer",
+        "wordFamily": "buyer (noun)",
+        "image": "buyer.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12822,
+        "word": "consumer",
+        "pronunciation": "/consumer/",
+        "audio": "consumer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người tiêu dùng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word consumer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ người tiêu dùng.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consumer process, key consumer",
+        "wordFamily": "consumer (noun)",
+        "image": "consumer.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12823,
+        "word": "rebate",
+        "pronunciation": "/rebate/",
+        "audio": "rebate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giảm giá",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word rebate.",
+        "exampleVi": "This is an example sentence using the word rebate.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rebate process, key rebate",
+        "wordFamily": "rebate (noun)",
+        "image": "rebate.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12824,
+        "word": "target",
+        "pronunciation": "/tɑːɡɪt/",
+        "audio": "target.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mục tiêu",
+        "definition": "A butt or mark to shoot at, as for practice, or to test the accuracy of a firearm, or the force of a projectile.",
+        "example": "Take careful aim at the target.",
+        "exampleVi": "Hãy cẩn thận nhắm vào mục tiêu.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "target process, key target",
+        "wordFamily": "target (noun)",
+        "image": "target.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12825,
+        "word": "credit",
+        "pronunciation": "/ˈkɹɛdɪt/",
+        "audio": "credit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tín dụng",
+        "definition": "Reliance on the truth of something said or done; faith; trust.",
+        "example": "We need to understand the concept of credit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tín dụng.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "credit process, key credit",
+        "wordFamily": "credit (noun)",
+        "image": "credit.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12826,
+        "word": "prospect",
+        "pronunciation": "/ˈpɹɒspɛkt/",
+        "audio": "prospect.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng tiềm năng",
+        "definition": "The region which the eye overlooks at one time; view; scene; outlook.",
+        "example": "We need to understand the concept of prospect.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm triển vọng.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "prospect process, key prospect",
+        "wordFamily": "prospect (noun)",
+        "image": "prospect.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12827,
+        "word": "margin",
+        "pronunciation": "/ˈmɑːdʒɪn/",
+        "audio": "margin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lợi nhuận",
+        "definition": "The edge of the paper, typically left blank when printing but sometimes used for annotations etc.",
+        "example": "We need to understand the concept of margin.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ký quỹ.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "margin process, key margin",
+        "wordFamily": "margin (noun)",
+        "image": "margin.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12828,
+        "word": "billing",
+        "pronunciation": "/ˈbɪlɪŋ/",
+        "audio": "billing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thanh toán",
+        "definition": "To dig, chop, etc., with a bill.",
+        "example": "We need to understand the concept of billing.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thanh toán.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "billing process, key billing",
+        "wordFamily": "billing (noun)",
+        "image": "billing.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12829,
+        "word": "forecast",
+        "pronunciation": "/ˈfɔːkɑːst/",
+        "audio": "forecast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dự báo",
+        "definition": "An estimation of a future condition.",
+        "example": "We need to understand the concept of forecast.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dự báo.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "forecast process, key forecast",
+        "wordFamily": "forecast (noun)",
+        "image": "forecast.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12830,
+        "word": "coldcall",
+        "pronunciation": "/coldcall/",
+        "audio": "coldcall.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "coldcall",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word coldcall.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ coldcall.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "coldcall process, key coldcall",
+        "wordFamily": "coldcall (noun)",
+        "image": "coldcall.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12831,
+        "word": "salespitch",
+        "pronunciation": "/salespitch/",
+        "audio": "salespitch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quảng cáo bán hàng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word salespitch.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ salespitch.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "salespitch process, key salespitch",
+        "wordFamily": "salespitch (noun)",
+        "image": "salespitch.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12832,
+        "word": "pipeline",
+        "pronunciation": "/ˈpaɪpˌlaɪn/",
+        "audio": "pipeline.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường ống",
+        "definition": "A conduit made of pipes used to convey water, gas or petroleum etc.",
+        "example": "An oil pipeline has been opened from the Caspian Sea.",
+        "exampleVi": "Một đường ống dẫn dầu đã được mở từ Biển Caspian.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pipeline process, key pipeline",
+        "wordFamily": "pipeline (noun)",
+        "image": "pipeline.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12833,
+        "word": "volume",
+        "pronunciation": "/ˈvɒl.juːm/",
+        "audio": "volume.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khối lượng",
+        "definition": "A three-dimensional measure of space that comprises a length, a width and a height. It is measured in units of cubic centimeters in metric, cubic inches or cubic feet in English measurement.",
+        "example": "The room is 9x12x8, so its volume is 864 cubic feet.",
+        "exampleVi": "Căn phòng có kích thước 9x12x8 nên thể tích của nó là 864 feet khối.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "volume process, key volume",
+        "wordFamily": "volume (noun)",
+        "image": "volume.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12834,
+        "word": "markup",
+        "pronunciation": "/ˈmɑː(ɹ)k.ʌp/",
+        "audio": "markup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đánh dấu",
+        "definition": "The notation that is used to indicate the meaning of the elements in an electronic document, or to dictate how text should be displayed.",
+        "example": "We need to understand the concept of markup.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đánh dấu.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "markup process, key markup",
+        "wordFamily": "markup (noun)",
+        "image": "markup.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12835,
+        "word": "advertising",
+        "pronunciation": "/ˈædvə(ɹ)ˌtaɪzɪŋ/",
+        "audio": "advertising.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "quảng cáo",
+        "definition": "To give (especially public) notice of (something); to announce publicly.",
+        "example": "We need to understand the concept of advertising.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm quảng cáo.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "advertising process, key advertising",
+        "wordFamily": "advertising (noun)",
+        "image": "advertising.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12836,
+        "word": "publicity",
+        "pronunciation": "/publicity/",
+        "audio": "publicity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công khai",
+        "definition": "Advertising or other activity designed to rouse public interest in something.",
+        "example": "We need to understand the concept of publicity.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công khai.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "publicity process, key publicity",
+        "wordFamily": "publicity (noun)",
+        "image": "publicity.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12837,
+        "word": "voucher",
+        "pronunciation": "/ˈvaʊtʃə(ɹ)/",
+        "audio": "voucher.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chứng từ",
+        "definition": "A piece of paper that entitles the holder to a discount, or that can be exchanged for goods and services.",
+        "example": "We need to understand the concept of voucher.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm voucher.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "voucher process, key voucher",
+        "wordFamily": "voucher (noun)",
+        "image": "voucher.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12838,
+        "word": "tax",
+        "pronunciation": "/tæks/",
+        "audio": "tax.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuế",
+        "definition": "Money paid to the government other than for transaction-specific goods and services.",
+        "example": "We need to understand the concept of tax.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thuế.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tax process, key tax",
+        "wordFamily": "tax (noun)",
+        "image": "tax.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12839,
+        "word": "tariff",
+        "pronunciation": "/ˈtæɹəf/",
+        "audio": "tariff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuế quan",
+        "definition": "A system of government-imposed duties levied on imported or exported goods; a list of such duties, or the duties themselves.",
+        "example": "We need to understand the concept of tariff.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thuế quan.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tariff process, key tariff",
+        "wordFamily": "tariff (noun)",
+        "image": "tariff.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12840,
+        "word": "duty",
+        "pronunciation": "/ˈdjuːti/",
+        "audio": "duty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghĩa vụ",
+        "definition": "That which one is morally or legally obligated to do.",
+        "example": "We don't have a duty to keep you here.",
+        "exampleVi": "Chúng tôi không có nhiệm vụ giữ bạn ở đây.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "duty process, key duty",
+        "wordFamily": "duty (noun)",
+        "image": "duty.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12841,
+        "word": "solicit",
+        "pronunciation": "/səˈlɪsɪt/",
+        "audio": "solicit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thu hút",
+        "definition": "Solicitation",
+        "example": "We need to understand the concept of solicit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chào mời.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "solicit process, key solicit",
+        "wordFamily": "solicit (noun)",
+        "image": "solicit.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12842,
+        "word": "negotiation",
+        "pronunciation": "/nɪˌɡəʊʃiˈeɪʃən/",
+        "audio": "negotiation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đàm phán",
+        "definition": "The process of achieving agreement through discussion.",
+        "example": "We need to understand the concept of negotiation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đàm phán.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "negotiation process, key negotiation",
+        "wordFamily": "negotiation (noun)",
+        "image": "negotiation.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12843,
+        "word": "canvass",
+        "pronunciation": "/canvass/",
+        "audio": "canvass.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "canvass",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word canvass.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ canvass.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "canvass process, key canvass",
+        "wordFamily": "canvass (noun)",
+        "image": "canvass.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12844,
+        "word": "fee",
+        "pronunciation": "/fiː/",
+        "audio": "fee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phí",
+        "definition": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+        "example": "We need to understand the concept of fee.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phí.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fee process, key fee",
+        "wordFamily": "fee (noun)",
+        "image": "fee.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12845,
+        "word": "royalty",
+        "pronunciation": "/ˈɹɔɪəlti/",
+        "audio": "royalty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền bản quyền",
+        "definition": "The rank, status, power or authority of a monarch.",
+        "example": "We need to understand the concept of royalty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hoàng gia.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "royalty process, key royalty",
+        "wordFamily": "royalty (noun)",
+        "image": "royalty.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12846,
+        "word": "excise",
+        "pronunciation": "/ˈɛkˌsaɪz/",
+        "audio": "excise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuế tiêu thụ đặc biệt",
+        "definition": "A tax charged on goods produced within the country (as opposed to customs duties, charged on goods from outside the country).",
+        "example": "We need to understand the concept of excise.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thuế tiêu thụ đặc biệt.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "excise process, key excise",
+        "wordFamily": "excise (noun)",
+        "image": "excise.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12847,
+        "word": "coupon",
+        "pronunciation": "/ˈkuːˌpɒn/",
+        "audio": "coupon.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phiếu giảm giá",
+        "definition": "A section of a ticket, showing the holder to be entitled to some specified accommodation or service, as to a passage over a designated line of travel, a particular seat in a theater, a discount, etc.",
+        "example": "We need to understand the concept of coupon.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phiếu giảm giá.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "coupon process, key coupon",
+        "wordFamily": "coupon (noun)",
+        "image": "coupon.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12848,
+        "word": "markdown",
+        "pronunciation": "/markdown/",
+        "audio": "markdown.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giảm giá",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word markdown.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ markdown.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "markdown process, key markdown",
+        "wordFamily": "markdown (noun)",
+        "image": "markdown.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12849,
+        "word": "merchandising",
+        "pronunciation": "/merchandising/",
+        "audio": "merchandising.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buôn bán",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word merchandising.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ buôn bán.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "merchandising process, key merchandising",
+        "wordFamily": "merchandising (noun)",
+        "image": "merchandising.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12850,
+        "word": "consignment",
+        "pronunciation": "/consignment/",
+        "audio": "consignment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lô hàng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word consignment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ký gửi.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consignment process, key consignment",
+        "wordFamily": "consignment (noun)",
+        "image": "consignment.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12851,
+        "word": "dealer",
+        "pronunciation": "/dealer/",
+        "audio": "dealer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đại lý",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dealer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đại lý.",
+        "topic": "Sales",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dealer process, key dealer",
+        "wordFamily": "dealer (noun)",
+        "image": "dealer.webp",
+        "tags": [
+            "sales",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

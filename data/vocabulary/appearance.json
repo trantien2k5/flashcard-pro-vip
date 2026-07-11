@@ -1,0 +1,2624 @@
+[
+    {
+        "id": 10156,
+        "word": "tall",
+        "pronunciation": "/tɔːl/",
+        "audio": "tall.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cao",
+        "definition": "(possibly nonstandard) Someone or something that is tall.",
+        "example": "We need to understand the concept of tall.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chiều cao.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tall process, key tall",
+        "wordFamily": "tall (noun)",
+        "image": "tall.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10157,
+        "word": "short",
+        "pronunciation": "/ʃoːt/",
+        "audio": "short.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngắn",
+        "definition": "A short circuit.",
+        "example": "We need to understand the concept of short.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ngắn.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "short process, key short",
+        "wordFamily": "short (noun)",
+        "image": "short.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10158,
+        "word": "slim",
+        "pronunciation": "/slɪm/",
+        "audio": "slim.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mảnh khảnh",
+        "definition": "A type of cigarette substantially longer and thinner than normal cigarettes.",
+        "example": "I only smoke slims.",
+        "exampleVi": "Tôi chỉ hút thuốc slims thôi.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "slim process, key slim",
+        "wordFamily": "slim (noun)",
+        "image": "slim.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10159,
+        "word": "thin",
+        "pronunciation": "/ˈθɪn/",
+        "audio": "thin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gầy",
+        "definition": "A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole.",
+        "example": "We need to understand the concept of thin.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mỏng.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "thin process, key thin",
+        "wordFamily": "thin (noun)",
+        "image": "thin.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10160,
+        "word": "plump",
+        "pronunciation": "/plʌmp/",
+        "audio": "plump.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đầy đặn",
+        "definition": "To grow plump; to swell out.",
+        "example": "Her cheeks have plumped.",
+        "exampleVi": "Má cô ấy đã sưng húp.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "plump process, key plump",
+        "wordFamily": "plump (verb)",
+        "image": "plump.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10161,
+        "word": "build",
+        "pronunciation": "/bɪld/",
+        "audio": "build.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xây dựng",
+        "definition": "The physique of a human body; constitution or structure of a human body.",
+        "example": "Rugby players are of sturdy build.",
+        "exampleVi": "Các cầu thủ bóng bầu dục có thân hình chắc chắn.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "build process, key build",
+        "wordFamily": "build (noun)",
+        "image": "build.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10162,
+        "word": "young",
+        "pronunciation": "/jʌŋ/",
+        "audio": "young.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trẻ",
+        "definition": "People who are young; young people, collectively; youth.",
+        "example": "The young of today are well-educated.",
+        "exampleVi": "Giới trẻ ngày nay được giáo dục tốt.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "young process, key young",
+        "wordFamily": "young (noun)",
+        "image": "young.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10163,
+        "word": "old",
+        "pronunciation": "/ˈɒʊld/",
+        "audio": "old.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cũ",
+        "definition": "(with the, invariable plural only) People who are old; old beings; the older generation, taken as a group.",
+        "example": "A civilised society should always look after the old in the community.",
+        "exampleVi": "Một xã hội văn minh phải luôn quan tâm đến người già trong cộng đồng.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "old process, key old",
+        "wordFamily": "old (noun)",
+        "image": "old.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10164,
+        "word": "attractive",
+        "pronunciation": "/əˈtɹæktɪv/",
+        "audio": "attractive.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hấp dẫn",
+        "definition": "Causing attraction; having the quality of attracting by inherent force.",
+        "example": "We need to understand the concept of attractive.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hấp dẫn.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "attractive process, key attractive",
+        "wordFamily": "attractive (adjective)",
+        "image": "attractive.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10165,
+        "word": "beautiful",
+        "pronunciation": "/ˈbjuːtɪfəl/",
+        "audio": "beautiful.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xinh đẹp",
+        "definition": "Someone who is beautiful. Can be used as a term of address.",
+        "example": "Hey, beautiful!",
+        "exampleVi": "Này, người đẹp!",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "beautiful process, key beautiful",
+        "wordFamily": "beautiful (noun)",
+        "image": "beautiful.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10166,
+        "word": "handsome",
+        "pronunciation": "/ˈhæn.səm/",
+        "audio": "handsome.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đẹp trai",
+        "definition": "To render handsome.",
+        "example": "We need to understand the concept of handsome.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đẹp trai.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "handsome process, key handsome",
+        "wordFamily": "handsome (verb)",
+        "image": "handsome.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10167,
+        "word": "bald",
+        "pronunciation": "/bɔːld/",
+        "audio": "bald.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hói",
+        "definition": "A mountain summit or crest that lacks forest growth despite a warm climate conducive to such, as is found in many places in the Southern Appalachian Mountains.",
+        "example": "We need to understand the concept of bald.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hói.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bald process, key bald",
+        "wordFamily": "bald (noun)",
+        "image": "bald.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10168,
+        "word": "beard",
+        "pronunciation": "/bɪəd/",
+        "audio": "beard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "râu ",
+        "definition": "Facial hair on the chin, cheeks, jaw and neck.",
+        "example": "We need to understand the concept of beard.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về râu.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "beard process, key beard",
+        "wordFamily": "beard (noun)",
+        "image": "beard.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10169,
+        "word": "mustache",
+        "pronunciation": "/məsˈtɑːʃ/",
+        "audio": "mustache.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ria",
+        "definition": "A growth of facial hair between the nose and the upper lip.",
+        "example": "We need to understand the concept of mustache.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ria mép.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mustache process, key mustache",
+        "wordFamily": "mustache (noun)",
+        "image": "mustache.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10170,
+        "word": "pale",
+        "pronunciation": "/peɪl/",
+        "audio": "pale.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tái nhợt",
+        "definition": "Paleness; pallor.",
+        "example": "We need to understand the concept of pale.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhạt.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pale process, key pale",
+        "wordFamily": "pale (noun)",
+        "image": "pale.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10171,
+        "word": "tanned",
+        "pronunciation": "/tanned/",
+        "audio": "tanned.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "rám nắng",
+        "definition": "To change to a tan colour due to exposure to the sun.",
+        "example": "No matter how long I stay out in the sun, I never tan. though I do burn.",
+        "exampleVi": "Dù có ở ngoài nắng bao lâu, tôi cũng không bao giờ bị rám nắng. mặc dù tôi bị bỏng.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tanned process, key tanned",
+        "wordFamily": "tanned (verb)",
+        "image": "tanned.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10172,
+        "word": "neat",
+        "pronunciation": "/niːt/",
+        "audio": "neat.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gọn gàng",
+        "definition": "An artificial intelligence researcher who believes that solutions should be elegant, clear and provably correct. Compare scruffy.",
+        "example": "We need to understand the concept of neat.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gọn gàng.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "neat process, key neat",
+        "wordFamily": "neat (noun)",
+        "image": "neat.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10173,
+        "word": "messy",
+        "pronunciation": "/ˈmɛsi/",
+        "audio": "messy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "lộn xộn",
+        "definition": "(of a place, situation, person, etc) In a disorderly state; chaotic; disorderly.",
+        "example": "Jim ran his fingers through his messy brown hair.",
+        "exampleVi": "Jim luồn những ngón tay vào mái tóc nâu rối bù của mình.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "messy process, key messy",
+        "wordFamily": "messy (adjective)",
+        "image": "messy.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10174,
+        "word": "blonde",
+        "pronunciation": "/blɒnd/",
+        "audio": "blonde.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tóc vàng",
+        "definition": "A pale yellowish (golden brown) color, especially said of hair color.",
+        "example": "We need to understand the concept of blonde.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cô gái tóc vàng.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "blonde process, key blonde",
+        "wordFamily": "blonde (noun)",
+        "image": "blonde.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10175,
+        "word": "brunette",
+        "pronunciation": "/bɹuːnɛt/",
+        "audio": "brunette.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tóc nâu",
+        "definition": "A person, especially female, with brown or black hair and, often, dark eyes and darkish or olive skin.",
+        "example": "We need to understand the concept of brunette.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tóc nâu.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "brunette process, key brunette",
+        "wordFamily": "brunette (noun)",
+        "image": "brunette.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10176,
+        "word": "wrinkle",
+        "pronunciation": "/ˈɹɪŋkl̩/",
+        "audio": "wrinkle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nếp nhăn",
+        "definition": "A small furrow, ridge or crease in an otherwise smooth surface.",
+        "example": "We need to understand the concept of wrinkle.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về nếp nhăn.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wrinkle process, key wrinkle",
+        "wordFamily": "wrinkle (noun)",
+        "image": "wrinkle.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10177,
+        "word": "freckle",
+        "pronunciation": "/ˈfɹɛkəl/",
+        "audio": "freckle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tàn nhang",
+        "definition": "A small brownish or reddish pigmentation spot on the surface of the skin.",
+        "example": "Steve has brown hair, blue eyes, and freckles on his cheeks and nose.",
+        "exampleVi": "Steve có mái tóc nâu, đôi mắt xanh và những đốm tàn nhang trên má và mũi.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "freckle process, key freckle",
+        "wordFamily": "freckle (noun)",
+        "image": "freckle.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10178,
+        "word": "athletic",
+        "pronunciation": "/æθˈlɛt.ɪk/",
+        "audio": "athletic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thể thao",
+        "definition": "Having to do with athletes.",
+        "example": "Are you a member of the American Athletic Association?",
+        "exampleVi": "Bạn có phải là thành viên của Hiệp hội Thể thao Hoa Kỳ?",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "athletic process, key athletic",
+        "wordFamily": "athletic (adjective)",
+        "image": "athletic.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10179,
+        "word": "muscular",
+        "pronunciation": "/ˈmʌs.kjə.lə/",
+        "audio": "muscular.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "cơ bắp",
+        "definition": "Of, relating to, or connected with muscles.",
+        "example": "We need to understand the concept of muscular.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cơ bắp.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "muscular process, key muscular",
+        "wordFamily": "muscular (adjective)",
+        "image": "muscular.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10180,
+        "word": "slender",
+        "pronunciation": "/ˈslɛndə/",
+        "audio": "slender.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "mảnh khảnh",
+        "definition": "Thin; slim.",
+        "example": "A rod is a long slender pole used for angling.",
+        "exampleVi": "Cần câu là một chiếc sào dài mảnh dùng để câu cá.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "slender process, key slender",
+        "wordFamily": "slender (adjective)",
+        "image": "slender.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10181,
+        "word": "height",
+        "pronunciation": "/haɪt/",
+        "audio": "height.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiều cao",
+        "definition": "The distance from the base of something to the top.",
+        "example": "We need to understand the concept of height.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chiều cao.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "height process, key height",
+        "wordFamily": "height (noun)",
+        "image": "height.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10182,
+        "word": "weight",
+        "pronunciation": "/weɪt/",
+        "audio": "weight.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cân nặng",
+        "definition": "(physical) Matter, material.",
+        "example": "We need to understand the concept of weight.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trọng lượng.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "weight process, key weight",
+        "wordFamily": "weight (noun)",
+        "image": "weight.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10183,
+        "word": "petite",
+        "pronunciation": "/pəˈtiːt/",
+        "audio": "petite.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nhỏ nhắn",
+        "definition": "(especially of a woman) fairly short and of slim build.",
+        "example": "We need to understand the concept of petite.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhỏ nhắn.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "petite process, key petite",
+        "wordFamily": "petite (noun)",
+        "image": "petite.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10184,
+        "word": "chubby",
+        "pronunciation": "/ˈtʃʌbi/",
+        "audio": "chubby.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mập mạp",
+        "definition": "A chubby, plump person",
+        "example": "We need to understand the concept of chubby.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mũm mĩm.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chubby process, key chubby",
+        "wordFamily": "chubby (noun)",
+        "image": "chubby.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10185,
+        "word": "overweight",
+        "pronunciation": "/overweight/",
+        "audio": "overweight.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thừa cân",
+        "definition": "An excess of weight.",
+        "example": "We need to understand the concept of overweight.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thừa cân.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "overweight process, key overweight",
+        "wordFamily": "overweight (noun)",
+        "image": "overweight.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10186,
+        "word": "gorgeous",
+        "pronunciation": "/ˈɡɔːdʒəs/",
+        "audio": "gorgeous.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "lộng lẫy",
+        "definition": "(of a person or place) Very beautiful.",
+        "example": "All the contest judges agreed that Brigitt was absolutely gorgeous.",
+        "exampleVi": "Tất cả giám khảo cuộc thi đều đồng ý rằng Brigitt thực sự xinh đẹp.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gorgeous process, key gorgeous",
+        "wordFamily": "gorgeous (noun)",
+        "image": "gorgeous.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10187,
+        "word": "cute",
+        "pronunciation": "/kjuːt/",
+        "audio": "cute.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "dễ thương",
+        "definition": "Possessing physical features, behaviors, personality traits or other properties that are mainly attributed to infants and small or cuddly animals; e.g. fair, dainty, round, and soft physical features, disproportionately large eyes and head, playfulness, fragility, helplessness, curiosity or shyness, innocence, affectionate behavior.",
+        "example": "Our reaction to cute attributes is understood as the way nature ensures mammals care for their young.",
+        "exampleVi": "Phản ứng của chúng ta trước những đặc điểm dễ thương được hiểu là cách thiên nhiên đảm bảo cho các loài động vật có vú chăm sóc con non của chúng.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cute process, key cute",
+        "wordFamily": "cute (noun)",
+        "image": "cute.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10188,
+        "word": "smart",
+        "pronunciation": "/smɑːt/",
+        "audio": "smart.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thông minh",
+        "definition": "To hurt or sting.",
+        "example": "After being hit with a pitch, the batter exclaimed \"Ouch, my arm smarts!\"",
+        "exampleVi": "Sau khi bị ném một cú ném, người đánh bóng kêu lên \"Ôi, cánh tay của tôi đau quá!\"",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "smart process, key smart",
+        "wordFamily": "smart (noun)",
+        "image": "smart.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10189,
+        "word": "elegant",
+        "pronunciation": "/ˈɛl.ə.ɡənt/",
+        "audio": "elegant.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thanh lịch",
+        "definition": "Characterised by or exhibiting elegance.",
+        "example": "We need to understand the concept of elegant.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thanh lịch.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "elegant process, key elegant",
+        "wordFamily": "elegant (noun)",
+        "image": "elegant.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10190,
+        "word": "casual",
+        "pronunciation": "/ˈkɛʒɘl/",
+        "audio": "casual.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bình thường",
+        "definition": "A worker who is only working for a company occasionally, not as its permanent employee.",
+        "example": "We need to understand the concept of casual.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bình thường.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "casual process, key casual",
+        "wordFamily": "casual (noun)",
+        "image": "casual.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10191,
+        "word": "fashionable",
+        "pronunciation": "/ˈfæʃənəbl̩/",
+        "audio": "fashionable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hợp thời trang",
+        "definition": "A fashionable person; a fop",
+        "example": "We need to understand the concept of fashionable.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thời trang.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fashionable process, key fashionable",
+        "wordFamily": "fashionable (noun)",
+        "image": "fashionable.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10192,
+        "word": "ugly",
+        "pronunciation": "/ˈʌɡli/",
+        "audio": "ugly.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xấu xí",
+        "definition": "Ugliness.",
+        "example": "We need to understand the concept of ugly.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xấu xí.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ugly process, key ugly",
+        "wordFamily": "ugly (noun)",
+        "image": "ugly.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10193,
+        "word": "normal",
+        "pronunciation": "/ˈnɔːməl/",
+        "audio": "normal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Bình thường",
+        "definition": "A line or vector that is perpendicular to another line, surface, or plane.",
+        "example": "We need to understand the concept of normal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bình thường.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "normal process, key normal",
+        "wordFamily": "normal (noun)",
+        "image": "normal.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10194,
+        "word": "average",
+        "pronunciation": "/ˈævəɹɪd͡ʒ/",
+        "audio": "average.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trung bình",
+        "definition": "The arithmetic mean.",
+        "example": "The average of 10, 20 and 24 is (10 + 20 + 24)/3 = 18.",
+        "exampleVi": "Trung bình cộng của 10, 20 và 24 là (10 + 20 + 24)/3 = 18.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "average process, key average",
+        "wordFamily": "average (noun)",
+        "image": "average.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10195,
+        "word": "feature",
+        "pronunciation": "/ˈfiːtʃə/",
+        "audio": "feature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính năng",
+        "definition": "One's structure or make-up: form, shape, bodily proportions.",
+        "example": "We need to understand the concept of feature.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tính năng.",
+        "topic": "Appearance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "feature process, key feature",
+        "wordFamily": "feature (noun)",
+        "image": "feature.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "complexion",
+        "pronunciation": "/kəmˈplɛkʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "nước da",
+        "definition": "The natural color, texture, and appearance of the skin, especially of the face.",
+        "example": "Her complexion was flawless, making her stand out in the business meeting.",
+        "exampleVi": "Nước da của cô ấy không tì vết, khiến cô nổi bật trong cuộc họp kinh doanh.",
+        "collocations": "fair complexion, dark complexion, healthy complexion",
+        "wordFamily": "complexionless (adjective)",
+        "id": 10196,
+        "audio": "complexion.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "complexion.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "attire",
+        "pronunciation": "/əˈtaɪər/",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang phục",
+        "definition": "Clothing, especially formal or elaborate clothing.",
+        "example": "The company's dress code requires professional attire for all employees.",
+        "exampleVi": "Quy định trang phục của công ty yêu cầu tất cả nhân viên mặc trang phục chuyên nghiệp.",
+        "collocations": "formal attire, business attire, casual attire",
+        "wordFamily": "attire (verb)",
+        "id": 10197,
+        "audio": "attire.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "attire.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "accessory",
+        "pronunciation": "/əkˈsɛsəri/",
+        "partOfSpeech": "noun",
+        "vietnamese": "phụ kiện",
+        "definition": "An item added to something else to make it more useful, versatile, or attractive.",
+        "example": "She chose a stylish accessory to complement her outfit for the presentation.",
+        "exampleVi": "Cô ấy chọn một phụ kiện thời trang để làm nổi bật trang phục của mình cho buổi thuyết trình.",
+        "collocations": "fashion accessory, jewelry accessory, essential accessory",
+        "wordFamily": "accessorize (verb), accessorization (noun)",
+        "id": 10198,
+        "audio": "accessory.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "accessory.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "grooming",
+        "pronunciation": "/ˈɡruːmɪŋ/",
+        "partOfSpeech": "noun",
+        "vietnamese": "chăm sóc bản thân",
+        "definition": "The practices of cleaning and maintaining one's appearance.",
+        "example": "Regular grooming is essential for maintaining a professional image in the workplace.",
+        "exampleVi": "Chăm sóc bản thân thường xuyên là điều cần thiết để duy trì hình ảnh chuyên nghiệp tại nơi làm việc.",
+        "collocations": "personal grooming, grooming habits, grooming products",
+        "wordFamily": "groom (verb), groomer (noun)",
+        "id": 10199,
+        "audio": "grooming.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "grooming.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "posture",
+        "pronunciation": "/ˈpɒstʃər/",
+        "partOfSpeech": "noun",
+        "vietnamese": "tư thế",
+        "definition": "The position in which someone holds their body when standing or sitting.",
+        "example": "Good posture can enhance your overall appearance during presentations.",
+        "exampleVi": "Tư thế tốt có thể nâng cao vẻ ngoài tổng thể của bạn trong các buổi thuyết trình.",
+        "collocations": "good posture, poor posture, upright posture",
+        "wordFamily": "postural (adjective)",
+        "id": 10200,
+        "audio": "posture.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "posture.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "attitude",
+        "pronunciation": "/ˈætɪtjuːd/",
+        "partOfSpeech": "noun",
+        "vietnamese": "thái độ",
+        "definition": "A settled way of thinking or feeling about something, often reflected in a person's behavior.",
+        "example": "A positive attitude can greatly influence how others perceive your appearance.",
+        "exampleVi": "Thái độ tích cực có thể ảnh hưởng lớn đến cách người khác nhìn nhận vẻ ngoài của bạn.",
+        "collocations": "positive attitude, negative attitude, confident attitude",
+        "wordFamily": "attitudinal (adjective)",
+        "id": 10201,
+        "audio": "attitude.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "attitude.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "style",
+        "pronunciation": "/staɪl/",
+        "partOfSpeech": "noun",
+        "vietnamese": "phong cách",
+        "definition": "A particular procedure by which something is done; a manner or way.",
+        "example": "Her unique style made her a trendsetter in the corporate world.",
+        "exampleVi": "Phong cách độc đáo của cô ấy khiến cô trở thành người dẫn đầu xu hướng trong thế giới doanh nghiệp.",
+        "collocations": "personal style, fashion style, classic style",
+        "wordFamily": "stylish (adjective), stylist (noun)",
+        "id": 10202,
+        "audio": "style.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "style.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "presentation",
+        "pronunciation": "/ˌprɛzənˈteɪʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "trình bày",
+        "definition": "The act of presenting information, especially in a formal setting.",
+        "example": "A well-prepared presentation can enhance your professional appearance.",
+        "exampleVi": "Một buổi trình bày được chuẩn bị tốt có thể nâng cao vẻ ngoài chuyên nghiệp của bạn.",
+        "collocations": "business presentation, formal presentation, visual presentation",
+        "wordFamily": "present (verb), presenter (noun)",
+        "id": 10203,
+        "audio": "presentation.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "presentation.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "impression",
+        "pronunciation": "/ɪmˈprɛʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "ấn tượng",
+        "definition": "An idea, feeling, or opinion about something or someone, often formed on the basis of a single encounter.",
+        "example": "First impressions are crucial in a business environment, often influenced by appearance.",
+        "exampleVi": "Ấn tượng đầu tiên rất quan trọng trong môi trường kinh doanh, thường bị ảnh hưởng bởi vẻ ngoài.",
+        "collocations": "first impression, lasting impression, positive impression",
+        "wordFamily": "impressive (adjective), impress (verb)",
+        "id": 10204,
+        "audio": "impression.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "impression.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "signature",
+        "pronunciation": "/ˈsɪɡnətʃər/",
+        "partOfSpeech": "noun",
+        "vietnamese": "chữ ký",
+        "definition": "A distinctive pattern, product, or characteristic by which someone or something can be identified.",
+        "example": "Her signature look included bold colors and unique accessories.",
+        "exampleVi": "Phong cách đặc trưng của cô ấy bao gồm màu sắc nổi bật và phụ kiện độc đáo.",
+        "collocations": "signature style, signature look, signature color",
+        "wordFamily": "sign (verb), signatory (noun)",
+        "id": 10205,
+        "audio": "signature.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "signature.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "appearance",
+        "pronunciation": "/əˈpɪərəns/",
+        "partOfSpeech": "noun",
+        "vietnamese": "vẻ bề ngoài",
+        "definition": "The way that someone or something looks.",
+        "example": "Maintaining a professional appearance is important in client-facing roles.",
+        "exampleVi": "Duy trì vẻ bề ngoài chuyên nghiệp là quan trọng trong các vai trò tiếp xúc với khách hàng.",
+        "collocations": "professional appearance, casual appearance, polished appearance",
+        "wordFamily": "appear (verb), appearing (noun)",
+        "id": 10206,
+        "audio": "appearance.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "appearance.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "demeanor",
+        "pronunciation": "/dɪˈmiːnər/",
+        "partOfSpeech": "noun",
+        "vietnamese": "cách cư xử",
+        "definition": "Outward behavior or bearing.",
+        "example": "Her confident demeanor made a strong impression during the interview.",
+        "exampleVi": "Cách cư xử tự tin của cô ấy đã tạo ấn tượng mạnh trong buổi phỏng vấn.",
+        "collocations": "calm demeanor, friendly demeanor, professional demeanor",
+        "wordFamily": "demean (verb), demeaningly (adverb)",
+        "id": 10207,
+        "audio": "demeanor.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "demeanor.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "facial",
+        "pronunciation": "/ˈfeɪʃəl/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thuộc về mặt",
+        "definition": "Relating to the face.",
+        "example": "Facial expressions can convey a lot about a person's feelings and attitudes.",
+        "exampleVi": "Biểu cảm trên mặt có thể truyền đạt nhiều điều về cảm xúc và thái độ của một người.",
+        "collocations": "facial features, facial hair, facial recognition",
+        "wordFamily": "face (noun), facially (adverb)",
+        "id": 10208,
+        "audio": "facial.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "facial.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "charisma",
+        "pronunciation": "/kəˈrɪzmə/",
+        "partOfSpeech": "noun",
+        "vietnamese": "sức hấp dẫn",
+        "definition": "Compelling attractiveness or charm that can inspire devotion in others.",
+        "example": "His charisma and confident appearance made him a natural leader.",
+        "exampleVi": "Sức hấp dẫn và vẻ ngoài tự tin của anh ấy khiến anh trở thành một nhà lãnh đạo tự nhiên.",
+        "collocations": "personal charisma, natural charisma, undeniable charisma",
+        "wordFamily": "charismatic (adjective)",
+        "id": 10209,
+        "audio": "charisma.mp3",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "charisma.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10210,
+        "word": "costume",
+        "pronunciation": "/ˈkɒs.tjuːm/",
+        "audio": "costume.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang phục",
+        "definition": "A style of dress, including garments, accessories and hairstyle, especially as characteristic of a particular country, period or people.",
+        "example": "The dancer was wearing Highland costume.",
+        "exampleVi": "Người vũ công mặc trang phục Tây Nguyên.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "costume process, key costume",
+        "wordFamily": "costume (noun)",
+        "image": "costume.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10211,
+        "word": "trend",
+        "pronunciation": "/tɹɛnd/",
+        "audio": "trend.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xu hướng",
+        "definition": "An inclination in a particular direction.",
+        "example": "the trend of a coastline",
+        "exampleVi": "xu hướng đường bờ biển",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trend process, key trend",
+        "wordFamily": "trend (noun)",
+        "image": "trend.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10212,
+        "word": "garment",
+        "pronunciation": "/ˈɡɑː.mənt/",
+        "audio": "garment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "may mặc",
+        "definition": "A single item of clothing.",
+        "example": "We need to understand the concept of garment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trang phục.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "garment process, key garment",
+        "wordFamily": "garment (noun)",
+        "image": "garment.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10213,
+        "word": "sloppy",
+        "pronunciation": "/sloppy/",
+        "audio": "sloppy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "cẩu thả",
+        "definition": "Very wet; covered in or composed of slop.",
+        "example": "The dog tracked sloppy mud through the kitchen!",
+        "exampleVi": "Con chó theo vết bùn nhếch nhác khắp nhà bếp!",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sloppy process, key sloppy",
+        "wordFamily": "sloppy (noun)",
+        "image": "sloppy.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10214,
+        "word": "tidy",
+        "pronunciation": "/ˈtaɪdi/",
+        "audio": "tidy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gọn gàng",
+        "definition": "A tabletop container for pens and stationery.",
+        "example": "a desk tidy",
+        "exampleVi": "bàn làm việc gọn gàng",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tidy process, key tidy",
+        "wordFamily": "tidy (noun)",
+        "image": "tidy.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10215,
+        "word": "formal",
+        "pronunciation": "/ˈfɔːməl/",
+        "audio": "formal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang trọng",
+        "definition": "Formalin.",
+        "example": "We need to understand the concept of formal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hình thức.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "formal process, key formal",
+        "wordFamily": "formal (noun)",
+        "image": "formal.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10216,
+        "word": "groom",
+        "pronunciation": "/ɡɹuːm/",
+        "audio": "groom.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chú rể",
+        "definition": "A man who is about to marry.",
+        "example": "We need to understand the concept of groom.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chú rể.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "groom process, key groom",
+        "wordFamily": "groom (noun)",
+        "image": "groom.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10217,
+        "word": "sophisticated",
+        "pronunciation": "/sophisticated/",
+        "audio": "sophisticated.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phức tạp",
+        "definition": "To make less natural or innocent.",
+        "example": "We need to understand the concept of sophisticated.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phức tạp.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sophisticated process, key sophisticated",
+        "wordFamily": "sophisticated (noun)",
+        "image": "sophisticated.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10218,
+        "word": "dimple",
+        "pronunciation": "/ˈdɪmpəl/",
+        "audio": "dimple.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lúm đồng tiền",
+        "definition": "A small depression or indentation in a surface.",
+        "example": "The accident created a dimple in the hood of the car.",
+        "exampleVi": "Vụ tai nạn đã tạo ra một vết lõm trên mui xe.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dimple process, key dimple",
+        "wordFamily": "dimple (noun)",
+        "image": "dimple.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10219,
+        "word": "shabby",
+        "pronunciation": "/ˈʃæb.i/",
+        "audio": "shabby.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tồi tàn",
+        "definition": "Torn or worn; unkempt.",
+        "example": "They lived in a tiny apartment, with some old, shabby furniture.",
+        "exampleVi": "Họ sống trong một căn hộ nhỏ với một số đồ đạc cũ kỹ, tồi tàn.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shabby process, key shabby",
+        "wordFamily": "shabby (noun)",
+        "image": "shabby.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10220,
+        "word": "outfit",
+        "pronunciation": "/ˈaʊtfɪt/",
+        "audio": "outfit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang phục",
+        "definition": "A set of clothing (with accessories).",
+        "example": "She wore a fashionable outfit with matching purse and shoes.",
+        "exampleVi": "Cô mặc một bộ trang phục thời trang với ví và giày phù hợp.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "outfit process, key outfit",
+        "wordFamily": "outfit (noun)",
+        "image": "outfit.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10221,
+        "word": "unremarkable",
+        "pronunciation": "/unremarkable/",
+        "audio": "unremarkable.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "không đáng kể",
+        "definition": "Not remarkable.",
+        "example": "We need to understand the concept of unremarkable.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm không đáng kể.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "unremarkable process, key unremarkable",
+        "wordFamily": "unremarkable (noun)",
+        "image": "unremarkable.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10222,
+        "word": "stature",
+        "pronunciation": "/ˈstætʃ.ə/",
+        "audio": "stature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tầm vóc",
+        "definition": "A person or animal's natural height when standing upright.",
+        "example": "We need to understand the concept of stature.",
+        "exampleVi": "We need to understand the concept of stature.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stature process, key stature",
+        "wordFamily": "stature (noun)",
+        "image": "stature.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10223,
+        "word": "physique",
+        "pronunciation": "/physique/",
+        "audio": "physique.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vóc dáng",
+        "definition": "The natural constitution, or physical structure, of a person.",
+        "example": "We need to understand the concept of physique.",
+        "exampleVi": "We need to understand the concept of physique.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "physique process, key physique",
+        "wordFamily": "physique (noun)",
+        "image": "physique.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10224,
+        "word": "distinctive",
+        "pronunciation": "/dɪˈstɪŋktɪv/",
+        "audio": "distinctive.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặc biệt",
+        "definition": "A distinctive thing: a quality or property permitting distinguishing; a characteristic.",
+        "example": "We need to understand the concept of distinctive.",
+        "exampleVi": "We need to understand the concept of distinctive.",
+        "topic": "Appearance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "distinctive process, key distinctive",
+        "wordFamily": "distinctive (noun)",
+        "image": "distinctive.webp",
+        "tags": [
+            "appearance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

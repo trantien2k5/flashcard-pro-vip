@@ -1,0 +1,2206 @@
+[
+    {
+        "id": 12722,
+        "word": "waiter",
+        "pronunciation": "/ˈweɪtə/",
+        "audio": "waiter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phục vụ nam",
+        "definition": "A male or female attendant who serves customers at their tables in a restaurant, café or similar.",
+        "example": "Waiter! There's a fly in my soup.",
+        "exampleVi": "Phục vụ nam! Có một con ruồi trong súp của tôi.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "waiter process, key waiter",
+        "wordFamily": "waiter (noun)",
+        "image": "waiter.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12723,
+        "word": "waitress",
+        "pronunciation": "/waitress/",
+        "audio": "waitress.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cô hầu bàn",
+        "definition": "A female attendant who serves customers in a restaurant, café, or similar.",
+        "example": "We need to understand the concept of waitress.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phục vụ bàn.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "waitress process, key waitress",
+        "wordFamily": "waitress (noun)",
+        "image": "waitress.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12724,
+        "word": "menu",
+        "pronunciation": "/ˈmɛnju/",
+        "audio": "menu.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thực đơn",
+        "definition": "The details of the food to be served at a banquet; a bill of fare.",
+        "example": "We need to understand the concept of menu.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thực đơn.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "menu process, key menu",
+        "wordFamily": "menu (noun)",
+        "image": "menu.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12725,
+        "word": "order",
+        "pronunciation": "/ˈɔːdə/",
+        "audio": "order.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặt hàng",
+        "definition": "Arrangement, disposition, or sequence.",
+        "example": "We need to understand the concept of order.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trật tự.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "order process, key order",
+        "wordFamily": "order (noun)",
+        "image": "order.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12726,
+        "word": "bill",
+        "pronunciation": "/bɪl/",
+        "audio": "bill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hóa đơn",
+        "definition": "Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th centuries, commonly consisting of a broad, heavy, double-edged, hook-shaped blade, with a short pike at the back and another at the top, attached to the end of a long staff.",
+        "example": "We need to understand the concept of bill.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hóa đơn.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bill process, key bill",
+        "wordFamily": "bill (noun)",
+        "image": "bill.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12727,
+        "word": "receipt",
+        "pronunciation": "/ɹɪˈsiːt/",
+        "audio": "receipt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biên lai",
+        "definition": "The act of receiving, or the fact of having been received.",
+        "example": "A balance payable on receipt of the goods.",
+        "exampleVi": "Số dư thanh toán khi nhận hàng.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "receipt process, key receipt",
+        "wordFamily": "receipt (noun)",
+        "image": "receipt.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12728,
+        "word": "tip",
+        "pronunciation": "/tɪp/",
+        "audio": "tip.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mẹo",
+        "definition": "The tip of the external ear.",
+        "example": "We need to understand the concept of tip.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiền boa.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tip process, key tip",
+        "wordFamily": "tip (noun)",
+        "image": "tip.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12729,
+        "word": "table",
+        "pronunciation": "/ˈteɪbəl/",
+        "audio": "table.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bàn",
+        "definition": "Furniture with a top surface to accommodate a variety of uses.",
+        "example": "We need to understand the concept of table.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bảng.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "table process, key table",
+        "wordFamily": "table (noun)",
+        "image": "table.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12730,
+        "word": "reservation",
+        "pronunciation": "/ˌɹɛzəˈveɪʃən/",
+        "audio": "reservation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đặt chỗ",
+        "definition": "The act of reserving, withholding or keeping back.",
+        "example": "The committee authorised the reservation of funds.",
+        "exampleVi": "Ủy ban đã cho phép dự trữ tiền.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reservation process, key reservation",
+        "wordFamily": "reservation (noun)",
+        "image": "reservation.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12731,
+        "word": "chef",
+        "pronunciation": "/ʃɛf/",
+        "audio": "chef.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đầu bếp",
+        "definition": "The presiding cook in the kitchen of a large household.",
+        "example": "We need to understand the concept of chef.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đầu bếp.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chef process, key chef",
+        "wordFamily": "chef (noun)",
+        "image": "chef.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12732,
+        "word": "kitchen",
+        "pronunciation": "/ˈkɪt͡ʃən/",
+        "audio": "kitchen.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng bếp",
+        "definition": "A room or area for preparing food.",
+        "example": "We need to understand the concept of kitchen.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bếp.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "kitchen process, key kitchen",
+        "wordFamily": "kitchen (noun)",
+        "image": "kitchen.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12733,
+        "word": "dish",
+        "pronunciation": "/dɪʃ/",
+        "audio": "dish.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "món ăn",
+        "definition": "A vessel such as a plate for holding or serving food, often flat with a depressed region in the middle.",
+        "example": "We need to understand the concept of dish.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về món ăn.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dish process, key dish",
+        "wordFamily": "dish (noun)",
+        "image": "dish.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12734,
+        "word": "meal",
+        "pronunciation": "/miːl/",
+        "audio": "meal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bữa ăn",
+        "definition": "Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity (as opposed to a snack).",
+        "example": "Breakfast is the morning meal, lunch is the noon meal, and dinner, or supper, is the evening meal.",
+        "exampleVi": "Bữa sáng là bữa sáng, bữa trưa là bữa trưa và bữa tối hay bữa tối là bữa tối.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "meal process, key meal",
+        "wordFamily": "meal (noun)",
+        "image": "meal.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12735,
+        "word": "dessert",
+        "pronunciation": "/dɪˈzɜːt/",
+        "audio": "dessert.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "món tráng miệng",
+        "definition": "A sweet confection served as the last course of a meal",
+        "example": "We need to understand the concept of dessert.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về món tráng miệng.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dessert process, key dessert",
+        "wordFamily": "dessert (noun)",
+        "image": "dessert.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12736,
+        "word": "appetizer",
+        "pronunciation": "/appetizer/",
+        "audio": "appetizer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "món khai vị",
+        "definition": "A small, light, and usually savory first course in a meal",
+        "example": "We need to understand the concept of appetizer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm món khai vị.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "appetizer process, key appetizer",
+        "wordFamily": "appetizer (noun)",
+        "image": "appetizer.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12737,
+        "word": "beverage",
+        "pronunciation": "/ˈbevəɹɪdʒ/",
+        "audio": "beverage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồ uống",
+        "definition": "A liquid to consume; a drink, such as tea, coffee, liquor, beer, milk, juice, or soft drinks, usually excluding water.",
+        "example": "We need to understand the concept of beverage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đồ uống.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "beverage process, key beverage",
+        "wordFamily": "beverage (noun)",
+        "image": "beverage.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12738,
+        "word": "service",
+        "pronunciation": "/ˈsɜːvɪs/",
+        "audio": "service.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dịch vụ",
+        "definition": "An act of being of assistance to someone.",
+        "example": "I say I did him a service by ending our relationship – now he can freely pursue his career.",
+        "exampleVi": "Tôi nói rằng tôi đã giúp ích cho anh ấy bằng cách chấm dứt mối quan hệ của chúng tôi - giờ anh ấy có thể tự do theo đuổi sự nghiệp của mình.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "service process, key service",
+        "wordFamily": "service (noun)",
+        "image": "service.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12739,
+        "word": "customer",
+        "pronunciation": "/ˈkʌstəmə/",
+        "audio": "customer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A patron, a client; one who purchases or receives a product or service from a business or merchant, or intends to do so.",
+        "example": "Every person who passes by is a potential customer.",
+        "exampleVi": "Mỗi người đi ngang qua đều là khách hàng tiềm năng.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "customer process, key customer",
+        "wordFamily": "customer (noun)",
+        "image": "customer.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12740,
+        "word": "dine",
+        "pronunciation": "/daɪn/",
+        "audio": "dine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ăn cơm trưa",
+        "definition": "Dinnertime",
+        "example": "We need to understand the concept of dine.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bữa ăn tối.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dine process, key dine",
+        "wordFamily": "dine (noun)",
+        "image": "dine.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12741,
+        "word": "buffet",
+        "pronunciation": "/ˈbʊfeɪ/",
+        "audio": "buffet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buffet",
+        "definition": "A counter or sideboard from which food and drinks are served or may be bought.",
+        "example": "We need to understand the concept of buffet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm buffet.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "buffet process, key buffet",
+        "wordFamily": "buffet (noun)",
+        "image": "buffet.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12742,
+        "word": "host",
+        "pronunciation": "/həʊst/",
+        "audio": "host.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chủ nhà",
+        "definition": "One which receives or entertains a guest, socially, commercially, or officially.",
+        "example": "A good host is always considerate of the guest’s needs.",
+        "exampleVi": "Một chủ nhà tốt luôn quan tâm đến nhu cầu của khách.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "host process, key host",
+        "wordFamily": "host (noun)",
+        "image": "host.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12743,
+        "word": "hostess",
+        "pronunciation": "/ˈhəʊstəs/",
+        "audio": "hostess.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bà chủ nhà",
+        "definition": "A female host.",
+        "example": "The host and hostess greeted their guests at the door.",
+        "exampleVi": "Ông chủ và bà chủ đón khách ở cửa.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hostess process, key hostess",
+        "wordFamily": "hostess (noun)",
+        "image": "hostess.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12744,
+        "word": "delivery",
+        "pronunciation": "/dɪˈlɪv(ə)ɹi/",
+        "audio": "delivery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận chuyển",
+        "definition": "The act of conveying something.",
+        "example": "The delivery was completed by four.",
+        "exampleVi": "Việc giao hàng đã được hoàn thành bởi bốn.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "delivery process, key delivery",
+        "wordFamily": "delivery (noun)",
+        "image": "delivery.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12745,
+        "word": "takeout",
+        "pronunciation": "/takeout/",
+        "audio": "takeout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mang đi",
+        "definition": "Food purchased from a takeaway.",
+        "example": "We need to understand the concept of takeout.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mang đi.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "takeout process, key takeout",
+        "wordFamily": "takeout (noun)",
+        "image": "takeout.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12746,
+        "word": "cuisine",
+        "pronunciation": "/cuisine/",
+        "audio": "cuisine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ẩm thực",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cuisine.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ẩm thực.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cuisine process, key cuisine",
+        "wordFamily": "cuisine (noun)",
+        "image": "cuisine.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12747,
+        "word": "gourmet",
+        "pronunciation": "/ˈɡɔːmeɪ/",
+        "audio": "gourmet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người sành ăn",
+        "definition": "A connoisseur in eating and drinking; someone who takes their food seriously.",
+        "example": "We need to understand the concept of gourmet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người sành ăn.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gourmet process, key gourmet",
+        "wordFamily": "gourmet (noun)",
+        "image": "gourmet.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12748,
+        "word": "delicious",
+        "pronunciation": "/dɪˈlɪʃəs/",
+        "audio": "delicious.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thơm ngon",
+        "definition": "Pleasing to taste; tasty.",
+        "example": "We need to understand the concept of delicious.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ngon.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "delicious process, key delicious",
+        "wordFamily": "delicious (noun)",
+        "image": "delicious.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12749,
+        "word": "taste",
+        "pronunciation": "/taste/",
+        "audio": "taste.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nếm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word taste.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hương vị.",
+        "topic": "Restaurant",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "taste process, key taste",
+        "wordFamily": "taste (noun)",
+        "image": "taste.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12750,
+        "word": "counter",
+        "pronunciation": "/counter/",
+        "audio": "counter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quầy",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word counter.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng bộ đếm từ.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "counter process, key counter",
+        "wordFamily": "counter (noun)",
+        "image": "counter.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12751,
+        "word": "booth",
+        "pronunciation": "/booth/",
+        "audio": "booth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gian hàng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word booth.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ gian hàng.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "booth process, key booth",
+        "wordFamily": "booth (noun)",
+        "image": "booth.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12752,
+        "word": "server",
+        "pronunciation": "/server/",
+        "audio": "server.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy chủ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word server.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ server.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "server process, key server",
+        "wordFamily": "server (noun)",
+        "image": "server.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12753,
+        "word": "booking",
+        "pronunciation": "/booking/",
+        "audio": "booking.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặt chỗ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word booking.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đặt phòng.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "booking process, key booking",
+        "wordFamily": "booking (noun)",
+        "image": "booking.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12754,
+        "word": "guest",
+        "pronunciation": "/guest/",
+        "audio": "guest.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word guest.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ guest.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "guest process, key guest",
+        "wordFamily": "guest (noun)",
+        "image": "guest.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12755,
+        "word": "bar",
+        "pronunciation": "/bar/",
+        "audio": "bar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quán bar",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word bar.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng thanh từ.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bar process, key bar",
+        "wordFamily": "bar (noun)",
+        "image": "bar.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12756,
+        "word": "hospitality",
+        "pronunciation": "/hospitality/",
+        "audio": "hospitality.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lòng hiếu khách",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hospitality.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hiếu khách.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hospitality process, key hospitality",
+        "wordFamily": "hospitality (noun)",
+        "image": "hospitality.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12757,
+        "word": "busboy",
+        "pronunciation": "/busboy/",
+        "audio": "busboy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chàng trai phục vụ bàn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word busboy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ busboy.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "busboy process, key busboy",
+        "wordFamily": "busboy (noun)",
+        "image": "busboy.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12758,
+        "word": "dining",
+        "pronunciation": "/dining/",
+        "audio": "dining.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ăn uống",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dining.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ăn uống.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dining process, key dining",
+        "wordFamily": "dining (noun)",
+        "image": "dining.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12759,
+        "word": "diner",
+        "pronunciation": "/diner/",
+        "audio": "diner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quán ăn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word diner.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ quán ăn.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "diner process, key diner",
+        "wordFamily": "diner (noun)",
+        "image": "diner.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12760,
+        "word": "patron",
+        "pronunciation": "/patron/",
+        "audio": "patron.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bảo trợ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word patron.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bảo trợ.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "patron process, key patron",
+        "wordFamily": "patron (noun)",
+        "image": "patron.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12761,
+        "word": "cook",
+        "pronunciation": "/cook/",
+        "audio": "cook.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nấu ăn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cook.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nấu ăn.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cook process, key cook",
+        "wordFamily": "cook (noun)",
+        "image": "cook.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12762,
+        "word": "client",
+        "pronunciation": "/client/",
+        "audio": "client.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word client.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ client.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "client process, key client",
+        "wordFamily": "client (noun)",
+        "image": "client.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12763,
+        "word": "gratuity",
+        "pronunciation": "/gratuity/",
+        "audio": "gratuity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền thưởng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word gratuity.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiền thưởng.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gratuity process, key gratuity",
+        "wordFamily": "gratuity (noun)",
+        "image": "gratuity.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12764,
+        "word": "condiment",
+        "pronunciation": "/ˈkɒn.dɪ.mənt/",
+        "audio": "condiment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gia vị",
+        "definition": "Something used to enhance the flavor of food; for example, salt or pepper.",
+        "example": "We need to understand the concept of condiment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gia vị.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "condiment process, key condiment",
+        "wordFamily": "condiment (noun)",
+        "image": "condiment.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12765,
+        "word": "recipe",
+        "pronunciation": "/ˈɹɛs.ə.pi/",
+        "audio": "recipe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công thức nấu ăn",
+        "definition": "A formula for preparing or using a medicine; a prescription; also, a medicine prepared from such instructions.",
+        "example": "We need to understand the concept of recipe.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về công thức.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "recipe process, key recipe",
+        "wordFamily": "recipe (noun)",
+        "image": "recipe.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12766,
+        "word": "invoice",
+        "pronunciation": "/ˈɪnˌvɔɪs/",
+        "audio": "invoice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hóa đơn",
+        "definition": "A bill; a commercial document issued by a seller to a buyer indicating the products, quantities and agreed prices for products or services that the seller has already provided the buyer with. An invoice indicates that, unless paid in advance, payment is due by the buyer to the seller, according to the agreed terms.",
+        "example": "We need to understand the concept of invoice.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hóa đơn.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "invoice process, key invoice",
+        "wordFamily": "invoice (noun)",
+        "image": "invoice.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12767,
+        "word": "catering",
+        "pronunciation": "/ˈkeɪt(ə)ɹɪŋ/",
+        "audio": "catering.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phục vụ ăn uống",
+        "definition": "To provide, particularly:",
+        "example": "We need to understand the concept of catering.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phục vụ ăn uống.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "catering process, key catering",
+        "wordFamily": "catering (noun)",
+        "image": "catering.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12768,
+        "word": "reservations",
+        "pronunciation": "/reservations/",
+        "audio": "reservations.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặt chỗ",
+        "definition": "The act of reserving, withholding or keeping back.",
+        "example": "The committee authorised the reservation of funds.",
+        "exampleVi": "Ủy ban đã cho phép dự trữ tiền.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "reservations process, key reservations",
+        "wordFamily": "reservations (noun)",
+        "image": "reservations.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12769,
+        "word": "napkin",
+        "pronunciation": "/ˈnæp.kɪn/",
+        "audio": "napkin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khăn ăn",
+        "definition": "A serviette; a (usually rectangular) piece of cloth or paper used at the table for wiping the mouth and hands for cleanliness while eating.",
+        "example": "We need to understand the concept of napkin.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khăn ăn.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "napkin process, key napkin",
+        "wordFamily": "napkin (noun)",
+        "image": "napkin.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12770,
+        "word": "banquet",
+        "pronunciation": "/ˈbæŋkwɪt/",
+        "audio": "banquet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bữa tiệc",
+        "definition": "A large celebratory meal; a feast.",
+        "example": "We need to understand the concept of banquet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiệc.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "banquet process, key banquet",
+        "wordFamily": "banquet (noun)",
+        "image": "banquet.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12771,
+        "word": "sommelier",
+        "pronunciation": "/ˌsɒmˈmɛli.ə/",
+        "audio": "sommelier.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người phục vụ rượu",
+        "definition": "The member of staff at a restaurant who keeps the wine cellar and advises the guests on a choice of wines; a wine steward / stewardess, a wine waiter / waitress / server.",
+        "example": "The sommelier recommended the perfect wine, opened the bottle with panache, and served it into glasses.",
+        "exampleVi": "Người phục vụ rượu đã giới thiệu loại rượu hoàn hảo, mở chai một cách phô trương và phục vụ nó vào ly.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sommelier process, key sommelier",
+        "wordFamily": "sommelier (noun)",
+        "image": "sommelier.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12772,
+        "word": "utensil",
+        "pronunciation": "/juˈtɛn.səl/",
+        "audio": "utensil.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dụng cụ",
+        "definition": "An instrument or device for domestic use, especially in the kitchen.",
+        "example": "We have convenient storage for all the kitchen utensils.",
+        "exampleVi": "Chúng tôi có nơi lưu trữ thuận tiện cho tất cả các dụng cụ nhà bếp.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "utensil process, key utensil",
+        "wordFamily": "utensil (noun)",
+        "image": "utensil.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12773,
+        "word": "bistro",
+        "pronunciation": "/ˈbiːstɹəʊ/",
+        "audio": "bistro.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quán rượu",
+        "definition": "A small restaurant.",
+        "example": "We need to understand the concept of bistro.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bistro.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bistro process, key bistro",
+        "wordFamily": "bistro (noun)",
+        "image": "bistro.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12774,
+        "word": "platter",
+        "pronunciation": "/platter/",
+        "audio": "platter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đĩa",
+        "definition": "A tray for serving foods.",
+        "example": "We need to understand the concept of platter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đĩa.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "platter process, key platter",
+        "wordFamily": "platter (noun)",
+        "image": "platter.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12775,
+        "word": "cutlery",
+        "pronunciation": "/ˈkʌt.lə.ɹi/",
+        "audio": "cutlery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dao kéo",
+        "definition": "A collective ensemble of eating and serving utensils such as knives, forks and spoons.",
+        "example": "We need to understand the concept of cutlery.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dao kéo.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cutlery process, key cutlery",
+        "wordFamily": "cutlery (noun)",
+        "image": "cutlery.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12776,
+        "word": "entree",
+        "pronunciation": "/entree/",
+        "audio": "entree.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "entree",
+        "definition": "(French Canada) A smaller dish served before the main course of a meal.",
+        "example": "We need to understand the concept of entree.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm entree.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "entree process, key entree",
+        "wordFamily": "entree (noun)",
+        "image": "entree.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12777,
+        "word": "starter",
+        "pronunciation": "/ˈstɑːtə(ɹ)/",
+        "audio": "starter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "món khai vị",
+        "definition": "Someone who starts something.",
+        "example": "a starter on a journey",
+        "exampleVi": "sự khởi đầu của một cuộc hành trình",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "starter process, key starter",
+        "wordFamily": "starter (noun)",
+        "image": "starter.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12778,
+        "word": "grill",
+        "pronunciation": "/ɡɹɪl/",
+        "audio": "grill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nướng",
+        "definition": "A grating; a grid of wire or a sheet of material with a pattern of holes or slots, usually used to protect something while allowing the passage of air and liquids. Typical uses: to allow air through a fan while preventing fingers or objects from passing; to allow people to talk to somebody, while preventing attack.",
+        "example": "We need to understand the concept of grill.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về món nướng.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "grill process, key grill",
+        "wordFamily": "grill (noun)",
+        "image": "grill.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12779,
+        "word": "patronage",
+        "pronunciation": "/ˈpeɪtɹənɪd͡ʒ/",
+        "audio": "patronage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự bảo trợ",
+        "definition": "The act of providing approval and support; backing; championship.",
+        "example": "His vigorous patronage of the conservatives got him in trouble with progressives.",
+        "exampleVi": "Sự bảo trợ mạnh mẽ của ông đối với những người bảo thủ đã khiến ông gặp rắc rối với những người cấp tiến.",
+        "topic": "Restaurant",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "patronage process, key patronage",
+        "wordFamily": "patronage (noun)",
+        "image": "patronage.webp",
+        "tags": [
+            "restaurant",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

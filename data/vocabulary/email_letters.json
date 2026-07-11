@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 11114,
+        "word": "email",
+        "pronunciation": "/ˈiːmeɪl/",
+        "audio": "email.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "e-mail",
+        "definition": "A system for transferring messages from one computer to another, usually through a network.",
+        "example": "He sent me his details via email.",
+        "exampleVi": "Anh ấy đã gửi cho tôi thông tin chi tiết của anh ấy qua email.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "email process, key email",
+        "wordFamily": "email (noun)",
+        "image": "email.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11115,
+        "word": "letter",
+        "pronunciation": "/-ɾə(ɹ)/",
+        "audio": "letter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư",
+        "definition": "A symbol in an alphabet.",
+        "example": "There are twenty-six letters in the English alphabet.",
+        "exampleVi": "Có hai mươi sáu chữ cái trong bảng chữ cái tiếng Anh.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "letter process, key letter",
+        "wordFamily": "letter (noun)",
+        "image": "letter.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11116,
+        "word": "mail",
+        "pronunciation": "/meɪ̯l/",
+        "audio": "mail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư",
+        "definition": "A bag or wallet.",
+        "example": "We need to understand the concept of mail.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thư.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mail process, key mail",
+        "wordFamily": "mail (noun)",
+        "image": "mail.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11117,
+        "word": "inbox",
+        "pronunciation": "/ˈɪmbɒks/",
+        "audio": "inbox.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hộp thư đến",
+        "definition": "A container in which papers to be dealt with are put.",
+        "example": "We need to understand the concept of inbox.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hộp thư đến.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "inbox process, key inbox",
+        "wordFamily": "inbox (noun)",
+        "image": "inbox.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11118,
+        "word": "sent",
+        "pronunciation": "/sɛnt/",
+        "audio": "sent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đã gửi",
+        "definition": "A subdivision of currency, equal to one hundredth of an Estonian kroon.",
+        "example": "We need to understand the concept of sent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gửi.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sent process, key sent",
+        "wordFamily": "sent (noun)",
+        "image": "sent.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11119,
+        "word": "draft",
+        "pronunciation": "/dɹæft/",
+        "audio": "draft.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản nháp",
+        "definition": "A current of air, usually coming into a room or vehicle.",
+        "example": "We need to understand the concept of draft.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dự thảo.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "draft process, key draft",
+        "wordFamily": "draft (noun)",
+        "image": "draft.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11120,
+        "word": "trash",
+        "pronunciation": "/tɹæʃ/",
+        "audio": "trash.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rác",
+        "definition": "Useless things to be discarded; rubbish; refuse.",
+        "example": "We need to understand the concept of trash.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rác.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "trash process, key trash",
+        "wordFamily": "trash (noun)",
+        "image": "trash.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11121,
+        "word": "subject",
+        "pronunciation": "/ˈsʌb.dʒɪkt/",
+        "audio": "subject.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "chủ thể",
+        "definition": "Likely to be affected by or to experience something.",
+        "example": "He's subject to sneezing fits.",
+        "exampleVi": "Anh ấy hay bị hắt hơi.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "subject process, key subject",
+        "wordFamily": "subject (adjective)",
+        "image": "subject.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11122,
+        "word": "recipient",
+        "pronunciation": "/ɹəˈsɪp.i.ənt/",
+        "audio": "recipient.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người nhận",
+        "definition": "One who receives.",
+        "example": "My e-mail never reached the intended recipient.",
+        "exampleVi": "Email của tôi không bao giờ đến được người nhận như dự kiến.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "recipient process, key recipient",
+        "wordFamily": "recipient (noun)",
+        "image": "recipient.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11123,
+        "word": "sender",
+        "pronunciation": "/ˈsɛndɚ/",
+        "audio": "sender.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người gửi",
+        "definition": "Someone who sends.",
+        "example": "The package was addressed to someone we didn't know, so we returned it to the sender.",
+        "exampleVi": "Gói hàng được gửi đến một người mà chúng tôi không biết, vì vậy chúng tôi đã trả lại cho người gửi.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sender process, key sender",
+        "wordFamily": "sender (noun)",
+        "image": "sender.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11124,
+        "word": "attach",
+        "pronunciation": "/əˈtætʃ/",
+        "audio": "attach.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "gắn",
+        "definition": "To fasten, to join to (literally and figuratively).",
+        "example": "An officer is attached to a certain regiment, company, or ship.",
+        "exampleVi": "Một sĩ quan được gắn vào một trung đoàn, đại đội hoặc tàu nhất định.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "attach process, key attach",
+        "wordFamily": "attach (verb)",
+        "image": "attach.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11125,
+        "word": "attachment",
+        "pronunciation": "/əˈtætʃmənt/",
+        "audio": "attachment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tập tin đính kèm",
+        "definition": "The act or process of (physically or figuratively) attaching.",
+        "example": "We need to understand the concept of attachment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gắn bó.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "attachment process, key attachment",
+        "wordFamily": "attachment (noun)",
+        "image": "attachment.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11126,
+        "word": "cc",
+        "pronunciation": "/siːˈsiː/",
+        "audio": "cc.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cc",
+        "definition": "(initialism) Carbon copy.",
+        "example": "We need to understand the concept of cc.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cc.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cc process, key cc",
+        "wordFamily": "cc (noun)",
+        "image": "cc.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11127,
+        "word": "bcc",
+        "pronunciation": "/bcc/",
+        "audio": "bcc.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bcc",
+        "definition": "Initialism of body-centered cubic.",
+        "example": "We need to understand the concept of bcc.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bcc.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bcc process, key bcc",
+        "wordFamily": "bcc (noun)",
+        "image": "bcc.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11128,
+        "word": "reply",
+        "pronunciation": "/ɹɪˈplaɪ/",
+        "audio": "reply.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hồi đáp",
+        "definition": "A written or spoken response; part of a conversation.",
+        "example": "We need to understand the concept of reply.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trả lời.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reply process, key reply",
+        "wordFamily": "reply (noun)",
+        "image": "reply.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11129,
+        "word": "forward",
+        "pronunciation": "/ˈfoːwəd/",
+        "audio": "forward.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phía trước",
+        "definition": "One of the eight players (comprising two props, one hooker, two locks, two flankers and one number eight, collectively known as the pack) whose primary task is to gain and maintain possession of the ball (compare back).",
+        "example": "We need to understand the concept of forward.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phía trước.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "forward process, key forward",
+        "wordFamily": "forward (noun)",
+        "image": "forward.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11130,
+        "word": "spam",
+        "pronunciation": "/ˈspæm/",
+        "audio": "spam.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư rác",
+        "definition": "(rarely countable) Unsolicited bulk electronic messages.",
+        "example": "I get far too much spam.",
+        "exampleVi": "Tôi nhận được quá nhiều thư rác.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "spam process, key spam",
+        "wordFamily": "spam (noun)",
+        "image": "spam.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11131,
+        "word": "signature",
+        "pronunciation": "/ˈsɪɡnətʃə/",
+        "audio": "signature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chữ ký",
+        "definition": "A person's name, written by that person, used as identification or to signify approval of accompanying material, such as a legal contract.",
+        "example": "We need to understand the concept of signature.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chữ ký.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "signature process, key signature",
+        "wordFamily": "signature (noun)",
+        "image": "signature.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11132,
+        "word": "address",
+        "pronunciation": "/æˈdɹɛs/",
+        "audio": "address.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Địa chỉ",
+        "definition": "Direction.",
+        "example": "We need to understand the concept of address.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa chỉ.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "address process, key address",
+        "wordFamily": "address (noun)",
+        "image": "address.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11133,
+        "word": "stamp",
+        "pronunciation": "/stæmp/",
+        "audio": "stamp.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "con tem",
+        "definition": "An act of stamping the foot, paw or hoof.",
+        "example": "The horse gave two quick stamps and rose up on its hind legs.",
+        "exampleVi": "Con ngựa giậm nhanh hai tiếng rồi đứng dậy bằng hai chân sau.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stamp process, key stamp",
+        "wordFamily": "stamp (noun)",
+        "image": "stamp.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11134,
+        "word": "header",
+        "pronunciation": "/header/",
+        "audio": "header.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêu đề",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word header.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng tiêu đề từ.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "header process, key header",
+        "wordFamily": "header (noun)",
+        "image": "header.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11135,
+        "word": "body",
+        "pronunciation": "/body/",
+        "audio": "body.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thân hình",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word body.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ body.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "body process, key body",
+        "wordFamily": "body (noun)",
+        "image": "body.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11136,
+        "word": "link",
+        "pronunciation": "/link/",
+        "audio": "link.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liên kết",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word link.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ liên kết.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "link process, key link",
+        "wordFamily": "link (noun)",
+        "image": "link.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11137,
+        "word": "download",
+        "pronunciation": "/download/",
+        "audio": "download.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tải về",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word download.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tải xuống.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "download process, key download",
+        "wordFamily": "download (noun)",
+        "image": "download.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11138,
+        "word": "upload",
+        "pronunciation": "/upload/",
+        "audio": "upload.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tải lên",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word upload.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tải lên.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "upload process, key upload",
+        "wordFamily": "upload (noun)",
+        "image": "upload.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11139,
+        "word": "notification",
+        "pronunciation": "/notification/",
+        "audio": "notification.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thông báo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word notification.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thông báo.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "notification process, key notification",
+        "wordFamily": "notification (noun)",
+        "image": "notification.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11140,
+        "word": "unsubscribe",
+        "pronunciation": "/unsubscribe/",
+        "audio": "unsubscribe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hủy đăng ký",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word unsubscribe.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hủy đăng ký.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "unsubscribe process, key unsubscribe",
+        "wordFamily": "unsubscribe (noun)",
+        "image": "unsubscribe.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11141,
+        "word": "subscribe",
+        "pronunciation": "/subscribe/",
+        "audio": "subscribe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặt mua",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word subscribe.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đăng ký.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "subscribe process, key subscribe",
+        "wordFamily": "subscribe (noun)",
+        "image": "subscribe.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11142,
+        "word": "deliver",
+        "pronunciation": "/deliver/",
+        "audio": "deliver.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word deliver.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giao hàng.",
+        "topic": "Email Letters",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "deliver process, key deliver",
+        "wordFamily": "deliver (noun)",
+        "image": "deliver.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11143,
+        "word": "archive",
+        "pronunciation": "/ˈɑɹkaɪv/",
+        "audio": "archive.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lưu trữ",
+        "definition": "A place for storing earlier, and often historical, material. An archive usually contains documents (letters, records, newspapers, etc.) or other types of media kept for historical interest.",
+        "example": "We need to understand the concept of archive.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lưu trữ.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "archive process, key archive",
+        "wordFamily": "archive (noun)",
+        "image": "archive.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11144,
+        "word": "delivery",
+        "pronunciation": "/dɪˈlɪv(ə)ɹi/",
+        "audio": "delivery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gửi",
+        "definition": "The act of conveying something.",
+        "example": "The delivery was completed by four.",
+        "exampleVi": "Việc giao hàng đã được hoàn thành bởi bốn.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "delivery process, key delivery",
+        "wordFamily": "delivery (noun)",
+        "image": "delivery.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11145,
+        "word": "filter",
+        "pronunciation": "/ˈfɪltə/",
+        "audio": "filter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bộ lọc",
+        "definition": "A device which separates a suspended, dissolved, or particulate matter from a fluid, solution, or other substance; any device that separates one substance from another.",
+        "example": "We need to understand the concept of filter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bộ lọc.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "filter process, key filter",
+        "wordFamily": "filter (noun)",
+        "image": "filter.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11146,
+        "word": "alert",
+        "pronunciation": "/əˈlɜːt/",
+        "audio": "alert.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cảnh báo",
+        "definition": "An alarm.",
+        "example": "We need to understand the concept of alert.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cảnh báo.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "alert process, key alert",
+        "wordFamily": "alert (noun)",
+        "image": "alert.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11147,
+        "word": "correspondence",
+        "pronunciation": "/ˌkɒɹɪˈspɒndəns/",
+        "audio": "correspondence.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư từ",
+        "definition": "Friendly discussion.",
+        "example": "We need to understand the concept of correspondence.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thư từ.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "correspondence process, key correspondence",
+        "wordFamily": "correspondence (noun)",
+        "image": "correspondence.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11148,
+        "word": "signoff",
+        "pronunciation": "/signoff/",
+        "audio": "signoff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phê duyệt",
+        "definition": "The act or process of signing off (approving with a signature).",
+        "example": "We need to understand the concept of signoff.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phê duyệt.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "signoff process, key signoff",
+        "wordFamily": "signoff (noun)",
+        "image": "signoff.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11149,
+        "word": "bounce",
+        "pronunciation": "/baʊns/",
+        "audio": "bounce.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bị trả lại",
+        "definition": "A change of direction of motion after hitting the ground or an obstacle.",
+        "example": "We need to understand the concept of bounce.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về độ nảy.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bounce process, key bounce",
+        "wordFamily": "bounce (noun)",
+        "image": "bounce.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11150,
+        "word": "outbox",
+        "pronunciation": "/aʊtˈbɒks/",
+        "audio": "outbox.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hộp thư đi",
+        "definition": "A box holding papers to be transmitted to others, eg, by mail.",
+        "example": "We need to understand the concept of outbox.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hộp thư đi.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "outbox process, key outbox",
+        "wordFamily": "outbox (noun)",
+        "image": "outbox.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11151,
+        "word": "junk",
+        "pronunciation": "/dʒʌŋk/",
+        "audio": "junk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rác",
+        "definition": "Discarded or waste material; rubbish, trash.",
+        "example": "We need to understand the concept of junk.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rác.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "junk process, key junk",
+        "wordFamily": "junk (noun)",
+        "image": "junk.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11152,
+        "word": "footer",
+        "pronunciation": "/ˈfʊtə/",
+        "audio": "footer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chân trang",
+        "definition": "A footgoer; pedestrian",
+        "example": "We need to understand the concept of footer.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm footer.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "footer process, key footer",
+        "wordFamily": "footer (noun)",
+        "image": "footer.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11153,
+        "word": "replyall",
+        "pronunciation": "/replyall/",
+        "audio": "replyall.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "replyall",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word replyall.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ replyall.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "replyall process, key replyall",
+        "wordFamily": "replyall (noun)",
+        "image": "replyall.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11154,
+        "word": "salutation",
+        "pronunciation": "/salutation/",
+        "audio": "salutation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lời chào",
+        "definition": "A greeting, salute, or address; a hello.",
+        "example": "We need to understand the concept of salutation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chào hỏi.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "salutation process, key salutation",
+        "wordFamily": "salutation (noun)",
+        "image": "salutation.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11155,
+        "word": "parcel",
+        "pronunciation": "/parcel/",
+        "audio": "parcel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bưu kiện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word parcel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bưu kiện.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "parcel process, key parcel",
+        "wordFamily": "parcel (noun)",
+        "image": "parcel.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11156,
+        "word": "addressee",
+        "pronunciation": "/addressee/",
+        "audio": "addressee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người nhận",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word addressee.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ người nhận.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "addressee process, key addressee",
+        "wordFamily": "addressee (noun)",
+        "image": "addressee.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11157,
+        "word": "postmark",
+        "pronunciation": "/postmark/",
+        "audio": "postmark.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dấu bưu điện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word postmark.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dấu bưu điện.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "postmark process, key postmark",
+        "wordFamily": "postmark (noun)",
+        "image": "postmark.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11158,
+        "word": "courier",
+        "pronunciation": "/courier/",
+        "audio": "courier.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyển phát nhanh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word courier.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chuyển phát nhanh.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "courier process, key courier",
+        "wordFamily": "courier (noun)",
+        "image": "courier.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11159,
+        "word": "envelope",
+        "pronunciation": "/envelope/",
+        "audio": "envelope.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phong bì",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word envelope.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phong bì.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "envelope process, key envelope",
+        "wordFamily": "envelope (noun)",
+        "image": "envelope.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11160,
+        "word": "postage",
+        "pronunciation": "/postage/",
+        "audio": "postage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bưu phí",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word postage.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bưu chính.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "postage process, key postage",
+        "wordFamily": "postage (noun)",
+        "image": "postage.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11161,
+        "word": "package",
+        "pronunciation": "/package/",
+        "audio": "package.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gói",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word package.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng gói từ.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "package process, key package",
+        "wordFamily": "package (noun)",
+        "image": "package.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11162,
+        "word": "mailbox",
+        "pronunciation": "/mailbox/",
+        "audio": "mailbox.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hộp thư",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word mailbox.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng hộp thư từ.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mailbox process, key mailbox",
+        "wordFamily": "mailbox (noun)",
+        "image": "mailbox.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11163,
+        "word": "letterhead",
+        "pronunciation": "/letterhead/",
+        "audio": "letterhead.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêu đề thư",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word letterhead.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ letterhead.",
+        "topic": "Email Letters",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "letterhead process, key letterhead",
+        "wordFamily": "letterhead (noun)",
+        "image": "letterhead.webp",
+        "tags": [
+            "email",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

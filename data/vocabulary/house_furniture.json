@@ -1,0 +1,4562 @@
+[
+    {
+        "id": 11814,
+        "word": "door",
+        "pronunciation": "/dɔː/",
+        "audio": "door.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cửa",
+        "definition": "A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.",
+        "example": "I knocked on the vice president's door",
+        "exampleVi": "Tôi gõ cửa phòng phó chủ tịch",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "door process, key door",
+        "wordFamily": "door (noun)",
+        "image": "door.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11815,
+        "word": "window",
+        "pronunciation": "/ˈwɪndəʊ/",
+        "audio": "window.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cửa sổ",
+        "definition": "The inedible parts of a grain-producing plant.",
+        "example": "To separate out the chaff, early cultures tossed baskets of grain into the air and let the wind blow away the lighter chaff.",
+        "exampleVi": "Để tách trấu ra, các nền văn hóa ban đầu đã ném những giỏ ngũ cốc lên không trung và để gió thổi bay những trấu nhẹ hơn.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "window process, key window",
+        "wordFamily": "window (noun)",
+        "image": "window.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11816,
+        "word": "wall",
+        "pronunciation": "/wɔːl/",
+        "audio": "wall.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tường",
+        "definition": "A rampart of earth, stones etc. built up for defensive purposes.",
+        "example": "We need to understand the concept of wall.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bức tường.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wall process, key wall",
+        "wordFamily": "wall (noun)",
+        "image": "wall.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11817,
+        "word": "floor",
+        "pronunciation": "/flɔː/",
+        "audio": "floor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sàn nhà",
+        "definition": "The interior bottom or surface of a house or building; the supporting surface of a room.",
+        "example": "The room has a wooden floor.",
+        "exampleVi": "Phòng có sàn gỗ.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "floor process, key floor",
+        "wordFamily": "floor (noun)",
+        "image": "floor.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11818,
+        "word": "ceiling",
+        "pronunciation": "/ˈsiːlɪŋ/",
+        "audio": "ceiling.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "trần nhà",
+        "definition": "To line or finish (a surface, such as a wall), with plaster, stucco, thin boards, or similar.",
+        "example": "We need to understand the concept of ceiling.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trần nhà.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ceiling process, key ceiling",
+        "wordFamily": "ceiling (verb)",
+        "image": "ceiling.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11819,
+        "word": "roof",
+        "pronunciation": "/ɹuːf/",
+        "audio": "roof.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mái nhà",
+        "definition": "The external covering at the top of a building.",
+        "example": "The roof was blown off by the tornado.",
+        "exampleVi": "Mái nhà bị lốc xoáy thổi bay.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "roof process, key roof",
+        "wordFamily": "roof (noun)",
+        "image": "roof.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11820,
+        "word": "room",
+        "pronunciation": "/ɹuːm/",
+        "audio": "room.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng",
+        "definition": "Opportunity or scope (to do something).",
+        "example": "We need to understand the concept of room.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phòng.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "room process, key room",
+        "wordFamily": "room (noun)",
+        "image": "room.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11821,
+        "word": "bedroom",
+        "pronunciation": "/ˈbɛdɹʊm/",
+        "audio": "bedroom.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng ngủ",
+        "definition": "A room in a house where a bed is kept for sleeping.",
+        "example": "Please don't enter my bedroom without knocking.",
+        "exampleVi": "Làm ơn đừng vào phòng ngủ của tôi mà không gõ cửa.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bedroom process, key bedroom",
+        "wordFamily": "bedroom (noun)",
+        "image": "bedroom.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11822,
+        "word": "bathroom",
+        "pronunciation": "/ˈbæθ.ɹuːm/",
+        "audio": "bathroom.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng tắm",
+        "definition": "A room containing a shower and/or bathtub, and (typically but not necessarily) a toilet.",
+        "example": "We need to understand the concept of bathroom.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phòng tắm.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bathroom process, key bathroom",
+        "wordFamily": "bathroom (noun)",
+        "image": "bathroom.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11823,
+        "word": "kitchen",
+        "pronunciation": "/ˈkɪt͡ʃən/",
+        "audio": "kitchen.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng bếp",
+        "definition": "A room or area for preparing food.",
+        "example": "We need to understand the concept of kitchen.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bếp.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "kitchen process, key kitchen",
+        "wordFamily": "kitchen (noun)",
+        "image": "kitchen.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11824,
+        "word": "living",
+        "pronunciation": "/ˈlɪvɪŋ/",
+        "audio": "living.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "cuộc sống",
+        "definition": "To be alive; to have life.",
+        "example": "He's not expected to live for more than a few months.",
+        "exampleVi": "Dự kiến ​​anh ta sẽ không thể sống quá vài tháng.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "living process, key living",
+        "wordFamily": "living (verb)",
+        "image": "living.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11825,
+        "word": "garden",
+        "pronunciation": "/ˈɡɑːdn̩/",
+        "audio": "garden.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vườn",
+        "definition": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.",
+        "example": "a vegetable garden  a flower garden",
+        "exampleVi": "vườn rau, vườn hoa",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "garden process, key garden",
+        "wordFamily": "garden (noun)",
+        "image": "garden.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11826,
+        "word": "furniture",
+        "pronunciation": "/ˈfɜːnɪtʃə/",
+        "audio": "furniture.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nội thất",
+        "definition": "Large movable item(s), usually in a room, which enhance(s) the room's characteristics, functionally or decoratively.",
+        "example": "A chair is furniture. Sofas are also furniture.",
+        "exampleVi": "Một chiếc ghế là đồ nội thất. Ghế sofa cũng là đồ nội thất.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "furniture process, key furniture",
+        "wordFamily": "furniture (noun)",
+        "image": "furniture.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11827,
+        "word": "table",
+        "pronunciation": "/ˈteɪbəl/",
+        "audio": "table.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bàn",
+        "definition": "Furniture with a top surface to accommodate a variety of uses.",
+        "example": "We need to understand the concept of table.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bảng.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "table process, key table",
+        "wordFamily": "table (noun)",
+        "image": "table.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11828,
+        "word": "chair",
+        "pronunciation": "/t͡ʃɛə(ɹ)/",
+        "audio": "chair.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái ghế",
+        "definition": "An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench.",
+        "example": "All I need to weather a snowstorm is hot coffee, a warm fire, a good book and a comfortable chair.",
+        "exampleVi": "Tất cả những gì tôi cần để vượt qua cơn bão tuyết là cà phê nóng, lửa ấm, một cuốn sách hay và một chiếc ghế êm ái.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chair process, key chair",
+        "wordFamily": "chair (noun)",
+        "image": "chair.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11829,
+        "word": "sofa",
+        "pronunciation": "/ˈsəʊfə/",
+        "audio": "sofa.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ghế sofa",
+        "definition": "A raised area of a building's floor, usually covered with carpeting, used for sitting.",
+        "example": "We need to understand the concept of sofa.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm về ghế sofa.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sofa process, key sofa",
+        "wordFamily": "sofa (noun)",
+        "image": "sofa.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11830,
+        "word": "bed",
+        "pronunciation": "/bed/",
+        "audio": "bed.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giường",
+        "definition": "A piece of furniture, usually flat and soft, on which to rest or sleep.",
+        "example": "My cat often sleeps on my bed.\nI keep a glass of water next to my bed when I sleep.",
+        "exampleVi": "Con mèo của tôi thường ngủ trên giường của tôi.\nTôi để một cốc nước cạnh giường khi ngủ.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bed process, key bed",
+        "wordFamily": "bed (noun)",
+        "image": "bed.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11831,
+        "word": "desk",
+        "pronunciation": "/dɛsk/",
+        "audio": "desk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bàn làm việc",
+        "definition": "A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and readers. It often has a drawer or repository underneath.",
+        "example": "We need to understand the concept of desk.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bàn làm việc.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "desk process, key desk",
+        "wordFamily": "desk (noun)",
+        "image": "desk.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11832,
+        "word": "closet",
+        "pronunciation": "/ˈklɒzɪt/",
+        "audio": "closet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buồng nhỏ",
+        "definition": "Any private area, (particularly) bowers in the open air.",
+        "example": "We need to understand the concept of closet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tủ quần áo.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "closet process, key closet",
+        "wordFamily": "closet (noun)",
+        "image": "closet.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11833,
+        "word": "cabinet",
+        "pronunciation": "/ˈkæ.bɪ.nɪt/",
+        "audio": "cabinet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ",
+        "definition": "A storage closet either separate from, or built into, a wall.",
+        "example": "We need to understand the concept of cabinet.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm tủ.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cabinet process, key cabinet",
+        "wordFamily": "cabinet (noun)",
+        "image": "cabinet.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11834,
+        "word": "shelf",
+        "pronunciation": "/ʃɛlf/",
+        "audio": "shelf.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái kệ",
+        "definition": "A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk etc., and used to support, store or display objects.",
+        "example": "We need to understand the concept of shelf.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về kệ.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shelf process, key shelf",
+        "wordFamily": "shelf (noun)",
+        "image": "shelf.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11835,
+        "word": "lamp",
+        "pronunciation": "/læmp/",
+        "audio": "lamp.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đèn",
+        "definition": "A device that generates heat, light or other radiation. Especially an electric light bulb.",
+        "example": "We need to understand the concept of lamp.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đèn.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lamp process, key lamp",
+        "wordFamily": "lamp (noun)",
+        "image": "lamp.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11836,
+        "word": "carpet",
+        "pronunciation": "/ˈkɑː(ɹ)pɪt/",
+        "audio": "carpet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thảm",
+        "definition": "A fabric used as a complete floor covering.",
+        "example": "We need to understand the concept of carpet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thảm.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "carpet process, key carpet",
+        "wordFamily": "carpet (noun)",
+        "image": "carpet.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11837,
+        "word": "mirror",
+        "pronunciation": "/ˈmɘ.ɹɘ/",
+        "audio": "mirror.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gương",
+        "definition": "A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it.",
+        "example": "I had a look in the mirror to see if the blood had come off my face.",
+        "exampleVi": "Tôi nhìn vào gương để xem máu có chảy ra khỏi mặt không.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mirror process, key mirror",
+        "wordFamily": "mirror (noun)",
+        "image": "mirror.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11838,
+        "word": "sink",
+        "pronunciation": "/sɪŋk/",
+        "audio": "sink.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bồn rửa",
+        "definition": "A basin used for holding water for washing.",
+        "example": "We need to understand the concept of sink.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bồn rửa.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sink process, key sink",
+        "wordFamily": "sink (noun)",
+        "image": "sink.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11839,
+        "word": "shower",
+        "pronunciation": "/ˈʃaʊ.ə(ɹ)/",
+        "audio": "shower.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vòi sen",
+        "definition": "A brief fall of precipitation (spell of rain, or a similar fall of snow, sleet, or cascade).",
+        "example": "Today there will be frequent showers and some sunny spells.",
+        "exampleVi": "Hôm nay sẽ có mưa rào thường xuyên và có vài đợt nắng.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shower process, key shower",
+        "wordFamily": "shower (noun)",
+        "image": "shower.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11840,
+        "word": "toilet",
+        "pronunciation": "/ˈtɔɪ.lət/",
+        "audio": "toilet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà vệ sinh",
+        "definition": "A covering of linen, silk, or tapestry, spread over a dressing table in a chamber or dressing room.",
+        "example": "We need to understand the concept of toilet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về nhà vệ sinh.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "toilet process, key toilet",
+        "wordFamily": "toilet (noun)",
+        "image": "toilet.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11841,
+        "word": "fridge",
+        "pronunciation": "/fɹɪd͡ʒ/",
+        "audio": "fridge.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ lạnh",
+        "definition": "A refrigerator.",
+        "example": "We need to understand the concept of fridge.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tủ lạnh.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fridge process, key fridge",
+        "wordFamily": "fridge (noun)",
+        "image": "fridge.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11842,
+        "word": "stove",
+        "pronunciation": "/stəʊv/",
+        "audio": "stove.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái lò",
+        "definition": "A heater, a closed apparatus to burn fuel for the warming of a room.",
+        "example": "We need to understand the concept of stove.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bếp lò.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stove process, key stove",
+        "wordFamily": "stove (noun)",
+        "image": "stove.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11843,
+        "word": "oven",
+        "pronunciation": "/ˈʌ.vn̩/",
+        "audio": "oven.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lò vi sóng",
+        "definition": "A chamber used for baking or heating.",
+        "example": "We need to understand the concept of oven.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về lò nướng.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "oven process, key oven",
+        "wordFamily": "oven (noun)",
+        "image": "oven.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11844,
+        "word": "wardrobe",
+        "pronunciation": "/wardrobe/",
+        "audio": "wardrobe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ quần áo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word wardrobe.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tủ quần áo.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wardrobe process, key wardrobe",
+        "wordFamily": "wardrobe (noun)",
+        "image": "wardrobe.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11845,
+        "word": "drawer",
+        "pronunciation": "/drawer/",
+        "audio": "drawer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngăn kéo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word drawer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng ngăn kéo từ.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "drawer process, key drawer",
+        "wordFamily": "drawer (noun)",
+        "image": "drawer.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11846,
+        "word": "pillow",
+        "pronunciation": "/pillow/",
+        "audio": "pillow.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái gối",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word pillow.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ gối.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pillow process, key pillow",
+        "wordFamily": "pillow (noun)",
+        "image": "pillow.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11847,
+        "word": "blanket",
+        "pronunciation": "/blanket/",
+        "audio": "blanket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái chăn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word blanket.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chăn.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "blanket process, key blanket",
+        "wordFamily": "blanket (noun)",
+        "image": "blanket.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11848,
+        "word": "curtain",
+        "pronunciation": "/curtain/",
+        "audio": "curtain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tấm màn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word curtain.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ rèm.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "curtain process, key curtain",
+        "wordFamily": "curtain (noun)",
+        "image": "curtain.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11849,
+        "word": "cushion",
+        "pronunciation": "/cushion/",
+        "audio": "cushion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái đệm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cushion.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đệm.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cushion process, key cushion",
+        "wordFamily": "cushion (noun)",
+        "image": "cushion.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11850,
+        "word": "bookcase",
+        "pronunciation": "/bookcase/",
+        "audio": "bookcase.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ sách",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word bookcase.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tủ sách.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bookcase process, key bookcase",
+        "wordFamily": "bookcase (noun)",
+        "image": "bookcase.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11851,
+        "word": "staircase",
+        "pronunciation": "/staircase/",
+        "audio": "staircase.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cầu thang",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word staircase.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cầu thang.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "staircase process, key staircase",
+        "wordFamily": "staircase (noun)",
+        "image": "staircase.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11852,
+        "word": "chimney",
+        "pronunciation": "/chimney/",
+        "audio": "chimney.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ống khói",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word chimney.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ống khói.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chimney process, key chimney",
+        "wordFamily": "chimney (noun)",
+        "image": "chimney.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11853,
+        "word": "basement",
+        "pronunciation": "/basement/",
+        "audio": "basement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tầng hầm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word basement.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tầng hầm.",
+        "topic": "House Furniture",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "basement process, key basement",
+        "wordFamily": "basement (noun)",
+        "image": "basement.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "appliance",
+        "pronunciation": "/əˈplaɪəns/",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiết bị",
+        "definition": "a device or piece of equipment designed to perform a specific task, typically in the home.",
+        "example": "The new appliance in the kitchen has significantly reduced cooking time.",
+        "exampleVi": "Thiết bị mới trong bếp đã giảm đáng kể thời gian nấu ăn.",
+        "collocations": "kitchen appliance, household appliance",
+        "wordFamily": "appliances",
+        "id": 11854,
+        "audio": "appliance.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "appliance.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "interior",
+        "pronunciation": "/ɪnˈtɪəriər/",
+        "partOfSpeech": "noun/adjective",
+        "vietnamese": "nội thất",
+        "definition": "the inner or indoor part of something, especially a building.",
+        "example": "The interior design of the office creates a welcoming atmosphere for clients.",
+        "exampleVi": "Thiết kế nội thất của văn phòng tạo ra một bầu không khí chào đón cho khách hàng.",
+        "collocations": "interior design, interior decoration",
+        "wordFamily": "interior, interiors",
+        "id": 11855,
+        "audio": "interior.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "interior.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "fixture",
+        "pronunciation": "/ˈfɪkstʃər/",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiết bị gắn cố định",
+        "definition": "a piece of equipment or furniture that is fixed in place in a building.",
+        "example": "The light fixture in the hallway needs to be replaced.",
+        "exampleVi": "Thiết bị chiếu sáng trong hành lang cần được thay thế.",
+        "collocations": "lighting fixture, plumbing fixture",
+        "wordFamily": "fixtures",
+        "id": 11856,
+        "audio": "fixture.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "fixture.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "decor",
+        "pronunciation": "/ˈdeɪkɔːr/",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang trí",
+        "definition": "the style and design of the interior of a room or building.",
+        "example": "The decor of the restaurant reflects its cultural heritage.",
+        "exampleVi": "Trang trí của nhà hàng phản ánh di sản văn hóa của nó.",
+        "collocations": "home decor, interior decor",
+        "wordFamily": "decors",
+        "id": 11857,
+        "audio": "decor.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "decor.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "renovation",
+        "pronunciation": "/ˌrɛnəˈveɪʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "cải tạo",
+        "definition": "the process of improving a broken, damaged, or outdated structure.",
+        "example": "The renovation of the old building will enhance its value.",
+        "exampleVi": "Việc cải tạo tòa nhà cũ sẽ nâng cao giá trị của nó.",
+        "collocations": "home renovation, renovation project",
+        "wordFamily": "renovate, renovated",
+        "id": 11858,
+        "audio": "renovation.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "renovation.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "layout",
+        "pronunciation": "/ˈleɪaʊt/",
+        "partOfSpeech": "noun",
+        "vietnamese": "bố trí",
+        "definition": "the way in which the parts of something are arranged or organized.",
+        "example": "The layout of the office maximizes productivity and collaboration.",
+        "exampleVi": "Bố trí của văn phòng tối đa hóa năng suất và sự hợp tác.",
+        "collocations": "floor layout, open layout",
+        "wordFamily": "layouts",
+        "id": 11859,
+        "audio": "layout.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "layout.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "accessory",
+        "pronunciation": "/əkˈsɛsəri/",
+        "partOfSpeech": "noun",
+        "vietnamese": "phụ kiện",
+        "definition": "an additional item that enhances the functionality or appearance of something.",
+        "example": "Adding some colorful accessories can brighten up the living space.",
+        "exampleVi": "Thêm một số phụ kiện màu sắc có thể làm sáng không gian sống.",
+        "collocations": "home accessory, decorative accessory",
+        "wordFamily": "accessories",
+        "id": 11860,
+        "audio": "accessory.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "accessory.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "apartment",
+        "pronunciation": "/əˈpɑːrtmənt/",
+        "partOfSpeech": "noun",
+        "vietnamese": "căn hộ",
+        "definition": "a set of rooms forming an individual residence, typically in a building with multiple units.",
+        "example": "She decided to rent a new apartment closer to her workplace.",
+        "exampleVi": "Cô quyết định thuê một căn hộ mới gần nơi làm việc.",
+        "collocations": "studio apartment, luxury apartment",
+        "wordFamily": "apartments",
+        "id": 11861,
+        "audio": "apartment.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "apartment.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "insulation",
+        "pronunciation": "/ˌɪnsəˈleɪʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "cách nhiệt",
+        "definition": "material used to prevent the passage of heat, sound, or electricity.",
+        "example": "Proper insulation can significantly reduce energy costs in a home.",
+        "exampleVi": "Cách nhiệt đúng cách có thể giảm đáng kể chi phí năng lượng trong một ngôi nhà.",
+        "collocations": "thermal insulation, sound insulation",
+        "wordFamily": "insulate, insulated",
+        "id": 11862,
+        "audio": "insulation.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "insulation.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "landlord",
+        "pronunciation": "/ˈlændlɔːrd/",
+        "partOfSpeech": "noun",
+        "vietnamese": "chủ nhà",
+        "definition": "a person who rents land, a building, or an apartment to a tenant.",
+        "example": "The landlord is responsible for maintaining the property.",
+        "exampleVi": "Chủ nhà có trách nhiệm bảo trì tài sản.",
+        "collocations": "landlord-tenant, commercial landlord",
+        "wordFamily": "landlords",
+        "id": 11863,
+        "audio": "landlord.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "landlord.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "tenant",
+        "pronunciation": "/ˈtɛnənt/",
+        "partOfSpeech": "noun",
+        "vietnamese": "người thuê",
+        "definition": "a person who occupies land or property rented from a landlord.",
+        "example": "The tenant must pay rent on time to avoid penalties.",
+        "exampleVi": "Người thuê phải thanh toán tiền thuê đúng hạn để tránh bị phạt.",
+        "collocations": "tenant rights, tenant agreement",
+        "wordFamily": "tenants",
+        "id": 11864,
+        "audio": "tenant.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "tenant.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "renovate",
+        "pronunciation": "/ˈrɛnəˌveɪt/",
+        "partOfSpeech": "verb",
+        "vietnamese": "cải tạo",
+        "definition": "to restore to a good state of repair.",
+        "example": "They plan to renovate the historic building next year.",
+        "exampleVi": "Họ dự định cải tạo tòa nhà lịch sử vào năm tới.",
+        "collocations": "renovate a house, renovate a room",
+        "wordFamily": "renovation, renovated",
+        "id": 11865,
+        "audio": "renovate.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "renovate.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "storage",
+        "pronunciation": "/ˈstɔːrɪdʒ/",
+        "partOfSpeech": "noun",
+        "vietnamese": "lưu trữ",
+        "definition": "the action or method of storing something for future use.",
+        "example": "Adequate storage is essential in any home to keep it organized.",
+        "exampleVi": "Lưu trữ đầy đủ là cần thiết trong bất kỳ ngôi nhà nào để giữ cho nó gọn gàng.",
+        "collocations": "storage space, storage solution",
+        "wordFamily": "store, stored",
+        "id": 11866,
+        "audio": "storage.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "storage.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "maintenance",
+        "pronunciation": "/ˈmeɪntənəns/",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo trì",
+        "definition": "the process of keeping something in good condition through regular checks and repairs.",
+        "example": "Regular maintenance of appliances can extend their lifespan.",
+        "exampleVi": "Bảo trì thường xuyên các thiết bị có thể kéo dài tuổi thọ của chúng.",
+        "collocations": "home maintenance, maintenance schedule",
+        "wordFamily": "maintain, maintained",
+        "id": 11867,
+        "audio": "maintenance.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "maintenance.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "contractor",
+        "pronunciation": "/ˈkɒntræktər/",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà thầu",
+        "definition": "a person or company that undertakes a contract to provide materials or labor for construction.",
+        "example": "The contractor will begin renovations next month.",
+        "exampleVi": "Nhà thầu sẽ bắt đầu cải tạo vào tháng tới.",
+        "collocations": "general contractor, subcontractor",
+        "wordFamily": "contractors",
+        "id": 11868,
+        "audio": "contractor.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "contractor.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "utility",
+        "pronunciation": "/juːˈtɪləti/",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiện ích",
+        "definition": "a service provided to the public, such as water, electricity, or gas.",
+        "example": "The utility bills can be quite high during the winter months.",
+        "exampleVi": "Hóa đơn tiện ích có thể khá cao trong những tháng mùa đông.",
+        "collocations": "utility bill, utility service",
+        "wordFamily": "utilities",
+        "id": 11869,
+        "audio": "utility.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "utility.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "heating",
+        "pronunciation": "/ˈhiːtɪŋ/",
+        "partOfSpeech": "noun",
+        "vietnamese": "sưởi ấm",
+        "definition": "the system or process of providing warmth to a building.",
+        "example": "The heating system needs to be serviced before winter arrives.",
+        "exampleVi": "Hệ thống sưởi ấm cần được bảo trì trước khi mùa đông đến.",
+        "collocations": "central heating, heating system",
+        "wordFamily": "heat, heated",
+        "id": 11870,
+        "audio": "heating.mp3",
+        "topic": "House & Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "heating.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11871,
+        "word": "roofing",
+        "pronunciation": "/roofing/",
+        "audio": "roofing.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lợp mái",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word roofing.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lợp mái.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "roofing process, key roofing",
+        "wordFamily": "roofing (noun)",
+        "image": "roofing.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11872,
+        "word": "siding",
+        "pronunciation": "/siding/",
+        "audio": "siding.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vách ngoài",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word siding.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đứng về phía.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "siding process, key siding",
+        "wordFamily": "siding (noun)",
+        "image": "siding.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11873,
+        "word": "electricity",
+        "pronunciation": "/electricity/",
+        "audio": "electricity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word electricity.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điện.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "electricity process, key electricity",
+        "wordFamily": "electricity (noun)",
+        "image": "electricity.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11874,
+        "word": "fitting",
+        "pronunciation": "/fitting/",
+        "audio": "fitting.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phù hợp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word fitting.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phù hợp.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fitting process, key fitting",
+        "wordFamily": "fitting (noun)",
+        "image": "fitting.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11875,
+        "word": "flooring",
+        "pronunciation": "/flooring/",
+        "audio": "flooring.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sàn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word flooring.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sàn.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "flooring process, key flooring",
+        "wordFamily": "flooring (noun)",
+        "image": "flooring.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11876,
+        "word": "remodel",
+        "pronunciation": "/remodel/",
+        "audio": "remodel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sửa sang lại",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word remodel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ remodel.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "remodel process, key remodel",
+        "wordFamily": "remodel (noun)",
+        "image": "remodel.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11877,
+        "word": "upholstery",
+        "pronunciation": "/upholstery/",
+        "audio": "upholstery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bọc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word upholstery.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bọc.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "upholstery process, key upholstery",
+        "wordFamily": "upholstery (noun)",
+        "image": "upholstery.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11878,
+        "word": "stairs",
+        "pronunciation": "/stairs/",
+        "audio": "stairs.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cầu thang",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word stairs.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cầu thang.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stairs process, key stairs",
+        "wordFamily": "stairs (noun)",
+        "image": "stairs.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11879,
+        "word": "elevator",
+        "pronunciation": "/elevator/",
+        "audio": "elevator.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thang máy",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word elevator.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thang máy.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "elevator process, key elevator",
+        "wordFamily": "elevator (noun)",
+        "image": "elevator.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11880,
+        "word": "plumbing",
+        "pronunciation": "/plumbing/",
+        "audio": "plumbing.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hệ thống ống nước",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word plumbing.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hệ thống ống nước.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "plumbing process, key plumbing",
+        "wordFamily": "plumbing (noun)",
+        "image": "plumbing.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11881,
+        "word": "ventilation",
+        "pronunciation": "/ventilation/",
+        "audio": "ventilation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thông gió",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ventilation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thông gió.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ventilation process, key ventilation",
+        "wordFamily": "ventilation (noun)",
+        "image": "ventilation.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11882,
+        "word": "repair",
+        "pronunciation": "/repair/",
+        "audio": "repair.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sửa chữa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word repair.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sửa chữa.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "repair process, key repair",
+        "wordFamily": "repair (noun)",
+        "image": "repair.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11883,
+        "word": "furnishing",
+        "pronunciation": "/furnishing/",
+        "audio": "furnishing.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang trí nội thất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word furnishing.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trang trí nội thất.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "furnishing process, key furnishing",
+        "wordFamily": "furnishing (noun)",
+        "image": "furnishing.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11884,
+        "word": "escalator",
+        "pronunciation": "/escalator/",
+        "audio": "escalator.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thang cuốn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word escalator.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thang cuốn.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "escalator process, key escalator",
+        "wordFamily": "escalator (noun)",
+        "image": "escalator.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11885,
+        "word": "airconditioning",
+        "pronunciation": "/airconditioning/",
+        "audio": "airconditioning.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điều hòa không khí",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word airconditioning.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điều hòa không khí.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "airconditioning process, key airconditioning",
+        "wordFamily": "airconditioning (noun)",
+        "image": "airconditioning.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11886,
+        "word": "attic",
+        "pronunciation": "/attic/",
+        "audio": "attic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gác mái",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word attic.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ gác mái.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "attic process, key attic",
+        "wordFamily": "attic (noun)",
+        "image": "attic.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11887,
+        "word": "garage",
+        "pronunciation": "/garage/",
+        "audio": "garage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà để xe",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word garage.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ gara.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "garage process, key garage",
+        "wordFamily": "garage (noun)",
+        "image": "garage.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11888,
+        "word": "sheet",
+        "pronunciation": "/ʃiːt/",
+        "audio": "sheet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tấm",
+        "definition": "A thin bed cloth used as a covering for a mattress or as a layer over the sleeper.",
+        "example": "Use the sheets in the hall closet to make the bed.",
+        "exampleVi": "Sử dụng ga trải giường trong tủ quần áo ở hành lang để làm giường.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sheet process, key sheet",
+        "wordFamily": "sheet (noun)",
+        "image": "sheet.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11889,
+        "word": "cupboard",
+        "pronunciation": "/ˈkʌbəd/",
+        "audio": "cupboard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ",
+        "definition": "A board or table used to openly hold and display silver plate and other dishware; a sideboard; a buffet.",
+        "example": "We need to understand the concept of cupboard.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm tủ đựng đồ.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cupboard process, key cupboard",
+        "wordFamily": "cupboard (noun)",
+        "image": "cupboard.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11890,
+        "word": "mantel",
+        "pronunciation": "/ˈmæn.təl/",
+        "audio": "mantel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lò sưởi",
+        "definition": "The shelf above a fireplace which may be also a structural support for the masonry of the chimney.",
+        "example": "We need to understand the concept of mantel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về lò sưởi.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mantel process, key mantel",
+        "wordFamily": "mantel (noun)",
+        "image": "mantel.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11891,
+        "word": "balcony",
+        "pronunciation": "/ˈbælkəni/",
+        "audio": "balcony.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ban công",
+        "definition": "An accessible structure extending from a building, especially outside a window.",
+        "example": "We need to understand the concept of balcony.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ban công.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "balcony process, key balcony",
+        "wordFamily": "balcony (noun)",
+        "image": "balcony.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11892,
+        "word": "veranda",
+        "pronunciation": "/vəˈɹæn.də/",
+        "audio": "veranda.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiên",
+        "definition": "A gallery, platform, or balcony, usually roofed and often partly enclosed, extending along the outside of a building.",
+        "example": "We need to understand the concept of veranda.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hiên nhà.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "veranda process, key veranda",
+        "wordFamily": "veranda (noun)",
+        "image": "veranda.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11893,
+        "word": "hearth",
+        "pronunciation": "/hɑːθ/",
+        "audio": "hearth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lò sưởi",
+        "definition": "A brick, stone or cement floor to a fireplace or oven.",
+        "example": "We need to understand the concept of hearth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lò sưởi.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hearth process, key hearth",
+        "wordFamily": "hearth (noun)",
+        "image": "hearth.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11894,
+        "word": "easel",
+        "pronunciation": "/ˈiː.z(ə)l/",
+        "audio": "easel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá vẽ",
+        "definition": "An upright frame, typically on three legs, for displaying or supporting something, such as an artist's canvas.",
+        "example": "We need to understand the concept of easel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giá vẽ.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "easel process, key easel",
+        "wordFamily": "easel (noun)",
+        "image": "easel.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11895,
+        "word": "armchair",
+        "pronunciation": "/ˈɑː(ɹ)mtʃɛə(ɹ)/",
+        "audio": "armchair.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ghế bành",
+        "definition": "A chair with supports for the arms or elbows.",
+        "example": "We need to understand the concept of armchair.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ghế bành.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "armchair process, key armchair",
+        "wordFamily": "armchair (noun)",
+        "image": "armchair.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11896,
+        "word": "hallway",
+        "pronunciation": "/hallway/",
+        "audio": "hallway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành lang",
+        "definition": "A corridor in a building that connects rooms.",
+        "example": "We need to understand the concept of hallway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hành lang.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hallway process, key hallway",
+        "wordFamily": "hallway (noun)",
+        "image": "hallway.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11897,
+        "word": "cabinetry",
+        "pronunciation": "/cabinetry/",
+        "audio": "cabinetry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ",
+        "definition": "The craft of making high-quality wooden furniture; cabinetmaking.",
+        "example": "We need to understand the concept of cabinetry.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm tủ đựng đồ.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cabinetry process, key cabinetry",
+        "wordFamily": "cabinetry (noun)",
+        "image": "cabinetry.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11898,
+        "word": "dresser",
+        "pronunciation": "/ˈdɹɛsə/",
+        "audio": "dresser.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ quần áo",
+        "definition": "An item of kitchen furniture, like a cabinet with shelves, for storing crockery or utensils.",
+        "example": "We need to understand the concept of dresser.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tủ quần áo.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dresser process, key dresser",
+        "wordFamily": "dresser (noun)",
+        "image": "dresser.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11899,
+        "word": "couch",
+        "pronunciation": "/kaʊtʃ/",
+        "audio": "couch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đi văng",
+        "definition": "Couch grass, a species of persistent grass, Elymus repens, usually considered a weed.",
+        "example": "We need to understand the concept of couch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đi văng.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "couch process, key couch",
+        "wordFamily": "couch (noun)",
+        "image": "couch.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11900,
+        "word": "cellar",
+        "pronunciation": "/ˈsɛlə(ɹ)/",
+        "audio": "cellar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hầm",
+        "definition": "An enclosed underground space, often under a building, used for storage or shelter.",
+        "example": "We need to understand the concept of cellar.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hầm rượu.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cellar process, key cellar",
+        "wordFamily": "cellar (noun)",
+        "image": "cellar.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11901,
+        "word": "patio",
+        "pronunciation": "/ˈpæti.əʊ/",
+        "audio": "patio.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiên",
+        "definition": "A paved outside area, adjoining a house, used for dining or recreation.",
+        "example": "We need to understand the concept of patio.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sân hiên.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "patio process, key patio",
+        "wordFamily": "patio (noun)",
+        "image": "patio.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11902,
+        "word": "pantry",
+        "pronunciation": "/ˈpantɹi/",
+        "audio": "pantry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng đựng thức ăn",
+        "definition": "A small room, closet, or cabinet usually located in or near the kitchen, dedicated to shelf-stable food storage and/or storing kitchenware, like a larder, but smaller.",
+        "example": "We need to understand the concept of pantry.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tủ đựng thức ăn.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pantry process, key pantry",
+        "wordFamily": "pantry (noun)",
+        "image": "pantry.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11903,
+        "word": "drapes",
+        "pronunciation": "/dɹeɪps/",
+        "audio": "drapes.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rèm",
+        "definition": "A curtain; a drapery.",
+        "example": "We need to understand the concept of drapes.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về rèm.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "drapes process, key drapes",
+        "wordFamily": "drapes (noun)",
+        "image": "drapes.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11904,
+        "word": "mattress",
+        "pronunciation": "/ˈmætɹɪs/",
+        "audio": "mattress.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nệm",
+        "definition": "A pad on which a person can recline and sleep, usually having an inner section of coiled springs covered with foam or other cushioning material then enclosed with cloth fabric.",
+        "example": "We need to understand the concept of mattress.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về nệm.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mattress process, key mattress",
+        "wordFamily": "mattress (noun)",
+        "image": "mattress.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11905,
+        "word": "corridor",
+        "pronunciation": "/ˈkɒɹɪˌdɔː(ɹ)/",
+        "audio": "corridor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành lang",
+        "definition": "A narrow hall or passage with rooms leading off it, as in a building or in a railway carriage.",
+        "example": "We need to understand the concept of corridor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hành lang.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "corridor process, key corridor",
+        "wordFamily": "corridor (noun)",
+        "image": "corridor.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11906,
+        "word": "railing",
+        "pronunciation": "/ˈɹeɪlɪŋ/",
+        "audio": "railing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lan can",
+        "definition": "To travel by railway.",
+        "example": "We need to understand the concept of railing.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lan can.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "railing process, key railing",
+        "wordFamily": "railing (noun)",
+        "image": "railing.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11907,
+        "word": "porch",
+        "pronunciation": "/pɔːtʃ/",
+        "audio": "porch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiên nhà",
+        "definition": "A covered and enclosed entrance to a building, whether taken from the interior, and forming a sort of vestibule within the main wall, or projecting without and with a separate roof.",
+        "example": "We need to understand the concept of porch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mái hiên.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "porch process, key porch",
+        "wordFamily": "porch (noun)",
+        "image": "porch.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11908,
+        "word": "linoleum",
+        "pronunciation": "/lɪˈnəʊli.əm/",
+        "audio": "linoleum.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vải sơn",
+        "definition": "An inexpensive waterproof covering used especially for floors, made from solidified linseed oil over a burlap or canvas backing, or from its modern replacement, polyvinyl chloride.",
+        "example": "We need to understand the concept of linoleum.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về vải sơn.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "linoleum process, key linoleum",
+        "wordFamily": "linoleum (noun)",
+        "image": "linoleum.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11909,
+        "word": "fireplace",
+        "pronunciation": "/ˈfaɪəpleɪs/",
+        "audio": "fireplace.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lò sưởi",
+        "definition": "An open hearth for holding a fire at the base of a chimney.",
+        "example": "We need to understand the concept of fireplace.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lò sưởi.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fireplace process, key fireplace",
+        "wordFamily": "fireplace (noun)",
+        "image": "fireplace.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11910,
+        "word": "rug",
+        "pronunciation": "/ɹʌɡ/",
+        "audio": "rug.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tấm thảm",
+        "definition": "A partial covering for a floor.",
+        "example": "We need to understand the concept of rug.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tấm thảm.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rug process, key rug",
+        "wordFamily": "rug (noun)",
+        "image": "rug.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11911,
+        "word": "chandelier",
+        "pronunciation": "/ʃændəˈlɪə(ɹ)/",
+        "audio": "chandelier.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đèn chùm",
+        "definition": "A branched, often ornate, lighting fixture suspended from the ceiling",
+        "example": "We need to understand the concept of chandelier.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đèn chùm.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "chandelier process, key chandelier",
+        "wordFamily": "chandelier (noun)",
+        "image": "chandelier.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11912,
+        "word": "tile",
+        "pronunciation": "/taɪl/",
+        "audio": "tile.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngói",
+        "definition": "A regularly-shaped slab of clay or other material, affixed to cover or decorate a surface, as in a roof-tile, glazed tile, stove tile, carpet tile etc.",
+        "example": "We need to understand the concept of tile.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về gạch.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tile process, key tile",
+        "wordFamily": "tile (noun)",
+        "image": "tile.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11913,
+        "word": "lantern",
+        "pronunciation": "/ˈlæn.tən/",
+        "audio": "lantern.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đèn lồng",
+        "definition": "A case of translucent or transparent material made to protect a flame, or light, used to illuminate its surroundings.",
+        "example": "We need to understand the concept of lantern.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đèn lồng.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "lantern process, key lantern",
+        "wordFamily": "lantern (noun)",
+        "image": "lantern.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11914,
+        "word": "banister",
+        "pronunciation": "/ˈbænɪstə(ɹ)/",
+        "audio": "banister.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lan can",
+        "definition": "The handrail on the side of a staircase.",
+        "example": "We need to understand the concept of banister.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lan can.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "banister process, key banister",
+        "wordFamily": "banister (noun)",
+        "image": "banister.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11915,
+        "word": "hardwood",
+        "pronunciation": "/ˈhɑɹdˌwʊd/",
+        "audio": "hardwood.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gỗ cứng",
+        "definition": "(mostly in botany and forestry) The wood from any dicotyledonous tree, without regard to its hardness.",
+        "example": "Balsa is a hardwood, but a soft hardwood.",
+        "exampleVi": "Balsa là một loại gỗ cứng nhưng mềm.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hardwood process, key hardwood",
+        "wordFamily": "hardwood (noun)",
+        "image": "hardwood.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11916,
+        "word": "foyer",
+        "pronunciation": "/ˈfoɪɘ/",
+        "audio": "foyer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền sảnh",
+        "definition": "A lobby, corridor, or waiting room, used in a hotel, theater, etc.",
+        "example": "We had a drink in the foyer waiting for the play to start.",
+        "exampleVi": "Chúng tôi uống rượu ở tiền sảnh chờ vở kịch bắt đầu.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "foyer process, key foyer",
+        "wordFamily": "foyer (noun)",
+        "image": "foyer.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11917,
+        "word": "sconce",
+        "pronunciation": "/skɒns/",
+        "audio": "sconce.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đèn treo tường",
+        "definition": "A fixture for a light.",
+        "example": "We need to understand the concept of sconce.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đèn treo tường.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sconce process, key sconce",
+        "wordFamily": "sconce (noun)",
+        "image": "sconce.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11918,
+        "word": "deck",
+        "pronunciation": "/dɛk/",
+        "audio": "deck.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "boong",
+        "definition": "Any raised flat surface that can be walked on: a balcony; a porch; a raised patio; a flat rooftop.",
+        "example": "We need to understand the concept of deck.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bộ bài.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "deck process, key deck",
+        "wordFamily": "deck (noun)",
+        "image": "deck.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11919,
+        "word": "courtyard",
+        "pronunciation": "/ˈkɔːt.jɑːd/",
+        "audio": "courtyard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sân trong",
+        "definition": "An area, open to the sky, partially or wholly surrounded by walls or buildings.",
+        "example": "She sat in the courtyard, enjoying the garden.",
+        "exampleVi": "Cô ngồi trong sân, tận hưởng khu vườn.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "courtyard process, key courtyard",
+        "wordFamily": "courtyard (noun)",
+        "image": "courtyard.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11920,
+        "word": "gate",
+        "pronunciation": "/ɡeɪt/",
+        "audio": "gate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cổng",
+        "definition": "A doorlike structure outside a house.",
+        "example": "We need to understand the concept of gate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cổng.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gate process, key gate",
+        "wordFamily": "gate (noun)",
+        "image": "gate.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11921,
+        "word": "lawn",
+        "pronunciation": "/lɔːn/",
+        "audio": "lawn.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bãi cỏ",
+        "definition": "An open space between woods.",
+        "example": "We need to understand the concept of lawn.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bãi cỏ.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "lawn process, key lawn",
+        "wordFamily": "lawn (noun)",
+        "image": "lawn.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11922,
+        "word": "mailbox",
+        "pronunciation": "/mailbox/",
+        "audio": "mailbox.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hộp thư",
+        "definition": "A box into which mail is put",
+        "example": "We need to understand the concept of mailbox.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hộp thư.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mailbox process, key mailbox",
+        "wordFamily": "mailbox (noun)",
+        "image": "mailbox.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11923,
+        "word": "fence",
+        "pronunciation": "/fɛns/",
+        "audio": "fence.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hàng rào",
+        "definition": "A thin artificial barrier that separates two pieces of land or a house perimeter.",
+        "example": "We need to understand the concept of fence.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hàng rào.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fence process, key fence",
+        "wordFamily": "fence (noun)",
+        "image": "fence.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11924,
+        "word": "shingles",
+        "pronunciation": "/ˈʃɪŋɡəlz/",
+        "audio": "shingles.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệnh zona",
+        "definition": "Herpes zoster, caused by Human herpes virus 3, in genus Varicellovirus.",
+        "example": "We need to understand the concept of shingles.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bệnh zona.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shingles process, key shingles",
+        "wordFamily": "shingles (noun)",
+        "image": "shingles.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11925,
+        "word": "gutter",
+        "pronunciation": "/ˈɡʌt.ə/",
+        "audio": "gutter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máng xối",
+        "definition": "A prepared channel in a surface, especially at the side of a road adjacent to a curb, intended for the drainage of water.",
+        "example": "We need to understand the concept of gutter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm máng xối.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gutter process, key gutter",
+        "wordFamily": "gutter (noun)",
+        "image": "gutter.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11926,
+        "word": "driveway",
+        "pronunciation": "/driveway/",
+        "audio": "driveway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường lái xe",
+        "definition": "Short private road that leads to a house or garage.",
+        "example": "We need to understand the concept of driveway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường lái xe.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "driveway process, key driveway",
+        "wordFamily": "driveway (noun)",
+        "image": "driveway.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11927,
+        "word": "sideboard",
+        "pronunciation": "/sideboard/",
+        "audio": "sideboard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ bên",
+        "definition": "(furniture) A piece of dining room furniture having drawers and shelves for linen and tableware; originally for serving food.",
+        "example": "We need to understand the concept of sideboard.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tủ đựng đồ.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sideboard process, key sideboard",
+        "wordFamily": "sideboard (noun)",
+        "image": "sideboard.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11928,
+        "word": "lounger",
+        "pronunciation": "/lounger/",
+        "audio": "lounger.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ghế dài",
+        "definition": "One who lounges; an idler.",
+        "example": "We need to understand the concept of lounger.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về người đi lang thang.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "lounger process, key lounger",
+        "wordFamily": "lounger (noun)",
+        "image": "lounger.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11929,
+        "word": "hassock",
+        "pronunciation": "/ˈhasək/",
+        "audio": "hassock.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rắc rối",
+        "definition": "A dense clump of grass or vegetation; a tussock.",
+        "example": "We need to understand the concept of hassock.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về rắc rối.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hassock process, key hassock",
+        "wordFamily": "hassock (noun)",
+        "image": "hassock.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11930,
+        "word": "credenza",
+        "pronunciation": "/kɹɛˈdɛnzə/",
+        "audio": "credenza.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "credenza",
+        "definition": "A sideboard or buffet.",
+        "example": "We need to understand the concept of credenza.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về credenza.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "credenza process, key credenza",
+        "wordFamily": "credenza (noun)",
+        "image": "credenza.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11931,
+        "word": "drapery",
+        "pronunciation": "/ˈdɹeɪpəɹi/",
+        "audio": "drapery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "màn treo",
+        "definition": "Cloth draped gracefully in folds.",
+        "example": "We need to understand the concept of drapery.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về rèm cửa.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "drapery process, key drapery",
+        "wordFamily": "drapery (noun)",
+        "image": "drapery.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11932,
+        "word": "footstool",
+        "pronunciation": "/ˈfʊtˌstuːl/",
+        "audio": "footstool.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệ để chân",
+        "definition": "A low stool for supporting the feet while seated.",
+        "example": "We need to understand the concept of footstool.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm ghế đẩu.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "footstool process, key footstool",
+        "wordFamily": "footstool (noun)",
+        "image": "footstool.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11933,
+        "word": "hatstand",
+        "pronunciation": "/hatstand/",
+        "audio": "hatstand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hatstand",
+        "definition": "A device used to store hats upon. Usually made of wood and standing at least five foot tall, they have a single pole making up most of the height, with a sturdy base to prevent toppling, and an array of lengthy pegs at the top for placement of hats.",
+        "example": "We need to understand the concept of hatstand.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giá đỡ mũ.",
+        "topic": "House Furniture",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hatstand process, key hatstand",
+        "wordFamily": "hatstand (noun)",
+        "image": "hatstand.webp",
+        "tags": [
+            "house",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

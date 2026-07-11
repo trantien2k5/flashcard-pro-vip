@@ -1,0 +1,2054 @@
+[
+    {
+        "id": 10001,
+        "word": "accounting",
+        "pronunciation": "/ə.ˈkaʊn.tɪŋ/",
+        "audio": "accounting.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kế toán",
+        "definition": "To provide explanation.",
+        "example": "We need to understand the concept of accounting.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kế toán.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "accounting process, key accounting",
+        "wordFamily": "accounting (verb)",
+        "image": "accounting.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10002,
+        "word": "accountant",
+        "pronunciation": "/ə.ˈkæʊn.(t)ən̩(t)/",
+        "audio": "accountant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kế toán viên",
+        "definition": "One who renders account; one accountable.",
+        "example": "We need to understand the concept of accountant.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kế toán.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "accountant process, key accountant",
+        "wordFamily": "accountant (noun)",
+        "image": "accountant.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10003,
+        "word": "ledger",
+        "pronunciation": "/ˈlɛdʒə/",
+        "audio": "ledger.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sổ cái",
+        "definition": "A book for keeping notes, especially one for keeping accounting records; a record book, a register.",
+        "example": "We need to understand the concept of ledger.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sổ cái.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ledger process, key ledger",
+        "wordFamily": "ledger (noun)",
+        "image": "ledger.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10004,
+        "word": "balance",
+        "pronunciation": "/ˈbæləns/",
+        "audio": "balance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "THĂNG BẰNG",
+        "definition": "A state in which opposing forces harmonise; equilibrium.",
+        "example": "We need to understand the concept of balance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cân bằng.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "balance process, key balance",
+        "wordFamily": "balance (noun)",
+        "image": "balance.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10005,
+        "word": "sheet",
+        "pronunciation": "/ʃiːt/",
+        "audio": "sheet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tờ giấy",
+        "definition": "A thin bed cloth used as a covering for a mattress or as a layer over the sleeper.",
+        "example": "Use the sheets in the hall closet to make the bed.",
+        "exampleVi": "Sử dụng ga trải giường trong tủ quần áo ở hành lang để làm giường.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sheet process, key sheet",
+        "wordFamily": "sheet (noun)",
+        "image": "sheet.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10006,
+        "word": "asset",
+        "pronunciation": "/ˈæsɪt/",
+        "audio": "asset.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài sản",
+        "definition": "Something or someone of any value; any portion of one's property or effects so considered.",
+        "example": "These shares are a valuable asset.",
+        "exampleVi": "Những cổ phiếu này là tài sản có giá trị.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "asset process, key asset",
+        "wordFamily": "asset (noun)",
+        "image": "asset.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10007,
+        "word": "liability",
+        "pronunciation": "/laɪəˈbɪlɪti/",
+        "audio": "liability.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trách nhiệm pháp lý",
+        "definition": "An obligation, debt or responsibility owed to someone.",
+        "example": "We need to understand the concept of liability.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trách nhiệm.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "liability process, key liability",
+        "wordFamily": "liability (noun)",
+        "image": "liability.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10008,
+        "word": "equity",
+        "pronunciation": "/ˈɛk.wɪ.ti/",
+        "audio": "equity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công bằng",
+        "definition": "Fairness, impartiality, or justice as determined in light of \"natural law\" or \"natural right\".",
+        "example": "We need to understand the concept of equity.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công bằng.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "equity process, key equity",
+        "wordFamily": "equity (noun)",
+        "image": "equity.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10009,
+        "word": "expense",
+        "pronunciation": "/ɪkˈspɛns/",
+        "audio": "expense.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chi phí",
+        "definition": "A spending or consuming, often a disbursement of funds.",
+        "example": "Buying the car was a big expense, but will be worth it in the long run.",
+        "exampleVi": "Mua một chiếc ô tô là một khoản chi phí lớn nhưng sẽ có giá trị về lâu dài.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "expense process, key expense",
+        "wordFamily": "expense (noun)",
+        "image": "expense.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10010,
+        "word": "revenue",
+        "pronunciation": "/ˈɹɛvənjuː/",
+        "audio": "revenue.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "doanh thu",
+        "definition": "The income returned by an investment.",
+        "example": "We need to understand the concept of revenue.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm doanh thu.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "revenue process, key revenue",
+        "wordFamily": "revenue (noun)",
+        "image": "revenue.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10011,
+        "word": "transaction",
+        "pronunciation": "/tɹænˈzækʃən/",
+        "audio": "transaction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao dịch",
+        "definition": "The act of conducting or carrying out (business, negotiations, plans).",
+        "example": "The transaction was made on Friday with the supplier.",
+        "exampleVi": "Giao dịch được thực hiện vào thứ Sáu với nhà cung cấp.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "transaction process, key transaction",
+        "wordFamily": "transaction (noun)",
+        "image": "transaction.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10012,
+        "word": "invoice",
+        "pronunciation": "/ˈɪnˌvɔɪs/",
+        "audio": "invoice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hóa đơn",
+        "definition": "A bill; a commercial document issued by a seller to a buyer indicating the products, quantities and agreed prices for products or services that the seller has already provided the buyer with. An invoice indicates that, unless paid in advance, payment is due by the buyer to the seller, according to the agreed terms.",
+        "example": "We need to understand the concept of invoice.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hóa đơn.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "invoice process, key invoice",
+        "wordFamily": "invoice (noun)",
+        "image": "invoice.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10013,
+        "word": "receipt",
+        "pronunciation": "/ɹɪˈsiːt/",
+        "audio": "receipt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biên lai",
+        "definition": "The act of receiving, or the fact of having been received.",
+        "example": "A balance payable on receipt of the goods.",
+        "exampleVi": "Số dư thanh toán khi nhận hàng.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "receipt process, key receipt",
+        "wordFamily": "receipt (noun)",
+        "image": "receipt.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10014,
+        "word": "audit",
+        "pronunciation": "/ɔː.dɪt/",
+        "audio": "audit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm toán",
+        "definition": "A judicial examination.",
+        "example": "We need to understand the concept of audit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiểm toán.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "audit process, key audit",
+        "wordFamily": "audit (noun)",
+        "image": "audit.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10015,
+        "word": "auditor",
+        "pronunciation": "/ˈɔːdɪtə(ɹ)/",
+        "audio": "auditor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm toán viên",
+        "definition": "One who audits bookkeeping accounts.",
+        "example": "We need to understand the concept of auditor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiểm toán viên.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "auditor process, key auditor",
+        "wordFamily": "auditor (noun)",
+        "image": "auditor.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10016,
+        "word": "tax",
+        "pronunciation": "/tæks/",
+        "audio": "tax.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuế",
+        "definition": "Money paid to the government other than for transaction-specific goods and services.",
+        "example": "We need to understand the concept of tax.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thuế.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tax process, key tax",
+        "wordFamily": "tax (noun)",
+        "image": "tax.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10017,
+        "word": "profit",
+        "pronunciation": "/ˈpɹɒfɪt/",
+        "audio": "profit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lợi nhuận",
+        "definition": "Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price.",
+        "example": "We need to understand the concept of profit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lợi nhuận.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "profit process, key profit",
+        "wordFamily": "profit (noun)",
+        "image": "profit.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10018,
+        "word": "loss",
+        "pronunciation": "/lɑs/",
+        "audio": "loss.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự mất mát",
+        "definition": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
+        "example": "In other areas, glacier loss creates serious risk of a dry period across the Third Pole, Wang said.",
+        "exampleVi": "Wang cho biết ở các khu vực khác, việc mất sông băng tạo ra nguy cơ nghiêm trọng về thời kỳ khô hạn trên khắp Cực thứ ba.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "loss process, key loss",
+        "wordFamily": "loss (noun)",
+        "image": "loss.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10019,
+        "word": "entry",
+        "pronunciation": "/ˈɛntɹi/",
+        "audio": "entry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lối vào",
+        "definition": "The act of entering.",
+        "example": "We need to understand the concept of entry.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sự gia nhập.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "entry process, key entry",
+        "wordFamily": "entry (noun)",
+        "image": "entry.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10020,
+        "word": "bookkeeping",
+        "pronunciation": "/bookkeeping/",
+        "audio": "bookkeeping.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kế toán",
+        "definition": "To do bookkeeping.",
+        "example": "We need to understand the concept of bookkeeping.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kế toán.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bookkeeping process, key bookkeeping",
+        "wordFamily": "bookkeeping (verb)",
+        "image": "bookkeeping.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10021,
+        "word": "depreciation",
+        "pronunciation": "/dɪˌpɹiːʃɪˈeɪʃən/",
+        "audio": "depreciation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khấu hao",
+        "definition": "The state of being depreciated; disparagement.",
+        "example": "We need to understand the concept of depreciation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khấu hao.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "depreciation process, key depreciation",
+        "wordFamily": "depreciation (noun)",
+        "image": "depreciation.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10022,
+        "word": "amortization",
+        "pronunciation": "/əˌmɔːtaɪˈzeɪʃən/",
+        "audio": "amortization.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khấu hao",
+        "definition": "The reduction of loan principal over a series of payments.",
+        "example": "We need to understand the concept of amortization.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khấu hao.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "amortization process, key amortization",
+        "wordFamily": "amortization (noun)",
+        "image": "amortization.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10023,
+        "word": "statement",
+        "pronunciation": "/ˈsteɪtm(ə)nt/",
+        "audio": "statement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyên bố",
+        "definition": "A declaration or remark.",
+        "example": "We need to understand the concept of statement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phát biểu.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "statement process, key statement",
+        "wordFamily": "statement (noun)",
+        "image": "statement.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10024,
+        "word": "cashflow",
+        "pronunciation": "/cashflow/",
+        "audio": "cashflow.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dòng tiền",
+        "definition": "The sum of cash revenues and expenditures over a period of time.",
+        "example": "We need to understand the concept of cashflow.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dòng tiền.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cashflow process, key cashflow",
+        "wordFamily": "cashflow (noun)",
+        "image": "cashflow.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10025,
+        "word": "reconciliation",
+        "pronunciation": "/ˌɹɛkənˌsɪliˈeɪʃən/",
+        "audio": "reconciliation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hòa giải",
+        "definition": "The reestablishment of friendly relations; conciliation or rapprochement.",
+        "example": "He longed for reconciliation with his estranged father, but too many painful memories kept him from making contact again.",
+        "exampleVi": "Anh khao khát được hòa giải với người cha ghẻ lạnh của mình, nhưng quá nhiều ký ức đau buồn khiến anh không thể liên lạc lại.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reconciliation process, key reconciliation",
+        "wordFamily": "reconciliation (noun)",
+        "image": "reconciliation.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10026,
+        "word": "journal",
+        "pronunciation": "/ˈd͡ʒɜːnəl/",
+        "audio": "journal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tạp chí",
+        "definition": "A diary or daily record of a person, organization, vessel etc.; daybook.",
+        "example": "We need to understand the concept of journal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhật ký.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "journal process, key journal",
+        "wordFamily": "journal (noun)",
+        "image": "journal.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10027,
+        "word": "debit",
+        "pronunciation": "/ˈdɛb.ɪt/",
+        "audio": "debit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ghi nợ",
+        "definition": "In bookkeeping, an entry in the left hand column of an account.",
+        "example": "A cash sale is recorded as debit on the cash account and as credit on the sales account.",
+        "exampleVi": "Việc bán hàng bằng tiền mặt được ghi nhận là ghi nợ trên tài khoản tiền mặt và ghi có trên tài khoản bán hàng.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "debit process, key debit",
+        "wordFamily": "debit (noun)",
+        "image": "debit.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10028,
+        "word": "credit",
+        "pronunciation": "/ˈkɹɛdɪt/",
+        "audio": "credit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tín dụng",
+        "definition": "Reliance on the truth of something said or done; faith; trust.",
+        "example": "We need to understand the concept of credit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tín dụng.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "credit process, key credit",
+        "wordFamily": "credit (noun)",
+        "image": "credit.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10029,
+        "word": "accrual",
+        "pronunciation": "/əˈkɹuːəl/",
+        "audio": "accrual.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tích lũy",
+        "definition": "An increase; something that accumulates, especially an amount of money that periodically accumulates for a specific purpose",
+        "example": "We need to understand the concept of accrual.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tích lũy.",
+        "topic": "Accounting",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "accrual process, key accrual",
+        "wordFamily": "accrual (noun)",
+        "image": "accrual.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10030,
+        "word": "capital",
+        "pronunciation": "/ˈkæp.ɪ.təl/",
+        "audio": "capital.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vốn",
+        "definition": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+        "example": "We need to understand the concept of capital.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vốn.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "capital process, key capital",
+        "wordFamily": "capital (noun)",
+        "image": "capital.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10031,
+        "word": "liquidity",
+        "pronunciation": "/lɪkˈwɪdəti/",
+        "audio": "liquidity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính thanh khoản",
+        "definition": "The degree of which something is in high supply and demand, making it easily convertible to cash",
+        "example": "My Picasso painting is not very liquid, it would take me months to sell it. Gold on the other hand is convertible to cash at any moment, making it a very liquid commodity.",
+        "exampleVi": "Bức tranh Picasso của tôi không có tính thanh khoản cao, tôi phải mất nhiều tháng mới bán được nó. Mặt khác, vàng có thể chuyển đổi thành tiền mặt bất cứ lúc nào, khiến nó trở thành một mặt hàng có tính thanh khoản cao.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "liquidity process, key liquidity",
+        "wordFamily": "liquidity (noun)",
+        "image": "liquidity.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10032,
+        "word": "dividend",
+        "pronunciation": "/ˈdɪvɪdɛnd/",
+        "audio": "dividend.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cổ tức",
+        "definition": "A number or expression that is to be divided by another.",
+        "example": "In \"42 ÷ 3\" the dividend is the 42.",
+        "exampleVi": "Trong \"42 `3\" số bị chia là 42.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dividend process, key dividend",
+        "wordFamily": "dividend (noun)",
+        "image": "dividend.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10033,
+        "word": "surplus",
+        "pronunciation": "/ˈsɜːpləs/",
+        "audio": "surplus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thặng dư",
+        "definition": "That which remains when use or need is satisfied, or when a limit is reached; excess; overplus.",
+        "example": "We need to understand the concept of surplus.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thặng dư.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "surplus process, key surplus",
+        "wordFamily": "surplus (noun)",
+        "image": "surplus.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10034,
+        "word": "deficit",
+        "pronunciation": "/ˈdɛfɪsɪt/",
+        "audio": "deficit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thâm hụt",
+        "definition": "Deficiency in amount or quality; a falling short; lack.",
+        "example": "We need to understand the concept of deficit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thâm hụt.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "deficit process, key deficit",
+        "wordFamily": "deficit (noun)",
+        "image": "deficit.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10035,
+        "word": "bankruptcy",
+        "pronunciation": "/ˈbæŋkɹʌptsɪ/",
+        "audio": "bankruptcy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phá sản",
+        "definition": "A legally declared or recognized condition of insolvency of a person or organization.",
+        "example": "We need to understand the concept of bankruptcy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phá sản.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bankruptcy process, key bankruptcy",
+        "wordFamily": "bankruptcy (noun)",
+        "image": "bankruptcy.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10036,
+        "word": "portfolio",
+        "pronunciation": "/-əʊl.jəʊ/",
+        "audio": "portfolio.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "danh mục đầu tư",
+        "definition": "A case for carrying papers, drawings, photographs, maps and other flat documents.",
+        "example": "We need to understand the concept of portfolio.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm danh mục đầu tư.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "portfolio process, key portfolio",
+        "wordFamily": "portfolio (noun)",
+        "image": "portfolio.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10037,
+        "word": "expenditure",
+        "pronunciation": "/ɛkˈspɛndɪt͡ʃə/",
+        "audio": "expenditure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chi tiêu",
+        "definition": "Act of expending or paying out.",
+        "example": "We need to understand the concept of expenditure.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chi tiêu.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "expenditure process, key expenditure",
+        "wordFamily": "expenditure (noun)",
+        "image": "expenditure.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10038,
+        "word": "allocation",
+        "pronunciation": "/allocation/",
+        "audio": "allocation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phân bổ",
+        "definition": "The process or procedure for allocating things, especially money or other resources.",
+        "example": "The allocation of new permits is on a first-come, first-served basis.",
+        "exampleVi": "Việc cấp giấy phép mới được thực hiện trên cơ sở ai đến trước được cấp trước.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "allocation process, key allocation",
+        "wordFamily": "allocation (noun)",
+        "image": "allocation.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10039,
+        "word": "variance",
+        "pronunciation": "/ˈvɛːɹi.əns/",
+        "audio": "variance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phương sai",
+        "definition": "The act of varying or the state of being variable.",
+        "example": "We need to understand the concept of variance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phương sai.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "variance process, key variance",
+        "wordFamily": "variance (noun)",
+        "image": "variance.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10040,
+        "word": "solvency",
+        "pronunciation": "/solvency/",
+        "audio": "solvency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khả năng thanh toán",
+        "definition": "The state of having enough funds or liquid assets to pay all of one's debts; the state of being solvent.",
+        "example": "We need to understand the concept of solvency.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khả năng thanh toán.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "solvency process, key solvency",
+        "wordFamily": "solvency (noun)",
+        "image": "solvency.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10041,
+        "word": "valuation",
+        "pronunciation": "/ˌvæ.ljuːˈeɪ.ʃən/",
+        "audio": "valuation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "định giá",
+        "definition": "An estimation of something's worth.",
+        "example": "We need to understand the concept of valuation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm định giá.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "valuation process, key valuation",
+        "wordFamily": "valuation (noun)",
+        "image": "valuation.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10042,
+        "word": "reimbursement",
+        "pronunciation": "/ˌɹiː.ɪmˈbɜːs.mənt/",
+        "audio": "reimbursement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoàn trả",
+        "definition": "The act of compensating someone for an expense.",
+        "example": "We need to understand the concept of reimbursement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hoàn trả.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "reimbursement process, key reimbursement",
+        "wordFamily": "reimbursement (noun)",
+        "image": "reimbursement.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10043,
+        "word": "disbursement",
+        "pronunciation": "/disbursement/",
+        "audio": "disbursement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải ngân",
+        "definition": "The act, instance, or process of disbursing.",
+        "example": "We need to understand the concept of disbursement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giải ngân.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "disbursement process, key disbursement",
+        "wordFamily": "disbursement (noun)",
+        "image": "disbursement.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10044,
+        "word": "yield",
+        "pronunciation": "/jiːld/",
+        "audio": "yield.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lợi nhuận",
+        "definition": "To pay, give in payment; repay, recompense; reward; requite.",
+        "example": "We need to understand the concept of yield.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm năng suất.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "yield process, key yield",
+        "wordFamily": "yield (noun)",
+        "image": "yield.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10045,
+        "word": "solvent",
+        "pronunciation": "[ˈsɒlvənt]",
+        "audio": "solvent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dung môi",
+        "definition": "A liquid that dissolves a solid, liquid, or gaseous solute, resulting in a solution.",
+        "example": "We need to understand the concept of solvent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dung môi.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "solvent process, key solvent",
+        "wordFamily": "solvent (noun)",
+        "image": "solvent.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10046,
+        "word": "collateral",
+        "pronunciation": "/kəˈlætəɹəl/",
+        "audio": "collateral.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài sản thế chấp",
+        "definition": "A security or guarantee (usually an asset) pledged for the repayment of a loan if one cannot procure enough funds to repay.",
+        "example": "We need to understand the concept of collateral.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tài sản đảm bảo.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "collateral process, key collateral",
+        "wordFamily": "collateral (noun)",
+        "image": "collateral.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10047,
+        "word": "writeoff",
+        "pronunciation": "/writeoff/",
+        "audio": "writeoff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xóa nợ",
+        "definition": "The cancellation of an item; the amount cancelled or lost",
+        "example": "We need to understand the concept of writeoff.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xóa nợ.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "writeoff process, key writeoff",
+        "wordFamily": "writeoff (noun)",
+        "image": "writeoff.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10048,
+        "word": "payables",
+        "pronunciation": "/payables/",
+        "audio": "payables.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "các khoản phải trả",
+        "definition": "Debts and liabilities owed by a business",
+        "example": "We need to understand the concept of payables.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về khoản phải trả.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "payables process, key payables",
+        "wordFamily": "payables (noun)",
+        "image": "payables.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10049,
+        "word": "receivables",
+        "pronunciation": "/receivables/",
+        "audio": "receivables.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "các khoản phải thu",
+        "definition": "A debt owed, usually to a business, from the perspective of that business",
+        "example": "One man's receivable is another man's payable.",
+        "exampleVi": "Khoản phải thu của người này là khoản phải trả của người khác.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "receivables process, key receivables",
+        "wordFamily": "receivables (noun)",
+        "image": "receivables.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10050,
+        "word": "payroll",
+        "pronunciation": "/ˈpeɪɹəʊl/",
+        "audio": "payroll.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảng lương",
+        "definition": "A list of employees who receive salary or wages, together with the amounts due to each.",
+        "example": "We need to understand the concept of payroll.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tiền lương.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "payroll process, key payroll",
+        "wordFamily": "payroll (noun)",
+        "image": "payroll.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10051,
+        "word": "budget",
+        "pronunciation": "/ˈbʌdʒ.ɪt/",
+        "audio": "budget.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngân sách",
+        "definition": "The amount of money or resources earmarked for a particular institution, activity or time-frame.",
+        "example": "We need to understand the concept of budget.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ngân sách.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "budget process, key budget",
+        "wordFamily": "budget (noun)",
+        "image": "budget.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10052,
+        "word": "bookkeeper",
+        "pronunciation": "/bʌʔˈkiː.pə(ɹ)/",
+        "audio": "bookkeeper.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân viên kế toán",
+        "definition": "A person responsible for keeping records or documents, such as of a business.",
+        "example": "We need to understand the concept of bookkeeper.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân viên kế toán.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bookkeeper process, key bookkeeper",
+        "wordFamily": "bookkeeper (noun)",
+        "image": "bookkeeper.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10053,
+        "word": "trial",
+        "pronunciation": "/ˈtɹaɪəl/",
+        "audio": "trial.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thử nghiệm",
+        "definition": "An opportunity to test something out; a test.",
+        "example": "They will perform the trials for the new equipment next week.",
+        "exampleVi": "Họ sẽ tiến hành thử nghiệm thiết bị mới vào tuần tới.",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trial process, key trial",
+        "wordFamily": "trial (noun)",
+        "image": "trial.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10054,
+        "word": "post",
+        "pronunciation": "/pəʊst/",
+        "audio": "post.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài đăng",
+        "definition": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
+        "example": "ram a post into the ground",
+        "exampleVi": "đâm một cây cột xuống đất",
+        "topic": "Accounting",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "post process, key post",
+        "wordFamily": "post (noun)",
+        "image": "post.webp",
+        "tags": [
+            "accounting",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

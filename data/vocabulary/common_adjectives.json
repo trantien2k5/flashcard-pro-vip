@@ -1,0 +1,3065 @@
+[
+    {
+        "id": 10428,
+        "word": "able",
+        "pronunciation": "/ˈeɪbl/",
+        "audio": "able.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "có năng lực, có thể",
+        "definition": "having the power, skill, means, or opportunity to do something",
+        "example": "She is able to manage large scale logistics projects.",
+        "exampleVi": "Cô ấy có khả năng quản lý các dự án logistics quy mô lớn.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "be able to, able staff, able assistant",
+        "wordFamily": "ability (noun), enable (verb), ably (adverb)",
+        "image": "able.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10429,
+        "word": "absolute",
+        "pronunciation": "/ˈæbsəluːt/",
+        "audio": "absolute.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tuyệt đối, hoàn toàn",
+        "definition": "not qualified or diminished in any way; total and complete",
+        "example": "The manager has absolute authority over the department budget.",
+        "exampleVi": "Người quản lý có toàn quyền quyết định đối với ngân sách bộ phận.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "absolute trust, absolute authority, absolute necessity",
+        "wordFamily": "absolutely (adverb)",
+        "image": "absolute.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10430,
+        "word": "accurate",
+        "pronunciation": "/ˈækjərət/",
+        "audio": "accurate.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "chính xác",
+        "definition": "correct in all details; exact",
+        "example": "Please ensure that the inventory records are accurate.",
+        "exampleVi": "Vui lòng đảm bảo rằng hồ sơ hàng tồn kho là chính xác.",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "accurate representation, accurate database, accurate description",
+        "wordFamily": "accuracy (noun), accurately (adverb), inaccurate (adjective)",
+        "image": "accurate.webp",
+        "tags": [
+            "data",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10431,
+        "word": "active",
+        "pronunciation": "/ˈæktɪv/",
+        "audio": "active.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hoạt động, tích cực",
+        "definition": "engaging or ready to engage in physically energetic pursuits",
+        "example": "He plays an active role in resolving customer disputes.",
+        "exampleVi": "Anh ấy đóng vai trò tích cực trong việc giải quyết các tranh chấp của khách hàng.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "active role, active member, active search",
+        "wordFamily": "activity (noun), action (noun), actively (adverb), activate (verb)",
+        "image": "active.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10432,
+        "word": "additional",
+        "pronunciation": "/əˈdɪʃənl/",
+        "audio": "additional.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thêm vào, bổ sung",
+        "definition": "added, extra, or supplementary to what is already present or available",
+        "example": "We need additional staff members during the busy holiday season.",
+        "exampleVi": "Chúng tôi cần thêm nhân viên trong mùa nghỉ lễ bận rộn.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "additional costs, additional information, additional staff",
+        "wordFamily": "addition (noun), additionally (adverb), add (verb)",
+        "image": "additional.webp",
+        "tags": [
+            "common",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10433,
+        "word": "administrative",
+        "pronunciation": "/ədˈmɪnɪstrətɪv/",
+        "audio": "administrative.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thuộc về hành chính",
+        "definition": "relating to the running of a business, organization, or office",
+        "example": "The administrative office handles all payroll details.",
+        "exampleVi": "Văn phòng hành chính xử lý tất cả các chi tiết tiền lương.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "administrative task, administrative staff, administrative support",
+        "wordFamily": "administer (verb), administration (noun), administrator (noun)",
+        "image": "administrative.webp",
+        "tags": [
+            "office",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10434,
+        "word": "advanced",
+        "pronunciation": "/ədˈvɑːnst/",
+        "audio": "advanced.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tiên tiến, cấp cao",
+        "definition": "far on or ahead in development or progress",
+        "example": "The lab uses advanced technology to analyze chemical structures.",
+        "exampleVi": "Phòng thí nghiệm sử dụng công nghệ tiên tiến để phân tích cấu trúc hóa học.",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "advanced technology, advanced settings, advanced training",
+        "wordFamily": "advance (noun/verb), advancement (noun)",
+        "image": "advanced.webp",
+        "tags": [
+            "technology",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10435,
+        "word": "affordable",
+        "pronunciation": "/əˈfɔːdəbl/",
+        "audio": "affordable.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "giá cả phải chăng, vừa túi tiền",
+        "definition": "inexpensive; reasonably priced",
+        "example": "We aim to provide affordable housing for young families.",
+        "exampleVi": "Chúng tôi đặt mục tiêu cung cấp nhà ở giá cả phải chăng cho các gia đình trẻ.",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "affordable price, affordable rates, affordable housing",
+        "wordFamily": "afford (verb), affordably (adverb)",
+        "image": "affordable.webp",
+        "tags": [
+            "finance",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10436,
+        "word": "annual",
+        "pronunciation": "/ˈænjuəl/",
+        "audio": "annual.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hàng năm",
+        "definition": "occurring once every year",
+        "example": "The annual shareholder meeting is scheduled for next month.",
+        "exampleVi": "Cuộc họp cổ đông thường niên được lên lịch vào tháng tới.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "annual meeting, annual report, annual budget",
+        "wordFamily": "annually (adverb)",
+        "image": "annual.webp",
+        "tags": [
+            "time",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10437,
+        "word": "apparent",
+        "pronunciation": "/əˈpærənt/",
+        "audio": "apparent.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "rõ ràng, bề ngoài",
+        "definition": "clearly visible or understood; obvious",
+        "example": "It became apparent that the project would require more time.",
+        "exampleVi": "Rõ ràng là dự án sẽ cần nhiều thời gian hơn.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "apparent reason, apparent error, became apparent",
+        "wordFamily": "apparently (adverb)",
+        "image": "apparent.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10438,
+        "word": "appropriate",
+        "pronunciation": "/əˈprəʊpriət/",
+        "audio": "appropriate.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thích hợp, phù hợp",
+        "definition": "suitable or proper in the circumstances",
+        "example": "Please dress in appropriate attire for the corporate dinner.",
+        "exampleVi": "Vui lòng mặc trang phục thích hợp cho bữa tối của công ty.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "appropriate response, appropriate action, appropriate clothes",
+        "wordFamily": "appropriately (adverb), appropriateness (noun)",
+        "image": "appropriate.webp",
+        "tags": [
+            "office",
+            "adjective",
+            "policy"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10439,
+        "word": "available",
+        "pronunciation": "/əˈveɪləbl/",
+        "audio": "available.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "có sẵn, rảnh rỗi",
+        "definition": "able to be used or obtained; at someone's disposal",
+        "example": "The manager is not available to answer phone calls right now.",
+        "exampleVi": "Người quản lý hiện không thể trả lời các cuộc gọi điện thoại lúc này.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "available resources, available space, currently available",
+        "wordFamily": "availability (noun), unavailable (adjective)",
+        "image": "available.webp",
+        "tags": [
+            "common",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10440,
+        "word": "basic",
+        "pronunciation": "/ˈbeɪsɪk/",
+        "audio": "basic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "cơ bản",
+        "definition": "relating to the most important or simplest part of something",
+        "example": "The training course covers the basic functions of the database software.",
+        "exampleVi": "Khóa đào tạo bao gồm các chức năng cơ bản của phần mềm cơ sở dữ liệu.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "basic training, basic skills, basic concepts",
+        "wordFamily": "basis (noun), basically (adverb), base (verb/noun)",
+        "image": "basic.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10441,
+        "word": "beneficial",
+        "pronunciation": "/ˌbenɪˈfɪʃl/",
+        "audio": "beneficial.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "có lợi",
+        "definition": "resulting in good; favorable or advantageous",
+        "example": "A merger could be beneficial to the shareholders of both firms.",
+        "exampleVi": "Một vụ sáp nhập có thể có lợi cho các cổ đông của cả hai công ty.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "beneficial effect, mutually beneficial, highly beneficial",
+        "wordFamily": "benefit (noun/verb), beneficiary (noun)",
+        "image": "beneficial.webp",
+        "tags": [
+            "business",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10442,
+        "word": "busy",
+        "pronunciation": "/ˈbɪzi/",
+        "audio": "busy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "bận rộn, đông đúc",
+        "definition": "having a great deal to do; keeping occupied",
+        "example": "This is a busy time of year for our customer service center.",
+        "exampleVi": "Đây là thời điểm bận rộn trong năm đối với trung tâm dịch vụ khách hàng của chúng tôi.",
+        "topic": "Common Adjectives",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "busy schedule, busy street, get busy",
+        "wordFamily": "busily (adverb), business (noun)",
+        "image": "busy.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10443,
+        "word": "careful",
+        "pronunciation": "/ˈkeəfl/",
+        "audio": "careful.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "cẩn thận",
+        "definition": "making sure of avoiding potential danger, mishap, or harm; attentive",
+        "example": "A careful examination of the database logs revealed no security breaches.",
+        "exampleVi": "Kiểm tra kỹ lưỡng các nhật ký cơ sở dữ liệu cho thấy không có vi phạm bảo mật nào.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "careful planning, careful analysis, careful consideration",
+        "wordFamily": "care (noun/verb), carefully (adverb), carefulness (noun)",
+        "image": "careful.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10444,
+        "word": "central",
+        "pronunciation": "/ˈsentrəl/",
+        "audio": "central.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "trung tâm, trọng tâm",
+        "definition": "located in the center; forming the main or most important element of something",
+        "example": "Our central branch is located in downtown Seattle.",
+        "exampleVi": "Chi nhánh trung tâm của chúng tôi nằm ở trung tâm thành phố Seattle.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 1,
+        "collocations": "central office, central location, central theme",
+        "wordFamily": "center (noun/verb), centrally (adverb)",
+        "image": "central.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10445,
+        "word": "clear",
+        "pronunciation": "/klɪə(r)/",
+        "audio": "clear.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "rõ ràng, thông suốt",
+        "definition": "easy to perceive, understand, or interpret; transparent",
+        "example": "It is clear that the software migration has resolved the latency issues.",
+        "exampleVi": "Rõ ràng là việc di chuyển phần mềm đã giải quyết được các vấn đề về độ trễ.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "clear view, clear choice, clear understanding",
+        "wordFamily": "clearly (adverb), clarity (noun), clear (verb)",
+        "image": "clear.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10446,
+        "word": "close",
+        "pronunciation": "/kləʊs/",
+        "audio": "close.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "gần, thân thiết, kỹ lưỡng",
+        "definition": "only a short distance away or apart in space or time; intimate",
+        "example": "The hotel is located in close proximity to the airport.",
+        "exampleVi": "Khách sạn nằm ở vị trí rất gần sân bay.",
+        "topic": "Common Adjectives",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "close friend, close connection, close proximity",
+        "wordFamily": "closely (adverb), closeness (noun), close (verb)",
+        "image": "close.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10447,
+        "word": "common",
+        "pronunciation": "/ˈkɒmən/",
+        "audio": "common.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "phổ biến, chung",
+        "definition": "occurring, found, or done often; shared by all in a group",
+        "example": "It is a common practice to double check tax calculations.",
+        "exampleVi": "Việc kiểm tra lại các tính toán thuế là một thực tế phổ biến.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "common practice, common interest, common goal",
+        "wordFamily": "commonly (adverb)",
+        "image": "common.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10448,
+        "word": "compatible",
+        "pronunciation": "/kəmˈpætəbl/",
+        "audio": "compatible.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tương thích",
+        "definition": "able to exist or occur together without conflict; (of software) able to run on a computer",
+        "example": "This database system is not compatible with our operating system.",
+        "exampleVi": "Hệ thống cơ sở dữ liệu này không tương thích với hệ điều hành của chúng tôi.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compatible with, highly compatible, compatible software",
+        "wordFamily": "compatibility (noun), compatibly (adverb)",
+        "image": "compatible.webp",
+        "tags": [
+            "technology",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10449,
+        "word": "competitive",
+        "pronunciation": "/kəmˈpetətɪv/",
+        "audio": "competitive.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "có sức cạnh tranh, ganh đua",
+        "definition": "relating to or characterized by competition; as good as or better than others of a similar kind",
+        "example": "We offer competitive salaries to attract top engineering talent.",
+        "exampleVi": "Chúng tôi đưa ra mức lương cạnh tranh để thu hút tài năng kỹ thuật hàng đầu.",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "competitive salary, competitive market, competitive pricing",
+        "wordFamily": "compete (verb), competition (noun), competitor (noun)",
+        "image": "competitive.webp",
+        "tags": [
+            "business",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10450,
+        "word": "complete",
+        "pronunciation": "/kəmˈpliːt/",
+        "audio": "complete.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "đầy đủ, hoàn tất",
+        "definition": "having all the necessary or appropriate parts; entire",
+        "example": "A complete list of our products is available on page 4 of the catalog.",
+        "exampleVi": "Danh sách đầy đủ các sản phẩm của chúng tôi có sẵn trên trang 4 của danh mục.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "complete list, complete documentation, complete surprise",
+        "wordFamily": "complete (verb), completion (noun), completely (adverb)",
+        "image": "complete.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10451,
+        "word": "confidential",
+        "pronunciation": "/ˌkɒnfɪˈdenʃl/",
+        "audio": "confidential.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "bảo mật, tuyệt mật",
+        "definition": "intended to be kept secret; private",
+        "example": "All client database records must be treated as strictly confidential.",
+        "exampleVi": "Tất cả các hồ sơ cơ sở dữ liệu khách hàng phải được coi là tuyệt mật.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "strictly confidential, confidential document, confidential report",
+        "wordFamily": "confidentiality (noun), confidentially (adverb), confidence (noun)",
+        "image": "confidential.webp",
+        "tags": [
+            "business",
+            "adjective",
+            "policy"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10452,
+        "word": "considerable",
+        "pronunciation": "/kənˈsɪdərəbl/",
+        "audio": "considerable.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "đáng kể, to lớn",
+        "definition": "notably large in size, amount, or extent",
+        "example": "The marketing project required a considerable amount of budget.",
+        "exampleVi": "Dự án tiếp thị đòi hỏi một ngân sách đáng kể.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "considerable amount, considerable progress, considerable influence",
+        "wordFamily": "considerably (adverb), consider (verb), consideration (noun)",
+        "image": "considerable.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10453,
+        "word": "consistent",
+        "pronunciation": "/kənˈsɪstənt/",
+        "audio": "consistent.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nhất quán, kiên định",
+        "definition": "acting or done in the same way over time, especially so as to be fair or accurate",
+        "example": "We strive to deliver consistent quality across all product models.",
+        "exampleVi": "Chúng tôi nỗ lực cung cấp chất lượng nhất quán trên tất cả các mẫu sản phẩm.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consistent quality, consistent effort, consistent performance",
+        "wordFamily": "consistently (adverb), consistency (noun)",
+        "image": "consistent.webp",
+        "tags": [
+            "quality",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10454,
+        "word": "constant",
+        "pronunciation": "/ˈkɒnstənt/",
+        "audio": "constant.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "liên tục, không đổi",
+        "definition": "occurring continuously over a period of time; remaining the same",
+        "example": "The computer servers are kept under constant temperature monitoring.",
+        "exampleVi": "Các máy chủ máy tính được lưu giữ dưới sự theo dõi nhiệt độ liên tục.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "constant monitoring, constant threat, constant temperature",
+        "wordFamily": "constantly (adverb)",
+        "image": "constant.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10455,
+        "word": "convenient",
+        "pronunciation": "/kənˈviːniənt/",
+        "audio": "convenient.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tiện lợi, thuận tiện",
+        "definition": "fitting in well with a person's needs, activities, and plans",
+        "example": "Please let us know what time is most convenient for a call.",
+        "exampleVi": "Vui lòng cho chúng tôi biết thời gian nào thuận tiện nhất cho một cuộc gọi.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 1,
+        "collocations": "convenient time, convenient location, convenient features",
+        "wordFamily": "convenience (noun), conveniently (adverb), inconvenient (adjective)",
+        "image": "convenient.webp",
+        "tags": [
+            "common",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10456,
+        "word": "corporate",
+        "pronunciation": "/ˈkɔːpərət/",
+        "audio": "corporate.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thuộc về doanh nghiệp, tập đoàn",
+        "definition": "relating to a large company or group; corporate business structure",
+        "example": "She is in charge of designing our new corporate website.",
+        "exampleVi": "Cô ấy chịu trách nhiệm thiết kế trang web mới của tập đoàn chúng tôi.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "corporate strategy, corporate lawyer, corporate headquarters",
+        "wordFamily": "corporation (noun)",
+        "image": "corporate.webp",
+        "tags": [
+            "business",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10457,
+        "word": "correct",
+        "pronunciation": "/kəˈrekt/",
+        "audio": "correct.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "đúng, chính xác",
+        "definition": "free from error; in accordance with fact or truth",
+        "example": "Please check to make sure that the billing address is correct.",
+        "exampleVi": "Vui lòng kiểm tra để đảm bảo rằng địa chỉ thanh toán là chính xác.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "correct answer, correct format, correct procedure",
+        "wordFamily": "correction (noun), correctly (adverb), correct (verb)",
+        "image": "correct.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10458,
+        "word": "critical",
+        "pronunciation": "/ˈkrɪtɪkl/",
+        "audio": "critical.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "then chốt, nguy ngập, chỉ trích",
+        "definition": "expressing adverse or disapproving comments or judgments; having a decisive importance in the success or failure of something",
+        "example": "Quality control is critical for maintaining customer trust.",
+        "exampleVi": "Kiểm soát chất lượng là then chốt để duy trì lòng tin của khách hàng.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "critical factor, critical path, critical feedback",
+        "wordFamily": "critic (noun), criticize (verb), criticism (noun), critically (adverb)",
+        "image": "critical.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10459,
+        "word": "current",
+        "pronunciation": "/ˈkʌrənt/",
+        "audio": "current.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hiện tại",
+        "definition": "belonging to the present time; happening or being used now",
+        "example": "Our current sales marketing campaign is showing good results.",
+        "exampleVi": "Chiến dịch tiếp thị bán hàng hiện tại của chúng tôi đang cho kết quả tốt.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "current settings, current employee, current project",
+        "wordFamily": "currently (adverb)",
+        "image": "current.webp",
+        "tags": [
+            "time",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10460,
+        "word": "daily",
+        "pronunciation": "/ˈdeɪli/",
+        "audio": "daily.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hàng ngày",
+        "definition": "done, produced, or occurring every day or every weekday",
+        "example": "We conduct a daily stand-up meeting with the software development team.",
+        "exampleVi": "Chúng tôi thực hiện một cuộc họp đứng hàng ngày với đội ngũ phát triển phần mềm.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "daily stand-up, daily newspaper, daily tasks",
+        "wordFamily": "day (noun)",
+        "image": "daily.webp",
+        "tags": [
+            "time",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10461,
+        "word": "deliberate",
+        "pronunciation": "/dɪˈlɪbərət/",
+        "audio": "deliberate.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "cố ý, chủ tâm, thận trọng",
+        "definition": "done consciously and intentionally; fully planned",
+        "example": "The decision to relocate the factory was a deliberate choice by the board.",
+        "exampleVi": "Quyết định di dời nhà máy là một sự lựa chọn có chủ đích của hội đồng quản trị.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "deliberate choice, deliberate action, deliberate plan",
+        "wordFamily": "deliberately (adverb), deliberation (noun)",
+        "image": "deliberate.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10462,
+        "word": "delicate",
+        "pronunciation": "/ˈdelɪkət/",
+        "audio": "delicate.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "mỏng manh, tinh tế, nhạy cảm",
+        "definition": "very fine in texture or structure; easily broken or damaged",
+        "example": "The glass items are extremely delicate and must be handled with care.",
+        "exampleVi": "Các vật phẩm bằng thủy tinh cực kỳ dễ vỡ và phải được xử lý cẩn thận.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "delicate operation, delicate situation, delicate glass",
+        "wordFamily": "delicately (adverb), delicacy (noun)",
+        "image": "delicate.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10463,
+        "word": "demanding",
+        "pronunciation": "/dɪˈmɑːndɪŋ/",
+        "audio": "demanding.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "yêu cầu cao, khắt khe",
+        "definition": "requiring much time, effort, or attention",
+        "example": "The manager position is extremely demanding and requires working overtime.",
+        "exampleVi": "Vị trí quản lý cực kỳ đòi hỏi khắt khe và yêu cầu làm việc ngoài giờ.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demanding task, demanding boss, demanding career",
+        "wordFamily": "demand (noun/verb)",
+        "image": "demanding.webp",
+        "tags": [
+            "jobs",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10464,
+        "word": "dependent",
+        "pronunciation": "/dɪˈpendənt/",
+        "audio": "dependent.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "lệ thuộc, phụ thuộc",
+        "definition": "requiring someone or something for financial, emotional, or other support",
+        "example": "Our logistics operations are highly dependent on the local shipping ports.",
+        "exampleVi": "Hoạt động logistics của chúng tôi phụ thuộc rất nhiều vào các cảng vận chuyển địa phương.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "dependent on, dependent status, database dependent",
+        "wordFamily": "dependence (noun), depend (verb), independent (adjective)",
+        "image": "dependent.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10465,
+        "word": "detailed",
+        "pronunciation": "/ˈdiːteɪld/",
+        "audio": "detailed.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "chi tiết, tỉ mỉ",
+        "definition": "having many details or facts; giving full details",
+        "example": "Please submit a detailed breakdown of your travel expenses.",
+        "exampleVi": "Vui lòng nộp bảng phân tích chi tiết các chi phí đi lại của bạn.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "detailed analysis, detailed description, detailed plan",
+        "wordFamily": "detail (noun/verb)",
+        "image": "detailed.webp",
+        "tags": [
+            "office",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10466,
+        "word": "different",
+        "pronunciation": "/ˈdɪfrənt/",
+        "audio": "different.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "khác biệt, khác nhau",
+        "definition": "not the same as another or each other; unlike in nature, form, or quality",
+        "example": "We compared quotes from three different suppliers before choosing.",
+        "exampleVi": "Chúng tôi đã so sánh báo giá từ ba nhà cung cấp khác nhau trước khi lựa chọn.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "different options, different locations, different methods",
+        "wordFamily": "difference (noun), differently (adverb), differ (verb)",
+        "image": "different.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10467,
+        "word": "digital",
+        "pronunciation": "/ˈdɪdʒɪtl/",
+        "audio": "digital.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "kỹ thuật số",
+        "definition": "involving or relating to the use of computer technology",
+        "example": "The company has transitioned completely to a digital archiving system.",
+        "exampleVi": "Công ty đã chuyển đổi hoàn toàn sang hệ thống lưu trữ kỹ thuật số.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 1,
+        "collocations": "digital marketing, digital files, digital platform",
+        "wordFamily": "digitize (verb)",
+        "image": "digital.webp",
+        "tags": [
+            "technology",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10468,
+        "word": "direct",
+        "pronunciation": "/daɪˈrekt/",
+        "audio": "direct.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "trực tiếp, thẳng thắn",
+        "definition": "extending or moving in a straight line; without intervening factors",
+        "example": "We have direct communication channels with our suppliers.",
+        "exampleVi": "Chúng tôi có các kênh truyền thông trực tiếp với các nhà cung cấp của mình.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 1,
+        "collocations": "direct flight, direct contact, direct impact",
+        "wordFamily": "directly (adverb), direction (noun), direct (verb)",
+        "image": "direct.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10469,
+        "word": "domestic",
+        "pronunciation": "/dəˈmestɪk/",
+        "audio": "domestic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nội địa, trong nước, gia đình",
+        "definition": "relating to the running of a home or a family; existing or occurring within a particular country",
+        "example": "Our domestic sales have increased by fifteen percent this year.",
+        "exampleVi": "Doanh số bán hàng nội địa của chúng tôi đã tăng mười lăm phần trăm trong năm nay.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "domestic flight, domestic market, domestic economy",
+        "wordFamily": "domestically (adverb)",
+        "image": "domestic.webp",
+        "tags": [
+            "business",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10470,
+        "word": "double",
+        "pronunciation": "/ˈdʌbl/",
+        "audio": "double.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "gấp đôi, hai, kép",
+        "definition": "consisting of two equal, identical, or similar parts or things",
+        "example": "We booked a double room with a sea view at the resort.",
+        "exampleVi": "Chúng tôi đã đặt một phòng đôi hướng biển tại khu nghỉ dưỡng.",
+        "topic": "Common Adjectives",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "double room, double check, double size",
+        "wordFamily": "double (verb/noun/adverb)",
+        "image": "double.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10471,
+        "word": "due",
+        "pronunciation": "/djuː/",
+        "audio": "due.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "đến hạn, dự kiến",
+        "definition": "expected at or planned for at a certain time; outstanding (payment)",
+        "example": "The final report is due on Friday afternoon.",
+        "exampleVi": "Báo cáo cuối cùng sẽ đến hạn nộp vào chiều thứ Sáu.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "due date, due payment, due to factors",
+        "wordFamily": "dues (noun)",
+        "image": "due.webp",
+        "tags": [
+            "time",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10472,
+        "word": "duplicate",
+        "pronunciation": "/ˈdjuːplɪkət/",
+        "audio": "duplicate.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "sao chép, nhân bản, giống hệt",
+        "definition": "exactly like something else, especially written material; double",
+        "example": "Please make a duplicate copy of the contract for our files.",
+        "exampleVi": "Vui lòng tạo một bản sao hợp đồng cho kho hồ sơ của chúng tôi.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "duplicate key, duplicate copy, duplicate files",
+        "wordFamily": "duplicate (verb), duplication (noun)",
+        "image": "duplicate.webp",
+        "tags": [
+            "office",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10473,
+        "word": "eager",
+        "pronunciation": "/ˈiːɡə(r)/",
+        "audio": "eager.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hăm hở, thiết tha, hăng hái",
+        "definition": "strongly wanting to do or have something; enthusiastic",
+        "example": "The graduates are eager to start their careers at our company.",
+        "exampleVi": "Các sinh viên tốt nghiệp rất háo hức bắt đầu sự nghiệp của họ tại công ty chúng tôi.",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "eager to learn, eager to work, eager fans",
+        "wordFamily": "eagerly (adverb), eagerness (noun)",
+        "image": "eager.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10474,
+        "word": "early",
+        "pronunciation": "/ˈɜːli/",
+        "audio": "early.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "sớm",
+        "definition": "happening or done before the usual or expected time",
+        "example": "We managed to finish the database migration ahead of the early deadline.",
+        "exampleVi": "Chúng tôi đã hoàn thành việc di chuyển cơ sở dữ liệu trước thời hạn sớm.",
+        "topic": "Common Adjectives",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "early stage, early booking, early start",
+        "wordFamily": "early (adverb)",
+        "image": "early.webp",
+        "tags": [
+            "time",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10475,
+        "word": "easy",
+        "pronunciation": "/ˈiːzi/",
+        "audio": "easy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "dễ dàng",
+        "definition": "achieved without great effort; presenting few difficulties",
+        "example": "The online application system has an easy navigation flow.",
+        "exampleVi": "Hệ thống ứng tuyển trực tuyến có luồng điều hướng dễ dàng.",
+        "topic": "Common Adjectives",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "easy setup, easy access, easy to use",
+        "wordFamily": "easily (adverb), ease (noun/verb)",
+        "image": "easy.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10476,
+        "word": "economic",
+        "pronunciation": "/ˌiːkəˈnɒmɪk/",
+        "audio": "economic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thuộc về kinh tế",
+        "definition": "relating to economics or the economy; profitable",
+        "example": "The government is trying to foster economic growth.",
+        "exampleVi": "Chính phủ đang nỗ lực thúc đẩy tăng trưởng kinh tế.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "economic growth, economic policy, economic crisis",
+        "wordFamily": "economics (noun), economy (noun), economical (adjective), economically (adverb)",
+        "image": "economic.webp",
+        "tags": [
+            "business",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10477,
+        "word": "effective",
+        "pronunciation": "/ɪˈfektɪv/",
+        "audio": "effective.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hiệu quả, có hiệu lực",
+        "definition": "successful in producing a desired or intended result; in operation",
+        "example": "The new policy will be effective starting next Monday.",
+        "exampleVi": "Chính sách mới sẽ có hiệu lực bắt đầu từ thứ Hai tới.",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "effective immediately, effective leadership, cost-effective",
+        "wordFamily": "effect (noun/verb), effectively (adverb), effectiveness (noun)",
+        "image": "effective.webp",
+        "tags": [
+            "office",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10478,
+        "word": "efficient",
+        "pronunciation": "/ɪˈfɪʃnt/",
+        "audio": "efficient.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hiệu suất cao, năng suất tốt",
+        "definition": "achieving maximum productivity with minimum wasted effort or expense",
+        "example": "The new assembly line machinery is much more energy efficient.",
+        "exampleVi": "Máy móc dây chuyền lắp ráp mới tiết kiệm năng lượng hiệu quả hơn nhiều.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "efficient production, highly efficient, efficient workflow",
+        "wordFamily": "efficiency (noun), efficiently (adverb)",
+        "image": "efficient.webp",
+        "tags": [
+            "manufacturing",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10479,
+        "word": "electronic",
+        "pronunciation": "/ˌelekˈtrɒnɪk/",
+        "audio": "electronic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "điện tử",
+        "definition": "relating to electronics or computers; digital",
+        "example": "Please submit your receipts in electronic format via email.",
+        "exampleVi": "Vui lòng nộp hóa đơn của bạn dưới định dạng điện tử qua email.",
+        "topic": "Common Adjectives",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "electronic device, electronic format, electronic signature",
+        "wordFamily": "electronics (noun), electronically (adverb)",
+        "image": "electronic.webp",
+        "tags": [
+            "technology",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10480,
+        "word": "eligible",
+        "pronunciation": "/ˈelɪdʒəbl/",
+        "audio": "eligible.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "đủ tư cách, đủ điều kiện",
+        "definition": "having the right to do or obtain something; satisfying the appropriate conditions",
+        "example": "Full-time employees are eligible for the pension program.",
+        "exampleVi": "Nhân viên làm việc toàn thời gian đủ điều kiện tham gia chương trình lương hưu.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "eligible for promotion, eligible voters, eligible candidates",
+        "wordFamily": "eligibility (noun)",
+        "image": "eligible.webp",
+        "tags": [
+            "human-resources",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10481,
+        "word": "empty",
+        "pronunciation": "/ˈempti/",
+        "audio": "empty.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "trống, rỗng",
+        "definition": "containing nothing; not filled or occupied",
+        "example": "There are several empty office rooms on the third floor.",
+        "exampleVi": "Có vài phòng văn phòng trống trên tầng ba.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "empty room, empty space, half empty",
+        "wordFamily": "emptiness (noun), empty (verb)",
+        "image": "empty.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10482,
+        "word": "entire",
+        "pronunciation": "/ɪnˈtaɪə(r)/",
+        "audio": "entire.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "toàn bộ",
+        "definition": "with no part left out; whole",
+        "example": "The entire department will move to a new floor next week.",
+        "exampleVi": "Toàn bộ bộ phận sẽ chuyển sang một tầng mới vào tuần tới.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 1,
+        "collocations": "entire system, entire project, entire staff",
+        "wordFamily": "entirely (adverb), entirety (noun)",
+        "image": "entire.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10483,
+        "word": "environmental",
+        "pronunciation": "/ɪnˌvaɪrənˈmentl/",
+        "audio": "environmental.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thuộc về môi trường",
+        "definition": "relating to the natural world and the impact of human activity on its condition",
+        "example": "All projects must submit an environmental impact assessment.",
+        "exampleVi": "Tất cả các dự án phải nộp báo cáo đánh giá tác động môi trường.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "environmental issues, environmental assessment, environmental laws",
+        "wordFamily": "environment (noun), environmentally (adverb), environmentalist (noun)",
+        "image": "environmental.webp",
+        "tags": [
+            "environment",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10484,
+        "word": "equal",
+        "pronunciation": "/ˈiːkwəl/",
+        "audio": "equal.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "ngang bằng, công bằng",
+        "definition": "being the same in quantity, size, degree, or value",
+        "example": "We strive to offer equal employment opportunities to all.",
+        "exampleVi": "Chúng tôi nỗ lực mang lại cơ hội việc làm bình đẳng cho tất cả mọi người.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 1,
+        "collocations": "equal rights, equal opportunity, equal distribution",
+        "wordFamily": "equality (noun), equally (adverb), equalize (verb)",
+        "image": "equal.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10485,
+        "word": "essential",
+        "pronunciation": "/ɪˈsenʃl/",
+        "audio": "essential.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "cần thiết, thiết yếu",
+        "definition": "absolutely necessary; extremely important",
+        "example": "Database security is essential to protect confidential records.",
+        "exampleVi": "Bảo mật cơ sở dữ liệu là rất quan trọng để bảo vệ các hồ sơ mật.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "essential items, essential part, absolutely essential",
+        "wordFamily": "essentially (adverb), essence (noun)",
+        "image": "essential.webp",
+        "tags": [
+            "common",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10486,
+        "word": "estimated",
+        "pronunciation": "/ˈestɪmeɪtɪd/",
+        "audio": "estimated.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "ước tính",
+        "definition": "roughly calculated or approximate",
+        "example": "The estimated project cost is fifty thousand dollars.",
+        "exampleVi": "Chi phí dự án ước tính là năm mươi nghìn đô la.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "estimated cost, estimated budget, estimated arrival time",
+        "wordFamily": "estimate (noun/verb), estimation (noun)",
+        "image": "estimated.webp",
+        "tags": [
+            "finance",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10487,
+        "word": "excellent",
+        "pronunciation": "/ˈeksələnt/",
+        "audio": "excellent.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "xuất sắc, tuyệt vời",
+        "definition": "extremely good; outstanding",
+        "example": "He has an excellent track record in customer service.",
+        "exampleVi": "Anh ấy có một thành tích xuất sắc trong dịch vụ khách hàng.",
+        "topic": "Common Adjectives",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "excellent quality, excellent performance, excellent service",
+        "wordFamily": "excellence (noun), excellently (adverb)",
+        "image": "excellent.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10488,
+        "word": "executive",
+        "pronunciation": "/ɪɡˈzekjətɪv/",
+        "audio": "executive.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thuộc về điều hành, quản trị",
+        "definition": "relating to managing or directing the affairs of an organization",
+        "example": "The executive board will approve the financial statements today.",
+        "exampleVi": "Ban điều hành sẽ phê duyệt báo cáo tài chính ngày hôm nay.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "executive decision, executive board, executive search",
+        "wordFamily": "execute (verb), execution (noun)",
+        "image": "executive.webp",
+        "tags": [
+            "management",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10489,
+        "word": "exempt",
+        "pronunciation": "/ɪɡˈzempt/",
+        "audio": "exempt.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "được miễn thuế/trách nhiệm",
+        "definition": "free from an obligation or liability imposed on others",
+        "example": "Certain charity organizations are exempt from corporate income taxes.",
+        "exampleVi": "Một số tổ chức từ thiện nhất định được miễn thuế thu nhập doanh nghiệp.",
+        "topic": "Common Adjectives",
+        "level": "C1",
+        "difficulty": 4,
+        "collocations": "tax exempt, exempt status, exempt from duty",
+        "wordFamily": "exempt (verb), exemption (noun)",
+        "image": "exempt.webp",
+        "tags": [
+            "finance",
+            "legal",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10490,
+        "word": "existing",
+        "pronunciation": "/ɪɡˈzɪstɪŋ/",
+        "audio": "existing.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hiện tại, hiện hành",
+        "definition": "occurring or present now",
+        "example": "Our existing customer database needs to be updated immediately.",
+        "exampleVi": "Cơ sở dữ liệu khách hàng hiện tại của chúng tôi cần được cập nhật ngay lập tức.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "existing customers, existing infrastructure, existing laws",
+        "wordFamily": "exist (verb), existence (noun)",
+        "image": "existing.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10491,
+        "word": "expensive",
+        "pronunciation": "/ɪkˈspensɪv/",
+        "audio": "expensive.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "đắt tiền",
+        "definition": "costing a lot of money",
+        "example": "Relocating the headquarters will be extremely expensive.",
+        "exampleVi": "Việc di dời trụ sở chính sẽ cực kỳ tốn kém.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "expensive hotel, highly expensive, expensive project",
+        "wordFamily": "expense (noun), expensively (adverb)",
+        "image": "expensive.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10492,
+        "word": "experienced",
+        "pronunciation": "/ɪkˈspɪəriənst/",
+        "audio": "experienced.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "giàu kinh nghiệm",
+        "definition": "having knowledge or skill in a particular field, especially a profession",
+        "example": "We are seeking an experienced manager to lead our sales team.",
+        "exampleVi": "Chúng tôi đang tìm kiếm một quản lý giàu kinh nghiệm để lãnh đạo đội ngũ bán hàng của chúng tôi.",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "experienced staff, highly experienced, experienced developers",
+        "wordFamily": "experience (noun/verb)",
+        "image": "experienced.webp",
+        "tags": [
+            "jobs",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10493,
+        "word": "express",
+        "pronunciation": "/ɪkˈspres/",
+        "audio": "express.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hỏa tốc, nhanh, rõ ràng",
+        "definition": "operating at a high speed; stated clearly and directly",
+        "example": "We decided to send the replacement parts by express courier.",
+        "exampleVi": "Chúng tôi quyết định gửi các bộ phận thay thế bằng dịch vụ chuyển phát nhanh hỏa tốc.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "express delivery, express service, express wish",
+        "wordFamily": "expressly (adverb), expression (noun), express (verb)",
+        "image": "express.webp",
+        "tags": [
+            "logistics",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10494,
+        "word": "external",
+        "pronunciation": "/ɪkˈstɜːnl/",
+        "audio": "external.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "bên ngoài, ngoại hải",
+        "definition": "belonging to or forming the outer surface or structure of something",
+        "example": "We hired an external audit company to inspect our tax filings.",
+        "exampleVi": "Chúng tôi đã thuê một công ty kiểm toán bên ngoài để kiểm tra hồ sơ thuế của mình.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "external audit, external database, external resources",
+        "wordFamily": "externally (adverb)",
+        "image": "external.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10495,
+        "word": "extra",
+        "pronunciation": "/ˈekstrə/",
+        "audio": "extra.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thêm, bổ sung",
+        "definition": "added to an existing or usual amount or number; additional",
+        "example": "Please pack some extra project files for the business trip.",
+        "exampleVi": "Vui lòng chuẩn bị thêm một số tệp dự án cho chuyến công tác.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "extra charge, extra time, extra cost",
+        "wordFamily": "extra (adverb/noun)",
+        "image": "extra.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10496,
+        "word": "extreme",
+        "pronunciation": "/ɪkˈstriːm/",
+        "audio": "extreme.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "vô cùng, khắc nghiệt",
+        "definition": "reaching a high or the highest degree; very great",
+        "example": "The weather conditions caused extreme delay in logistical shipping.",
+        "exampleVi": "Điều kiện thời tiết đã gây ra sự chậm trễ nghiêm trọng trong vận chuyển logistics.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "extreme heat, extreme weather, extreme measures",
+        "wordFamily": "extremely (adverb), extremity (noun)",
+        "image": "extreme.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10497,
+        "word": "familiar",
+        "pronunciation": "/fəˈmɪliə(r)/",
+        "audio": "familiar.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "quen thuộc, am hiểu",
+        "definition": "well known from long or close association; close",
+        "example": "Are you familiar with the security guidelines of the office?",
+        "exampleVi": "Bạn có quen thuộc với các hướng dẫn bảo mật của văn phòng không?",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "familiar with, familiar face, become familiar",
+        "wordFamily": "familiarity (noun), familiarize (verb), unfamiliar (adjective)",
+        "image": "familiar.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10498,
+        "word": "famous",
+        "pronunciation": "/ˈfeɪməs/",
+        "audio": "famous.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nổi tiếng",
+        "definition": "known about by many people",
+        "example": "The city is famous for its historical central district.",
+        "exampleVi": "Thành phố nổi tiếng với khu trung tâm lịch sử.",
+        "topic": "Common Adjectives",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "famous for, famous artist, famous brand",
+        "wordFamily": "fame (noun), famously (adverb)",
+        "image": "famous.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10499,
+        "word": "fast",
+        "pronunciation": "/fɑːst/",
+        "audio": "fast.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nhanh chóng",
+        "definition": "moving or capable of moving at high speed",
+        "example": "We need a fast network connection for video editing.",
+        "exampleVi": "Chúng tôi cần một kết nối mạng nhanh để chỉnh sửa video.",
+        "topic": "Common Adjectives",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "fast pace, fast food, fast delivery",
+        "wordFamily": "fast (adverb)",
+        "image": "fast.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10500,
+        "word": "favorable",
+        "pronunciation": "/ˈfeɪvərəbl/",
+        "audio": "favorable.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thuận lợi, tán thành",
+        "definition": "expressing approval; giving a consensus of support or advantage",
+        "example": "The marketing plan received favorable feedback from the board.",
+        "exampleVi": "Kế hoạch tiếp thị đã nhận được phản hồi thuận lợi từ hội đồng quản trị.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "favorable terms, favorable weather, favorable review",
+        "wordFamily": "favor (noun/verb), favorably (adverb), favorite (adjective/noun)",
+        "image": "favorable.webp",
+        "tags": [
+            "business",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10501,
+        "word": "final",
+        "pronunciation": "/ˈfaɪnl/",
+        "audio": "final.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "cuối cùng",
+        "definition": "coming at the end of a series; concluding",
+        "example": "The board approved the final draft of the merger contract.",
+        "exampleVi": "Hội đồng quản trị đã phê duyệt bản thảo cuối cùng của hợp đồng sáp nhập.",
+        "topic": "Common Adjectives",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "final report, final decision, final warning",
+        "wordFamily": "finally (adverb), finalize (verb)",
+        "image": "final.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10502,
+        "word": "financial",
+        "pronunciation": "/faɪˈnænʃl/",
+        "audio": "financial.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thuộc về tài chính",
+        "definition": "relating to finance or financial systems",
+        "example": "Please send your receipts to our financial analyst immediately.",
+        "exampleVi": "Vui lòng gửi hóa đơn của bạn cho nhà phân tích tài chính của chúng tôi ngay lập tức.",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "financial report, financial support, financial audit",
+        "wordFamily": "finance (noun/verb), financially (adverb)",
+        "image": "financial.webp",
+        "tags": [
+            "finance",
+            "adjective",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10503,
+        "word": "foreign",
+        "pronunciation": "/ˈfɒrən/",
+        "audio": "foreign.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nước ngoài, ngoại quốc",
+        "definition": "of, from, in, or characteristic of a country or language other than one's own",
+        "example": "We plan to open office branches in several foreign cities next year.",
+        "exampleVi": "Chúng tôi dự định mở các chi nhánh văn phòng ở một số thành phố nước ngoài vào năm tới.",
+        "topic": "Common Adjectives",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "foreign currency, foreign investment, foreign language",
+        "wordFamily": "foreigner (noun)",
+        "image": "foreign.webp",
+        "tags": [
+            "business",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10504,
+        "word": "formal",
+        "pronunciation": "/ˈfɔːml/",
+        "audio": "formal.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "chính thức, trang trọng",
+        "definition": "done in accordance with rules of convention or etiquette; suitable for official events",
+        "example": "The manager sent a formal invitation to the company directors.",
+        "exampleVi": "Người quản lý đã gửi một lời mời chính thức đến các giám đốc công ty.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "formal clothing, formal training, formal agreement",
+        "wordFamily": "formally (adverb), formality (noun), formalize (verb)",
+        "image": "formal.webp",
+        "tags": [
+            "business",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10505,
+        "word": "former",
+        "pronunciation": "/ˈfɔːmə(r)/",
+        "audio": "former.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "cựu, trước đây",
+        "definition": "having previously filled a particular role or status",
+        "example": "The former sales manager decided to start a consulting business.",
+        "exampleVi": "Cựu quản lý bán hàng quyết định thành lập một doanh nghiệp tư vấn.",
+        "topic": "Common Adjectives",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "former employee, former boss, former president",
+        "wordFamily": "formerly (adverb)",
+        "image": "former.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10506,
+        "word": "free",
+        "pronunciation": "/friː/",
+        "audio": "free.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "miễn phí, rảnh rỗi, tự do",
+        "definition": "given or available without charge; not occupied or busy",
+        "example": "The logistics firm offers free delivery for orders above five hundred dollars.",
+        "exampleVi": "Công ty logistics cung cấp dịch vụ giao hàng miễn phí cho các đơn hàng trên năm trăm đô la.",
+        "topic": "Common Adjectives",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "free of charge, free shipping, free time",
+        "wordFamily": "freely (adverb), freedom (noun), free (verb)",
+        "image": "free.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10507,
+        "word": "frequent",
+        "pronunciation": "/ˈfriːkwənt/",
+        "audio": "frequent.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thường xuyên",
+        "definition": "occurring or done on many occasions, in many cases, or in quick succession",
+        "example": "The manager makes frequent visits to our logistics warehouse.",
+        "exampleVi": "Người quản lý thường xuyên đến thăm kho hàng logistics của chúng tôi.",
+        "topic": "Common Adjectives",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "frequent flier, frequent visits, frequent checks",
+        "wordFamily": "frequently (adverb), frequency (noun)",
+        "image": "frequent.webp",
+        "tags": [
+            "common",
+            "adjective"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

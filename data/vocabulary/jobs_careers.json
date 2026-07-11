@@ -1,0 +1,2814 @@
+[
+    {
+        "id": 12090,
+        "word": "job",
+        "pronunciation": "/d͡ʒɒb/",
+        "audio": "job.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công việc",
+        "definition": "A task.",
+        "example": "A job half done is hardly done at all.",
+        "exampleVi": "Một công việc được thực hiện một nửa hầu như không được thực hiện.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "job process, key job",
+        "wordFamily": "job (noun)",
+        "image": "job.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12091,
+        "word": "career",
+        "pronunciation": "/kəˈɹɪə/",
+        "audio": "career.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự nghiệp",
+        "definition": "One's calling in life; a person's occupation; one's profession.",
+        "example": "We need to understand the concept of career.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nghề nghiệp.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "career process, key career",
+        "wordFamily": "career (noun)",
+        "image": "career.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12092,
+        "word": "work",
+        "pronunciation": "/wɜːk/",
+        "audio": "work.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công việc",
+        "definition": "(heading) Employment.",
+        "example": "We need to understand the concept of work.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công việc.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "work process, key work",
+        "wordFamily": "work (noun)",
+        "image": "work.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12093,
+        "word": "profession",
+        "pronunciation": "/pɹəˈfɛʃən/",
+        "audio": "profession.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghề nghiệp",
+        "definition": "A declaration of belief, faith or one's opinion, whether genuine or pretended.",
+        "example": "Despite his continued professions of innocence, the court eventually sentenced him to five years.",
+        "exampleVi": "Mặc dù anh ta tiếp tục khẳng định mình vô tội nhưng cuối cùng tòa án vẫn kết án anh ta 5 năm.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "profession process, key profession",
+        "wordFamily": "profession (noun)",
+        "image": "profession.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12094,
+        "word": "occupation",
+        "pronunciation": "/ɒkjəˈpeɪʃən/",
+        "audio": "occupation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghề nghiệp",
+        "definition": "An activity or task with which one occupies oneself; usually specifically the productive activity, service, trade, or craft for which one is regularly paid; a job.",
+        "example": "We need to understand the concept of occupation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nghề nghiệp.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "occupation process, key occupation",
+        "wordFamily": "occupation (noun)",
+        "image": "occupation.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12095,
+        "word": "employment",
+        "pronunciation": "/ɛmˈplɔɪmənt/",
+        "audio": "employment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuê người làm",
+        "definition": "The work or occupation for which one is used, and often paid",
+        "example": "We need to understand the concept of employment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm việc làm.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "employment process, key employment",
+        "wordFamily": "employment (noun)",
+        "image": "employment.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12096,
+        "word": "unemployment",
+        "pronunciation": "/ʌn.ɪmˈplɔɪ.mənt/",
+        "audio": "unemployment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nạn thất nghiệp",
+        "definition": "The state of having no job; joblessness.",
+        "example": "Unemployment made Jack depressed.",
+        "exampleVi": "Thất nghiệp khiến Jack chán nản.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "unemployment process, key unemployment",
+        "wordFamily": "unemployment (noun)",
+        "image": "unemployment.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12097,
+        "word": "resume",
+        "pronunciation": "/ɹəˈzjuːm/",
+        "audio": "resume.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bản tóm tắt",
+        "definition": "To take back possession of (something).",
+        "example": "We need to understand the concept of resume.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sơ yếu lý lịch.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "resume process, key resume",
+        "wordFamily": "resume (verb)",
+        "image": "resume.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12098,
+        "word": "cv",
+        "pronunciation": "/ˌsiːˈviː/",
+        "audio": "cv.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sơ yếu lý lịch",
+        "definition": "a written summary of your education and the jobs you have done, used when you are trying to get a new job",
+        "example": "Please send your CV and cover letter to the HR department.",
+        "exampleVi": "Vui lòng gửi sơ yếu lý lịch và thư xin việc của bạn đến bộ phận nhân sự.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cv process, key cv",
+        "wordFamily": "cv (noun)",
+        "image": "cv.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12099,
+        "word": "interview",
+        "pronunciation": "/ˈɪntəvjuː/",
+        "audio": "interview.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phỏng vấn",
+        "definition": "An official face-to-face meeting of monarchs or other important figures.",
+        "example": "We need to understand the concept of interview.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phỏng vấn.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "interview process, key interview",
+        "wordFamily": "interview (noun)",
+        "image": "interview.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12100,
+        "word": "hire",
+        "pronunciation": "/haɪə/",
+        "audio": "hire.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuê",
+        "definition": "Payment for the temporary use of something.",
+        "example": "The sign offered pedalos on hire.",
+        "exampleVi": "Biển hiệu cung cấp bàn đạp cho thuê.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hire process, key hire",
+        "wordFamily": "hire (noun)",
+        "image": "hire.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12101,
+        "word": "fire",
+        "pronunciation": "/ˈfɑeə(ɹ)/",
+        "audio": "fire.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngọn lửa",
+        "definition": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.",
+        "example": "We need to understand the concept of fire.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lửa.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fire process, key fire",
+        "wordFamily": "fire (noun)",
+        "image": "fire.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12102,
+        "word": "retire",
+        "pronunciation": "/ɹəˈtaɪə(ɹ)/",
+        "audio": "retire.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "về hưu",
+        "definition": "The act of retiring, or the state of being retired.",
+        "example": "We need to understand the concept of retire.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nghỉ hưu.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "retire process, key retire",
+        "wordFamily": "retire (noun)",
+        "image": "retire.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12103,
+        "word": "promote",
+        "pronunciation": "/pɹəˈməʊt/",
+        "audio": "promote.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "khuyến khích",
+        "definition": "To raise (someone) to a more important, responsible, or remunerative job or rank.",
+        "example": "He promoted his clerk to office manager.",
+        "exampleVi": "Ông thăng chức thư ký của mình lên làm quản lý văn phòng.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "promote process, key promote",
+        "wordFamily": "promote (verb)",
+        "image": "promote.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12104,
+        "word": "resign",
+        "pronunciation": "/ɹɪˈzaɪn/",
+        "audio": "resign.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "từ chức",
+        "definition": "To give up; to relinquish ownership of.",
+        "example": "We need to understand the concept of resign.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm từ chức.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "resign process, key resign",
+        "wordFamily": "resign (verb)",
+        "image": "resign.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12105,
+        "word": "recruit",
+        "pronunciation": "/ɹɪˈkɹuːt/",
+        "audio": "recruit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyển dụng",
+        "definition": "A supply of anything wasted or exhausted; a reinforcement.",
+        "example": "We need to understand the concept of recruit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tuyển dụng.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "recruit process, key recruit",
+        "wordFamily": "recruit (noun)",
+        "image": "recruit.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12106,
+        "word": "candidate",
+        "pronunciation": "/ˈkæn.dɪdət/",
+        "audio": "candidate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ứng viên",
+        "definition": "A person who is running in an election.",
+        "example": "We need to understand the concept of candidate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ứng viên.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "candidate process, key candidate",
+        "wordFamily": "candidate (noun)",
+        "image": "candidate.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12107,
+        "word": "employer",
+        "pronunciation": "/ɛmplɔɪˈə/",
+        "audio": "employer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà tuyển dụng",
+        "definition": "A person, firm or other entity which pays for or hires the services of another person.",
+        "example": "We need to understand the concept of employer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người sử dụng lao động.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "employer process, key employer",
+        "wordFamily": "employer (noun)",
+        "image": "employer.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12108,
+        "word": "worker",
+        "pronunciation": "/ˈwɜː.kə/",
+        "audio": "worker.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công nhân",
+        "definition": "A person who performs labor for a living, especially manual labor.",
+        "example": "We need to understand the concept of worker.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công nhân.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "worker process, key worker",
+        "wordFamily": "worker (noun)",
+        "image": "worker.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12109,
+        "word": "contract",
+        "pronunciation": "/ˈkɒntɹækt/",
+        "audio": "contract.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hợp đồng",
+        "definition": "An agreement between two or more parties, to perform a specific job or work order, often temporary or of fixed duration and usually governed by a written agreement.",
+        "example": "Marriage is a contract.",
+        "exampleVi": "Hôn nhân là một hợp đồng.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "contract process, key contract",
+        "wordFamily": "contract (noun)",
+        "image": "contract.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12110,
+        "word": "wage",
+        "pronunciation": "/weɪd͡ʒ/",
+        "audio": "wage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền công",
+        "definition": "(often in plural) An amount of money paid to a worker for a specified quantity of work, usually calculated on an hourly basis and expressed in an amount of money per hour.",
+        "example": "Before her promotion, her wages were 20% less.",
+        "exampleVi": "Trước khi được thăng chức, lương của cô thấp hơn 20%.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wage process, key wage",
+        "wordFamily": "wage (noun)",
+        "image": "wage.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12111,
+        "word": "salary",
+        "pronunciation": "/ˈsælɚi/",
+        "audio": "salary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lương",
+        "definition": "A fixed amount of money paid to a worker, usually calculated on a monthly or annual basis, not hourly, as wages. Implies a degree of professionalism and/or autonomy.",
+        "example": "We need to understand the concept of salary.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiền lương.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "salary process, key salary",
+        "wordFamily": "salary (noun)",
+        "image": "salary.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12112,
+        "word": "benefit",
+        "pronunciation": "/ˈbɛn.ɪ.fɪt/",
+        "audio": "benefit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lợi ích",
+        "definition": "An advantage; help or aid from something.",
+        "example": "It was for her benefit.   His benefit was free beer.",
+        "exampleVi": "Đó là vì lợi ích của cô ấy.   Lợi ích của anh ấy là bia miễn phí.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "benefit process, key benefit",
+        "wordFamily": "benefit (noun)",
+        "image": "benefit.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12113,
+        "word": "qualification",
+        "pronunciation": "/ˌkwɒlɪfɪˈkeɪʃən/",
+        "audio": "qualification.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trình độ chuyên môn",
+        "definition": "The act or process of qualifying for a position, achievement etc.",
+        "example": "Qualification for this organization is extraordinarily difficult.",
+        "exampleVi": "Trình độ chuyên môn cho tổ chức này là cực kỳ khó khăn.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "qualification process, key qualification",
+        "wordFamily": "qualification (noun)",
+        "image": "qualification.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12114,
+        "word": "experience",
+        "pronunciation": "/ɪkˈspɪə.ɹɪəns/",
+        "audio": "experience.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kinh nghiệm",
+        "definition": "The effect upon the judgment or feelings produced by any event, whether witnessed or participated in; personal and direct impressions as contrasted with description or fancies; personal acquaintance; actual enjoyment or suffering.",
+        "example": "It was an experience he would not soon forget.",
+        "exampleVi": "Đó là một trải nghiệm mà anh sẽ không bao giờ quên được.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "experience process, key experience",
+        "wordFamily": "experience (noun)",
+        "image": "experience.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12115,
+        "word": "skill",
+        "pronunciation": "/skɪl/",
+        "audio": "skill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kỹ năng",
+        "definition": "Capacity to do something well; technique, ability. Skills are usually acquired or learned, as opposed to abilities, which are often thought of as innate.",
+        "example": "We need to understand the concept of skill.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kỹ năng.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "skill process, key skill",
+        "wordFamily": "skill (noun)",
+        "image": "skill.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12116,
+        "word": "training",
+        "pronunciation": "/ˈtɹeɪnɪŋ/",
+        "audio": "training.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đào tạo",
+        "definition": "To practice an ability.",
+        "example": "She trained seven hours a day to prepare for the Olympics.",
+        "exampleVi": "Cô tập luyện bảy giờ một ngày để chuẩn bị cho Thế vận hội.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "training process, key training",
+        "wordFamily": "training (noun)",
+        "image": "training.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12117,
+        "word": "application",
+        "pronunciation": "/aplɪˈkeɪʃ(ə)n/",
+        "audio": "application.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ứng dụng",
+        "definition": "The act of applying or laying on, in a literal sense",
+        "example": "The application of this cream should reduce the swelling.",
+        "exampleVi": "Việc bôi loại kem này sẽ làm giảm sưng tấy.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "application process, key application",
+        "wordFamily": "application (noun)",
+        "image": "application.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12118,
+        "word": "vacancy",
+        "pronunciation": "/ˈveɪkənsi/",
+        "audio": "vacancy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vị trí còn trống",
+        "definition": "An unoccupied position or job.",
+        "example": "We need to understand the concept of vacancy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chỗ trống.",
+        "topic": "Jobs Careers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "vacancy process, key vacancy",
+        "wordFamily": "vacancy (noun)",
+        "image": "vacancy.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12119,
+        "word": "compensation",
+        "pronunciation": "/compensation/",
+        "audio": "compensation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bồi thường",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word compensation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bồi thường.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compensation process, key compensation",
+        "wordFamily": "compensation (noun)",
+        "image": "compensation.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12120,
+        "word": "advancement",
+        "pronunciation": "/ædˈvæns.mɛnt/",
+        "audio": "advancement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thăng tiến",
+        "definition": "The act of advancing, ; promotion to a higher place or dignity",
+        "example": "the advancement of learning",
+        "exampleVi": "sự tiến bộ của học tập",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "advancement process, key advancement",
+        "wordFamily": "advancement (noun)",
+        "image": "advancement.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12121,
+        "word": "staff",
+        "pronunciation": "/ˈstæf/",
+        "audio": "staff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân viên",
+        "definition": "(plural staffs or staves) A long, straight, thick wooden rod or stick, especially one used to assist in walking.",
+        "example": "We need to understand the concept of staff.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân viên.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "staff process, key staff",
+        "wordFamily": "staff (noun)",
+        "image": "staff.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12122,
+        "word": "post",
+        "pronunciation": "/pəʊst/",
+        "audio": "post.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài đăng",
+        "definition": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
+        "example": "ram a post into the ground",
+        "exampleVi": "đâm một cây cột xuống đất",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "post process, key post",
+        "wordFamily": "post (noun)",
+        "image": "post.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12123,
+        "word": "hiring",
+        "pronunciation": "/hiring/",
+        "audio": "hiring.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyển dụng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hiring.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tuyển dụng.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hiring process, key hiring",
+        "wordFamily": "hiring (noun)",
+        "image": "hiring.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12124,
+        "word": "position",
+        "pronunciation": "/pəˈzɪʃ(ə)n/",
+        "audio": "position.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vị trí",
+        "definition": "A place or location.",
+        "example": "We need to understand the concept of position.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vị trí.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "position process, key position",
+        "wordFamily": "position (noun)",
+        "image": "position.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12125,
+        "word": "income",
+        "pronunciation": "/income/",
+        "audio": "income.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thu nhập",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word income.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thu nhập.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "income process, key income",
+        "wordFamily": "income (noun)",
+        "image": "income.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12126,
+        "word": "employee",
+        "pronunciation": "/employee/",
+        "audio": "employee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân viên",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word employee.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhân viên.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "employee process, key employee",
+        "wordFamily": "employee (noun)",
+        "image": "employee.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12127,
+        "word": "personnel",
+        "pronunciation": "/personnel/",
+        "audio": "personnel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân sự",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word personnel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhân sự.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "personnel process, key personnel",
+        "wordFamily": "personnel (noun)",
+        "image": "personnel.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12128,
+        "word": "opening",
+        "pronunciation": "/opening/",
+        "audio": "opening.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mở đầu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word opening.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ mở đầu.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "opening process, key opening",
+        "wordFamily": "opening (noun)",
+        "image": "opening.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12129,
+        "word": "promotion",
+        "pronunciation": "/promotion/",
+        "audio": "promotion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thăng tiến",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word promotion.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khuyến mãi.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "promotion process, key promotion",
+        "wordFamily": "promotion (noun)",
+        "image": "promotion.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12130,
+        "word": "perk",
+        "pronunciation": "/perk/",
+        "audio": "perk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặc quyền",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word perk.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ perk.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "perk process, key perk",
+        "wordFamily": "perk (noun)",
+        "image": "perk.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12131,
+        "word": "recruitment",
+        "pronunciation": "/recruitment/",
+        "audio": "recruitment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyển dụng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word recruitment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tuyển dụng.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "recruitment process, key recruitment",
+        "wordFamily": "recruitment (noun)",
+        "image": "recruitment.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12132,
+        "word": "vocation",
+        "pronunciation": "/vəʊˈkeɪʃən/",
+        "audio": "vocation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghề nghiệp",
+        "definition": "An inclination to undertake a certain kind of work, especially a religious career; often in response to a perceived summons; a calling.",
+        "example": "We need to understand the concept of vocation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ơn gọi.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vocation process, key vocation",
+        "wordFamily": "vocation (noun)",
+        "image": "vocation.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12133,
+        "word": "portfolio",
+        "pronunciation": "/-əʊl.jəʊ/",
+        "audio": "portfolio.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "danh mục đầu tư",
+        "definition": "A case for carrying papers, drawings, photographs, maps and other flat documents.",
+        "example": "We need to understand the concept of portfolio.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm danh mục đầu tư.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "portfolio process, key portfolio",
+        "wordFamily": "portfolio (noun)",
+        "image": "portfolio.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12134,
+        "word": "orientation",
+        "pronunciation": "/ˌɔɹiɛnˈteɪʃən/",
+        "audio": "orientation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "định hướng",
+        "definition": "The determination of the relative position of something or someone.",
+        "example": "We need to understand the concept of orientation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm định hướng.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "orientation process, key orientation",
+        "wordFamily": "orientation (noun)",
+        "image": "orientation.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12135,
+        "word": "severance",
+        "pronunciation": "/ˈsɛv.ɜː(ɹ)n̩s/",
+        "audio": "severance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thôi việc",
+        "definition": "The act of severing or the state of being severed.",
+        "example": "We need to understand the concept of severance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thôi việc.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "severance process, key severance",
+        "wordFamily": "severance (noun)",
+        "image": "severance.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12136,
+        "word": "resignation",
+        "pronunciation": "/ɹɛzɪɡˈneɪʃən/",
+        "audio": "resignation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "từ chức",
+        "definition": "The act of resigning.",
+        "example": "We need to understand the concept of resignation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm từ chức.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "resignation process, key resignation",
+        "wordFamily": "resignation (noun)",
+        "image": "resignation.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12137,
+        "word": "termination",
+        "pronunciation": "/tɚmɪˈneɪʃən/",
+        "audio": "termination.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chấm dứt",
+        "definition": "The process of terminating or the state of being terminated.",
+        "example": "We need to understand the concept of termination.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chấm dứt.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "termination process, key termination",
+        "wordFamily": "termination (noun)",
+        "image": "termination.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12138,
+        "word": "internship",
+        "pronunciation": "/ˈɪntɝnʃɪp/",
+        "audio": "internship.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thực tập",
+        "definition": "A job taken by a student in order to learn a profession or trade.",
+        "example": "We need to understand the concept of internship.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thực tập.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "internship process, key internship",
+        "wordFamily": "internship (noun)",
+        "image": "internship.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12139,
+        "word": "headhunter",
+        "pronunciation": "/headhunter/",
+        "audio": "headhunter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "headhunter",
+        "definition": "A savage who cuts off the heads of his enemies, and preserves them as trophies.",
+        "example": "We need to understand the concept of headhunter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm headhunter.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "headhunter process, key headhunter",
+        "wordFamily": "headhunter (noun)",
+        "image": "headhunter.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12140,
+        "word": "probation",
+        "pronunciation": "/ˌpɹoʊˈbeɪʃən/",
+        "audio": "probation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thử việc",
+        "definition": "A period of time when a person occupies a position only conditionally and may easily be removed for poor performance",
+        "example": "You'll be on probation for first six months. After that, if you work out, they'll hire you permanently.",
+        "exampleVi": "Bạn sẽ bị quản chế trong sáu tháng đầu tiên. Sau đó, nếu bạn tập luyện tốt, họ sẽ thuê bạn vĩnh viễn.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "probation process, key probation",
+        "wordFamily": "probation (noun)",
+        "image": "probation.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12141,
+        "word": "apprentice",
+        "pronunciation": "/əˈpɹɛntɪs/",
+        "audio": "apprentice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người học việc",
+        "definition": "A trainee, especially in a skilled trade.",
+        "example": "We need to understand the concept of apprentice.",
+        "exampleVi": "We need to understand the concept of apprentice.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "apprentice process, key apprentice",
+        "wordFamily": "apprentice (noun)",
+        "image": "apprentice.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12142,
+        "word": "relocation",
+        "pronunciation": "/ˌɹiːləʊˈkeɪʃən/",
+        "audio": "relocation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tái định cư",
+        "definition": "The act of moving from one place to another.",
+        "example": "We need to understand the concept of relocation.",
+        "exampleVi": "We need to understand the concept of relocation.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "relocation process, key relocation",
+        "wordFamily": "relocation (noun)",
+        "image": "relocation.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12143,
+        "word": "demotion",
+        "pronunciation": "/demotion/",
+        "audio": "demotion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giáng chức",
+        "definition": "An act of demoting; a lowering of rank or status",
+        "example": "We need to understand the concept of demotion.",
+        "exampleVi": "We need to understand the concept of demotion.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demotion process, key demotion",
+        "wordFamily": "demotion (noun)",
+        "image": "demotion.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12144,
+        "word": "references",
+        "pronunciation": "/ˈɹɛf.(ə)ɹən.sɪz/",
+        "audio": "references.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài liệu tham khảo",
+        "definition": "A relationship or relation (to something).",
+        "example": "We need to understand the concept of references.",
+        "exampleVi": "We need to understand the concept of references.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "references process, key references",
+        "wordFamily": "references (noun)",
+        "image": "references.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12145,
+        "word": "redundancy",
+        "pronunciation": "/ɹɪˈdʌnd(ə)nsi/",
+        "audio": "redundancy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dư thừa",
+        "definition": "The state of being redundant",
+        "example": "We need to understand the concept of redundancy.",
+        "exampleVi": "We need to understand the concept of redundancy.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "redundancy process, key redundancy",
+        "wordFamily": "redundancy (noun)",
+        "image": "redundancy.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12146,
+        "word": "transfer",
+        "pronunciation": "/ˈtɹænzfɜː/",
+        "audio": "transfer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyển giao",
+        "definition": "The act of conveying or removing something from one place, person or thing to another.",
+        "example": "We need to understand the concept of transfer.",
+        "exampleVi": "We need to understand the concept of transfer.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transfer process, key transfer",
+        "wordFamily": "transfer (noun)",
+        "image": "transfer.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12147,
+        "word": "retirement",
+        "pronunciation": "/ɹəˈtaɪə(ɹ).mənt/",
+        "audio": "retirement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghỉ hưu",
+        "definition": "An act of retiring; withdrawal.",
+        "example": "We need to understand the concept of retirement.",
+        "exampleVi": "We need to understand the concept of retirement.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "retirement process, key retirement",
+        "wordFamily": "retirement (noun)",
+        "image": "retirement.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12148,
+        "word": "resignation",
+        "pronunciation": "/resignation/",
+        "audio": "resignation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "từ chức",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word resignation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ từ chức.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "resignation process, key resignation",
+        "wordFamily": "resignation (noun)",
+        "image": "resignation.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12149,
+        "word": "dismissal",
+        "pronunciation": "/dismissal/",
+        "audio": "dismissal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sa thải",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dismissal.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sa thải.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dismissal process, key dismissal",
+        "wordFamily": "dismissal (noun)",
+        "image": "dismissal.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12150,
+        "word": "superannuation",
+        "pronunciation": "/superannuation/",
+        "audio": "superannuation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hưu bổng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word superannuation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ superannuation.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "superannuation process, key superannuation",
+        "wordFamily": "superannuation (noun)",
+        "image": "superannuation.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12151,
+        "word": "commission",
+        "pronunciation": "/commission/",
+        "audio": "commission.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoa hồng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word commission.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hoa hồng.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "commission process, key commission",
+        "wordFamily": "commission (noun)",
+        "image": "commission.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12152,
+        "word": "layoff",
+        "pronunciation": "/layoff/",
+        "audio": "layoff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sa thải",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word layoff.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sa thải.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "layoff process, key layoff",
+        "wordFamily": "layoff (noun)",
+        "image": "layoff.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12153,
+        "word": "pension",
+        "pronunciation": "/pension/",
+        "audio": "pension.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lương hưu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word pension.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lương hưu.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pension process, key pension",
+        "wordFamily": "pension (noun)",
+        "image": "pension.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12154,
+        "word": "applicant",
+        "pronunciation": "/ˈæp.lə.kɪnt/",
+        "audio": "applicant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người nộp đơn",
+        "definition": "One who applies for something; one who makes a request; a petitioner.",
+        "example": "Our job advertisement attracted seven applicants.",
+        "exampleVi": "Quảng cáo tuyển dụng của chúng tôi đã thu hút được bảy ứng viên.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "applicant process, key applicant",
+        "wordFamily": "applicant (noun)",
+        "image": "applicant.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12155,
+        "word": "trainee",
+        "pronunciation": "/tɹeɪˈni/",
+        "audio": "trainee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thực tập sinh",
+        "definition": "Someone who is still in the process of being formally trained in a workplace.",
+        "example": "We need to understand the concept of trainee.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người tập sự.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trainee process, key trainee",
+        "wordFamily": "trainee (noun)",
+        "image": "trainee.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12156,
+        "word": "contractor",
+        "pronunciation": "/ˈkɒnˌtɹæk.tə(ɹ)/",
+        "audio": "contractor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà thầu",
+        "definition": "A person or company that builds or improves buildings.",
+        "example": "We need to understand the concept of contractor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà thầu.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "contractor process, key contractor",
+        "wordFamily": "contractor (noun)",
+        "image": "contractor.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12157,
+        "word": "proprietor",
+        "pronunciation": "/pɹəˈpɹaɪətɚ/",
+        "audio": "proprietor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chủ sở hữu",
+        "definition": "An owner.",
+        "example": "We need to understand the concept of proprietor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chủ sở hữu.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "proprietor process, key proprietor",
+        "wordFamily": "proprietor (noun)",
+        "image": "proprietor.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12158,
+        "word": "intern",
+        "pronunciation": "/ɪnˈtɜːn/",
+        "audio": "intern.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thực tập sinh",
+        "definition": "A person who is interned, forcibly or voluntarily.",
+        "example": "We need to understand the concept of intern.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thực tập sinh.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "intern process, key intern",
+        "wordFamily": "intern (noun)",
+        "image": "intern.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12159,
+        "word": "underemployment",
+        "pronunciation": "/underemployment/",
+        "audio": "underemployment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tình trạng thiếu việc làm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word underemployment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thiếu việc làm.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "underemployment process, key underemployment",
+        "wordFamily": "underemployment (noun)",
+        "image": "underemployment.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12160,
+        "word": "interviewee",
+        "pronunciation": "/ˌɪn.tə.vjuːˈiː/",
+        "audio": "interviewee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người được phỏng vấn",
+        "definition": "Someone being interviewed, i.e. the person answering the questions.",
+        "example": "We need to understand the concept of interviewee.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người được phỏng vấn.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "interviewee process, key interviewee",
+        "wordFamily": "interviewee (noun)",
+        "image": "interviewee.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12161,
+        "word": "vocational",
+        "pronunciation": "/vocational/",
+        "audio": "vocational.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "dạy nghề",
+        "definition": "Of or pertaining to a vocation.",
+        "example": "We need to understand the concept of vocational.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nghề nghiệp.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vocational process, key vocational",
+        "wordFamily": "vocational (noun)",
+        "image": "vocational.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12162,
+        "word": "freelancer",
+        "pronunciation": "/freelancer/",
+        "audio": "freelancer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người làm việc tự do",
+        "definition": "One who freelances",
+        "example": "We need to understand the concept of freelancer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm freelancer.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "freelancer process, key freelancer",
+        "wordFamily": "freelancer (noun)",
+        "image": "freelancer.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12163,
+        "word": "recruiter",
+        "pronunciation": "/recruiter/",
+        "audio": "recruiter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà tuyển dụng",
+        "definition": "Agent noun of recruit; one who recruits, particularly one employed to recruit others.",
+        "example": "The army recruiter promised that I'd see the world and learn useful skills if I enlisted.",
+        "exampleVi": "Nhà tuyển dụng quân đội hứa rằng tôi sẽ được khám phá thế giới và học những kỹ năng hữu ích nếu tôi nhập ngũ.",
+        "topic": "Jobs Careers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "recruiter process, key recruiter",
+        "wordFamily": "recruiter (noun)",
+        "image": "recruiter.webp",
+        "tags": [
+            "jobs",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

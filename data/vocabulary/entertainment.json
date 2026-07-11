@@ -1,0 +1,2206 @@
+[
+    {
+        "id": 11234,
+        "word": "entertain",
+        "pronunciation": "/ˌɛntəˈteɪn/",
+        "audio": "entertain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải trí",
+        "definition": "Entertainment; pleasure.",
+        "example": "We need to understand the concept of entertain.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giải trí.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "entertain process, key entertain",
+        "wordFamily": "entertain (noun)",
+        "image": "entertain.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11235,
+        "word": "entertainment",
+        "pronunciation": "/ˈɛn.tɚˈteɪn.mənt/",
+        "audio": "entertainment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự giải trí",
+        "definition": "An activity designed to give pleasure, enjoyment, diversion, amusement, or relaxation to an audience, no matter whether the audience participates passively as in watching opera or a movie, or actively as in games.",
+        "example": "We need to understand the concept of entertainment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giải trí.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "entertainment process, key entertainment",
+        "wordFamily": "entertainment (noun)",
+        "image": "entertainment.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11236,
+        "word": "movie",
+        "pronunciation": "/ˈmuːvi/",
+        "audio": "movie.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bộ phim",
+        "definition": "A recorded sequence of images displayed on a screen at a rate sufficiently fast to create the appearance of motion.",
+        "example": "We need to understand the concept of movie.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phim.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "movie process, key movie",
+        "wordFamily": "movie (noun)",
+        "image": "movie.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11237,
+        "word": "film",
+        "pronunciation": "[ˈfɪlm̩]",
+        "audio": "film.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phim ảnh",
+        "definition": "A thin layer of some substance; a pellicle; a membranous covering, causing opacity.",
+        "example": "a clear plastic film for wrapping food",
+        "exampleVi": "màng nhựa trong để bọc thực phẩm",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "film process, key film",
+        "wordFamily": "film (noun)",
+        "image": "film.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11238,
+        "word": "cinema",
+        "pronunciation": "/ˈsɪn.ɪ.mɑː/",
+        "audio": "cinema.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rạp chiếu phim",
+        "definition": "A movie theatre, a movie house",
+        "example": "The cinema is right across the street from the restaurant.",
+        "exampleVi": "Rạp chiếu phim nằm ngay đối diện nhà hàng.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cinema process, key cinema",
+        "wordFamily": "cinema (noun)",
+        "image": "cinema.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11239,
+        "word": "theatre",
+        "pronunciation": "/theatre/",
+        "audio": "theatre.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà hát",
+        "definition": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
+        "example": "We need to understand the concept of theatre.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sân khấu.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "theatre process, key theatre",
+        "wordFamily": "theatre (noun)",
+        "image": "theatre.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11240,
+        "word": "play",
+        "pronunciation": "/pleɪ/",
+        "audio": "play.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chơi",
+        "definition": "Activity for amusement only, especially among the young.",
+        "example": "Children learn through play.",
+        "exampleVi": "Trẻ học thông qua vui chơi.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "play process, key play",
+        "wordFamily": "play (noun)",
+        "image": "play.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11241,
+        "word": "actor",
+        "pronunciation": "/ˈæk.tə/",
+        "audio": "actor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "diễn viên",
+        "definition": "A person who performs, plays a part in a theatrical play or film.",
+        "example": "We need to understand the concept of actor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm diễn viên.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "actor process, key actor",
+        "wordFamily": "actor (noun)",
+        "image": "actor.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11242,
+        "word": "actress",
+        "pronunciation": "/ˈak.tɹəs/",
+        "audio": "actress.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nữ diễn viên",
+        "definition": "A female who performs on the stage or in films.",
+        "example": "We need to understand the concept of actress.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm diễn viên.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "actress process, key actress",
+        "wordFamily": "actress (noun)",
+        "image": "actress.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11243,
+        "word": "director",
+        "pronunciation": "/daɪˈɹɛktə(ɹ)/",
+        "audio": "director.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giám đốc",
+        "definition": "One who directs; the person in charge of managing a department or directorate (e.g., director of engineering), project, or production (as in a show or film, e.g., film director).",
+        "example": "We need to understand the concept of director.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giám đốc.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "director process, key director",
+        "wordFamily": "director (noun)",
+        "image": "director.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11244,
+        "word": "music",
+        "pronunciation": "/ˈmjuːzɪk/",
+        "audio": "music.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "âm nhạc",
+        "definition": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.",
+        "example": "I keep listening to this music because it's a masterpiece.",
+        "exampleVi": "Tôi tiếp tục nghe nhạc này vì nó là một kiệt tác.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "music process, key music",
+        "wordFamily": "music (noun)",
+        "image": "music.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11245,
+        "word": "song",
+        "pronunciation": "/sɒŋ/",
+        "audio": "song.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài hát",
+        "definition": "A musical composition with lyrics for voice or voices, performed by singing.",
+        "example": "Thomas listened to his favorite song on the radio yesterday.",
+        "exampleVi": "Hôm qua Thomas đã nghe bài hát yêu thích của mình trên radio.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "song process, key song",
+        "wordFamily": "song (noun)",
+        "image": "song.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11246,
+        "word": "singer",
+        "pronunciation": "/ˈsɪŋə/",
+        "audio": "singer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ca sĩ",
+        "definition": "A person who sings, often professionally.",
+        "example": "We need to understand the concept of singer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ca sĩ.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "singer process, key singer",
+        "wordFamily": "singer (noun)",
+        "image": "singer.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11247,
+        "word": "band",
+        "pronunciation": "/bænd/",
+        "audio": "band.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ban nhạc",
+        "definition": "A strip of material used for strengthening or coupling.",
+        "example": "We need to understand the concept of band.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ban nhạc.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "band process, key band",
+        "wordFamily": "band (noun)",
+        "image": "band.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11248,
+        "word": "concert",
+        "pronunciation": "/ˈkɒnsət/",
+        "audio": "concert.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi hòa nhạc",
+        "definition": "Agreement in a design or plan; union formed by mutual communication of opinions and views; accordance in a scheme; harmony; simultaneous action.",
+        "example": "We need to understand the concept of concert.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về buổi hòa nhạc.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "concert process, key concert",
+        "wordFamily": "concert (noun)",
+        "image": "concert.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11249,
+        "word": "dance",
+        "pronunciation": "[dæːns]",
+        "audio": "dance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhảy",
+        "definition": "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction.",
+        "example": "We need to understand the concept of dance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khiêu vũ.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dance process, key dance",
+        "wordFamily": "dance (noun)",
+        "image": "dance.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11250,
+        "word": "game",
+        "pronunciation": "/ɡeɪm/",
+        "audio": "game.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trò chơi",
+        "definition": "A playful or competitive activity.",
+        "example": "We need to understand the concept of game.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trò chơi.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "game process, key game",
+        "wordFamily": "game (noun)",
+        "image": "game.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11251,
+        "word": "toy",
+        "pronunciation": "/tɔɪ/",
+        "audio": "toy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồ chơi",
+        "definition": "Something to play with, especially as intended for use by a child.",
+        "example": "A grown man does not play with a child’s toy.",
+        "exampleVi": "Người lớn không chơi đồ chơi của trẻ con.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "toy process, key toy",
+        "wordFamily": "toy (noun)",
+        "image": "toy.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11252,
+        "word": "show",
+        "pronunciation": "/ʃəʊ/",
+        "audio": "show.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trình diễn",
+        "definition": "A play, dance, or other entertainment.",
+        "example": "We need to understand the concept of show.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trình diễn.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "show process, key show",
+        "wordFamily": "show (noun)",
+        "image": "show.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11253,
+        "word": "performance",
+        "pronunciation": "[pə.ˈfɔː.məns]",
+        "audio": "performance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiệu suất",
+        "definition": "The act of performing; carrying into execution or action; execution; achievement; accomplishment; representation by action.",
+        "example": "the performance of an undertaking or a duty",
+        "exampleVi": "việc thực hiện một cam kết hoặc một nghĩa vụ",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "performance process, key performance",
+        "wordFamily": "performance (noun)",
+        "image": "performance.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11254,
+        "word": "ticket",
+        "pronunciation": "/ticket/",
+        "audio": "ticket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vé",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ticket.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vé.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ticket process, key ticket",
+        "wordFamily": "ticket (noun)",
+        "image": "ticket.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11255,
+        "word": "audience",
+        "pronunciation": "/audience/",
+        "audio": "audience.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khán giả",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word audience.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khán giả.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "audience process, key audience",
+        "wordFamily": "audience (noun)",
+        "image": "audience.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11256,
+        "word": "stage",
+        "pronunciation": "/stage/",
+        "audio": "stage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sân khấu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word stage.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giai đoạn.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stage process, key stage",
+        "wordFamily": "stage (noun)",
+        "image": "stage.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11257,
+        "word": "drama",
+        "pronunciation": "/drama/",
+        "audio": "drama.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kịch",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word drama.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kịch.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "drama process, key drama",
+        "wordFamily": "drama (noun)",
+        "image": "drama.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11258,
+        "word": "comedy",
+        "pronunciation": "/comedy/",
+        "audio": "comedy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hài kịch",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word comedy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hài kịch.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "comedy process, key comedy",
+        "wordFamily": "comedy (noun)",
+        "image": "comedy.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11259,
+        "word": "musician",
+        "pronunciation": "/musician/",
+        "audio": "musician.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhạc sĩ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word musician.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhạc sĩ.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "musician process, key musician",
+        "wordFamily": "musician (noun)",
+        "image": "musician.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11260,
+        "word": "instrument",
+        "pronunciation": "/instrument/",
+        "audio": "instrument.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dụng cụ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word instrument.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhạc cụ.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "instrument process, key instrument",
+        "wordFamily": "instrument (noun)",
+        "image": "instrument.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11261,
+        "word": "hobby",
+        "pronunciation": "/hobby/",
+        "audio": "hobby.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sở thích",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hobby.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sở thích.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hobby process, key hobby",
+        "wordFamily": "hobby (noun)",
+        "image": "hobby.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11262,
+        "word": "recreation",
+        "pronunciation": "/recreation/",
+        "audio": "recreation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải trí",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word recreation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giải trí.",
+        "topic": "Entertainment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "recreation process, key recreation",
+        "wordFamily": "recreation (noun)",
+        "image": "recreation.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11263,
+        "word": "crew",
+        "pronunciation": "/crew/",
+        "audio": "crew.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phi hành đoàn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word crew.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phi hành đoàn.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "crew process, key crew",
+        "wordFamily": "crew (noun)",
+        "image": "crew.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11264,
+        "word": "production",
+        "pronunciation": "/production/",
+        "audio": "production.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sản xuất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word production.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sản xuất.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "production process, key production",
+        "wordFamily": "production (noun)",
+        "image": "production.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11265,
+        "word": "rehearsal",
+        "pronunciation": "/rehearsal/",
+        "audio": "rehearsal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi diễn tập",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word rehearsal.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ diễn tập.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rehearsal process, key rehearsal",
+        "wordFamily": "rehearsal (noun)",
+        "image": "rehearsal.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11266,
+        "word": "premiere",
+        "pronunciation": "/premiere/",
+        "audio": "premiere.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi ra mắt",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word premiere.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ra mắt.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "premiere process, key premiere",
+        "wordFamily": "premiere (noun)",
+        "image": "premiere.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11267,
+        "word": "spectator",
+        "pronunciation": "/spectator/",
+        "audio": "spectator.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khán giả",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word spectator.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khán giả.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "spectator process, key spectator",
+        "wordFamily": "spectator (noun)",
+        "image": "spectator.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11268,
+        "word": "producer",
+        "pronunciation": "/producer/",
+        "audio": "producer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà sản xuất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word producer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhà sản xuất.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "producer process, key producer",
+        "wordFamily": "producer (noun)",
+        "image": "producer.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11269,
+        "word": "audition",
+        "pronunciation": "/audition/",
+        "audio": "audition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi thử giọng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word audition.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thử giọng.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "audition process, key audition",
+        "wordFamily": "audition (noun)",
+        "image": "audition.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11270,
+        "word": "debut",
+        "pronunciation": "/debut/",
+        "audio": "debut.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ra mắt",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word debut.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đầu tiên.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "debut process, key debut",
+        "wordFamily": "debut (noun)",
+        "image": "debut.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11271,
+        "word": "conductor",
+        "pronunciation": "/conductor/",
+        "audio": "conductor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhạc trưởng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word conductor.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dây dẫn.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "conductor process, key conductor",
+        "wordFamily": "conductor (noun)",
+        "image": "conductor.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11272,
+        "word": "composer",
+        "pronunciation": "/composer/",
+        "audio": "composer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà soạn nhạc",
+        "definition": "One who composes; an author.",
+        "example": "We need to understand the concept of composer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về nhà soạn nhạc.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "composer process, key composer",
+        "wordFamily": "composer (noun)",
+        "image": "composer.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11273,
+        "word": "cast",
+        "pronunciation": "/cast/",
+        "audio": "cast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dàn diễn viên",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cast.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cast.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cast process, key cast",
+        "wordFamily": "cast (noun)",
+        "image": "cast.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11274,
+        "word": "reservation",
+        "pronunciation": "/reservation/",
+        "audio": "reservation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặt chỗ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word reservation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đặt trước.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "reservation process, key reservation",
+        "wordFamily": "reservation (noun)",
+        "image": "reservation.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11275,
+        "word": "exhibition",
+        "pronunciation": "/exhibition/",
+        "audio": "exhibition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "triển lãm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word exhibition.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ triển lãm.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "exhibition process, key exhibition",
+        "wordFamily": "exhibition (noun)",
+        "image": "exhibition.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11276,
+        "word": "showcase",
+        "pronunciation": "/showcase/",
+        "audio": "showcase.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giới thiệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word showcase.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trưng bày.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "showcase process, key showcase",
+        "wordFamily": "showcase (noun)",
+        "image": "showcase.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11277,
+        "word": "patron",
+        "pronunciation": "/patron/",
+        "audio": "patron.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bảo trợ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word patron.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bảo trợ.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "patron process, key patron",
+        "wordFamily": "patron (noun)",
+        "image": "patron.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11278,
+        "word": "theater",
+        "pronunciation": "/ˈθi(ə)tɚ/",
+        "audio": "theater.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà hát",
+        "definition": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
+        "example": "We need to understand the concept of theater.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sân khấu.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "theater process, key theater",
+        "wordFamily": "theater (noun)",
+        "image": "theater.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11279,
+        "word": "venue",
+        "pronunciation": "/ˈvɛnjuː/",
+        "audio": "venue.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa điểm",
+        "definition": "A theater, auditorium, arena, or other area designated for sporting or entertainment events.",
+        "example": "We need to understand the concept of venue.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa điểm.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "venue process, key venue",
+        "wordFamily": "venue (noun)",
+        "image": "venue.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11280,
+        "word": "museum",
+        "pronunciation": "/mjuːˈziːəm/",
+        "audio": "museum.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo tàng",
+        "definition": "A building or institution dedicated to the acquisition, conservation, study, exhibition, and educational interpretation of objects having scientific, historical, cultural or artistic value.",
+        "example": "We need to understand the concept of museum.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bảo tàng.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "museum process, key museum",
+        "wordFamily": "museum (noun)",
+        "image": "museum.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11281,
+        "word": "carnival",
+        "pronunciation": "/kɑɹnəˈvɑl/",
+        "audio": "carnival.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lễ hội",
+        "definition": "Any of a number of festivals held just before the beginning of Lent.",
+        "example": "Carnival of Brazil",
+        "exampleVi": "Lễ hội Brazil",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "carnival process, key carnival",
+        "wordFamily": "carnival (noun)",
+        "image": "carnival.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11282,
+        "word": "festival",
+        "pronunciation": "/ˈfɛstəvəl/",
+        "audio": "festival.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lễ hội",
+        "definition": "An event or community gathering, usually staged by a local community, which centers on some theme, sometimes on some unique aspect of the community.",
+        "example": "We need to understand the concept of festival.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lễ hội.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "festival process, key festival",
+        "wordFamily": "festival (noun)",
+        "image": "festival.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11283,
+        "word": "auditorium",
+        "pronunciation": "/ɔː.dɪˈtɔː.ɹɪ.əm/",
+        "audio": "auditorium.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khán phòng",
+        "definition": "A large room for public meetings or performances.",
+        "example": "We need to understand the concept of auditorium.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khán phòng.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "auditorium process, key auditorium",
+        "wordFamily": "auditorium (noun)",
+        "image": "auditorium.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11284,
+        "word": "amusement",
+        "pronunciation": "/əˈmjuzmənt/",
+        "audio": "amusement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải trí",
+        "definition": "Entertainment.",
+        "example": "We need to understand the concept of amusement.",
+        "exampleVi": "We need to understand the concept of amusement.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "amusement process, key amusement",
+        "wordFamily": "amusement (noun)",
+        "image": "amusement.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11285,
+        "word": "gallery",
+        "pronunciation": "/ˈɡæləɹi/",
+        "audio": "gallery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư viện",
+        "definition": "An institution, building, or room for the exhibition and conservation of works of art.",
+        "example": "We need to understand the concept of gallery.",
+        "exampleVi": "We need to understand the concept of gallery.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gallery process, key gallery",
+        "wordFamily": "gallery (noun)",
+        "image": "gallery.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11286,
+        "word": "exhibit",
+        "pronunciation": "/ɛɡ-/",
+        "audio": "exhibit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "triển lãm",
+        "definition": "An instance of exhibiting.",
+        "example": "We need to understand the concept of exhibit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm triển lãm.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "exhibit process, key exhibit",
+        "wordFamily": "exhibit (noun)",
+        "image": "exhibit.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11287,
+        "word": "gig",
+        "pronunciation": "/ɡɪɡ/",
+        "audio": "gig.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi biểu diễn",
+        "definition": "A performing engagement by a musical group; or, generally, any job or role, especially for a musician or performer.",
+        "example": "Hey, when are we gonna get that hotel gig again?",
+        "exampleVi": "Này, khi nào chúng ta mới có lại buổi biểu diễn ở khách sạn đó?",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gig process, key gig",
+        "wordFamily": "gig (noun)",
+        "image": "gig.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11288,
+        "word": "tragedy",
+        "pronunciation": "/ˈtɹæd͡ʒɪdi/",
+        "audio": "tragedy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bi kịch",
+        "definition": "A drama or similar work, in which the main character is brought to ruin or otherwise suffers the extreme consequences of some tragic flaw or weakness of character.",
+        "example": "We need to understand the concept of tragedy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bi kịch.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tragedy process, key tragedy",
+        "wordFamily": "tragedy (noun)",
+        "image": "tragedy.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11289,
+        "word": "ballet",
+        "pronunciation": "/bælæe/",
+        "audio": "ballet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "múa ba lê",
+        "definition": "A classical form of dance.",
+        "example": "We need to understand the concept of ballet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm múa ba lê.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ballet process, key ballet",
+        "wordFamily": "ballet (noun)",
+        "image": "ballet.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11290,
+        "word": "recital",
+        "pronunciation": "/recital/",
+        "audio": "recital.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi biểu diễn",
+        "definition": "The act of reciting (the repetition of something that has been memorized); rehearsal",
+        "example": "We need to understand the concept of recital.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về recital.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "recital process, key recital",
+        "wordFamily": "recital (noun)",
+        "image": "recital.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11291,
+        "word": "opera",
+        "pronunciation": "/ˈɒp.əɹ.ə/",
+        "audio": "opera.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "opera",
+        "definition": "A theatrical work, combining drama, music, song and sometimes dance.",
+        "example": "We need to understand the concept of opera.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm opera.",
+        "topic": "Entertainment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "opera process, key opera",
+        "wordFamily": "opera (noun)",
+        "image": "opera.webp",
+        "tags": [
+            "entertainment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

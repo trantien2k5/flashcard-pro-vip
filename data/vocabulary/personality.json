@@ -1,0 +1,3004 @@
+[
+    {
+        "id": 12643,
+        "word": "friendly",
+        "pronunciation": "/ˈfɹɛndli/",
+        "audio": "friendly.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thân thiện",
+        "definition": "A game which is of no consequence in terms of ranking, betting etc.",
+        "example": "This match is merely a friendly, so don't worry too much about it.",
+        "exampleVi": "Trận đấu này chỉ mang tính chất giao hữu nên bạn đừng quá lo lắng.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "friendly process, key friendly",
+        "wordFamily": "friendly (noun)",
+        "image": "friendly.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12644,
+        "word": "kind",
+        "pronunciation": "/kaɪnd/",
+        "audio": "kind.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "loại",
+        "definition": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together.",
+        "example": "This is a strange kind of tobacco.",
+        "exampleVi": "Đây là một loại thuốc lá kỳ lạ.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "kind process, key kind",
+        "wordFamily": "kind (noun)",
+        "image": "kind.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12645,
+        "word": "generous",
+        "pronunciation": "/ˈdʒɛn(ə)ɹəs/",
+        "audio": "generous.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hào phóng",
+        "definition": "Noble in behaviour or actions; principled, not petty; kind, magnanimous.",
+        "example": "Thank you for your generous words.",
+        "exampleVi": "Cảm ơn những lời nói hào phóng của bạn.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "generous process, key generous",
+        "wordFamily": "generous (adjective)",
+        "image": "generous.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12646,
+        "word": "helpful",
+        "pronunciation": "/ˈhɛlp.fəl/",
+        "audio": "helpful.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hữu ích",
+        "definition": "Furnishing help; giving aid; useful.",
+        "example": "We need to understand the concept of helpful.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hữu ích.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "helpful process, key helpful",
+        "wordFamily": "helpful (adjective)",
+        "image": "helpful.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12647,
+        "word": "polite",
+        "pronunciation": "/pəˈlaɪt/",
+        "audio": "polite.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lịch sự",
+        "definition": "To polish; to refine; to render polite.",
+        "example": "We need to understand the concept of polite.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lịch sự.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "polite process, key polite",
+        "wordFamily": "polite (verb)",
+        "image": "polite.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12648,
+        "word": "honest",
+        "pronunciation": "/ˈɒnɪst/",
+        "audio": "honest.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "trung thực",
+        "definition": "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
+        "example": "We need to understand the concept of honest.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trung thực.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "honest process, key honest",
+        "wordFamily": "honest (verb)",
+        "image": "honest.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12649,
+        "word": "reliable",
+        "pronunciation": "/ɹɪˈlaɪəbəl/",
+        "audio": "reliable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đáng tin cậy",
+        "definition": "Something or someone reliable or dependable",
+        "example": "the old reliables",
+        "exampleVi": "những người đáng tin cậy cũ",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reliable process, key reliable",
+        "wordFamily": "reliable (noun)",
+        "image": "reliable.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12650,
+        "word": "hardworking",
+        "pronunciation": "/hardworking/",
+        "audio": "hardworking.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "chăm chỉ",
+        "definition": "Of a person, taking their work seriously and doing it well and rapidly.",
+        "example": "We need to understand the concept of hardworking.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chăm chỉ.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hardworking process, key hardworking",
+        "wordFamily": "hardworking (adjective)",
+        "image": "hardworking.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12651,
+        "word": "lazy",
+        "pronunciation": "/ˈleɪzi/",
+        "audio": "lazy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lười",
+        "definition": "A lazy person.",
+        "example": "We need to understand the concept of lazy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lười biếng.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lazy process, key lazy",
+        "wordFamily": "lazy (noun)",
+        "image": "lazy.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12652,
+        "word": "outgoing",
+        "pronunciation": "/outgoing/",
+        "audio": "outgoing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hướng ngoại",
+        "definition": "To go out, to set forth.",
+        "example": "We need to understand the concept of outgoing.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hướng ngoại.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "outgoing process, key outgoing",
+        "wordFamily": "outgoing (verb)",
+        "image": "outgoing.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12653,
+        "word": "shy",
+        "pronunciation": "/ʃaɪ/",
+        "audio": "shy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xấu hổ",
+        "definition": "An act of throwing.",
+        "example": "We need to understand the concept of shy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sự nhút nhát.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shy process, key shy",
+        "wordFamily": "shy (noun)",
+        "image": "shy.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12654,
+        "word": "patient",
+        "pronunciation": "/ˈpeɪʃənt/",
+        "audio": "patient.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiên nhẫn",
+        "definition": "A person or animal who receives treatment from a doctor or other medically educated person.",
+        "example": "We need to understand the concept of patient.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bệnh nhân.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "patient process, key patient",
+        "wordFamily": "patient (noun)",
+        "image": "patient.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12655,
+        "word": "impatient",
+        "pronunciation": "/ɪmˈpeɪʃənt/",
+        "audio": "impatient.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thiếu kiên nhẫn",
+        "definition": "Restless and intolerant of delays.",
+        "example": "We need to understand the concept of impatient.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thiếu kiên nhẫn.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "impatient process, key impatient",
+        "wordFamily": "impatient (adjective)",
+        "image": "impatient.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12656,
+        "word": "funny",
+        "pronunciation": "/ˈfʊnɪ/",
+        "audio": "funny.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buồn cười",
+        "definition": "A joke.",
+        "example": "We need to understand the concept of funny.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hài hước.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "funny process, key funny",
+        "wordFamily": "funny (noun)",
+        "image": "funny.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12657,
+        "word": "serious",
+        "pronunciation": "/ˈsɪə.ɹi.əs/",
+        "audio": "serious.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nghiêm trọng",
+        "definition": "Without humor or expression of happiness; grave in manner or disposition",
+        "example": "It was a surprise to see the captain, who had always seemed so serious, laugh so heartily.",
+        "exampleVi": "Thật ngạc nhiên khi thấy người đội trưởng, người luôn tỏ ra nghiêm túc, lại cười một cách chân thành như vậy.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "serious process, key serious",
+        "wordFamily": "serious (adjective)",
+        "image": "serious.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12658,
+        "word": "smart",
+        "pronunciation": "/smɑːt/",
+        "audio": "smart.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thông minh",
+        "definition": "To hurt or sting.",
+        "example": "After being hit with a pitch, the batter exclaimed \"Ouch, my arm smarts!\"",
+        "exampleVi": "Sau khi bị ném một cú ném, người đánh bóng kêu lên \"Ôi, cánh tay của tôi đau quá!\"",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "smart process, key smart",
+        "wordFamily": "smart (verb)",
+        "image": "smart.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12659,
+        "word": "creative",
+        "pronunciation": "/kɹiˈeɪtɪv/",
+        "audio": "creative.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sáng tạo",
+        "definition": "A person directly involved in a creative marketing process.",
+        "example": "He is a visionary creative.",
+        "exampleVi": "Anh ấy là một nhà sáng tạo có tầm nhìn.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "creative process, key creative",
+        "wordFamily": "creative (noun)",
+        "image": "creative.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12660,
+        "word": "ambitious",
+        "pronunciation": "/æmˈbɪʃ.əs/",
+        "audio": "ambitious.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tham vọng",
+        "definition": "(of a person or their character) Having or showing ambition; wanting a lot of power, honor, respect, superiority, or other distinction.",
+        "example": "an ambitious person",
+        "exampleVi": "một người đầy tham vọng",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ambitious process, key ambitious",
+        "wordFamily": "ambitious (adjective)",
+        "image": "ambitious.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12661,
+        "word": "confident",
+        "pronunciation": "/ˈkɒn.fɪ.dənt/",
+        "audio": "confident.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tự tin",
+        "definition": "A person in whom one can confide or share one's secrets: a friend.",
+        "example": "We need to understand the concept of confident.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tự tin.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "confident process, key confident",
+        "wordFamily": "confident (noun)",
+        "image": "confident.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12662,
+        "word": "humble",
+        "pronunciation": "/ˈhʌmbəl/",
+        "audio": "humble.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khiêm tốn",
+        "definition": "(Baltimore) An arrest based on weak evidence intended to demean or punish the subject.",
+        "example": "We need to understand the concept of humble.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khiêm tốn.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "humble process, key humble",
+        "wordFamily": "humble (noun)",
+        "image": "humble.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12663,
+        "word": "arrogant",
+        "pronunciation": "/ˈæɹəɡənt/",
+        "audio": "arrogant.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "kiêu ngạo",
+        "definition": "Having excessive pride in oneself, often with contempt or disrespect for others.",
+        "example": "We need to understand the concept of arrogant.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiêu ngạo.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "arrogant process, key arrogant",
+        "wordFamily": "arrogant (adjective)",
+        "image": "arrogant.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12664,
+        "word": "selfish",
+        "pronunciation": "/ˈsɛlfɪʃ/",
+        "audio": "selfish.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "ích kỷ",
+        "definition": "Holding one's own self-interest as the standard for decision making.",
+        "example": "We need to understand the concept of selfish.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ích kỷ.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "selfish process, key selfish",
+        "wordFamily": "selfish (adjective)",
+        "image": "selfish.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12665,
+        "word": "gentle",
+        "pronunciation": "/ˈdʒɛntl̩/",
+        "audio": "gentle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dịu dàng",
+        "definition": "A person of high birth.",
+        "example": "We need to understand the concept of gentle.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhẹ nhàng.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gentle process, key gentle",
+        "wordFamily": "gentle (noun)",
+        "image": "gentle.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12666,
+        "word": "brave",
+        "pronunciation": "/bɹeɪv/",
+        "audio": "brave.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "can đảm",
+        "definition": "A Native American warrior.",
+        "example": "We need to understand the concept of brave.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dũng cảm.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "brave process, key brave",
+        "wordFamily": "brave (noun)",
+        "image": "brave.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12667,
+        "word": "stubborn",
+        "pronunciation": "/ˈstʌbən/",
+        "audio": "stubborn.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bướng bỉnh",
+        "definition": "Stubbornness.",
+        "example": "We need to understand the concept of stubborn.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bướng bỉnh.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stubborn process, key stubborn",
+        "wordFamily": "stubborn (noun)",
+        "image": "stubborn.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12668,
+        "word": "loyal",
+        "pronunciation": "/ˈlɔɪəl/",
+        "audio": "loyal.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "trung thành",
+        "definition": "Having or demonstrating undivided and constant support for someone or something.",
+        "example": "We need to understand the concept of loyal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trung thành.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "loyal process, key loyal",
+        "wordFamily": "loyal (adjective)",
+        "image": "loyal.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12669,
+        "word": "witty",
+        "pronunciation": "/ˈwɪt.i/",
+        "audio": "witty.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "dí dỏm, hóm hỉnh",
+        "definition": "showing quick and inventive verbal humor",
+        "example": "She's known for being witty and always makes the team laugh during meetings.",
+        "exampleVi": "Cô ấy nổi tiếng dí dỏm và luôn khiến cả đội cười trong các cuộc họp.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "witty remark, witty comeback",
+        "wordFamily": "wit (noun), wittily (adverb)",
+        "image": "witty.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12670,
+        "word": "sincere",
+        "pronunciation": "/sɪnˈsɪə(ɹ)/",
+        "audio": "sincere.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "chân thành",
+        "definition": "Genuine; meaning what one says or does; heartfelt.",
+        "example": "I believe he is sincere in his offer to help.",
+        "exampleVi": "Tôi tin rằng anh ấy thành thật khi đề nghị giúp đỡ.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sincere process, key sincere",
+        "wordFamily": "sincere (adjective)",
+        "image": "sincere.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12671,
+        "word": "moody",
+        "pronunciation": "/ˈmuːdi/",
+        "audio": "moody.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "ủ rũ",
+        "definition": "Given to sudden or frequent changes of mind; temperamental.",
+        "example": "We need to understand the concept of moody.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tâm trạng.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "moody process, key moody",
+        "wordFamily": "moody (adjective)",
+        "image": "moody.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12672,
+        "word": "clumsy",
+        "pronunciation": "/ˈklʌmzi/",
+        "audio": "clumsy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hậu đậu",
+        "definition": "A clumsy person.",
+        "example": "We need to understand the concept of clumsy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vụng về.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "clumsy process, key clumsy",
+        "wordFamily": "clumsy (noun)",
+        "image": "clumsy.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12673,
+        "word": "intelligent",
+        "pronunciation": "/ɪnˈtɛlɪd͡ʒənt/",
+        "audio": "intelligent.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thông minh",
+        "definition": "Of high or especially quick cognitive capacity, bright.",
+        "example": "We need to understand the concept of intelligent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thông minh.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "intelligent process, key intelligent",
+        "wordFamily": "intelligent (noun)",
+        "image": "intelligent.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12674,
+        "word": "clever",
+        "pronunciation": "/ˈklɛvɚ/",
+        "audio": "clever.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thông minh",
+        "definition": "Nimble with hands or body; skillful; adept.",
+        "example": "We need to understand the concept of clever.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thông minh.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "clever process, key clever",
+        "wordFamily": "clever (noun)",
+        "image": "clever.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12675,
+        "word": "optimistic",
+        "pronunciation": "/ˌɒptɪˈmɪstɪk/",
+        "audio": "optimistic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "lạc quan",
+        "definition": "Expecting the best in all possible ways.",
+        "example": "in an optimistic mood",
+        "exampleVi": "trong tâm trạng lạc quan",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "optimistic process, key optimistic",
+        "wordFamily": "optimistic (noun)",
+        "image": "optimistic.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12676,
+        "word": "pessimistic",
+        "pronunciation": "/ˌpɛ.səˈmɪs.tɪk/",
+        "audio": "pessimistic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "bi quan",
+        "definition": "Marked by pessimism and little hopefulness; expecting the worst.",
+        "example": "a pessimistic view of the future",
+        "exampleVi": "một cái nhìn bi quan về tương lai",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pessimistic process, key pessimistic",
+        "wordFamily": "pessimistic (noun)",
+        "image": "pessimistic.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12677,
+        "word": "introverted",
+        "pronunciation": "/introverted/",
+        "audio": "introverted.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "sống nội tâm",
+        "definition": "Turned or thrust inward, particularly:",
+        "example": "We need to understand the concept of introverted.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về người hướng nội.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "introverted process, key introverted",
+        "wordFamily": "introverted (noun)",
+        "image": "introverted.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12678,
+        "word": "extroverted",
+        "pronunciation": "/ɛkstɹəʊˈvəːtɪd/",
+        "audio": "extroverted.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hướng ngoại",
+        "definition": "Turned or thrust outwards, especially:",
+        "example": "We need to understand the concept of extroverted.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về người hướng ngoại.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "extroverted process, key extroverted",
+        "wordFamily": "extroverted (noun)",
+        "image": "extroverted.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12679,
+        "word": "curious",
+        "pronunciation": "/ˈkjɔː-/",
+        "audio": "curious.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tò mò",
+        "definition": "Tending to ask questions, or to want to explore or investigate; inquisitive; (with a negative connotation) nosy, prying.",
+        "example": "Young children are naturally curious about the world and everything in it.",
+        "exampleVi": "Trẻ nhỏ có bản chất tò mò về thế giới và mọi thứ trong đó.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "curious process, key curious",
+        "wordFamily": "curious (noun)",
+        "image": "curious.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12680,
+        "word": "courageous",
+        "pronunciation": "/kəˈɹeɪdʒəs/",
+        "audio": "courageous.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "can đảm",
+        "definition": "Of a person, displaying or possessing courage.",
+        "example": "the most courageous person I have ever met",
+        "exampleVi": "người can đảm nhất mà tôi từng gặp",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "courageous process, key courageous",
+        "wordFamily": "courageous (noun)",
+        "image": "courageous.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12681,
+        "word": "timid",
+        "pronunciation": "/ˈtɪmɪd/",
+        "audio": "timid.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "rụt rè",
+        "definition": "Lacking in courage or confidence.",
+        "example": "John's a very timid person. I'll doubt he'll be brave enough to face his brother.",
+        "exampleVi": "John là một người rất nhút nhát. Tôi không chắc anh ấy có đủ dũng cảm để đối mặt với anh trai mình không.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "timid process, key timid",
+        "wordFamily": "timid (noun)",
+        "image": "timid.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12682,
+        "word": "adventurous",
+        "pronunciation": "/ædˈvɛn.tʃɚ.ʌs/",
+        "audio": "adventurous.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "phiêu lưu",
+        "definition": "(of a person) Inclined to adventure; willing to incur risks; prone to embark in hazardous enterprise; rashly daring.",
+        "example": "We need to understand the concept of adventurous.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mạo hiểm.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "adventurous process, key adventurous",
+        "wordFamily": "adventurous (noun)",
+        "image": "adventurous.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12683,
+        "word": "calm",
+        "pronunciation": "/kam/",
+        "audio": "calm.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điềm tĩnh",
+        "definition": "(in a person) The state of being calm; peacefulness; absence of worry, anger, fear or other strong negative emotion.",
+        "example": "We need to understand the concept of calm.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bình tĩnh.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "calm process, key calm",
+        "wordFamily": "calm (noun)",
+        "image": "calm.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12684,
+        "word": "nervous",
+        "pronunciation": "/ˈnɜːvəs/",
+        "audio": "nervous.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "lo lắng",
+        "definition": "Of sinews and tendons.",
+        "example": "We need to understand the concept of nervous.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hồi hộp.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nervous process, key nervous",
+        "wordFamily": "nervous (noun)",
+        "image": "nervous.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12685,
+        "word": "energetic",
+        "pronunciation": "/ˌɛnəˈdʒɛtɪk/",
+        "audio": "energetic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "mãnh liệt",
+        "definition": "Possessing or pertaining to energy.",
+        "example": "Cosmic rays are energetic particles from outer space.",
+        "exampleVi": "Tia vũ trụ là những hạt mang năng lượng từ không gian bên ngoài.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "energetic process, key energetic",
+        "wordFamily": "energetic (noun)",
+        "image": "energetic.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12686,
+        "word": "passive",
+        "pronunciation": "/ˈpæs.ɪv/",
+        "audio": "passive.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thụ động",
+        "definition": "(grammar) The passive voice of verbs.",
+        "example": "We need to understand the concept of passive.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thụ động.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "passive process, key passive",
+        "wordFamily": "passive (noun)",
+        "image": "passive.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12687,
+        "word": "aggressive",
+        "pronunciation": "/əˈɡɹɛs.ɪv/",
+        "audio": "aggressive.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "hung dữ",
+        "definition": "Characterized by aggression; unjustly attacking; prone to behave in a way that involves attacking or arguing.",
+        "example": "an aggressive policy, war, person, nation",
+        "exampleVi": "một chính sách xâm lược, chiến tranh, con người, quốc gia",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "aggressive process, key aggressive",
+        "wordFamily": "aggressive (noun)",
+        "image": "aggressive.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12688,
+        "word": "considerate",
+        "pronunciation": "/kənˈsɪdəɹət/",
+        "audio": "considerate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "ân cần",
+        "definition": "To think about seriously.",
+        "example": "Consider that we’ve had three major events and the year has hardly begun.",
+        "exampleVi": "Hãy xem xét rằng chúng ta đã có ba sự kiện lớn và năm mới chỉ mới bắt đầu.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "considerate process, key considerate",
+        "wordFamily": "considerate (noun)",
+        "image": "considerate.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12689,
+        "word": "rude",
+        "pronunciation": "/ɹʉːd/",
+        "audio": "rude.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "bất lịch sự",
+        "definition": "Bad-mannered.",
+        "example": "Karen broke up with Fred because he was often rude to her.",
+        "exampleVi": "Karen chia tay Fred vì anh thường xuyên thô lỗ với cô.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rude process, key rude",
+        "wordFamily": "rude (noun)",
+        "image": "rude.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12690,
+        "word": "mean",
+        "pronunciation": "/miːn/",
+        "audio": "mean.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "nghĩa là",
+        "definition": "To lament.",
+        "example": "We need to understand the concept of mean.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ý nghĩa.",
+        "topic": "Personality",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mean process, key mean",
+        "wordFamily": "mean (noun)",
+        "image": "mean.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "assertive",
+        "pronunciation": "/əˈsɜːrtɪv/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "quyết đoán",
+        "definition": "having or showing a confident and forceful personality.",
+        "example": "In negotiations, being assertive can help you achieve better outcomes.",
+        "exampleVi": "Trong các cuộc đàm phán, việc quyết đoán có thể giúp bạn đạt được kết quả tốt hơn.",
+        "collocations": "assertive communication, assertive behavior",
+        "wordFamily": "assertiveness, assertively",
+        "id": 12691,
+        "audio": "assertive.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "assertive.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "empathetic",
+        "pronunciation": "/ˌɛmpəˈθɛtɪk/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "có khả năng đồng cảm",
+        "definition": "showing an ability to understand and share the feelings of another.",
+        "example": "An empathetic leader can foster a supportive work environment.",
+        "exampleVi": "Một nhà lãnh đạo có khả năng đồng cảm có thể tạo ra một môi trường làm việc hỗ trợ.",
+        "collocations": "empathetic response, empathetic listening",
+        "wordFamily": "empathy, empathize",
+        "id": 12692,
+        "audio": "empathetic.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "empathetic.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "diplomatic",
+        "pronunciation": "/ˌdɪpləˈmætɪk/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "ngoại giao",
+        "definition": "having or showing an ability to deal with people in a sensitive and effective way.",
+        "example": "Her diplomatic approach helped resolve the conflict between team members.",
+        "exampleVi": "Cách tiếp cận ngoại giao của cô ấy đã giúp giải quyết xung đột giữa các thành viên trong nhóm.",
+        "collocations": "diplomatic skills, diplomatic relations",
+        "wordFamily": "diplomacy, diplomatically",
+        "id": 12693,
+        "audio": "diplomatic.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "diplomatic.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "meticulous",
+        "pronunciation": "/məˈtɪkjələs/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tỉ mỉ",
+        "definition": "showing great attention to detail; very careful and precise.",
+        "example": "Her meticulous planning ensured the project was completed on time.",
+        "exampleVi": "Sự lập kế hoạch tỉ mỉ của cô ấy đã đảm bảo rằng dự án hoàn thành đúng thời hạn.",
+        "collocations": "meticulous attention, meticulous record-keeping",
+        "wordFamily": "meticulously, meticulousness",
+        "id": 12694,
+        "audio": "meticulous.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "meticulous.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "adaptable",
+        "pronunciation": "/əˈdæptəbl/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "linh hoạt",
+        "definition": "able to adjust to new conditions.",
+        "example": "An adaptable employee can thrive in a constantly changing work environment.",
+        "exampleVi": "Một nhân viên linh hoạt có thể phát triển trong một môi trường làm việc liên tục thay đổi.",
+        "collocations": "adaptable skills, adaptable strategies",
+        "wordFamily": "adapt, adaptation",
+        "id": 12695,
+        "audio": "adaptable.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "adaptable.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "resilient",
+        "pronunciation": "/rɪˈzɪljənt/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "kiên cường",
+        "definition": "able to withstand or recover quickly from difficult conditions.",
+        "example": "A resilient team can bounce back from setbacks and continue to succeed.",
+        "exampleVi": "Một đội ngũ kiên cường có thể phục hồi sau những thất bại và tiếp tục thành công.",
+        "collocations": "resilient mindset, resilient workforce",
+        "wordFamily": "resilience, resiliently",
+        "id": 12696,
+        "audio": "resilient.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "resilient.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "charismatic",
+        "pronunciation": "/ˌkærɪzˈmætɪk/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "có sức thu hút",
+        "definition": "exercising a compelling charm that inspires devotion in others.",
+        "example": "Charismatic leaders often motivate their teams to achieve exceptional results.",
+        "exampleVi": "Các nhà lãnh đạo có sức thu hút thường truyền cảm hứng cho đội ngũ của họ đạt được kết quả xuất sắc.",
+        "collocations": "charismatic personality, charismatic leader",
+        "wordFamily": "charisma, charismatically",
+        "id": 12697,
+        "audio": "charismatic.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "charismatic.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "analytical",
+        "pronunciation": "/ˌænəˈlɪtɪkəl/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "phân tích",
+        "definition": "relating to or using analysis or logical reasoning.",
+        "example": "An analytical mindset is essential for solving complex business problems.",
+        "exampleVi": "Một tư duy phân tích là cần thiết để giải quyết các vấn đề kinh doanh phức tạp.",
+        "collocations": "analytical skills, analytical approach",
+        "wordFamily": "analysis, analyze",
+        "id": 12698,
+        "audio": "analytical.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "analytical.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "resourceful",
+        "pronunciation": "/rɪˈsɔːrsfl/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "khéo léo",
+        "definition": "having the ability to find quick and clever ways to overcome difficulties.",
+        "example": "A resourceful employee can find innovative solutions to challenges.",
+        "exampleVi": "Một nhân viên khéo léo có thể tìm ra các giải pháp sáng tạo cho những thách thức.",
+        "collocations": "resourceful thinking, resourceful solutions",
+        "wordFamily": "resource, resourcefulness",
+        "id": 12699,
+        "audio": "resourceful.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "resourceful.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "pragmatic",
+        "pronunciation": "/præɡˈmætɪk/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thực dụng",
+        "definition": "dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+        "example": "A pragmatic approach to problem-solving can lead to effective results.",
+        "exampleVi": "Một cách tiếp cận thực dụng trong việc giải quyết vấn đề có thể dẫn đến kết quả hiệu quả.",
+        "collocations": "pragmatic solutions, pragmatic mindset",
+        "wordFamily": "pragmatism, pragmatically",
+        "id": 12700,
+        "audio": "pragmatic.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "pragmatic.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "innovative",
+        "pronunciation": "/ˈɪnəveɪtɪv/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "đổi mới",
+        "definition": "featuring new methods; advanced and original.",
+        "example": "Innovative thinkers often drive progress in their industries.",
+        "exampleVi": "Những người có tư duy đổi mới thường thúc đẩy sự tiến bộ trong ngành của họ.",
+        "collocations": "innovative solutions, innovative ideas",
+        "wordFamily": "innovation, innovate",
+        "id": 12701,
+        "audio": "innovative.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "innovative.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "tenacious",
+        "pronunciation": "/təˈneɪʃəs/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "kiên trì",
+        "definition": "holding firm to a purpose or task; persistent.",
+        "example": "A tenacious attitude can lead to success in challenging projects.",
+        "exampleVi": "Một thái độ kiên trì có thể dẫn đến thành công trong các dự án đầy thách thức.",
+        "collocations": "tenacious spirit, tenacious pursuit",
+        "wordFamily": "tenacity, tenaciously",
+        "id": 12702,
+        "audio": "tenacious.mp3",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "tenacious.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12703,
+        "word": "attribute",
+        "pronunciation": "/attribute/",
+        "audio": "attribute.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuộc tính",
+        "definition": "A characteristic or quality of a thing.",
+        "example": "His finest attribute is his kindness.",
+        "exampleVi": "Phẩm chất tốt nhất của anh ấy là lòng tốt.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "attribute process, key attribute",
+        "wordFamily": "attribute (noun)",
+        "image": "attribute.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12704,
+        "word": "trait",
+        "pronunciation": "/tɹeɪ/",
+        "audio": "trait.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặc điểm",
+        "definition": "An identifying characteristic, habit or trend.",
+        "example": "The number one personality trait I hate is hypocrisy. Why can't you be consistent!?",
+        "exampleVi": "Đặc điểm tính cách số một mà tôi ghét là thói đạo đức giả. Tại sao bạn không thể nhất quán!?",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trait process, key trait",
+        "wordFamily": "trait (noun)",
+        "image": "trait.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12705,
+        "word": "attitude",
+        "pronunciation": "/ˈætɪˌtjuːd/",
+        "audio": "attitude.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thái độ",
+        "definition": "The position of the body or way of carrying oneself.",
+        "example": "The ballet dancer walked with a graceful attitude.",
+        "exampleVi": "Vũ công ba lê bước đi với thái độ duyên dáng.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "attitude process, key attitude",
+        "wordFamily": "attitude (noun)",
+        "image": "attitude.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12706,
+        "word": "quality",
+        "pronunciation": "/ˈkwɒlɪti/",
+        "audio": "quality.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất lượng",
+        "definition": "Level of excellence.",
+        "example": "Quality of life is usually determined by health, education, and income.",
+        "exampleVi": "Chất lượng cuộc sống thường được quyết định bởi sức khỏe, giáo dục và thu nhập.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "quality process, key quality",
+        "wordFamily": "quality (noun)",
+        "image": "quality.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12707,
+        "word": "feature",
+        "pronunciation": "/ˈfiːtʃə/",
+        "audio": "feature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính năng",
+        "definition": "One's structure or make-up: form, shape, bodily proportions.",
+        "example": "We need to understand the concept of feature.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tính năng.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "feature process, key feature",
+        "wordFamily": "feature (noun)",
+        "image": "feature.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12708,
+        "word": "manner",
+        "pronunciation": "/ˈmænə/",
+        "audio": "manner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cách thức",
+        "definition": "Mode of action; way of performing or doing anything",
+        "example": "We need to understand the concept of manner.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cách thức.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "manner process, key manner",
+        "wordFamily": "manner (noun)",
+        "image": "manner.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12709,
+        "word": "conduct",
+        "pronunciation": "/ˈkɒndʌkt/",
+        "audio": "conduct.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành vi",
+        "definition": "The act or method of controlling or directing",
+        "example": "We need to understand the concept of conduct.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ứng xử.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "conduct process, key conduct",
+        "wordFamily": "conduct (noun)",
+        "image": "conduct.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12710,
+        "word": "behavior",
+        "pronunciation": "[bɪˈheɪvjə]",
+        "audio": "behavior.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành vi",
+        "definition": "Human conduct relative to social norms.",
+        "example": "We need to understand the concept of behavior.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hành vi.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "behavior process, key behavior",
+        "wordFamily": "behavior (noun)",
+        "image": "behavior.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12711,
+        "word": "character",
+        "pronunciation": "/ˈkæɹəktə/",
+        "audio": "character.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân vật",
+        "definition": "A being involved in the action of a story.",
+        "example": "We need to understand the concept of character.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tính cách.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "character process, key character",
+        "wordFamily": "character (noun)",
+        "image": "character.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12712,
+        "word": "courteous",
+        "pronunciation": "/ˈkɜːti.əs/",
+        "audio": "courteous.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "lịch sự",
+        "definition": "Showing regard or thought for others; especially, displaying good manners or etiquette.",
+        "example": "a courteous gentleman   a courteous gesture",
+        "exampleVi": "một quý ông lịch sự   một cử chỉ lịch sự",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "courteous process, key courteous",
+        "wordFamily": "courteous (noun)",
+        "image": "courteous.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12713,
+        "word": "demeanor",
+        "pronunciation": "/dɪˈmiːnə(ɹ)/",
+        "audio": "demeanor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thái độ",
+        "definition": "The social, non-verbal behaviours (such as body language and facial expressions) that are characteristic of a person.",
+        "example": "A confident demeanor is crucial for persuading others.",
+        "exampleVi": "Một thái độ tự tin là rất quan trọng để thuyết phục người khác.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demeanor process, key demeanor",
+        "wordFamily": "demeanor (noun)",
+        "image": "demeanor.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12714,
+        "word": "temperament",
+        "pronunciation": "/ˈtɛmpəɹmənt/",
+        "audio": "temperament.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính khí",
+        "definition": "A moderate and proportionable mixture of elements or ingredients in a compound; the condition in which elements are mixed in their proper proportions.",
+        "example": "We need to understand the concept of temperament.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tính khí.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "temperament process, key temperament",
+        "wordFamily": "temperament (noun)",
+        "image": "temperament.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12715,
+        "word": "characteristic",
+        "pronunciation": "/ˌkæɹəktəˈɹɪstɪk/",
+        "audio": "characteristic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặc điểm",
+        "definition": "A distinguishing feature of a person or thing.",
+        "example": "We need to understand the concept of characteristic.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đặc tính.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "characteristic process, key characteristic",
+        "wordFamily": "characteristic (noun)",
+        "image": "characteristic.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12716,
+        "word": "disposition",
+        "pronunciation": "/ˌdɪs.pəˈzɪ.ʃən/",
+        "audio": "disposition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính cách",
+        "definition": "The arrangement or placement of certain things.",
+        "example": "The scouts reported on the disposition of the enemy troops.",
+        "exampleVi": "Các trinh sát báo cáo về cách bố trí của quân địch.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "disposition process, key disposition",
+        "wordFamily": "disposition (noun)",
+        "image": "disposition.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12717,
+        "word": "bearing",
+        "pronunciation": "/ˈbɛə̯ɹɪŋ/",
+        "audio": "bearing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "mang",
+        "definition": "To endeavour to depress the price of, or prices in.",
+        "example": "to bear a railroad stock",
+        "exampleVi": "chịu một cổ phiếu đường sắt",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bearing process, key bearing",
+        "wordFamily": "bearing (noun)",
+        "image": "bearing.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12718,
+        "word": "faithful",
+        "pronunciation": "/faithful/",
+        "audio": "faithful.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chung thủy",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word faithful.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trung thành.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "faithful process, key faithful",
+        "wordFamily": "faithful (noun)",
+        "image": "faithful.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12719,
+        "word": "dependable",
+        "pronunciation": "[dɪˈpɛndəbəɫ]",
+        "audio": "dependable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đáng tin cậy",
+        "definition": "A reliable person or thing.",
+        "example": "We need to understand the concept of dependable.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đáng tin cậy.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dependable process, key dependable",
+        "wordFamily": "dependable (noun)",
+        "image": "dependable.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12720,
+        "word": "respectful",
+        "pronunciation": "/ɹɪˈspɛktfəl/",
+        "audio": "respectful.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "tôn trọng",
+        "definition": "Marked or characterized by respect",
+        "example": "It is of great importance that you act in a respectful manner towards the duke and duchess.",
+        "exampleVi": "Điều quan trọng là bạn phải hành động một cách tôn trọng đối với công tước và nữ công tước.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "respectful process, key respectful",
+        "wordFamily": "respectful (noun)",
+        "image": "respectful.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12721,
+        "word": "trustworthy",
+        "pronunciation": "/ˈtɹʌst.wɜɹ.ði/",
+        "audio": "trustworthy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "đáng tin cậy",
+        "definition": "Deserving of trust, reliable.",
+        "example": "We need to understand the concept of trustworthy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đáng tin cậy.",
+        "topic": "Personality",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trustworthy process, key trustworthy",
+        "wordFamily": "trustworthy (noun)",
+        "image": "trustworthy.webp",
+        "tags": [
+            "personality",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

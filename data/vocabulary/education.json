@@ -1,0 +1,2966 @@
+[
+    {
+        "id": 11036,
+        "word": "school",
+        "pronunciation": "/skuːl/",
+        "audio": "school.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trường học",
+        "definition": "(collective) A group of fish or a group of marine mammals such as porpoises, dolphins, or whales.",
+        "example": "The divers encountered a huge school of mackerel.",
+        "exampleVi": "Các thợ lặn gặp phải một đàn cá thu khổng lồ.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "school process, key school",
+        "wordFamily": "school (noun)",
+        "image": "school.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11037,
+        "word": "class",
+        "pronunciation": "/klas/",
+        "audio": "class.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lớp học",
+        "definition": "A group, collection, category or set sharing characteristics or attributes.",
+        "example": "Often used to imply membership of a large class.",
+        "exampleVi": "Thường được sử dụng để ám chỉ thành viên của một lớp lớn.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "class process, key class",
+        "wordFamily": "class (noun)",
+        "image": "class.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11038,
+        "word": "classroom",
+        "pronunciation": "/ˈklɑːsɹʊm/",
+        "audio": "classroom.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lớp học",
+        "definition": "A room, often in a school, where classes take place",
+        "example": "We need to understand the concept of classroom.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lớp học.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "classroom process, key classroom",
+        "wordFamily": "classroom (noun)",
+        "image": "classroom.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11039,
+        "word": "teacher",
+        "pronunciation": "/ˈtiːt͡ʃə/",
+        "audio": "teacher.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giáo viên",
+        "definition": "A person who teaches, especially one employed in a school.",
+        "example": "We need to understand the concept of teacher.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người thầy.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "teacher process, key teacher",
+        "wordFamily": "teacher (noun)",
+        "image": "teacher.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11040,
+        "word": "student",
+        "pronunciation": "/ˈstjuː.dənt/",
+        "audio": "student.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học sinh",
+        "definition": "A person who studies or learns about a particular subject.",
+        "example": "He is a student of life.",
+        "exampleVi": "Anh ấy là một sinh viên của cuộc sống.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "student process, key student",
+        "wordFamily": "student (noun)",
+        "image": "student.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11041,
+        "word": "pupil",
+        "pronunciation": "/ˈpjuːpəl/",
+        "audio": "pupil.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học sinh",
+        "definition": "A learner under the supervision of a teacher or professor.",
+        "example": "We need to understand the concept of pupil.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm học sinh.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pupil process, key pupil",
+        "wordFamily": "pupil (noun)",
+        "image": "pupil.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11042,
+        "word": "lesson",
+        "pronunciation": "/ˈlɛsn̩/",
+        "audio": "lesson.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài học",
+        "definition": "A section of learning or teaching into which a wider learning content is divided.",
+        "example": "In our school a typical working week consists of around twenty lessons and ten hours of related laboratory work.",
+        "exampleVi": "Ở trường chúng tôi, một tuần làm việc điển hình bao gồm khoảng 20 giờ học và 10 giờ làm việc trong phòng thí nghiệm liên quan.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lesson process, key lesson",
+        "wordFamily": "lesson (noun)",
+        "image": "lesson.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11043,
+        "word": "subject",
+        "pronunciation": "/ˈsʌb.dʒɪkt/",
+        "audio": "subject.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "chủ thể",
+        "definition": "Likely to be affected by or to experience something.",
+        "example": "He's subject to sneezing fits.",
+        "exampleVi": "Anh ấy hay bị hắt hơi.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "subject process, key subject",
+        "wordFamily": "subject (adjective)",
+        "image": "subject.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11044,
+        "word": "book",
+        "pronunciation": "/buːk/",
+        "audio": "book.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sách",
+        "definition": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "example": "He was frustrated because he couldn't find anything about dinosaurs in the book.",
+        "exampleVi": "Anh ấy thất vọng vì không thể tìm thấy bất cứ điều gì về khủng long trong cuốn sách.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "book process, key book",
+        "wordFamily": "book (noun)",
+        "image": "book.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11045,
+        "word": "notebook",
+        "pronunciation": "/ˈnəʊtˌbʊk/",
+        "audio": "notebook.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sổ tay",
+        "definition": "A book in which notes or memoranda are written.",
+        "example": "We need to understand the concept of notebook.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sổ ghi chép.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "notebook process, key notebook",
+        "wordFamily": "notebook (noun)",
+        "image": "notebook.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11046,
+        "word": "pen",
+        "pronunciation": "/pɛn/",
+        "audio": "pen.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái bút",
+        "definition": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+        "example": "There are two steers in the third pen.",
+        "exampleVi": "Có hai con bò ở chuồng thứ ba.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pen process, key pen",
+        "wordFamily": "pen (noun)",
+        "image": "pen.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11047,
+        "word": "pencil",
+        "pronunciation": "/ˈpɛnsɪl/",
+        "audio": "pencil.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bút chì",
+        "definition": "A paintbrush.",
+        "example": "We need to understand the concept of pencil.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bút chì.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pencil process, key pencil",
+        "wordFamily": "pencil (noun)",
+        "image": "pencil.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11048,
+        "word": "exam",
+        "pronunciation": "/ɛɡˈzæm/",
+        "audio": "exam.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài thi",
+        "definition": "The act of examining.",
+        "example": "We need to understand the concept of exam.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bài kiểm tra.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "exam process, key exam",
+        "wordFamily": "exam (noun)",
+        "image": "exam.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11049,
+        "word": "test",
+        "pronunciation": "/test/",
+        "audio": "test.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Bài kiểm tra",
+        "definition": "A challenge, trial.",
+        "example": "We need to understand the concept of test.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiểm tra.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "test process, key test",
+        "wordFamily": "test (noun)",
+        "image": "test.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11050,
+        "word": "grade",
+        "pronunciation": "/ɡɹeɪd/",
+        "audio": "grade.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cấp",
+        "definition": "A rating.",
+        "example": "I gave him a good grade for effort.",
+        "exampleVi": "Tôi đã cho anh ấy điểm cao về nỗ lực.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "grade process, key grade",
+        "wordFamily": "grade (noun)",
+        "image": "grade.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11051,
+        "word": "score",
+        "pronunciation": "/skɔː/",
+        "audio": "score.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điểm",
+        "definition": "The total number of goals, points, runs, etc. earned by a participant in a game.",
+        "example": "The player with the highest score is the winner.",
+        "exampleVi": "Người chơi có số điểm cao nhất là người chiến thắng.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "score process, key score",
+        "wordFamily": "score (noun)",
+        "image": "score.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11052,
+        "word": "pass",
+        "pronunciation": "[pʰäːs]",
+        "audio": "pass.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "vượt qua",
+        "definition": "To change place.",
+        "example": "We need to understand the concept of pass.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về pass.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pass process, key pass",
+        "wordFamily": "pass (verb)",
+        "image": "pass.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11053,
+        "word": "fail",
+        "pronunciation": "/feɪl/",
+        "audio": "fail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thất bại",
+        "definition": "Poor quality; substandard workmanship.",
+        "example": "The project was full of fail.",
+        "exampleVi": "Dự án đầy thất bại.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fail process, key fail",
+        "wordFamily": "fail (noun)",
+        "image": "fail.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11054,
+        "word": "learn",
+        "pronunciation": "/lɜːn/",
+        "audio": "learn.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học hỏi",
+        "definition": "The act of learning something",
+        "example": "We need to understand the concept of learn.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm học tập.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "learn process, key learn",
+        "wordFamily": "learn (noun)",
+        "image": "learn.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11055,
+        "word": "study",
+        "pronunciation": "/ˈstʌdi/",
+        "audio": "study.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "học",
+        "definition": "(usually academic) To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.",
+        "example": "I need to study my biology notes.",
+        "exampleVi": "Tôi cần nghiên cứu các ghi chú sinh học của mình.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "study process, key study",
+        "wordFamily": "study (verb)",
+        "image": "study.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11056,
+        "word": "college",
+        "pronunciation": "/ˈkɒlɪd͡ʒ/",
+        "audio": "college.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trường cao đẳng",
+        "definition": "A corporate group; a group of colleagues.",
+        "example": "We need to understand the concept of college.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đại học.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "college process, key college",
+        "wordFamily": "college (noun)",
+        "image": "college.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11057,
+        "word": "university",
+        "pronunciation": "/juːnɪˈvɜːsətiː/",
+        "audio": "university.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trường đại học",
+        "definition": "Institution of higher education (typically accepting students from the age of about 17 or 18, depending on country, but in some exceptional cases able to take younger students) where subjects are studied and researched in depth and degrees are offered.",
+        "example": "The only reason why I haven't gone to university is because I can't afford it.",
+        "exampleVi": "Lý do duy nhất khiến tôi không học đại học là vì tôi không đủ khả năng chi trả.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "university process, key university",
+        "wordFamily": "university (noun)",
+        "image": "university.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11058,
+        "word": "degree",
+        "pronunciation": "/degree/",
+        "audio": "degree.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bằng cấp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word degree.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ độ.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "degree process, key degree",
+        "wordFamily": "degree (noun)",
+        "image": "degree.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11059,
+        "word": "diploma",
+        "pronunciation": "/dɪˈpləʊmə/",
+        "audio": "diploma.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bằng cấp",
+        "definition": "A document issued by an educational institution testifying that the recipient has earned a degree or has successfully completed a particular course of study.",
+        "example": "We need to understand the concept of diploma.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bằng tốt nghiệp.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "diploma process, key diploma",
+        "wordFamily": "diploma (noun)",
+        "image": "diploma.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11060,
+        "word": "course",
+        "pronunciation": "/course/",
+        "audio": "course.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khóa học",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word course.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khóa học.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "course process, key course",
+        "wordFamily": "course (noun)",
+        "image": "course.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11061,
+        "word": "lecture",
+        "pronunciation": "/lecture/",
+        "audio": "lecture.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài giảng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word lecture.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bài giảng.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lecture process, key lecture",
+        "wordFamily": "lecture (noun)",
+        "image": "lecture.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11062,
+        "word": "professor",
+        "pronunciation": "/pɹəˈfɛsə/",
+        "audio": "professor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giáo sư",
+        "definition": "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof.",
+        "example": "We need to understand the concept of professor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giáo sư.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "professor process, key professor",
+        "wordFamily": "professor (noun)",
+        "image": "professor.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11063,
+        "word": "semester",
+        "pronunciation": "/semester/",
+        "audio": "semester.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học kỳ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word semester.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ học kỳ.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "semester process, key semester",
+        "wordFamily": "semester (noun)",
+        "image": "semester.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11064,
+        "word": "tuition",
+        "pronunciation": "/tuition/",
+        "audio": "tuition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học phí",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word tuition.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ học phí.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tuition process, key tuition",
+        "wordFamily": "tuition (noun)",
+        "image": "tuition.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11065,
+        "word": "scholarship",
+        "pronunciation": "/scholarship/",
+        "audio": "scholarship.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học bổng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word scholarship.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ học bổng.",
+        "topic": "Education",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "scholarship process, key scholarship",
+        "wordFamily": "scholarship (noun)",
+        "image": "scholarship.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11066,
+        "word": "fellowship",
+        "pronunciation": "/ˈfɛləʃɪp/",
+        "audio": "fellowship.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học bổng",
+        "definition": "A company of people that share the same interest or aim.",
+        "example": "The Fellowship of the Ring",
+        "exampleVi": "Hiệp hội của chiếc nhẫn",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fellowship process, key fellowship",
+        "wordFamily": "fellowship (noun)",
+        "image": "fellowship.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11067,
+        "word": "faculty",
+        "pronunciation": "/ˈfæ.kəl.ti/",
+        "audio": "faculty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giảng viên",
+        "definition": "The academic staff at schools, colleges, universities or not-for-profit research institutes, as opposed to the students or support staff.",
+        "example": "We need to understand the concept of faculty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giảng viên.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "faculty process, key faculty",
+        "wordFamily": "faculty (noun)",
+        "image": "faculty.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11068,
+        "word": "enrollment",
+        "pronunciation": "/enrollment/",
+        "audio": "enrollment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyển sinh",
+        "definition": "The act of enrolling or the state of being enrolled.",
+        "example": "We need to understand the concept of enrollment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tuyển sinh.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "enrollment process, key enrollment",
+        "wordFamily": "enrollment (noun)",
+        "image": "enrollment.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11069,
+        "word": "academy",
+        "pronunciation": "/əˈkæd.ə.mi/",
+        "audio": "academy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học viện",
+        "definition": "(usually capitalized) The garden where Plato taught.",
+        "example": "We need to understand the concept of academy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm học viện.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "academy process, key academy",
+        "wordFamily": "academy (noun)",
+        "image": "academy.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11070,
+        "word": "admission",
+        "pronunciation": "/ædˈmɪʃ.ən/",
+        "audio": "admission.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhập học",
+        "definition": "The act or practice of admitting.",
+        "example": "We need to understand the concept of admission.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhập học.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "admission process, key admission",
+        "wordFamily": "admission (noun)",
+        "image": "admission.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11071,
+        "word": "grant",
+        "pronunciation": "/ɡɹɑːnt/",
+        "audio": "grant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cấp",
+        "definition": "The act of granting; a bestowing or conferring; concession; allowance; permission.",
+        "example": "We need to understand the concept of grant.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trợ cấp.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "grant process, key grant",
+        "wordFamily": "grant (noun)",
+        "image": "grant.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11072,
+        "word": "institution",
+        "pronunciation": "/ˌɪnstɪˈtjuːʃən/",
+        "audio": "institution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tổ chức",
+        "definition": "A custom or practice of a society or community.",
+        "example": "We need to understand the concept of institution.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tổ chức.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "institution process, key institution",
+        "wordFamily": "institution (noun)",
+        "image": "institution.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11073,
+        "word": "graduate",
+        "pronunciation": "/graduate/",
+        "audio": "graduate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tốt nghiệp",
+        "definition": "A person who is recognized by a university as having completed the requirements of a degree studied at the institution.",
+        "example": "If the government wants graduates to stay in the country they should offer more incentives.",
+        "exampleVi": "Nếu chính phủ muốn sinh viên tốt nghiệp ở lại trong nước thì họ nên đưa ra nhiều ưu đãi hơn.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "graduate process, key graduate",
+        "wordFamily": "graduate (noun)",
+        "image": "graduate.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11074,
+        "word": "administrator",
+        "pronunciation": "/ədˈmɪnɪstɹeɪtə/",
+        "audio": "administrator.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quản trị viên",
+        "definition": "One who administers affairs; one who directs, manages, executes, or dispenses, whether in civil, judicial, political, or ecclesiastical affairs; a manager",
+        "example": "We need to understand the concept of administrator.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người quản trị.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "administrator process, key administrator",
+        "wordFamily": "administrator (noun)",
+        "image": "administrator.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11075,
+        "word": "undergraduate",
+        "pronunciation": "/undergraduate/",
+        "audio": "undergraduate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đại học",
+        "definition": "A student at a university who has not yet received a degree.",
+        "example": "We need to understand the concept of undergraduate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đại học.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "undergraduate process, key undergraduate",
+        "wordFamily": "undergraduate (noun)",
+        "image": "undergraduate.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11076,
+        "word": "certificate",
+        "pronunciation": "/certificate/",
+        "audio": "certificate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chứng chỉ",
+        "definition": "A document containing a certified statement.",
+        "example": "We need to understand the concept of certificate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chứng chỉ.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "certificate process, key certificate",
+        "wordFamily": "certificate (noun)",
+        "image": "certificate.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11077,
+        "word": "syllabus",
+        "pronunciation": "/ˈsɪləbəs/",
+        "audio": "syllabus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giáo trình",
+        "definition": "A summary of topics which will be covered during an academic course, or a text or lecture.",
+        "example": "We need to understand the concept of syllabus.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giáo trình.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "syllabus process, key syllabus",
+        "wordFamily": "syllabus (noun)",
+        "image": "syllabus.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11078,
+        "word": "curriculum",
+        "pronunciation": "/kəˈɹɪk.jə.ləm/",
+        "audio": "curriculum.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chương trình giảng dạy",
+        "definition": "The set of courses, coursework, and their content, offered at a school or university.",
+        "example": "We need to understand the concept of curriculum.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chương trình giảng dạy.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "curriculum process, key curriculum",
+        "wordFamily": "curriculum (noun)",
+        "image": "curriculum.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11079,
+        "word": "alumna",
+        "pronunciation": "/əˈlʌmnə/",
+        "audio": "alumna.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cựu sinh viên",
+        "definition": "A female pupil or student (especially of a university or college).",
+        "example": "We need to understand the concept of alumna.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cựu sinh viên.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "alumna process, key alumna",
+        "wordFamily": "alumna (noun)",
+        "image": "alumna.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11080,
+        "word": "alumnus",
+        "pronunciation": "/alumnus/",
+        "audio": "alumnus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cựu sinh viên",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word alumnus.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cựu sinh viên.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "alumnus process, key alumnus",
+        "wordFamily": "alumnus (noun)",
+        "image": "alumnus.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11081,
+        "word": "quarter",
+        "pronunciation": "/quarter/",
+        "audio": "quarter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quý",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word quarter.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ quý.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "quarter process, key quarter",
+        "wordFamily": "quarter (noun)",
+        "image": "quarter.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11082,
+        "word": "thesis",
+        "pronunciation": "/thesis/",
+        "audio": "thesis.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "luận án",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word thesis.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ luận án.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "thesis process, key thesis",
+        "wordFamily": "thesis (noun)",
+        "image": "thesis.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11083,
+        "word": "dissertation",
+        "pronunciation": "/dissertation/",
+        "audio": "dissertation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "luận án",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dissertation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ luận án.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dissertation process, key dissertation",
+        "wordFamily": "dissertation (noun)",
+        "image": "dissertation.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11084,
+        "word": "seminar",
+        "pronunciation": "/seminar/",
+        "audio": "seminar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hội thảo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word seminar.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hội thảo.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "seminar process, key seminar",
+        "wordFamily": "seminar (noun)",
+        "image": "seminar.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11085,
+        "word": "workshop",
+        "pronunciation": "/workshop/",
+        "audio": "workshop.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hội thảo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word workshop.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ workshop.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "workshop process, key workshop",
+        "wordFamily": "workshop (noun)",
+        "image": "workshop.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11086,
+        "word": "examination",
+        "pronunciation": "/examination/",
+        "audio": "examination.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm tra",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word examination.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kiểm tra.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "examination process, key examination",
+        "wordFamily": "examination (noun)",
+        "image": "examination.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11087,
+        "word": "evaluation",
+        "pronunciation": "/evaluation/",
+        "audio": "evaluation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đánh giá",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word evaluation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đánh giá.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "evaluation process, key evaluation",
+        "wordFamily": "evaluation (noun)",
+        "image": "evaluation.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11088,
+        "word": "assignment",
+        "pronunciation": "/assignment/",
+        "audio": "assignment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài tập",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word assignment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng phép gán từ.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "assignment process, key assignment",
+        "wordFamily": "assignment (noun)",
+        "image": "assignment.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11089,
+        "word": "assessment",
+        "pronunciation": "/assessment/",
+        "audio": "assessment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đánh giá",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word assessment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đánh giá.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "assessment process, key assessment",
+        "wordFamily": "assessment (noun)",
+        "image": "assessment.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11090,
+        "word": "sciences",
+        "pronunciation": "/sciences/",
+        "audio": "sciences.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoa học",
+        "definition": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",
+        "example": "Of course in my opinion Social Studies is more of a science than an art.",
+        "exampleVi": "Tất nhiên theo quan điểm của tôi Khoa học xã hội thiên về khoa học hơn là nghệ thuật.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sciences process, key sciences",
+        "wordFamily": "sciences (noun)",
+        "image": "sciences.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11091,
+        "word": "minor",
+        "pronunciation": "/ˈmaɪnɚ/",
+        "audio": "minor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trẻ vị thành niên",
+        "definition": "A person who is below the age of majority, consent, criminal responsibility or other adult responsibilities and accountabilities.",
+        "example": "It is illegal to sell weapons to minors under the age of eighteen.",
+        "exampleVi": "Việc bán vũ khí cho trẻ vị thành niên dưới mười tám tuổi là bất hợp pháp.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "minor process, key minor",
+        "wordFamily": "minor (noun)",
+        "image": "minor.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11092,
+        "word": "discipline",
+        "pronunciation": "/ˈdɪ.sə.plɪn/",
+        "audio": "discipline.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kỷ luật",
+        "definition": "A controlled behaviour; self-control.",
+        "example": "We need to understand the concept of discipline.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kỷ luật.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "discipline process, key discipline",
+        "wordFamily": "discipline (noun)",
+        "image": "discipline.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11093,
+        "word": "symposium",
+        "pronunciation": "/sɪm.ˈpoʊ.zi.əm/",
+        "audio": "symposium.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hội nghị chuyên đề",
+        "definition": "A conference or other meeting for discussion of a topic, especially one in which the participants make presentations.",
+        "example": "We need to understand the concept of symposium.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hội nghị chuyên đề.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "symposium process, key symposium",
+        "wordFamily": "symposium (noun)",
+        "image": "symposium.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11094,
+        "word": "transcript",
+        "pronunciation": "/ˈtɹænskɹɪpt/",
+        "audio": "transcript.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảng điểm",
+        "definition": "Something which has been transcribed; a writing or composition consisting of the same words as the original; a written copy.",
+        "example": "We need to understand the concept of transcript.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bản ghi.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transcript process, key transcript",
+        "wordFamily": "transcript (noun)",
+        "image": "transcript.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11095,
+        "word": "humanities",
+        "pronunciation": "/hjuˈmæn.ɪ.tiz/",
+        "audio": "humanities.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân văn",
+        "definition": "The study of Ancient Greek and Latin, their literature, history, etc., sometimes inclusive of the study of the ancient Mediterranean generally.",
+        "example": "We need to understand the concept of humanities.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân văn.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "humanities process, key humanities",
+        "wordFamily": "humanities (noun)",
+        "image": "humanities.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11096,
+        "word": "registrar",
+        "pronunciation": "/ˈɹɛdʒ.ɪsˌtɹɑɹ/",
+        "audio": "registrar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà đăng ký",
+        "definition": "An official keeper or recorder of records.",
+        "example": "We need to understand the concept of registrar.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà đăng ký.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "registrar process, key registrar",
+        "wordFamily": "registrar (noun)",
+        "image": "registrar.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11097,
+        "word": "major",
+        "pronunciation": "/ˈmeɪ.dʒə(ɹ)/",
+        "audio": "major.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyên ngành",
+        "definition": "A military rank between captain and lieutenant colonel.",
+        "example": "He used to be a major in the army.",
+        "exampleVi": "Ông từng là thiếu tá trong quân đội.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "major process, key major",
+        "wordFamily": "major (noun)",
+        "image": "major.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11098,
+        "word": "colloquium",
+        "pronunciation": "/kəˈləʊkwiːəm/",
+        "audio": "colloquium.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hội thảo",
+        "definition": "A colloquy; a meeting for discussion.",
+        "example": "We need to understand the concept of colloquium.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hội thảo.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "colloquium process, key colloquium",
+        "wordFamily": "colloquium (noun)",
+        "image": "colloquium.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11099,
+        "word": "auditor",
+        "pronunciation": "/ˈɔːdɪtə(ɹ)/",
+        "audio": "auditor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm toán viên",
+        "definition": "One who audits bookkeeping accounts.",
+        "example": "We need to understand the concept of auditor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiểm toán viên.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "auditor process, key auditor",
+        "wordFamily": "auditor (noun)",
+        "image": "auditor.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11100,
+        "word": "fellow",
+        "pronunciation": "/ˈfɛləʊ/",
+        "audio": "fellow.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồng nghiệp",
+        "definition": "A colleague or partner.",
+        "example": "We need to understand the concept of fellow.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đồng loại.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fellow process, key fellow",
+        "wordFamily": "fellow (noun)",
+        "image": "fellow.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11101,
+        "word": "alumni",
+        "pronunciation": "/əˈlʌmnaɪ/",
+        "audio": "alumni.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cựu sinh viên",
+        "definition": "An individual alumnus or alumna.",
+        "example": "We need to understand the concept of alumni.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cựu sinh viên.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "alumni process, key alumni",
+        "wordFamily": "alumni (noun)",
+        "image": "alumni.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11102,
+        "word": "pedagogy",
+        "pronunciation": "/ˈpɛdəˌɡoʊdʒi/",
+        "audio": "pedagogy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sư phạm",
+        "definition": "The profession of teaching.",
+        "example": "We need to understand the concept of pedagogy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sư phạm.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pedagogy process, key pedagogy",
+        "wordFamily": "pedagogy (noun)",
+        "image": "pedagogy.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11103,
+        "word": "scholar",
+        "pronunciation": "/ˈskɒlə/",
+        "audio": "scholar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học giả",
+        "definition": "A student; one who studies at school or college, typically having a scholarship.",
+        "example": "We need to understand the concept of scholar.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm học giả.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "scholar process, key scholar",
+        "wordFamily": "scholar (noun)",
+        "image": "scholar.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11104,
+        "word": "chancellor",
+        "pronunciation": "/ˈtʃɑːnslə/",
+        "audio": "chancellor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thủ tướng",
+        "definition": "A senior secretary or official with administrative or legal duties, sometimes in charge of some area of government such as finance or justice.",
+        "example": "Chancellor of the Duchy of Lancaster  Lord Chancellor",
+        "exampleVi": "Thủ tướng của Công quốc Lancaster  Thủ tướng",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "chancellor process, key chancellor",
+        "wordFamily": "chancellor (noun)",
+        "image": "chancellor.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11105,
+        "word": "matriculation",
+        "pronunciation": "/matriculation/",
+        "audio": "matriculation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trúng tuyển",
+        "definition": "Enrollment in a college or university",
+        "example": "We need to understand the concept of matriculation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trúng tuyển.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "matriculation process, key matriculation",
+        "wordFamily": "matriculation (noun)",
+        "image": "matriculation.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11106,
+        "word": "tenure",
+        "pronunciation": "/ˈtɛn.jə/",
+        "audio": "tenure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhiệm kỳ",
+        "definition": "A status of possessing a thing or an office; an incumbency.",
+        "example": "We need to understand the concept of tenure.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về quyền sở hữu.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tenure process, key tenure",
+        "wordFamily": "tenure (noun)",
+        "image": "tenure.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11107,
+        "word": "dean",
+        "pronunciation": "/diːn/",
+        "audio": "dean.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trưởng khoa",
+        "definition": "A senior official in a college or university, who may be in charge of a division or faculty (for example, the dean of science) or have some other advisory or disciplinary function (for example, the dean of students).",
+        "example": "We need to understand the concept of dean.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trưởng khoa.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dean process, key dean",
+        "wordFamily": "dean (noun)",
+        "image": "dean.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11108,
+        "word": "graduation",
+        "pronunciation": "/ˌɡɹædʒuˈeɪʃən/",
+        "audio": "graduation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tốt nghiệp",
+        "definition": "The action or process of graduating and receiving a diploma for completing a course of study (such as from an educational institution).",
+        "example": "We need to understand the concept of graduation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tốt nghiệp.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "graduation process, key graduation",
+        "wordFamily": "graduation (noun)",
+        "image": "graduation.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11109,
+        "word": "docent",
+        "pronunciation": "/ˈdəʊ.sənt/",
+        "audio": "docent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "docent",
+        "definition": "A teacher or lecturer at some universities (in central Europe, etc.)",
+        "example": "We need to understand the concept of docent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm docent.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "docent process, key docent",
+        "wordFamily": "docent (noun)",
+        "image": "docent.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11110,
+        "word": "sabbatical",
+        "pronunciation": "/sabbatical/",
+        "audio": "sabbatical.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghỉ phép",
+        "definition": "An extended period of leave from a person's usual pursuits.",
+        "example": "We need to understand the concept of sabbatical.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ngày nghỉ phép.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sabbatical process, key sabbatical",
+        "wordFamily": "sabbatical (noun)",
+        "image": "sabbatical.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11111,
+        "word": "provost",
+        "pronunciation": "/ˈpɹoʊvoʊst/",
+        "audio": "provost.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Provost",
+        "definition": "One placed in charge: a head, a chief, particularly:",
+        "example": "We need to understand the concept of provost.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về Provost.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "provost process, key provost",
+        "wordFamily": "provost (noun)",
+        "image": "provost.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11112,
+        "word": "baccalaureate",
+        "pronunciation": "/bækəˈlɔːɹɪət/",
+        "audio": "baccalaureate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tú tài",
+        "definition": "A bachelor's degree.",
+        "example": "We need to understand the concept of baccalaureate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tú tài.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "baccalaureate process, key baccalaureate",
+        "wordFamily": "baccalaureate (noun)",
+        "image": "baccalaureate.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11113,
+        "word": "academician",
+        "pronunciation": "/əˌka.dəˈmɪʃ.n̩/",
+        "audio": "academician.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "học giả",
+        "definition": "A member (especially a senior one) of the faculty at a college or university; an academic.",
+        "example": "We need to understand the concept of academician.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm học giả.",
+        "topic": "Education",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "academician process, key academician",
+        "wordFamily": "academician (noun)",
+        "image": "academician.webp",
+        "tags": [
+            "education",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

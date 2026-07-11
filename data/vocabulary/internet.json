@@ -1,0 +1,2168 @@
+[
+    {
+        "id": 12033,
+        "word": "internet",
+        "pronunciation": "/ˈɪntəˌnɛt/",
+        "audio": "internet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "internet",
+        "definition": "Any set of computer networks that communicate using the Internet Protocol. (An intranet.)",
+        "example": "We need to understand the concept of internet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về internet.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "internet process, key internet",
+        "wordFamily": "internet (noun)",
+        "image": "internet.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12034,
+        "word": "web",
+        "pronunciation": "/wɛb/",
+        "audio": "web.mp3",
+        "partOfSpeech": "proper noun",
+        "vietnamese": "mạng lưới",
+        "definition": "The World Wide Web.",
+        "example": "Some of that content is now only available on the Web.",
+        "exampleVi": "Một số nội dung đó hiện chỉ có trên Web.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "web process, key web",
+        "wordFamily": "web (proper noun)",
+        "image": "web.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12035,
+        "word": "website",
+        "pronunciation": "/ˈwɛbˌsaɪt/",
+        "audio": "website.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang web",
+        "definition": "A collection of interlinked web pages on the World Wide Web that are typically accessible from the same base URL and reside on the same server.",
+        "example": "We need to understand the concept of website.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm website.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "website process, key website",
+        "wordFamily": "website (noun)",
+        "image": "website.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12036,
+        "word": "page",
+        "pronunciation": "/peɪd͡ʒ/",
+        "audio": "page.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang",
+        "definition": "One of the many pieces of paper bound together within a book or similar document.",
+        "example": "We need to understand the concept of page.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trang.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "page process, key page",
+        "wordFamily": "page (noun)",
+        "image": "page.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12037,
+        "word": "link",
+        "pronunciation": "/lɪŋk/",
+        "audio": "link.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liên kết",
+        "definition": "Some text or a graphic in an electronic document that can be activated to display another document or trigger an action.",
+        "example": "Click the hyperlink to go to the next page.",
+        "exampleVi": "Nhấp vào siêu liên kết để đi tới trang tiếp theo.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "link process, key link",
+        "wordFamily": "link (noun)",
+        "image": "link.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12038,
+        "word": "url",
+        "pronunciation": "/ˌjuː.ɑːrˈel/",
+        "audio": "url.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa chỉ trang web",
+        "definition": "the address of a World Wide Web page, showing where it is and the protocol used to access it",
+        "example": "Please enter the URL of the website you want to visit.",
+        "exampleVi": "Vui lòng nhập địa chỉ URL của trang web bạn muốn truy cập.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "url process, key url",
+        "wordFamily": "url (noun)",
+        "image": "url.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12039,
+        "word": "online",
+        "pronunciation": "/ɒnˈlaɪn/",
+        "audio": "online.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "trực tuyến",
+        "definition": "To bring (a system, etc.) online; to promote to an active or running state.",
+        "example": "We need to understand the concept of online.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trực tuyến.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "online process, key online",
+        "wordFamily": "online (verb)",
+        "image": "online.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12040,
+        "word": "offline",
+        "pronunciation": "/offline/",
+        "audio": "offline.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "ngoại tuyến",
+        "definition": "To take (a system, etc.) offline; to demote from an active or online state.",
+        "example": "We need to understand the concept of offline.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm offline.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "offline process, key offline",
+        "wordFamily": "offline (verb)",
+        "image": "offline.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12041,
+        "word": "connect",
+        "pronunciation": "/kəˈnɛkt/",
+        "audio": "connect.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kết nối",
+        "definition": "(of an object) To join (to another object): to attach, or to be intended to attach or capable of attaching, to another object.",
+        "example": "I think this piece connects to that piece over there.",
+        "exampleVi": "Tôi nghĩ mảnh này kết nối với mảnh kia.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "connect process, key connect",
+        "wordFamily": "connect (verb)",
+        "image": "connect.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12042,
+        "word": "connection",
+        "pronunciation": "/kəˈnɛkʃən/",
+        "audio": "connection.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự liên quan",
+        "definition": "The act of connecting.",
+        "example": "We need to understand the concept of connection.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kết nối.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "connection process, key connection",
+        "wordFamily": "connection (noun)",
+        "image": "connection.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12043,
+        "word": "disconnect",
+        "pronunciation": "/dɪskəˈnɛkt/",
+        "audio": "disconnect.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngắt kết nối",
+        "definition": "A break or interruption in an existing connection, continuum, or process; disconnection.",
+        "example": "We need to understand the concept of disconnect.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ngắt kết nối.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "disconnect process, key disconnect",
+        "wordFamily": "disconnect (noun)",
+        "image": "disconnect.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12044,
+        "word": "network",
+        "pronunciation": "/nɛtwɜːk/",
+        "audio": "network.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mạng",
+        "definition": "A fabric or structure of fibrous elements attached to each other at regular intervals.",
+        "example": "We need to understand the concept of network.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mạng.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "network process, key network",
+        "wordFamily": "network (noun)",
+        "image": "network.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12045,
+        "word": "server",
+        "pronunciation": "/ˈsɜːvə/",
+        "audio": "server.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy chủ",
+        "definition": "A program that provides services to other programs or devices, either in the same computer or over a computer network.",
+        "example": "We need to understand the concept of server.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm máy chủ.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "server process, key server",
+        "wordFamily": "server (noun)",
+        "image": "server.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12046,
+        "word": "browser",
+        "pronunciation": "/ˈbɹaʊzə(ɹ)/",
+        "audio": "browser.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trình duyệt",
+        "definition": "A person or animal who browses.",
+        "example": "We need to understand the concept of browser.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trình duyệt.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "browser process, key browser",
+        "wordFamily": "browser (noun)",
+        "image": "browser.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12047,
+        "word": "search",
+        "pronunciation": "/sɜːt͡ʃ/",
+        "audio": "search.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tìm kiếm",
+        "definition": "An attempt to find something.",
+        "example": "With only five minutes until we were meant to leave, the search for the keys started in earnest.",
+        "exampleVi": "Chỉ còn năm phút nữa là chúng tôi phải rời đi, cuộc tìm kiếm chìa khóa bắt đầu một cách nghiêm túc.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "search process, key search",
+        "wordFamily": "search (noun)",
+        "image": "search.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12048,
+        "word": "engine",
+        "pronunciation": "/end͡ʒən/",
+        "audio": "engine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "động cơ",
+        "definition": "A large construction used in warfare, such as a battering ram, catapult etc.",
+        "example": "We need to understand the concept of engine.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm động cơ.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "engine process, key engine",
+        "wordFamily": "engine (noun)",
+        "image": "engine.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12049,
+        "word": "email",
+        "pronunciation": "/ˈiːmeɪl/",
+        "audio": "email.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "e-mail",
+        "definition": "A system for transferring messages from one computer to another, usually through a network.",
+        "example": "He sent me his details via email.",
+        "exampleVi": "Anh ấy đã gửi cho tôi thông tin chi tiết của anh ấy qua email.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "email process, key email",
+        "wordFamily": "email (noun)",
+        "image": "email.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12050,
+        "word": "social",
+        "pronunciation": "/ˈsəʊʃəl/",
+        "audio": "social.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xã hội",
+        "definition": "A festive gathering to foster introductions.",
+        "example": "They organized a social at the dance club to get people to know each other.",
+        "exampleVi": "Họ tổ chức một buổi giao lưu tại câu lạc bộ khiêu vũ để mọi người làm quen với nhau.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "social process, key social",
+        "wordFamily": "social (noun)",
+        "image": "social.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12051,
+        "word": "media",
+        "pronunciation": "/ˈmiːdɪə/",
+        "audio": "media.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phương tiện truyền thông",
+        "definition": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+        "example": "We need to understand the concept of media.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về truyền thông.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "media process, key media",
+        "wordFamily": "media (noun)",
+        "image": "media.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12052,
+        "word": "chat",
+        "pronunciation": "/tʃæt/",
+        "audio": "chat.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trò chuyện",
+        "definition": "Informal conversation.",
+        "example": "We need to understand the concept of chat.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trò chuyện.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chat process, key chat",
+        "wordFamily": "chat (noun)",
+        "image": "chat.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12053,
+        "word": "download",
+        "pronunciation": "/ˈdaʊnˌləʊd/",
+        "audio": "download.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tải về",
+        "definition": "A file transfer to the local computer.",
+        "example": "The download took longer than I expected.",
+        "exampleVi": "Quá trình tải xuống mất nhiều thời gian hơn tôi mong đợi.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "download process, key download",
+        "wordFamily": "download (noun)",
+        "image": "download.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12054,
+        "word": "upload",
+        "pronunciation": "/əpˈləʊd/",
+        "audio": "upload.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tải lên",
+        "definition": "Such a file transfer.",
+        "example": "We need to understand the concept of upload.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tải lên.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "upload process, key upload",
+        "wordFamily": "upload (noun)",
+        "image": "upload.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12055,
+        "word": "security",
+        "pronunciation": "/sɪˈkjɔːɹəti/",
+        "audio": "security.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo vệ",
+        "definition": "The condition of not being threatened, especially physically, psychologically, emotionally, or financially.",
+        "example": "We need to understand the concept of security.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bảo mật.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "security process, key security",
+        "wordFamily": "security (noun)",
+        "image": "security.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12056,
+        "word": "password",
+        "pronunciation": "/ˈpæswɜːd/",
+        "audio": "password.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mật khẩu",
+        "definition": "A word used to gain admittance or to gain access to information; watchword.",
+        "example": "We need to understand the concept of password.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mật khẩu.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "password process, key password",
+        "wordFamily": "password (noun)",
+        "image": "password.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12057,
+        "word": "username",
+        "pronunciation": "/username/",
+        "audio": "username.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tên người dùng",
+        "definition": "A person's identification on an individual computer system.",
+        "example": "We need to understand the concept of username.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tên người dùng.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "username process, key username",
+        "wordFamily": "username (noun)",
+        "image": "username.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12058,
+        "word": "account",
+        "pronunciation": "/ə.ˈkaʊnt/",
+        "audio": "account.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài khoản",
+        "definition": "A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and also of other things subjected to a reckoning or review.",
+        "example": "We need to understand the concept of account.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tài khoản.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "account process, key account",
+        "wordFamily": "account (noun)",
+        "image": "account.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12059,
+        "word": "login",
+        "pronunciation": "/ˈlɒɡ.ɪn/",
+        "audio": "login.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đăng nhập",
+        "definition": "A combination of a user's identification and password used to enter a computer, program, network, etc.",
+        "example": "I've forgotten my login again.",
+        "exampleVi": "Tôi lại quên thông tin đăng nhập của mình.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "login process, key login",
+        "wordFamily": "login (noun)",
+        "image": "login.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12060,
+        "word": "logout",
+        "pronunciation": "/logout/",
+        "audio": "logout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đăng xuất",
+        "definition": "The act or process of logging out.",
+        "example": "We need to understand the concept of logout.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đăng xuất.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "logout process, key logout",
+        "wordFamily": "logout (noun)",
+        "image": "logout.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12061,
+        "word": "router",
+        "pronunciation": "/ˈɹuːtə(ɹ)/",
+        "audio": "router.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bộ định tuyến",
+        "definition": "Someone who routes or directs items from one location to another.",
+        "example": "The router directed the movement of the company's trucks.",
+        "exampleVi": "Bộ định tuyến chỉ đạo chuyển động của xe tải của công ty.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "router process, key router",
+        "wordFamily": "router (noun)",
+        "image": "router.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12062,
+        "word": "wifi",
+        "pronunciation": "/wifi/",
+        "audio": "wifi.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "wifi",
+        "definition": "Any of several standards for short-range wireless data transmission (IEEE 802.11).",
+        "example": "We need to understand the concept of wifi.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm wifi.",
+        "topic": "Internet",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wifi process, key wifi",
+        "wordFamily": "wifi (noun)",
+        "image": "wifi.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12063,
+        "word": "cloud",
+        "pronunciation": "/klaʊd/",
+        "audio": "cloud.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đám mây",
+        "definition": "A rock; boulder; a hill.",
+        "example": "We need to understand the concept of cloud.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đám mây.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cloud process, key cloud",
+        "wordFamily": "cloud (noun)",
+        "image": "cloud.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12064,
+        "word": "host",
+        "pronunciation": "/həʊst/",
+        "audio": "host.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy chủ",
+        "definition": "One which receives or entertains a guest, socially, commercially, or officially.",
+        "example": "A good host is always considerate of the guest’s needs.",
+        "exampleVi": "Một chủ nhà tốt luôn quan tâm đến nhu cầu của khách.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "host process, key host",
+        "wordFamily": "host (noun)",
+        "image": "host.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12065,
+        "word": "storage",
+        "pronunciation": "/ˈstɔ.ɹɪd͡ʒ/",
+        "audio": "storage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lưu trữ",
+        "definition": "The act of storing goods; the state of being stored.",
+        "example": "There's a lot of storage space in the loft.",
+        "exampleVi": "Có rất nhiều không gian lưu trữ trên gác xép.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "storage process, key storage",
+        "wordFamily": "storage (noun)",
+        "image": "storage.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12066,
+        "word": "domain",
+        "pronunciation": "/dəʊˈmeɪn/",
+        "audio": "domain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tên miền",
+        "definition": "A geographic area owned or controlled by a single person or organization.",
+        "example": "The king ruled his domain harshly.",
+        "exampleVi": "Nhà vua cai trị lãnh thổ của mình một cách khắc nghiệt.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "domain process, key domain",
+        "wordFamily": "domain (noun)",
+        "image": "domain.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12067,
+        "word": "encryption",
+        "pronunciation": "/encryption/",
+        "audio": "encryption.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mã hóa",
+        "definition": "The process of obscuring information to make it unreadable without special knowledge, key files, or passwords.",
+        "example": "We need to understand the concept of encryption.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mã hóa.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "encryption process, key encryption",
+        "wordFamily": "encryption (noun)",
+        "image": "encryption.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12068,
+        "word": "antivirus",
+        "pronunciation": "/antivirus/",
+        "audio": "antivirus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần mềm chống vi-rút",
+        "definition": "A piece of software that is used to detect, delete and or neutralize computer-based viruses.",
+        "example": "We need to understand the concept of antivirus.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chống virus.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "antivirus process, key antivirus",
+        "wordFamily": "antivirus (noun)",
+        "image": "antivirus.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12069,
+        "word": "bandwidth",
+        "pronunciation": "/ˈbændwɪdθ/",
+        "audio": "bandwidth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "băng thông",
+        "definition": "The width, usually measured in hertz, of a frequency band.",
+        "example": "We need to understand the concept of bandwidth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm băng thông.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bandwidth process, key bandwidth",
+        "wordFamily": "bandwidth (noun)",
+        "image": "bandwidth.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12070,
+        "word": "provider",
+        "pronunciation": "/provider/",
+        "audio": "provider.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà cung cấp",
+        "definition": "One who, or that which, provides a service, commodity, or the means for subsistence.",
+        "example": "We need to understand the concept of provider.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà cung cấp.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "provider process, key provider",
+        "wordFamily": "provider (noun)",
+        "image": "provider.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12071,
+        "word": "webpage",
+        "pronunciation": "/webpage/",
+        "audio": "webpage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang web",
+        "definition": "A single hypertext document (transmitted as HTML) on the World Wide Web, often hyperlinked to others, and intended to be viewed with a web browser.",
+        "example": "We need to understand the concept of webpage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trang web.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "webpage process, key webpage",
+        "wordFamily": "webpage (noun)",
+        "image": "webpage.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12072,
+        "word": "stream",
+        "pronunciation": "/stɹiːm/",
+        "audio": "stream.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "luồng",
+        "definition": "A small river; a large creek; a body of moving water confined by banks.",
+        "example": "We need to understand the concept of stream.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm luồng.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stream process, key stream",
+        "wordFamily": "stream (noun)",
+        "image": "stream.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12073,
+        "word": "database",
+        "pronunciation": "/database/",
+        "audio": "database.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơ sở dữ liệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word database.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng cơ sở dữ liệu từ.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "database process, key database",
+        "wordFamily": "database (noun)",
+        "image": "database.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12074,
+        "word": "buffer",
+        "pronunciation": "/ˈbafə(ɹ)/",
+        "audio": "buffer.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "bộ đệm",
+        "definition": "Of the color of buff leather, a brownish yellow.",
+        "example": "We need to understand the concept of buffer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bộ đệm.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "buffer process, key buffer",
+        "wordFamily": "buffer (noun)",
+        "image": "buffer.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12075,
+        "word": "firewall",
+        "pronunciation": "/ˈfaɪ.əˌwɔːl/",
+        "audio": "firewall.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tường lửa",
+        "definition": "A fireproof barrier used to prevent the spread of fire between or through buildings, structures, electrical substation transformers, or within an aircraft or vehicle.",
+        "example": "We need to understand the concept of firewall.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tường lửa.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "firewall process, key firewall",
+        "wordFamily": "firewall (noun)",
+        "image": "firewall.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12076,
+        "word": "speed",
+        "pronunciation": "/speed/",
+        "audio": "speed.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tốc độ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word speed.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tốc độ.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "speed process, key speed",
+        "wordFamily": "speed (noun)",
+        "image": "speed.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12077,
+        "word": "hyperlink",
+        "pronunciation": "/hyperlink/",
+        "audio": "hyperlink.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "siêu liên kết",
+        "definition": "Some text or a graphic in an electronic document that can be activated to display another document or trigger an action.",
+        "example": "Click the hyperlink to go to the next page.",
+        "exampleVi": "Nhấp vào siêu liên kết để đi tới trang tiếp theo.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hyperlink process, key hyperlink",
+        "wordFamily": "hyperlink (noun)",
+        "image": "hyperlink.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12078,
+        "word": "malware",
+        "pronunciation": "/malware/",
+        "audio": "malware.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần mềm độc hại",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word malware.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phần mềm độc hại.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "malware process, key malware",
+        "wordFamily": "malware (noun)",
+        "image": "malware.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12079,
+        "word": "spam",
+        "pronunciation": "/spam/",
+        "audio": "spam.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư rác",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word spam.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ spam.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "spam process, key spam",
+        "wordFamily": "spam (noun)",
+        "image": "spam.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12080,
+        "word": "phishing",
+        "pronunciation": "/phishing/",
+        "audio": "phishing.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lừa đảo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word phishing.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lừa đảo.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "phishing process, key phishing",
+        "wordFamily": "phishing (noun)",
+        "image": "phishing.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12081,
+        "word": "traffic",
+        "pronunciation": "/ˈtɹæfɪk/",
+        "audio": "traffic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lưu lượng truy cập",
+        "definition": "Pedestrians or vehicles on roads, or the flux or passage thereof.",
+        "example": "The traffic is slow during rush hour.",
+        "exampleVi": "Giao thông chậm trong giờ cao điểm.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "traffic process, key traffic",
+        "wordFamily": "traffic (noun)",
+        "image": "traffic.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12082,
+        "word": "protocol",
+        "pronunciation": "/ˈpɹəʊtəˌkɒl/",
+        "audio": "protocol.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao thức",
+        "definition": "The minutes, or official record, of a negotiation or transaction; especially a document drawn up officially which forms the legal basis for subsequent agreements based on it.",
+        "example": "We need to understand the concept of protocol.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giao thức.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "protocol process, key protocol",
+        "wordFamily": "protocol (noun)",
+        "image": "protocol.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12083,
+        "word": "packet",
+        "pronunciation": "/ˈpak.ɪt/",
+        "audio": "packet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gói",
+        "definition": "A small pack or package; a little bundle or parcel",
+        "example": "Don't throw the crisp packet on the floor!",
+        "exampleVi": "Đừng ném gói sắc nét xuống sàn nhà!",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "packet process, key packet",
+        "wordFamily": "packet (noun)",
+        "image": "packet.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12084,
+        "word": "address",
+        "pronunciation": "/æˈdɹɛs/",
+        "audio": "address.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa chỉ",
+        "definition": "Direction.",
+        "example": "We need to understand the concept of address.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa chỉ.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "address process, key address",
+        "wordFamily": "address (noun)",
+        "image": "address.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12085,
+        "word": "routing",
+        "pronunciation": "/ˈɹuːtɪŋ/",
+        "audio": "routing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "định tuyến",
+        "definition": "To direct or divert along a particular course.",
+        "example": "All incoming mail was routed through a single office.",
+        "exampleVi": "Tất cả thư đến đều được chuyển qua một văn phòng duy nhất.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "routing process, key routing",
+        "wordFamily": "routing (noun)",
+        "image": "routing.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12086,
+        "word": "dns",
+        "pronunciation": "/dns/",
+        "audio": "dns.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dns",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dns.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dns.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dns process, key dns",
+        "wordFamily": "dns (noun)",
+        "image": "dns.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12087,
+        "word": "latency",
+        "pronunciation": "/ˈleɪ.tən.si/",
+        "audio": "latency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "độ trễ",
+        "definition": "The state of being latent.",
+        "example": "We need to understand the concept of latency.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về độ trễ.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "latency process, key latency",
+        "wordFamily": "latency (noun)",
+        "image": "latency.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12088,
+        "word": "switching",
+        "pronunciation": "/swɪtʃɪŋ/",
+        "audio": "switching.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chuyển đổi",
+        "definition": "To exchange.",
+        "example": "I want to switch this red dress for a green one.",
+        "exampleVi": "Tôi muốn đổi chiếc váy màu đỏ này thành chiếc màu xanh lá cây.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "switching process, key switching",
+        "wordFamily": "switching (noun)",
+        "image": "switching.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12089,
+        "word": "throughput",
+        "pronunciation": "/ˈθɹu.pʊt/",
+        "audio": "throughput.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thông lượng",
+        "definition": "A conserved property of the light in an optical system which characterizes how \"spread out\" the light is in terms of angle and area: it is the product of its cross-sectional area (normal to the direction of propagation) and the solid angle it subtends.",
+        "example": "We need to understand the concept of throughput.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thông lượng.",
+        "topic": "Internet",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "throughput process, key throughput",
+        "wordFamily": "throughput (noun)",
+        "image": "throughput.webp",
+        "tags": [
+            "internet",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

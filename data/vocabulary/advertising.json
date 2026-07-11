@@ -1,0 +1,2054 @@
+[
+    {
+        "id": 10055,
+        "word": "advertise",
+        "pronunciation": "/ˈadvə(ɹ)taɪz/",
+        "audio": "advertise.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "quảng cáo",
+        "definition": "To give (especially public) notice of (something); to announce publicly.",
+        "example": "We need to understand the concept of advertise.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm quảng cáo.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "advertise process, key advertise",
+        "wordFamily": "advertise (verb)",
+        "image": "advertise.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10056,
+        "word": "advertisement",
+        "pronunciation": "/ədˈvɜːtɪsmənt/",
+        "audio": "advertisement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quảng cáo",
+        "definition": "A commercial solicitation designed to sell some commodity, service or similar.",
+        "example": "Companies try to sell their products using advertisements in form of placards, television spots and print publications.",
+        "exampleVi": "Các công ty cố gắng bán sản phẩm của mình bằng cách sử dụng quảng cáo dưới dạng bảng hiệu, điểm truyền hình và ấn phẩm in.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "advertisement process, key advertisement",
+        "wordFamily": "advertisement (noun)",
+        "image": "advertisement.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10057,
+        "word": "ad",
+        "pronunciation": "/æd/",
+        "audio": "ad.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quảng cáo",
+        "definition": "Advertisement.",
+        "example": "I have placed both of the ads in the newspaper as instructed.",
+        "exampleVi": "Tôi đã đăng cả hai quảng cáo trên báo theo hướng dẫn.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ad process, key ad",
+        "wordFamily": "ad (noun)",
+        "image": "ad.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10058,
+        "word": "commercial",
+        "pronunciation": "/kəˈmɜːʃəl/",
+        "audio": "commercial.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuộc về thương mại",
+        "definition": "An advertisement in a common media format, usually radio or television.",
+        "example": "We need to understand the concept of commercial.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thương mại.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "commercial process, key commercial",
+        "wordFamily": "commercial (noun)",
+        "image": "commercial.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10059,
+        "word": "poster",
+        "pronunciation": "/ˈpoʊstɚ/",
+        "audio": "poster.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "áp phích",
+        "definition": "A picture of a celebrity, an event etc., intended to be attached to a wall.",
+        "example": "He has posters of his favorite band, sports teams and holiday resorts up.",
+        "exampleVi": "Anh ấy treo áp phích của ban nhạc, đội thể thao và khu nghỉ dưỡng yêu thích của mình.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "poster process, key poster",
+        "wordFamily": "poster (noun)",
+        "image": "poster.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10060,
+        "word": "billboard",
+        "pronunciation": "/billboard/",
+        "audio": "billboard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảng quảng cáo",
+        "definition": "A very large outdoor sign, generally used for advertising.",
+        "example": "We need to understand the concept of billboard.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm biển quảng cáo.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "billboard process, key billboard",
+        "wordFamily": "billboard (noun)",
+        "image": "billboard.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10061,
+        "word": "brochure",
+        "pronunciation": "/ˈbɹəʊ.ʃə(ɹ)/",
+        "audio": "brochure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuốn sách nhỏ",
+        "definition": "A booklet of printed informational matter, like a pamphlet, often for promotional purposes.",
+        "example": "We need to understand the concept of brochure.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tờ rơi.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "brochure process, key brochure",
+        "wordFamily": "brochure (noun)",
+        "image": "brochure.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10062,
+        "word": "flyer",
+        "pronunciation": "/flyer/",
+        "audio": "flyer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tờ rơi",
+        "definition": "That which flies, as a bird or insect.",
+        "example": "We need to understand the concept of flyer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tờ rơi.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "flyer process, key flyer",
+        "wordFamily": "flyer (noun)",
+        "image": "flyer.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10063,
+        "word": "banner",
+        "pronunciation": "/ˈbænə/",
+        "audio": "banner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngọn cờ",
+        "definition": "A flag or standard used by a military commander, monarch or nation.",
+        "example": "We need to understand the concept of banner.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm banner.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "banner process, key banner",
+        "wordFamily": "banner (noun)",
+        "image": "banner.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10064,
+        "word": "slogan",
+        "pronunciation": "/ˈsləʊ.ɡ(ə)n/",
+        "audio": "slogan.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khẩu hiệu",
+        "definition": "A catch phrase associated with the product or service being advertised.",
+        "example": "We need to understand the concept of slogan.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm khẩu hiệu.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "slogan process, key slogan",
+        "wordFamily": "slogan (noun)",
+        "image": "slogan.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10065,
+        "word": "brand",
+        "pronunciation": "/bɹand/",
+        "audio": "brand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thương hiệu",
+        "definition": "A conflagration; a flame.",
+        "example": "We need to understand the concept of brand.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thương hiệu.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "brand process, key brand",
+        "wordFamily": "brand (noun)",
+        "image": "brand.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10066,
+        "word": "agency",
+        "pronunciation": "/ˈeɪ.dʒən.si/",
+        "audio": "agency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hãng",
+        "definition": "The capacity, condition, or state of acting or of exerting power.",
+        "example": "We need to understand the concept of agency.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cơ quan.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "agency process, key agency",
+        "wordFamily": "agency (noun)",
+        "image": "agency.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10067,
+        "word": "campaign",
+        "pronunciation": "/kæmˈpeɪn/",
+        "audio": "campaign.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiến dịch",
+        "definition": "A series of operations undertaken to achieve a set goal.",
+        "example": "The company is targeting children in their latest advertising campaign.",
+        "exampleVi": "Công ty đang nhắm đến trẻ em trong chiến dịch quảng cáo mới nhất của họ.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "campaign process, key campaign",
+        "wordFamily": "campaign (noun)",
+        "image": "campaign.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10068,
+        "word": "media",
+        "pronunciation": "/ˈmiːdɪə/",
+        "audio": "media.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phương tiện truyền thông",
+        "definition": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+        "example": "We need to understand the concept of media.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về truyền thông.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "media process, key media",
+        "wordFamily": "media (noun)",
+        "image": "media.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10069,
+        "word": "tv",
+        "pronunciation": "/tv/",
+        "audio": "tv.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "TV",
+        "definition": "The assessed value of an asset from which the tax owing is computed.",
+        "example": "We need to understand the concept of tv.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về truyền hình.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tv process, key tv",
+        "wordFamily": "tv (noun)",
+        "image": "tv.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10070,
+        "word": "radio",
+        "pronunciation": "/ˈɹeɪdiˌəʊ/",
+        "audio": "radio.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "radio",
+        "definition": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.",
+        "example": "We need to understand the concept of radio.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đài phát thanh.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "radio process, key radio",
+        "wordFamily": "radio (noun)",
+        "image": "radio.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10071,
+        "word": "press",
+        "pronunciation": "/pɹɛs/",
+        "audio": "press.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhấn",
+        "definition": "A device used to apply pressure to an item.",
+        "example": "a flower press",
+        "exampleVi": "một máy ép hoa",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "press process, key press",
+        "wordFamily": "press (noun)",
+        "image": "press.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10072,
+        "word": "digital",
+        "pronunciation": "/ˈdɪd͡ʒɪtəɫ/",
+        "audio": "digital.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện tử",
+        "definition": "A digital option.",
+        "example": "We need to understand the concept of digital.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về kỹ thuật số.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "digital process, key digital",
+        "wordFamily": "digital (noun)",
+        "image": "digital.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10073,
+        "word": "target",
+        "pronunciation": "/tɑːɡɪt/",
+        "audio": "target.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mục tiêu",
+        "definition": "A butt or mark to shoot at, as for practice, or to test the accuracy of a firearm, or the force of a projectile.",
+        "example": "Take careful aim at the target.",
+        "exampleVi": "Hãy cẩn thận nhắm vào mục tiêu.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "target process, key target",
+        "wordFamily": "target (noun)",
+        "image": "target.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10074,
+        "word": "reach",
+        "pronunciation": "/ɹiːt͡ʃ/",
+        "audio": "reach.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "với tới",
+        "definition": "The act of stretching or extending; extension.",
+        "example": "We need to understand the concept of reach.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phạm vi tiếp cận.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reach process, key reach",
+        "wordFamily": "reach (noun)",
+        "image": "reach.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10075,
+        "word": "broadcast",
+        "pronunciation": "/broadcast/",
+        "audio": "broadcast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phát tin",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word broadcast.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phát sóng.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "broadcast process, key broadcast",
+        "wordFamily": "broadcast (noun)",
+        "image": "broadcast.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10076,
+        "word": "publish",
+        "pronunciation": "/publish/",
+        "audio": "publish.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xuất bản",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word publish.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ xuất bản.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "publish process, key publish",
+        "wordFamily": "publish (noun)",
+        "image": "publish.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10077,
+        "word": "print",
+        "pronunciation": "/print/",
+        "audio": "print.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "in",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word print.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ print.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "print process, key print",
+        "wordFamily": "print (noun)",
+        "image": "print.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10078,
+        "word": "display",
+        "pronunciation": "/display/",
+        "audio": "display.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trưng bày",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word display.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hiển thị.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "display process, key display",
+        "wordFamily": "display (noun)",
+        "image": "display.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10079,
+        "word": "sponsor",
+        "pronunciation": "/sponsor/",
+        "audio": "sponsor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà tài trợ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word sponsor.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tài trợ.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sponsor process, key sponsor",
+        "wordFamily": "sponsor (noun)",
+        "image": "sponsor.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10080,
+        "word": "sponsorship",
+        "pronunciation": "/sponsorship/",
+        "audio": "sponsorship.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài trợ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word sponsorship.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tài trợ.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sponsorship process, key sponsorship",
+        "wordFamily": "sponsorship (noun)",
+        "image": "sponsorship.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10081,
+        "word": "audience",
+        "pronunciation": "/audience/",
+        "audio": "audience.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khán giả",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word audience.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khán giả.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "audience process, key audience",
+        "wordFamily": "audience (noun)",
+        "image": "audience.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10082,
+        "word": "viewer",
+        "pronunciation": "/viewer/",
+        "audio": "viewer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người xem",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word viewer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng trình xem từ.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "viewer process, key viewer",
+        "wordFamily": "viewer (noun)",
+        "image": "viewer.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10083,
+        "word": "listener",
+        "pronunciation": "/listener/",
+        "audio": "listener.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người nghe",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word listener.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ người nghe.",
+        "topic": "Advertising",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "listener process, key listener",
+        "wordFamily": "listener (noun)",
+        "image": "listener.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10084,
+        "word": "pitch",
+        "pronunciation": "/pɪtʃ/",
+        "audio": "pitch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quảng cáo chiêu hàng",
+        "definition": "A sticky, gummy substance secreted by trees; sap.",
+        "example": "It is hard to get this pitch off my hand.",
+        "exampleVi": "Thật khó để có được cú ném này khỏi tay tôi.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pitch process, key pitch",
+        "wordFamily": "pitch (noun)",
+        "image": "pitch.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10085,
+        "word": "endorsement",
+        "pronunciation": "/endorsement/",
+        "audio": "endorsement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chứng thực",
+        "definition": "The act or quality of endorsing",
+        "example": "Companies sometimes pay millions for product endorsement by celebrities.",
+        "exampleVi": "Các công ty đôi khi phải trả hàng triệu USD cho sự chứng thực sản phẩm của những người nổi tiếng.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "endorsement process, key endorsement",
+        "wordFamily": "endorsement (noun)",
+        "image": "endorsement.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10086,
+        "word": "exposure",
+        "pronunciation": "/exposure/",
+        "audio": "exposure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiển thị",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word exposure.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiếp xúc.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "exposure process, key exposure",
+        "wordFamily": "exposure (noun)",
+        "image": "exposure.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10087,
+        "word": "pamphlet",
+        "pronunciation": "/ˈpæmf.lɪt/",
+        "audio": "pamphlet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuốn sách nhỏ",
+        "definition": "A small booklet of printed informational matter, often unbound, having only a paper cover.",
+        "example": "We need to understand the concept of pamphlet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tờ rơi.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pamphlet process, key pamphlet",
+        "wordFamily": "pamphlet (noun)",
+        "image": "pamphlet.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10088,
+        "word": "branding",
+        "pronunciation": "/branding/",
+        "audio": "branding.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xây dựng thương hiệu",
+        "definition": "To burn the flesh with a hot iron, either as a marker (for criminals, slaves etc.) or to cauterise a wound.",
+        "example": "When they caught him, he was branded and then locked up.",
+        "exampleVi": "Khi họ bắt được anh ta, anh ta đã bị đóng dấu và sau đó bị nhốt.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "branding process, key branding",
+        "wordFamily": "branding (noun)",
+        "image": "branding.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10089,
+        "word": "placement",
+        "pronunciation": "/ˈpleɪsmənt/",
+        "audio": "placement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vị trí",
+        "definition": "The act of placing or putting in place; the act of locating or positioning; the state of being placed.",
+        "example": "We need to understand the concept of placement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vị trí.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "placement process, key placement",
+        "wordFamily": "placement (noun)",
+        "image": "placement.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10090,
+        "word": "publicity",
+        "pronunciation": "/publicity/",
+        "audio": "publicity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công khai",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word publicity.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ publicity.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "publicity process, key publicity",
+        "wordFamily": "publicity (noun)",
+        "image": "publicity.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10091,
+        "word": "demographics",
+        "pronunciation": "/dɛməˈɡɹæfɪks/",
+        "audio": "demographics.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân khẩu học",
+        "definition": "The characteristics of human populations for purposes of social studies.",
+        "example": "We need to understand the concept of demographics.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân khẩu học.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demographics process, key demographics",
+        "wordFamily": "demographics (noun)",
+        "image": "demographics.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10092,
+        "word": "circulate",
+        "pronunciation": "/circulate/",
+        "audio": "circulate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lưu hành",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word circulate.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ luân chuyển.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "circulate process, key circulate",
+        "wordFamily": "circulate (noun)",
+        "image": "circulate.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10093,
+        "word": "infomercial",
+        "pronunciation": "/infomercial/",
+        "audio": "infomercial.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thông tin thương mại",
+        "definition": "A program-length television commercial, typically between thirty minutes and one hour long, that advertises a product or service by presenting supposedly impartial information about it.",
+        "example": "We need to understand the concept of infomercial.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thông tin thương mại.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "infomercial process, key infomercial",
+        "wordFamily": "infomercial (noun)",
+        "image": "infomercial.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10094,
+        "word": "frequency",
+        "pronunciation": "/ˈfɹiːkwənsi/",
+        "audio": "frequency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tần suất",
+        "definition": "The rate of occurrence of anything; the relationship between incidence and time period.",
+        "example": "The frequency of bus service has been improved from one every 15 to one every 12 minutes.",
+        "exampleVi": "Tần suất phục vụ xe buýt đã được cải thiện từ 15 phút một chuyến lên 12 phút một chuyến.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "frequency process, key frequency",
+        "wordFamily": "frequency (noun)",
+        "image": "frequency.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10095,
+        "word": "segmentation",
+        "pronunciation": "/segmentation/",
+        "audio": "segmentation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phân khúc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word segmentation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng phân đoạn từ.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "segmentation process, key segmentation",
+        "wordFamily": "segmentation (noun)",
+        "image": "segmentation.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10096,
+        "word": "jingle",
+        "pronunciation": "/ˈdʒɪŋɡəl/",
+        "audio": "jingle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "leng keng",
+        "definition": "The sound of metal or glass clattering against itself.",
+        "example": "He heard the jingle of her keys in the door and turned off the screen.",
+        "exampleVi": "Anh nghe thấy tiếng chìa khóa của cô leng keng trên cửa và tắt màn hình.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "jingle process, key jingle",
+        "wordFamily": "jingle (noun)",
+        "image": "jingle.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10097,
+        "word": "traction",
+        "pronunciation": "/traction/",
+        "audio": "traction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lực kéo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word traction.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lực kéo.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "traction process, key traction",
+        "wordFamily": "traction (noun)",
+        "image": "traction.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10098,
+        "word": "leaflet",
+        "pronunciation": "/leaflet/",
+        "audio": "leaflet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tờ rơi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word leaflet.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tờ rơi.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "leaflet process, key leaflet",
+        "wordFamily": "leaflet (noun)",
+        "image": "leaflet.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10099,
+        "word": "hype",
+        "pronunciation": "/hype/",
+        "audio": "hype.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cường điệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hype.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cường điệu.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hype process, key hype",
+        "wordFamily": "hype (noun)",
+        "image": "hype.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10100,
+        "word": "clickthrough",
+        "pronunciation": "/clickthrough/",
+        "audio": "clickthrough.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhấp qua",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word clickthrough.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ clickthrough.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "clickthrough process, key clickthrough",
+        "wordFamily": "clickthrough (noun)",
+        "image": "clickthrough.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10101,
+        "word": "positioning",
+        "pronunciation": "/positioning/",
+        "audio": "positioning.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "định vị",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word positioning.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ định vị.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "positioning process, key positioning",
+        "wordFamily": "positioning (noun)",
+        "image": "positioning.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10102,
+        "word": "impression",
+        "pronunciation": "/impression/",
+        "audio": "impression.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiển thị",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word impression.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ấn tượng.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "impression process, key impression",
+        "wordFamily": "impression (noun)",
+        "image": "impression.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10103,
+        "word": "conversion",
+        "pronunciation": "/conversion/",
+        "audio": "conversion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyển đổi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word conversion.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng chuyển đổi từ.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "conversion process, key conversion",
+        "wordFamily": "conversion (noun)",
+        "image": "conversion.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10104,
+        "word": "engagement",
+        "pronunciation": "/engagement/",
+        "audio": "engagement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mức độ tương tác",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word engagement.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tương tác.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "engagement process, key engagement",
+        "wordFamily": "engagement (noun)",
+        "image": "engagement.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10105,
+        "word": "spot",
+        "pronunciation": "/spɒt/",
+        "audio": "spot.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tại chỗ",
+        "definition": "A round or irregular patch on the surface of a thing having a different color, texture etc. and generally round in shape.",
+        "example": "The leopard is noted for the spots of color in its fur.",
+        "exampleVi": "Con báo được chú ý nhờ những đốm màu trên lông của nó.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "spot process, key spot",
+        "wordFamily": "spot (noun)",
+        "image": "spot.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10106,
+        "word": "sandwichboard",
+        "pronunciation": "/sandwichboard/",
+        "audio": "sandwichboard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảng kẹp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word sandwichboard.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sandwichboard.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sandwichboard process, key sandwichboard",
+        "wordFamily": "sandwichboard (noun)",
+        "image": "sandwichboard.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10107,
+        "word": "streamer",
+        "pronunciation": "/ˈstɹiːmə(ɹ)/",
+        "audio": "streamer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người truyền phát",
+        "definition": "A long, narrow flag, or piece of material used or seen as a decoration.",
+        "example": "We need to understand the concept of streamer.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm về người truyền phát.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "streamer process, key streamer",
+        "wordFamily": "streamer (noun)",
+        "image": "streamer.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10108,
+        "word": "placard",
+        "pronunciation": "/ˈplæk.ɑːd/",
+        "audio": "placard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảng hiệu",
+        "definition": "A sheet of paper or cardboard with a written or printed announcement on one side for display in a public place.",
+        "example": "We need to understand the concept of placard.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bảng hiệu.",
+        "topic": "Advertising",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "placard process, key placard",
+        "wordFamily": "placard (noun)",
+        "image": "placard.webp",
+        "tags": [
+            "advertising",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

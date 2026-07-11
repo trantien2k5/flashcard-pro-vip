@@ -1,0 +1,2206 @@
+[
+    {
+        "id": 11756,
+        "word": "hotel",
+        "pronunciation": "/(h)əʊˈtɛl/",
+        "audio": "hotel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách sạn",
+        "definition": "A large town house or mansion; a grand private residence, especially in France.",
+        "example": "We need to understand the concept of hotel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về khách sạn.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hotel process, key hotel",
+        "wordFamily": "hotel (noun)",
+        "image": "hotel.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11757,
+        "word": "room",
+        "pronunciation": "/ɹuːm/",
+        "audio": "room.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng",
+        "definition": "Opportunity or scope (to do something).",
+        "example": "We need to understand the concept of room.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phòng.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "room process, key room",
+        "wordFamily": "room (noun)",
+        "image": "room.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11758,
+        "word": "bed",
+        "pronunciation": "/bed/",
+        "audio": "bed.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giường",
+        "definition": "A piece of furniture, usually flat and soft, on which to rest or sleep.",
+        "example": "My cat often sleeps on my bed.\nI keep a glass of water next to my bed when I sleep.",
+        "exampleVi": "Con mèo của tôi thường ngủ trên giường của tôi.\nTôi để một cốc nước cạnh giường khi ngủ.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bed process, key bed",
+        "wordFamily": "bed (noun)",
+        "image": "bed.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11759,
+        "word": "key",
+        "pronunciation": "/kiː/",
+        "audio": "key.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chìa khóa",
+        "definition": "An object designed to open and close a lock.",
+        "example": "We need to understand the concept of key.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chìa khóa.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "key process, key key",
+        "wordFamily": "key (noun)",
+        "image": "key.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11760,
+        "word": "reception",
+        "pronunciation": "/ɹɪˈsɛp.ʃn̩/",
+        "audio": "reception.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thu nhận",
+        "definition": "The act of receiving.",
+        "example": "We need to understand the concept of reception.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiếp nhận.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reception process, key reception",
+        "wordFamily": "reception (noun)",
+        "image": "reception.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11761,
+        "word": "desk",
+        "pronunciation": "/dɛsk/",
+        "audio": "desk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bàn làm việc",
+        "definition": "A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and readers. It often has a drawer or repository underneath.",
+        "example": "We need to understand the concept of desk.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bàn làm việc.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "desk process, key desk",
+        "wordFamily": "desk (noun)",
+        "image": "desk.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11762,
+        "word": "lobby",
+        "pronunciation": "/lɒbi/",
+        "audio": "lobby.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sảnh",
+        "definition": "An entryway or reception area; vestibule; passageway; corridor.",
+        "example": "I had to wait in the lobby for hours before seeing the doctor.",
+        "exampleVi": "Tôi phải đợi ở hành lang hàng giờ mới được gặp bác sĩ.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lobby process, key lobby",
+        "wordFamily": "lobby (noun)",
+        "image": "lobby.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11763,
+        "word": "guest",
+        "pronunciation": "/ɡɛst/",
+        "audio": "guest.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách mời",
+        "definition": "A recipient of hospitality, specifically someone staying by invitation at the house of another.",
+        "example": "The guests were let in by the butler.",
+        "exampleVi": "Người quản gia cho khách vào.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "guest process, key guest",
+        "wordFamily": "guest (noun)",
+        "image": "guest.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11764,
+        "word": "host",
+        "pronunciation": "/həʊst/",
+        "audio": "host.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chủ nhà",
+        "definition": "One which receives or entertains a guest, socially, commercially, or officially.",
+        "example": "A good host is always considerate of the guest’s needs.",
+        "exampleVi": "Một chủ nhà tốt luôn quan tâm đến nhu cầu của khách.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "host process, key host",
+        "wordFamily": "host (noun)",
+        "image": "host.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11765,
+        "word": "staff",
+        "pronunciation": "/ˈstæf/",
+        "audio": "staff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân viên",
+        "definition": "(plural staffs or staves) A long, straight, thick wooden rod or stick, especially one used to assist in walking.",
+        "example": "We need to understand the concept of staff.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân viên.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "staff process, key staff",
+        "wordFamily": "staff (noun)",
+        "image": "staff.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11766,
+        "word": "service",
+        "pronunciation": "/ˈsɜːvɪs/",
+        "audio": "service.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dịch vụ",
+        "definition": "An act of being of assistance to someone.",
+        "example": "I say I did him a service by ending our relationship – now he can freely pursue his career.",
+        "exampleVi": "Tôi nói rằng tôi đã giúp ích cho anh ấy bằng cách chấm dứt mối quan hệ của chúng tôi - giờ anh ấy có thể tự do theo đuổi sự nghiệp của mình.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "service process, key service",
+        "wordFamily": "service (noun)",
+        "image": "service.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11767,
+        "word": "book",
+        "pronunciation": "/buːk/",
+        "audio": "book.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sách",
+        "definition": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "example": "He was frustrated because he couldn't find anything about dinosaurs in the book.",
+        "exampleVi": "Anh ấy thất vọng vì không thể tìm thấy bất cứ điều gì về khủng long trong cuốn sách.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "book process, key book",
+        "wordFamily": "book (noun)",
+        "image": "book.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11768,
+        "word": "reserve",
+        "pronunciation": "/ɹɪˈzɜːv/",
+        "audio": "reserve.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dự trữ",
+        "definition": "(behaviour) Restriction.",
+        "example": "We need to understand the concept of reserve.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dự trữ.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reserve process, key reserve",
+        "wordFamily": "reserve (noun)",
+        "image": "reserve.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11769,
+        "word": "reservation",
+        "pronunciation": "/ˌɹɛzəˈveɪʃən/",
+        "audio": "reservation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đặt chỗ",
+        "definition": "The act of reserving, withholding or keeping back.",
+        "example": "The committee authorised the reservation of funds.",
+        "exampleVi": "Ủy ban đã cho phép dự trữ tiền.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reservation process, key reservation",
+        "wordFamily": "reservation (noun)",
+        "image": "reservation.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11770,
+        "word": "check",
+        "pronunciation": "/t͡ʃɛk/",
+        "audio": "check.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm tra",
+        "definition": "A situation in which the king is directly threatened by an opposing piece.",
+        "example": "We need to understand the concept of check.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiểm tra.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "check process, key check",
+        "wordFamily": "check (noun)",
+        "image": "check.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11771,
+        "word": "in",
+        "pronunciation": "/ɪn/",
+        "audio": "in.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "TRONG",
+        "definition": "A position of power or influence, or a way to get it.",
+        "example": "His parents got him an in with the company.",
+        "exampleVi": "Cha mẹ anh ấy đã cho anh ấy gia nhập công ty.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "in process, key in",
+        "wordFamily": "in (noun)",
+        "image": "in.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11772,
+        "word": "out",
+        "pronunciation": "/æɔt/",
+        "audio": "out.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngoài",
+        "definition": "A means of exit, escape, reprieve, etc.",
+        "example": "They wrote the law to give those organizations an out.",
+        "exampleVi": "Họ viết ra luật để cho những tổ chức đó có một lối thoát.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "out process, key out",
+        "wordFamily": "out (noun)",
+        "image": "out.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11773,
+        "word": "bill",
+        "pronunciation": "/bɪl/",
+        "audio": "bill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hóa đơn",
+        "definition": "Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th centuries, commonly consisting of a broad, heavy, double-edged, hook-shaped blade, with a short pike at the back and another at the top, attached to the end of a long staff.",
+        "example": "We need to understand the concept of bill.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hóa đơn.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bill process, key bill",
+        "wordFamily": "bill (noun)",
+        "image": "bill.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11774,
+        "word": "stay",
+        "pronunciation": "/steɪ/",
+        "audio": "stay.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ở lại",
+        "definition": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+        "example": "I hope you enjoyed your stay in Hawaii.",
+        "exampleVi": "Tôi hy vọng bạn thích kỳ nghỉ ở Hawaii.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stay process, key stay",
+        "wordFamily": "stay (noun)",
+        "image": "stay.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11775,
+        "word": "amenity",
+        "pronunciation": "/əˈmiːnəti/",
+        "audio": "amenity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiện nghi",
+        "definition": "Pleasantness.",
+        "example": "We especially enjoyed the amenity of the climate on our last holiday.",
+        "exampleVi": "Chúng tôi đặc biệt thích thú với sự thoải mái của khí hậu trong kỳ nghỉ vừa qua.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "amenity process, key amenity",
+        "wordFamily": "amenity (noun)",
+        "image": "amenity.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11776,
+        "word": "suite",
+        "pronunciation": "/suite/",
+        "audio": "suite.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bộ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word suite.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng bộ từ.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "suite process, key suite",
+        "wordFamily": "suite (noun)",
+        "image": "suite.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11777,
+        "word": "single",
+        "pronunciation": "/single/",
+        "audio": "single.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đơn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word single.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đơn.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "single process, key single",
+        "wordFamily": "single (noun)",
+        "image": "single.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11778,
+        "word": "double",
+        "pronunciation": "/double/",
+        "audio": "double.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gấp đôi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word double.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ double.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "double process, key double",
+        "wordFamily": "double (noun)",
+        "image": "double.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11779,
+        "word": "bathroom",
+        "pronunciation": "/bathroom/",
+        "audio": "bathroom.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng tắm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word bathroom.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phòng tắm.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bathroom process, key bathroom",
+        "wordFamily": "bathroom (noun)",
+        "image": "bathroom.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11780,
+        "word": "shower",
+        "pronunciation": "/shower/",
+        "audio": "shower.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vòi sen",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word shower.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tắm.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shower process, key shower",
+        "wordFamily": "shower (noun)",
+        "image": "shower.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11781,
+        "word": "towel",
+        "pronunciation": "/towel/",
+        "audio": "towel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái khăn lau",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word towel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khăn.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "towel process, key towel",
+        "wordFamily": "towel (noun)",
+        "image": "towel.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11782,
+        "word": "sheet",
+        "pronunciation": "/sheet/",
+        "audio": "sheet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tờ giấy",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word sheet.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng bảng từ.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sheet process, key sheet",
+        "wordFamily": "sheet (noun)",
+        "image": "sheet.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11783,
+        "word": "pool",
+        "pronunciation": "/pool/",
+        "audio": "pool.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hồ bơi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word pool.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ pool.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pool process, key pool",
+        "wordFamily": "pool (noun)",
+        "image": "pool.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11784,
+        "word": "gym",
+        "pronunciation": "/gym/",
+        "audio": "gym.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng tập thể dục",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word gym.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ gym.",
+        "topic": "Hotel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gym process, key gym",
+        "wordFamily": "gym (noun)",
+        "image": "gym.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11785,
+        "word": "checkout",
+        "pronunciation": "/checkout/",
+        "audio": "checkout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thanh toán",
+        "definition": "The process of checking out of a hotel, or the latest time to vacate a room in one.",
+        "example": "We need to understand the concept of checkout.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thanh toán.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "checkout process, key checkout",
+        "wordFamily": "checkout (noun)",
+        "image": "checkout.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11786,
+        "word": "occupancy",
+        "pronunciation": "/occupancy/",
+        "audio": "occupancy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công suất phòng",
+        "definition": "The act of occupying, the state of being occupied or the state of being an occupant or tenant.",
+        "example": "We need to understand the concept of occupancy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sự chiếm hữu.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "occupancy process, key occupancy",
+        "wordFamily": "occupancy (noun)",
+        "image": "occupancy.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11787,
+        "word": "rate",
+        "pronunciation": "/ɹeɪt/",
+        "audio": "rate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá",
+        "definition": "The worth of something; value.",
+        "example": "We need to understand the concept of rate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tỷ lệ.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rate process, key rate",
+        "wordFamily": "rate (noun)",
+        "image": "rate.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11788,
+        "word": "booking",
+        "pronunciation": "/ˈbʊkɪŋ/",
+        "audio": "booking.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đặt phòng",
+        "definition": "To reserve (something) for future use.",
+        "example": "I can book tickets for the concert next week.",
+        "exampleVi": "Tôi có thể đặt vé cho buổi hòa nhạc vào tuần tới.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "booking process, key booking",
+        "wordFamily": "booking (noun)",
+        "image": "booking.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11789,
+        "word": "hospitality",
+        "pronunciation": "/hɒs.pɪˈtæl.ɪ.ti/",
+        "audio": "hospitality.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lòng hiếu khách",
+        "definition": "The act or service of welcoming, receiving, hosting, or entertaining guests.",
+        "example": "Please thank our hosts for their hospitality during the week that we stayed.",
+        "exampleVi": "Xin hãy cảm ơn chủ nhà vì lòng hiếu khách của họ trong tuần chúng tôi ở lại.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hospitality process, key hospitality",
+        "wordFamily": "hospitality (noun)",
+        "image": "hospitality.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11790,
+        "word": "checkin",
+        "pronunciation": "/checkin/",
+        "audio": "checkin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "checkin",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word checkin.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ checkin.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "checkin process, key checkin",
+        "wordFamily": "checkin (noun)",
+        "image": "checkin.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11791,
+        "word": "vacancy",
+        "pronunciation": "/ˈveɪkənsi/",
+        "audio": "vacancy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vị trí tuyển dụng",
+        "definition": "An unoccupied position or job.",
+        "example": "We need to understand the concept of vacancy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chỗ trống.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vacancy process, key vacancy",
+        "wordFamily": "vacancy (noun)",
+        "image": "vacancy.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11792,
+        "word": "accommodation",
+        "pronunciation": "/ə.ˌkɒm.ə.ˈdeɪ.ʃən/",
+        "audio": "accommodation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chỗ ở",
+        "definition": "(usually a mass noun) Lodging in a dwelling or similar living quarters afforded to travellers in hotels or on cruise ships, or prisoners, etc.",
+        "example": "We need to understand the concept of accommodation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chỗ ở.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "accommodation process, key accommodation",
+        "wordFamily": "accommodation (noun)",
+        "image": "accommodation.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11793,
+        "word": "bellhop",
+        "pronunciation": "/bellhop/",
+        "audio": "bellhop.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân viên phục vụ",
+        "definition": "An employee of a hotel who carries a guest's luggage and runs errands.",
+        "example": "We need to understand the concept of bellhop.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bellhop.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bellhop process, key bellhop",
+        "wordFamily": "bellhop (noun)",
+        "image": "bellhop.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11794,
+        "word": "concierge",
+        "pronunciation": "/ˌkɒn.siˈɛə̯ʒ/",
+        "audio": "concierge.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân viên trợ giúp",
+        "definition": "One who attends to the wishes of hotel guests.",
+        "example": "We need to understand the concept of concierge.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân viên hướng dẫn.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "concierge process, key concierge",
+        "wordFamily": "concierge (noun)",
+        "image": "concierge.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11795,
+        "word": "tariff",
+        "pronunciation": "/ˈtæɹəf/",
+        "audio": "tariff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuế quan",
+        "definition": "A system of government-imposed duties levied on imported or exported goods; a list of such duties, or the duties themselves.",
+        "example": "We need to understand the concept of tariff.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thuế quan.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tariff process, key tariff",
+        "wordFamily": "tariff (noun)",
+        "image": "tariff.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11796,
+        "word": "chambermaid",
+        "pronunciation": "/ˈtʃeɪm.bə(ɹ).meɪd/",
+        "audio": "chambermaid.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hầu phòng",
+        "definition": "A maid who handles the chores in a bedroom.",
+        "example": "We need to understand the concept of chambermaid.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hầu phòng.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "chambermaid process, key chambermaid",
+        "wordFamily": "chambermaid (noun)",
+        "image": "chambermaid.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11797,
+        "word": "porter",
+        "pronunciation": "/ˈpɔːtə/",
+        "audio": "porter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người khuân vác",
+        "definition": "A person who carries luggage and related objects.",
+        "example": "By the time I reached the train station I was exhausted, but fortunately there was a porter waiting.",
+        "exampleVi": "Lúc tới ga xe lửa tôi đã kiệt sức nhưng may mắn thay đã có người khuân vác chờ sẵn.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "porter process, key porter",
+        "wordFamily": "porter (noun)",
+        "image": "porter.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11798,
+        "word": "housekeeping",
+        "pronunciation": "/housekeeping/",
+        "audio": "housekeeping.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dọn phòng",
+        "definition": "The chores of maintaining a house as a residence, especially cleaning.",
+        "example": "We need to understand the concept of housekeeping.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dọn phòng.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "housekeeping process, key housekeeping",
+        "wordFamily": "housekeeping (noun)",
+        "image": "housekeeping.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11799,
+        "word": "facilities",
+        "pronunciation": "/fəˈsɪlɪtiz/",
+        "audio": "facilities.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơ sở vật chất",
+        "definition": "Facilities for urination and defecation: a toilet; a lavatory.",
+        "example": "We need to understand the concept of facilities.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cơ sở vật chất.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "facilities process, key facilities",
+        "wordFamily": "facilities (noun)",
+        "image": "facilities.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11800,
+        "word": "laundry",
+        "pronunciation": "/laundry/",
+        "audio": "laundry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giặt ủi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word laundry.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giặt ủi.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "laundry process, key laundry",
+        "wordFamily": "laundry (noun)",
+        "image": "laundry.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11801,
+        "word": "roomservice",
+        "pronunciation": "/roomservice/",
+        "audio": "roomservice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dịch vụ phòng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word roomservice.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dịch vụ phòng.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "roomservice process, key roomservice",
+        "wordFamily": "roomservice (noun)",
+        "image": "roomservice.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11802,
+        "word": "valet",
+        "pronunciation": "/ˈvæleɪ/",
+        "audio": "valet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người phục vụ",
+        "definition": "A man's personal male attendant, responsible for his clothes and appearance.",
+        "example": "We need to understand the concept of valet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người phục vụ.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "valet process, key valet",
+        "wordFamily": "valet (noun)",
+        "image": "valet.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11803,
+        "word": "safe",
+        "pronunciation": "/safe/",
+        "audio": "safe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "an toàn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word safe.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ an toàn.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "safe process, key safe",
+        "wordFamily": "safe (noun)",
+        "image": "safe.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11804,
+        "word": "deposit",
+        "pronunciation": "/deposit/",
+        "audio": "deposit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền đặt cọc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word deposit.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiền gửi.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "deposit process, key deposit",
+        "wordFamily": "deposit (noun)",
+        "image": "deposit.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11805,
+        "word": "minibar",
+        "pronunciation": "/minibar/",
+        "audio": "minibar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "minibar",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word minibar.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ minibar.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "minibar process, key minibar",
+        "wordFamily": "minibar (noun)",
+        "image": "minibar.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11806,
+        "word": "keycard",
+        "pronunciation": "/keycard/",
+        "audio": "keycard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thẻ khóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word keycard.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ keycard.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "keycard process, key keycard",
+        "wordFamily": "keycard (noun)",
+        "image": "keycard.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11807,
+        "word": "invoice",
+        "pronunciation": "/invoice/",
+        "audio": "invoice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hóa đơn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word invoice.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hóa đơn.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "invoice process, key invoice",
+        "wordFamily": "invoice (noun)",
+        "image": "invoice.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11808,
+        "word": "hostess",
+        "pronunciation": "/ˈhəʊstəs/",
+        "audio": "hostess.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bà chủ nhà",
+        "definition": "A female host.",
+        "example": "The host and hostess greeted their guests at the door.",
+        "exampleVi": "Ông chủ và bà chủ đón khách ở cửa.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hostess process, key hostess",
+        "wordFamily": "hostess (noun)",
+        "image": "hostess.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11809,
+        "word": "diner",
+        "pronunciation": "/ˈdaɪnə(ɹ)/",
+        "audio": "diner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quán ăn",
+        "definition": "One who dines.",
+        "example": "We need to understand the concept of diner.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm quán ăn.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "diner process, key diner",
+        "wordFamily": "diner (noun)",
+        "image": "diner.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11810,
+        "word": "patron",
+        "pronunciation": "/ˈpeɪ.tɹən/",
+        "audio": "patron.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bảo trợ",
+        "definition": "One who protects or supports; a defender or advocate.",
+        "example": "We need to understand the concept of patron.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người bảo trợ.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "patron process, key patron",
+        "wordFamily": "patron (noun)",
+        "image": "patron.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11811,
+        "word": "resident",
+        "pronunciation": "/ˈɹɛzɪd(ə)nt/",
+        "audio": "resident.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cư dân",
+        "definition": "A person, animal or plant living at a certain location or in a certain area.",
+        "example": "The tiger lily is a resident of Asia.",
+        "exampleVi": "Hoa huệ hổ là cư dân của châu Á.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "resident process, key resident",
+        "wordFamily": "resident (noun)",
+        "image": "resident.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11812,
+        "word": "doorman",
+        "pronunciation": "/doorman/",
+        "audio": "doorman.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người gác cửa",
+        "definition": "A person who holds open the door at the entrance to a building, summons taxicabs, and provides an element of security; in apartment buildings, he also accepts deliveries and may perform certain concierge type services.",
+        "example": "We need to understand the concept of doorman.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người gác cửa.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "doorman process, key doorman",
+        "wordFamily": "doorman (noun)",
+        "image": "doorman.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11813,
+        "word": "registration",
+        "pronunciation": "/registration/",
+        "audio": "registration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đăng ký",
+        "definition": "The act of signing up or registering for something.",
+        "example": "Complete the registration process.",
+        "exampleVi": "Hoàn tất quá trình đăng ký.",
+        "topic": "Hotel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "registration process, key registration",
+        "wordFamily": "registration (noun)",
+        "image": "registration.webp",
+        "tags": [
+            "hotel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

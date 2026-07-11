@@ -1,0 +1,2130 @@
+[
+    {
+        "id": 11412,
+        "word": "finance",
+        "pronunciation": "/faɪˈnæns/",
+        "audio": "finance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài chính",
+        "definition": "The management of money and other assets.",
+        "example": "We need to understand the concept of finance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tài chính.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "finance process, key finance",
+        "wordFamily": "finance (noun)",
+        "image": "finance.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11413,
+        "word": "money",
+        "pronunciation": "/ˈmʌni/",
+        "audio": "money.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền bạc",
+        "definition": "A legally or socially binding conceptual contract of entitlement to wealth, void of intrinsic value, payable for all debts and taxes, and regulated in supply.",
+        "example": "We need to understand the concept of money.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tiền.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "money process, key money",
+        "wordFamily": "money (noun)",
+        "image": "money.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11414,
+        "word": "capital",
+        "pronunciation": "/ˈkæp.ɪ.təl/",
+        "audio": "capital.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thủ đô",
+        "definition": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+        "example": "We need to understand the concept of capital.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vốn.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "capital process, key capital",
+        "wordFamily": "capital (noun)",
+        "image": "capital.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11415,
+        "word": "fund",
+        "pronunciation": "/ˈfʌnd/",
+        "audio": "fund.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quỹ",
+        "definition": "A sum or source of money.",
+        "example": "a fund for the maintenance of underprivileged students",
+        "exampleVi": "quỹ hỗ trợ học sinh có hoàn cảnh khó khăn",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fund process, key fund",
+        "wordFamily": "fund (noun)",
+        "image": "fund.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11416,
+        "word": "investment",
+        "pronunciation": "/ɪnˈvɛsmənt/",
+        "audio": "investment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đầu tư",
+        "definition": "The act of investing, or state of being invested.",
+        "example": "Giving your children a good education is a wise long-term investment.",
+        "exampleVi": "Cho con bạn một nền giáo dục tốt là một sự đầu tư dài hạn khôn ngoan.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "investment process, key investment",
+        "wordFamily": "investment (noun)",
+        "image": "investment.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11417,
+        "word": "invest",
+        "pronunciation": "/ɪnˈvɛst/",
+        "audio": "invest.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đầu tư",
+        "definition": "To spend money, time, or energy on something, especially for some benefit or purpose; used with in.",
+        "example": "We'd like to thank all the contributors who have invested countless hours into this event.",
+        "exampleVi": "Chúng tôi muốn cảm ơn tất cả những người đóng góp đã đầu tư vô số thời gian vào sự kiện này.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "invest process, key invest",
+        "wordFamily": "invest (verb)",
+        "image": "invest.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11418,
+        "word": "stock",
+        "pronunciation": "/stɒk/",
+        "audio": "stock.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Cổ phần",
+        "definition": "A store or supply.",
+        "example": "We need to understand the concept of stock.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chứng khoán.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stock process, key stock",
+        "wordFamily": "stock (noun)",
+        "image": "stock.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11419,
+        "word": "share",
+        "pronunciation": "/ʃɛə/",
+        "audio": "share.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chia sẻ",
+        "definition": "A portion of something, especially a portion given or allotted to someone.",
+        "example": "We need to understand the concept of share.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chia sẻ.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "share process, key share",
+        "wordFamily": "share (noun)",
+        "image": "share.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11420,
+        "word": "bond",
+        "pronunciation": "/bɒnd/",
+        "audio": "bond.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trái phiếu",
+        "definition": "Evidence of a long-term debt, by which the bond issuer (the borrower) is obliged to pay interest when due, and repay the principal at maturity, as specified on the face of the bond certificate. The rights of the holder are specified in the bond indenture, which contains the legal terms and conditions under which the bond was issued. Bonds are available in two forms: registered bonds, and bearer bonds.",
+        "example": "We need to understand the concept of bond.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trái phiếu.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bond process, key bond",
+        "wordFamily": "bond (noun)",
+        "image": "bond.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11421,
+        "word": "asset",
+        "pronunciation": "/ˈæsɪt/",
+        "audio": "asset.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài sản",
+        "definition": "Something or someone of any value; any portion of one's property or effects so considered.",
+        "example": "These shares are a valuable asset.",
+        "exampleVi": "Những cổ phiếu này là tài sản có giá trị.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "asset process, key asset",
+        "wordFamily": "asset (noun)",
+        "image": "asset.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11422,
+        "word": "liability",
+        "pronunciation": "/laɪəˈbɪlɪti/",
+        "audio": "liability.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trách nhiệm pháp lý",
+        "definition": "An obligation, debt or responsibility owed to someone.",
+        "example": "We need to understand the concept of liability.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trách nhiệm.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "liability process, key liability",
+        "wordFamily": "liability (noun)",
+        "image": "liability.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11423,
+        "word": "budget",
+        "pronunciation": "/ˈbʌdʒ.ɪt/",
+        "audio": "budget.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngân sách",
+        "definition": "The amount of money or resources earmarked for a particular institution, activity or time-frame.",
+        "example": "We need to understand the concept of budget.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ngân sách.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "budget process, key budget",
+        "wordFamily": "budget (noun)",
+        "image": "budget.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11424,
+        "word": "expense",
+        "pronunciation": "/ɪkˈspɛns/",
+        "audio": "expense.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chi phí",
+        "definition": "A spending or consuming, often a disbursement of funds.",
+        "example": "Buying the car was a big expense, but will be worth it in the long run.",
+        "exampleVi": "Mua một chiếc ô tô là một khoản chi phí lớn nhưng sẽ có giá trị về lâu dài.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "expense process, key expense",
+        "wordFamily": "expense (noun)",
+        "image": "expense.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11425,
+        "word": "revenue",
+        "pronunciation": "/ˈɹɛvənjuː/",
+        "audio": "revenue.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "doanh thu",
+        "definition": "The income returned by an investment.",
+        "example": "We need to understand the concept of revenue.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm doanh thu.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "revenue process, key revenue",
+        "wordFamily": "revenue (noun)",
+        "image": "revenue.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11426,
+        "word": "income",
+        "pronunciation": "/ˈɪnˌkʌm/",
+        "audio": "income.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thu nhập",
+        "definition": "Money one earns by working or by capitalising on the work of others.",
+        "example": "We need to understand the concept of income.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thu nhập.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "income process, key income",
+        "wordFamily": "income (noun)",
+        "image": "income.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11427,
+        "word": "tax",
+        "pronunciation": "/tæks/",
+        "audio": "tax.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuế",
+        "definition": "Money paid to the government other than for transaction-specific goods and services.",
+        "example": "We need to understand the concept of tax.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thuế.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tax process, key tax",
+        "wordFamily": "tax (noun)",
+        "image": "tax.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11428,
+        "word": "audit",
+        "pronunciation": "/ɔː.dɪt/",
+        "audio": "audit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm toán",
+        "definition": "A judicial examination.",
+        "example": "We need to understand the concept of audit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiểm toán.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "audit process, key audit",
+        "wordFamily": "audit (noun)",
+        "image": "audit.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11429,
+        "word": "wealth",
+        "pronunciation": "/wɛlθ/",
+        "audio": "wealth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự giàu có",
+        "definition": "Riches; valuable material possessions.",
+        "example": "We need to understand the concept of wealth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sự giàu có.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wealth process, key wealth",
+        "wordFamily": "wealth (noun)",
+        "image": "wealth.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11430,
+        "word": "poverty",
+        "pronunciation": "/ˈpɒvəti/",
+        "audio": "poverty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghèo",
+        "definition": "The quality or state of being poor; lack of money",
+        "example": "We need to understand the concept of poverty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nghèo đói.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "poverty process, key poverty",
+        "wordFamily": "poverty (noun)",
+        "image": "poverty.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11431,
+        "word": "inflation",
+        "pronunciation": "/ɪnˈfleɪʃən/",
+        "audio": "inflation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lạm phát",
+        "definition": "An act, instance of, or state of expansion or increase in size, especially by injection of a gas.",
+        "example": "The inflation of the balloon took five hours.",
+        "exampleVi": "Việc bơm bong bóng mất năm giờ.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "inflation process, key inflation",
+        "wordFamily": "inflation (noun)",
+        "image": "inflation.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11432,
+        "word": "exchange",
+        "pronunciation": "/ɛksˈtʃeɪndʒ/",
+        "audio": "exchange.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trao đổi",
+        "definition": "An act of exchanging or trading.",
+        "example": "All in all, it was an even exchange.",
+        "exampleVi": "Nhìn chung, đó là một cuộc trao đổi công bằng.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "exchange process, key exchange",
+        "wordFamily": "exchange (noun)",
+        "image": "exchange.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11433,
+        "word": "rate",
+        "pronunciation": "/ɹeɪt/",
+        "audio": "rate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tỷ lệ",
+        "definition": "The worth of something; value.",
+        "example": "We need to understand the concept of rate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tỷ lệ.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rate process, key rate",
+        "wordFamily": "rate (noun)",
+        "image": "rate.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11434,
+        "word": "dividend",
+        "pronunciation": "/ˈdɪvɪdɛnd/",
+        "audio": "dividend.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cổ tức",
+        "definition": "A number or expression that is to be divided by another.",
+        "example": "In \"42 ÷ 3\" the dividend is the 42.",
+        "exampleVi": "Trong \"42 `3\" số bị chia là 42.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dividend process, key dividend",
+        "wordFamily": "dividend (noun)",
+        "image": "dividend.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11435,
+        "word": "yield",
+        "pronunciation": "/jiːld/",
+        "audio": "yield.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "năng suất",
+        "definition": "To pay, give in payment; repay, recompense; reward; requite.",
+        "example": "We need to understand the concept of yield.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm năng suất.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "yield process, key yield",
+        "wordFamily": "yield (noun)",
+        "image": "yield.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11436,
+        "word": "risk",
+        "pronunciation": "/ɹɪsk/",
+        "audio": "risk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rủi ro",
+        "definition": "A possible adverse event or outcome",
+        "example": "We need to understand the concept of risk.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rủi ro.",
+        "topic": "Finance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "risk process, key risk",
+        "wordFamily": "risk (noun)",
+        "image": "risk.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11437,
+        "word": "diversify",
+        "pronunciation": "/diversify/",
+        "audio": "diversify.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đa dạng hóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word diversify.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đa dạng hóa.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "diversify process, key diversify",
+        "wordFamily": "diversify (noun)",
+        "image": "diversify.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11438,
+        "word": "shareholder",
+        "pronunciation": "/shareholder/",
+        "audio": "shareholder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cổ đông",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word shareholder.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cổ đông.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shareholder process, key shareholder",
+        "wordFamily": "shareholder (noun)",
+        "image": "shareholder.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11439,
+        "word": "investor",
+        "pronunciation": "/investor/",
+        "audio": "investor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà đầu tư",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word investor.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhà đầu tư.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "investor process, key investor",
+        "wordFamily": "investor (noun)",
+        "image": "investor.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11440,
+        "word": "currency",
+        "pronunciation": "/currency/",
+        "audio": "currency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền tệ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word currency.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiền tệ.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "currency process, key currency",
+        "wordFamily": "currency (noun)",
+        "image": "currency.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11441,
+        "word": "market",
+        "pronunciation": "/market/",
+        "audio": "market.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thị trường",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word market.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thị trường.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "market process, key market",
+        "wordFamily": "market (noun)",
+        "image": "market.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11442,
+        "word": "interest",
+        "pronunciation": "/interest/",
+        "audio": "interest.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lãi suất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word interest.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ quan tâm.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "interest process, key interest",
+        "wordFamily": "interest (noun)",
+        "image": "interest.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11443,
+        "word": "stakeholder",
+        "pronunciation": "/stakeholder/",
+        "audio": "stakeholder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bên liên quan",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word stakeholder.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ stakeholder.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stakeholder process, key stakeholder",
+        "wordFamily": "stakeholder (noun)",
+        "image": "stakeholder.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11444,
+        "word": "equity",
+        "pronunciation": "/equity/",
+        "audio": "equity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vốn chủ sở hữu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word equity.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vốn chủ sở hữu.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "equity process, key equity",
+        "wordFamily": "equity (noun)",
+        "image": "equity.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11445,
+        "word": "portfolio",
+        "pronunciation": "/portfolio/",
+        "audio": "portfolio.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "danh mục đầu tư",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word portfolio.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng danh mục đầu tư từ.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "portfolio process, key portfolio",
+        "wordFamily": "portfolio (noun)",
+        "image": "portfolio.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11446,
+        "word": "projection",
+        "pronunciation": "/projection/",
+        "audio": "projection.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dự báo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word projection.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng phép chiếu từ.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "projection process, key projection",
+        "wordFamily": "projection (noun)",
+        "image": "projection.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11447,
+        "word": "depression",
+        "pronunciation": "/depression/",
+        "audio": "depression.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trầm cảm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word depression.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trầm cảm.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "depression process, key depression",
+        "wordFamily": "depression (noun)",
+        "image": "depression.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11448,
+        "word": "deflation",
+        "pronunciation": "/deflation/",
+        "audio": "deflation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giảm phát",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word deflation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giảm phát.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "deflation process, key deflation",
+        "wordFamily": "deflation (noun)",
+        "image": "deflation.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11449,
+        "word": "commodity",
+        "pronunciation": "/commodity/",
+        "audio": "commodity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hàng hóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word commodity.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hàng hóa.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "commodity process, key commodity",
+        "wordFamily": "commodity (noun)",
+        "image": "commodity.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11450,
+        "word": "recession",
+        "pronunciation": "/recession/",
+        "audio": "recession.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "suy thoái",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word recession.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ suy thoái.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "recession process, key recession",
+        "wordFamily": "recession (noun)",
+        "image": "recession.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11451,
+        "word": "forecast",
+        "pronunciation": "/forecast/",
+        "audio": "forecast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dự báo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word forecast.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dự báo.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "forecast process, key forecast",
+        "wordFamily": "forecast (noun)",
+        "image": "forecast.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11452,
+        "word": "exchangerate",
+        "pronunciation": "/exchangerate/",
+        "audio": "exchangerate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "exchangerate",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word exchangerate.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ Exchangerate.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "exchangerate process, key exchangerate",
+        "wordFamily": "exchangerate (noun)",
+        "image": "exchangerate.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11453,
+        "word": "profit",
+        "pronunciation": "/ˈpɹɒfɪt/",
+        "audio": "profit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lợi nhuận",
+        "definition": "Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price.",
+        "example": "We need to understand the concept of profit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lợi nhuận.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "profit process, key profit",
+        "wordFamily": "profit (noun)",
+        "image": "profit.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11454,
+        "word": "insolvency",
+        "pronunciation": "[ɪnˈsɒlvn̩si]",
+        "audio": "insolvency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mất khả năng thanh toán",
+        "definition": "The condition of being insolvent; the state or condition of a person who is insolvent; the condition of one who is unable to pay his debts as they fall due, or in the usual course of trade and business.",
+        "example": "The company faces insolvency.",
+        "exampleVi": "Công ty phải đối mặt với tình trạng phá sản.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "insolvency process, key insolvency",
+        "wordFamily": "insolvency (noun)",
+        "image": "insolvency.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11455,
+        "word": "solvency",
+        "pronunciation": "/solvency/",
+        "audio": "solvency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khả năng thanh toán",
+        "definition": "The state of having enough funds or liquid assets to pay all of one's debts; the state of being solvent.",
+        "example": "We need to understand the concept of solvency.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khả năng thanh toán.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "solvency process, key solvency",
+        "wordFamily": "solvency (noun)",
+        "image": "solvency.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11456,
+        "word": "default",
+        "pronunciation": "/dɪˈfɔːlt/",
+        "audio": "default.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vỡ nợ",
+        "definition": "The condition of failing to meet an obligation.",
+        "example": "He failed to make payments on time and is now in default.",
+        "exampleVi": "Anh ta đã không thanh toán đúng hạn và hiện đang bị vỡ nợ.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "default process, key default",
+        "wordFamily": "default (noun)",
+        "image": "default.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11457,
+        "word": "bankruptcy",
+        "pronunciation": "/ˈbæŋkɹʌptsɪ/",
+        "audio": "bankruptcy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phá sản",
+        "definition": "A legally declared or recognized condition of insolvency of a person or organization.",
+        "example": "We need to understand the concept of bankruptcy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phá sản.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bankruptcy process, key bankruptcy",
+        "wordFamily": "bankruptcy (noun)",
+        "image": "bankruptcy.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11458,
+        "word": "loss",
+        "pronunciation": "/lɑs/",
+        "audio": "loss.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thua lỗ",
+        "definition": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
+        "example": "In other areas, glacier loss creates serious risk of a dry period across the Third Pole, Wang said.",
+        "exampleVi": "Wang cho biết ở các khu vực khác, việc mất sông băng tạo ra nguy cơ nghiêm trọng về thời kỳ khô hạn trên khắp Cực thứ ba.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "loss process, key loss",
+        "wordFamily": "loss (noun)",
+        "image": "loss.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11459,
+        "word": "leverage",
+        "pronunciation": "/ˈliːv(ə)ɹɪdʒ/",
+        "audio": "leverage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đòn bẩy",
+        "definition": "A force compounded by means of a lever rotating around a pivot; see torque.",
+        "example": "A crowbar uses leverage to pry nails out of wood.",
+        "exampleVi": "Một chiếc xà beng sử dụng đòn bẩy để cạy những chiếc đinh ra khỏi gỗ.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "leverage process, key leverage",
+        "wordFamily": "leverage (noun)",
+        "image": "leverage.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11460,
+        "word": "debt",
+        "pronunciation": "/dɛt/",
+        "audio": "debt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nợ",
+        "definition": "An action, state of mind, or object one has an obligation to perform for another, adopt toward another, or give to another.",
+        "example": "We need to understand the concept of debt.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nợ.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "debt process, key debt",
+        "wordFamily": "debt (noun)",
+        "image": "debt.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11461,
+        "word": "arrears",
+        "pronunciation": "/əˈɹɪə(ɹ)z/",
+        "audio": "arrears.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nợ đọng",
+        "definition": "Work to be done, obligation.",
+        "example": "We need to understand the concept of arrears.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nợ đọng.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "arrears process, key arrears",
+        "wordFamily": "arrears (noun)",
+        "image": "arrears.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11462,
+        "word": "hedging",
+        "pronunciation": "/ˈhɛdʒɪŋ/",
+        "audio": "hedging.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phòng ngừa rủi ro",
+        "definition": "To enclose with a hedge or hedges.",
+        "example": "to hedge a field or garden",
+        "exampleVi": "để rào một cánh đồng hoặc khu vườn",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hedging process, key hedging",
+        "wordFamily": "hedging (noun)",
+        "image": "hedging.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11463,
+        "word": "arbitrage",
+        "pronunciation": "/ˈɑːɹ.bɪ.tɹɪdʒ/",
+        "audio": "arbitrage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kinh doanh chênh lệch giá",
+        "definition": "A market activity in which a security, commodity, currency or other tradable item is bought in one market and sold simultaneously in another, in order to profit from price differences between the markets.",
+        "example": "We need to understand the concept of arbitrage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kinh doanh chênh lệch giá.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "arbitrage process, key arbitrage",
+        "wordFamily": "arbitrage (noun)",
+        "image": "arbitrage.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11464,
+        "word": "speculation",
+        "pronunciation": "/ˌspɛkjəˈleɪʃən/",
+        "audio": "speculation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đầu cơ",
+        "definition": "The process of thinking or meditating on a subject.",
+        "example": "We need to understand the concept of speculation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm suy đoán.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "speculation process, key speculation",
+        "wordFamily": "speculation (noun)",
+        "image": "speculation.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11465,
+        "word": "diversification",
+        "pronunciation": "/daɪˌvɜːsɪfɪˈkeɪʃən/",
+        "audio": "diversification.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đa dạng hóa",
+        "definition": "The act, or the result, of diversifying.",
+        "example": "We need to understand the concept of diversification.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đa dạng hóa.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "diversification process, key diversification",
+        "wordFamily": "diversification (noun)",
+        "image": "diversification.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11466,
+        "word": "foreclosure",
+        "pronunciation": "/foreclosure/",
+        "audio": "foreclosure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tịch thu tài sản",
+        "definition": "The proceeding, by a creditor, to regain property or other collateral following a default on mortgage payments",
+        "example": "We need to understand the concept of foreclosure.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tịch thu tài sản thế chấp.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "foreclosure process, key foreclosure",
+        "wordFamily": "foreclosure (noun)",
+        "image": "foreclosure.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11467,
+        "word": "liquidity",
+        "pronunciation": "/lɪkˈwɪdəti/",
+        "audio": "liquidity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính thanh khoản",
+        "definition": "The degree of which something is in high supply and demand, making it easily convertible to cash",
+        "example": "My Picasso painting is not very liquid, it would take me months to sell it. Gold on the other hand is convertible to cash at any moment, making it a very liquid commodity.",
+        "exampleVi": "Bức tranh Picasso của tôi không có tính thanh khoản cao, tôi phải mất nhiều tháng mới bán được nó. Mặt khác, vàng có thể chuyển đổi thành tiền mặt bất cứ lúc nào, khiến nó trở thành một mặt hàng có tính thanh khoản cao.",
+        "topic": "Finance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "liquidity process, key liquidity",
+        "wordFamily": "liquidity (noun)",
+        "image": "liquidity.webp",
+        "tags": [
+            "finance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

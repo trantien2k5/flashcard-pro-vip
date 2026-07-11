@@ -1,0 +1,2624 @@
+[
+    {
+        "id": 12980,
+        "word": "technology",
+        "pronunciation": "/tɛkˈnɒlədʒi/",
+        "audio": "technology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công nghệ",
+        "definition": "The organization of knowledge for practical purposes.",
+        "example": "We need to understand the concept of technology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công nghệ.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "technology process, key technology",
+        "wordFamily": "technology (noun)",
+        "image": "technology.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12981,
+        "word": "tech",
+        "pronunciation": "/tɛk/",
+        "audio": "tech.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công nghệ",
+        "definition": "Technology",
+        "example": "We need to understand the concept of tech.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về công nghệ.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tech process, key tech",
+        "wordFamily": "tech (noun)",
+        "image": "tech.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12982,
+        "word": "science",
+        "pronunciation": "/ˈsaɪəns/",
+        "audio": "science.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoa học",
+        "definition": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",
+        "example": "Of course in my opinion Social Studies is more of a science than an art.",
+        "exampleVi": "Tất nhiên theo quan điểm của tôi Khoa học xã hội thiên về khoa học hơn là nghệ thuật.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "science process, key science",
+        "wordFamily": "science (noun)",
+        "image": "science.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12983,
+        "word": "scientific",
+        "pronunciation": "/ˌsaɪənˈtɪfɪk/",
+        "audio": "scientific.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "có tính khoa học",
+        "definition": "Of, or having to do with science.",
+        "example": "We need to understand the concept of scientific.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khoa học.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "scientific process, key scientific",
+        "wordFamily": "scientific (adjective)",
+        "image": "scientific.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12984,
+        "word": "device",
+        "pronunciation": "/dəˈvaɪs/",
+        "audio": "device.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiết bị",
+        "definition": "Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.",
+        "example": "There are a number of household devices in a kitchen such as a dishwasher, a garbage disposal, or an electric can opener.",
+        "exampleVi": "Trong nhà bếp có một số thiết bị gia dụng như máy rửa chén, máy xử lý rác hoặc dụng cụ mở hộp điện.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "device process, key device",
+        "wordFamily": "device (noun)",
+        "image": "device.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12985,
+        "word": "gadget",
+        "pronunciation": "/ɡædʒɪt/",
+        "audio": "gadget.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiện ích",
+        "definition": "A thing whose name cannot be remembered; thingamajig, doohickey.",
+        "example": "We need to understand the concept of gadget.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiện ích.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gadget process, key gadget",
+        "wordFamily": "gadget (noun)",
+        "image": "gadget.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12986,
+        "word": "machine",
+        "pronunciation": "/məˈʃin/",
+        "audio": "machine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy móc",
+        "definition": "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "example": "We need to understand the concept of machine.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máy móc.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "machine process, key machine",
+        "wordFamily": "machine (noun)",
+        "image": "machine.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12987,
+        "word": "machinery",
+        "pronunciation": "/məˈʃiːnəɹi/",
+        "audio": "machinery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy móc",
+        "definition": "The machines constituting a production apparatus, in a plant etc., collectively.",
+        "example": "We need to understand the concept of machinery.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máy móc.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "machinery process, key machinery",
+        "wordFamily": "machinery (noun)",
+        "image": "machinery.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12988,
+        "word": "computer",
+        "pronunciation": "/kəmˈpjuːtə/",
+        "audio": "computer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy tính",
+        "definition": "A person employed to perform computations; one who computes.",
+        "example": "We need to understand the concept of computer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máy tính.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "computer process, key computer",
+        "wordFamily": "computer (noun)",
+        "image": "computer.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12989,
+        "word": "laptop",
+        "pronunciation": "/ˈlæp.tɒp/",
+        "audio": "laptop.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy tính xách tay",
+        "definition": "A laptop computer.",
+        "example": "We need to understand the concept of laptop.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm về laptop.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "laptop process, key laptop",
+        "wordFamily": "laptop (noun)",
+        "image": "laptop.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12990,
+        "word": "tablet",
+        "pronunciation": "/ˈtæblət/",
+        "audio": "tablet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "viên thuốc",
+        "definition": "A slab of clay used for inscription.",
+        "example": "We need to understand the concept of tablet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm máy tính bảng.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tablet process, key tablet",
+        "wordFamily": "tablet (noun)",
+        "image": "tablet.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12991,
+        "word": "phone",
+        "pronunciation": "/fəʊ̯n/",
+        "audio": "phone.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện thoại",
+        "definition": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+        "example": "We need to understand the concept of phone.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về điện thoại.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "phone process, key phone",
+        "wordFamily": "phone (noun)",
+        "image": "phone.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12992,
+        "word": "smart",
+        "pronunciation": "/smɑːt/",
+        "audio": "smart.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thông minh",
+        "definition": "To hurt or sting.",
+        "example": "After being hit with a pitch, the batter exclaimed \"Ouch, my arm smarts!\"",
+        "exampleVi": "Sau khi bị ném một cú ném, người đánh bóng kêu lên \"Ôi, cánh tay của tôi đau quá!\"",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "smart process, key smart",
+        "wordFamily": "smart (verb)",
+        "image": "smart.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12993,
+        "word": "digital",
+        "pronunciation": "/ˈdɪd͡ʒɪtəɫ/",
+        "audio": "digital.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện tử",
+        "definition": "A digital option.",
+        "example": "We need to understand the concept of digital.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về kỹ thuật số.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "digital process, key digital",
+        "wordFamily": "digital (noun)",
+        "image": "digital.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12994,
+        "word": "analog",
+        "pronunciation": "/ˈæ.nə.lɑɡ/",
+        "audio": "analog.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tương tự",
+        "definition": "Something that bears an analogy to something else",
+        "example": "We need to understand the concept of analog.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm analog.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "analog process, key analog",
+        "wordFamily": "analog (noun)",
+        "image": "analog.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12995,
+        "word": "electronic",
+        "pronunciation": "/ɪˌlɛkˈtɹɒn.ɪk/",
+        "audio": "electronic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "điện tử",
+        "definition": ": Of or pertaining to an electron or electrons.",
+        "example": "We need to understand the concept of electronic.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về điện tử.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "electronic process, key electronic",
+        "wordFamily": "electronic (adjective)",
+        "image": "electronic.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12996,
+        "word": "electrical",
+        "pronunciation": "/ɪˈlɛktɹɪkəl/",
+        "audio": "electrical.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện",
+        "definition": "An electrical engineer.",
+        "example": "We need to understand the concept of electrical.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về điện.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "electrical process, key electrical",
+        "wordFamily": "electrical (noun)",
+        "image": "electrical.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12997,
+        "word": "mechanical",
+        "pronunciation": "/mɪˈkanɪk(ə)l/",
+        "audio": "mechanical.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơ khí",
+        "definition": "Manually created layout of artwork that is camera ready for photographic reproduction.",
+        "example": "We need to understand the concept of mechanical.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cơ khí.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mechanical process, key mechanical",
+        "wordFamily": "mechanical (noun)",
+        "image": "mechanical.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12998,
+        "word": "system",
+        "pronunciation": "/ˈsɪstəm/",
+        "audio": "system.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hệ thống",
+        "definition": "A collection of organized things; a whole composed of relationships among its members.",
+        "example": "There are eight planets in the solar system.",
+        "exampleVi": "Có tám hành tinh trong hệ mặt trời.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "system process, key system",
+        "wordFamily": "system (noun)",
+        "image": "system.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12999,
+        "word": "network",
+        "pronunciation": "/nɛtwɜːk/",
+        "audio": "network.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mạng",
+        "definition": "A fabric or structure of fibrous elements attached to each other at regular intervals.",
+        "example": "We need to understand the concept of network.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mạng.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "network process, key network",
+        "wordFamily": "network (noun)",
+        "image": "network.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13000,
+        "word": "software",
+        "pronunciation": "/ˈsɑftˌwɛɹ/",
+        "audio": "software.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần mềm",
+        "definition": "Encoded computer instructions, usually modifiable (unless stored in some form of unalterable memory such as ROM).",
+        "example": "We need to understand the concept of software.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phần mềm.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "software process, key software",
+        "wordFamily": "software (noun)",
+        "image": "software.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13001,
+        "word": "hardware",
+        "pronunciation": "/hardware/",
+        "audio": "hardware.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần cứng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hardware.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phần cứng.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hardware process, key hardware",
+        "wordFamily": "hardware (noun)",
+        "image": "hardware.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13002,
+        "word": "program",
+        "pronunciation": "/ˈpɹoʊˌɡɹæm/",
+        "audio": "program.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chương trình",
+        "definition": "A set of structured activities.",
+        "example": "Our program for today’s exercise class includes swimming and jogging.",
+        "exampleVi": "Chương trình của chúng tôi cho lớp tập thể dục hôm nay bao gồm bơi lội và chạy bộ.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "program process, key program",
+        "wordFamily": "program (noun)",
+        "image": "program.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13003,
+        "word": "app",
+        "pronunciation": "[ʔæʔp̚]",
+        "audio": "app.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ứng dụng",
+        "definition": "An application (program), especially a small one designed for a mobile device.",
+        "example": "We need to understand the concept of app.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ứng dụng.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "app process, key app",
+        "wordFamily": "app (noun)",
+        "image": "app.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13004,
+        "word": "application",
+        "pronunciation": "/aplɪˈkeɪʃ(ə)n/",
+        "audio": "application.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ứng dụng",
+        "definition": "The act of applying or laying on, in a literal sense",
+        "example": "The application of this cream should reduce the swelling.",
+        "exampleVi": "Việc bôi loại kem này sẽ làm giảm sưng tấy.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "application process, key application",
+        "wordFamily": "application (noun)",
+        "image": "application.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13005,
+        "word": "data",
+        "pronunciation": "/data/",
+        "audio": "data.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dữ liệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word data.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng dữ liệu từ.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "data process, key data",
+        "wordFamily": "data (noun)",
+        "image": "data.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13006,
+        "word": "database",
+        "pronunciation": "/ˈdeɪtəˌbeɪs/",
+        "audio": "database.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơ sở dữ liệu",
+        "definition": "(general) A collection of (usually) organized information in a regular structure, usually but not necessarily in a machine-readable format accessible by a computer.",
+        "example": "I have a database of all my contacts in my personal organizer.",
+        "exampleVi": "Tôi có cơ sở dữ liệu về tất cả các địa chỉ liên hệ của mình trong trình tổ chức cá nhân.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "database process, key database",
+        "wordFamily": "database (noun)",
+        "image": "database.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13007,
+        "word": "code",
+        "pronunciation": "/kəʊd/",
+        "audio": "code.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mã số",
+        "definition": "A short symbol, often with little relation to the item it represents.",
+        "example": "This flavour of soup has been assigned the code WRT-9.",
+        "exampleVi": "Hương vị súp này đã được gán mã WRT-9.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "code process, key code",
+        "wordFamily": "code (noun)",
+        "image": "code.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13008,
+        "word": "coding",
+        "pronunciation": "/coding/",
+        "audio": "coding.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "mã hóa",
+        "definition": "To write software programs.",
+        "example": "I learned to code on an early home computer in the 1980s.",
+        "exampleVi": "Tôi đã học cách viết mã trên máy tính ở nhà vào những năm 1980.",
+        "topic": "Technology",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "coding process, key coding",
+        "wordFamily": "coding (noun)",
+        "image": "coding.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13009,
+        "word": "production",
+        "pronunciation": "/production/",
+        "audio": "production.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sản xuất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word production.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sản xuất.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "production process, key production",
+        "wordFamily": "production (noun)",
+        "image": "production.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13010,
+        "word": "equipment",
+        "pronunciation": "/equipment/",
+        "audio": "equipment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiết bị",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word equipment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thiết bị.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "equipment process, key equipment",
+        "wordFamily": "equipment (noun)",
+        "image": "equipment.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13011,
+        "word": "innovation",
+        "pronunciation": "/innovation/",
+        "audio": "innovation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đổi mới",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word innovation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đổi mới.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "innovation process, key innovation",
+        "wordFamily": "innovation (noun)",
+        "image": "innovation.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13012,
+        "word": "advance",
+        "pronunciation": "/advance/",
+        "audio": "advance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiến bộ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word advance.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trước.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "advance process, key advance",
+        "wordFamily": "advance (noun)",
+        "image": "advance.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13013,
+        "word": "engineering",
+        "pronunciation": "/engineering/",
+        "audio": "engineering.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kỹ thuật",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word engineering.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kỹ thuật.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "engineering process, key engineering",
+        "wordFamily": "engineering (noun)",
+        "image": "engineering.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13014,
+        "word": "apparatus",
+        "pronunciation": "/apparatus/",
+        "audio": "apparatus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bộ máy",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word apparatus.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bộ máy.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "apparatus process, key apparatus",
+        "wordFamily": "apparatus (noun)",
+        "image": "apparatus.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13015,
+        "word": "evolution",
+        "pronunciation": "/evolution/",
+        "audio": "evolution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự tiến hóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word evolution.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiến hóa.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "evolution process, key evolution",
+        "wordFamily": "evolution (noun)",
+        "image": "evolution.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13016,
+        "word": "progress",
+        "pronunciation": "/progress/",
+        "audio": "progress.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiến bộ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word progress.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiến bộ.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "progress process, key progress",
+        "wordFamily": "progress (noun)",
+        "image": "progress.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13017,
+        "word": "development",
+        "pronunciation": "/development/",
+        "audio": "development.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phát triển",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word development.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phát triển.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "development process, key development",
+        "wordFamily": "development (noun)",
+        "image": "development.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13018,
+        "word": "instrument",
+        "pronunciation": "/instrument/",
+        "audio": "instrument.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công cụ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word instrument.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhạc cụ.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "instrument process, key instrument",
+        "wordFamily": "instrument (noun)",
+        "image": "instrument.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13019,
+        "word": "industry",
+        "pronunciation": "/industry/",
+        "audio": "industry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngành công nghiệp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word industry.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ngành công nghiệp.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "industry process, key industry",
+        "wordFamily": "industry (noun)",
+        "image": "industry.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13020,
+        "word": "manufacture",
+        "pronunciation": "/manufacture/",
+        "audio": "manufacture.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sản xuất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word manufacture.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sản xuất.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "manufacture process, key manufacture",
+        "wordFamily": "manufacture (noun)",
+        "image": "manufacture.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13021,
+        "word": "research",
+        "pronunciation": "/research/",
+        "audio": "research.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghiên cứu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word research.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nghiên cứu.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "research process, key research",
+        "wordFamily": "research (noun)",
+        "image": "research.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13022,
+        "word": "invention",
+        "pronunciation": "/invention/",
+        "audio": "invention.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phát minh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word invention.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phát minh.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "invention process, key invention",
+        "wordFamily": "invention (noun)",
+        "image": "invention.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13023,
+        "word": "tool",
+        "pronunciation": "/tool/",
+        "audio": "tool.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công cụ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word tool.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ công cụ.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tool process, key tool",
+        "wordFamily": "tool (noun)",
+        "image": "tool.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13024,
+        "word": "process",
+        "pronunciation": "/process/",
+        "audio": "process.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quá trình",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word process.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng quá trình từ.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "process process, key process",
+        "wordFamily": "process (noun)",
+        "image": "process.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13025,
+        "word": "procedure",
+        "pronunciation": "/procedure/",
+        "audio": "procedure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thủ tục",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word procedure.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thủ tục.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "procedure process, key procedure",
+        "wordFamily": "procedure (noun)",
+        "image": "procedure.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13026,
+        "word": "internet",
+        "pronunciation": "/internet/",
+        "audio": "internet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "internet",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word internet.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ internet.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "internet process, key internet",
+        "wordFamily": "internet (noun)",
+        "image": "internet.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13027,
+        "word": "technique",
+        "pronunciation": "/technique/",
+        "audio": "technique.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kỹ thuật",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word technique.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kỹ thuật.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "technique process, key technique",
+        "wordFamily": "technique (noun)",
+        "image": "technique.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13028,
+        "word": "method",
+        "pronunciation": "/method/",
+        "audio": "method.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phương pháp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word method.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng phương pháp từ.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "method process, key method",
+        "wordFamily": "method (noun)",
+        "image": "method.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13029,
+        "word": "server",
+        "pronunciation": "/ˈsɜːvə/",
+        "audio": "server.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy chủ",
+        "definition": "A program that provides services to other programs or devices, either in the same computer or over a computer network.",
+        "example": "We need to understand the concept of server.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm máy chủ.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "server process, key server",
+        "wordFamily": "server (noun)",
+        "image": "server.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13030,
+        "word": "architecture",
+        "pronunciation": "/ˈɑː.kɪ.ˌtɛk.tʃə/",
+        "audio": "architecture.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiến trúc",
+        "definition": "The art and science of designing and managing the construction of buildings and other structures, particularly if they are well proportioned and decorated.",
+        "example": "Architecture is the visual public expression of a culture’s achievements, values, and outlook. ― Max Roscoe, \"How Your City Is Killing You With Ugliness\"",
+        "exampleVi": "Kiến trúc là sự thể hiện trực quan trước công chúng về những thành tựu, giá trị và triển vọng của một nền văn hóa. ― Max Roscoe, \"Thành phố của bạn đang giết chết bạn vì sự xấu xí như thế nào\"",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "architecture process, key architecture",
+        "wordFamily": "architecture (noun)",
+        "image": "architecture.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13031,
+        "word": "link",
+        "pronunciation": "/lɪŋk/",
+        "audio": "link.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liên kết",
+        "definition": "Some text or a graphic in an electronic document that can be activated to display another document or trigger an action.",
+        "example": "Click the hyperlink to go to the next page.",
+        "exampleVi": "Nhấp vào siêu liên kết để đi tới trang tiếp theo.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "link process, key link",
+        "wordFamily": "link (noun)",
+        "image": "link.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13032,
+        "word": "host",
+        "pronunciation": "/həʊst/",
+        "audio": "host.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy chủ",
+        "definition": "One which receives or entertains a guest, socially, commercially, or officially.",
+        "example": "A good host is always considerate of the guest’s needs.",
+        "exampleVi": "Một chủ nhà tốt luôn quan tâm đến nhu cầu của khách.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "host process, key host",
+        "wordFamily": "host (noun)",
+        "image": "host.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13033,
+        "word": "connection",
+        "pronunciation": "/kəˈnɛkʃən/",
+        "audio": "connection.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kết nối",
+        "definition": "The act of connecting.",
+        "example": "We need to understand the concept of connection.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kết nối.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "connection process, key connection",
+        "wordFamily": "connection (noun)",
+        "image": "connection.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13034,
+        "word": "interface",
+        "pronunciation": "/ˈɪntəfeɪs/",
+        "audio": "interface.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao diện",
+        "definition": "The point of interconnection or contact between entities.",
+        "example": "Public relations firms often serve as the interface between a company and the press.",
+        "exampleVi": "Các công ty quan hệ công chúng thường đóng vai trò là cầu nối giữa công ty và báo chí.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "interface process, key interface",
+        "wordFamily": "interface (noun)",
+        "image": "interface.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13035,
+        "word": "script",
+        "pronunciation": "/skɹɪpt/",
+        "audio": "script.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kịch bản",
+        "definition": "A writing; a written document.",
+        "example": "We need to understand the concept of script.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chữ viết.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "script process, key script",
+        "wordFamily": "script (noun)",
+        "image": "script.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13036,
+        "word": "specification",
+        "pronunciation": "/specification/",
+        "audio": "specification.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặc điểm kỹ thuật",
+        "definition": "An explicit set of requirements to be satisfied by a material, product, or service.",
+        "example": "We need to understand the concept of specification.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đặc tả.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "specification process, key specification",
+        "wordFamily": "specification (noun)",
+        "image": "specification.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13037,
+        "word": "protocol",
+        "pronunciation": "/ˈpɹəʊtəˌkɒl/",
+        "audio": "protocol.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao thức",
+        "definition": "The minutes, or official record, of a negotiation or transaction; especially a document drawn up officially which forms the legal basis for subsequent agreements based on it.",
+        "example": "We need to understand the concept of protocol.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giao thức.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "protocol process, key protocol",
+        "wordFamily": "protocol (noun)",
+        "image": "protocol.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13038,
+        "word": "platform",
+        "pronunciation": "/ˈplætfɔːm/",
+        "audio": "platform.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nền tảng",
+        "definition": "A raised stage from which speeches are made and on which musical and other performances are made.",
+        "example": "We need to understand the concept of platform.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về nền tảng.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "platform process, key platform",
+        "wordFamily": "platform (noun)",
+        "image": "platform.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13039,
+        "word": "client",
+        "pronunciation": "/ˈklʌɪənt/",
+        "audio": "client.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A customer, a buyer or receiver of goods or services.",
+        "example": "We need to understand the concept of client.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khách hàng.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "client process, key client",
+        "wordFamily": "client (noun)",
+        "image": "client.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13040,
+        "word": "middleware",
+        "pronunciation": "/middleware/",
+        "audio": "middleware.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần mềm trung gian",
+        "definition": "Software that functions at an intermediate layer between applications and operating system or database management system, or between client and server",
+        "example": "We need to understand the concept of middleware.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phần mềm trung gian.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "middleware process, key middleware",
+        "wordFamily": "middleware (noun)",
+        "image": "middleware.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13041,
+        "word": "standard",
+        "pronunciation": "/ˈstændəd/",
+        "audio": "standard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêu chuẩn",
+        "definition": "A principle or example or measure used for comparison.",
+        "example": "We need to understand the concept of standard.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiêu chuẩn.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "standard process, key standard",
+        "wordFamily": "standard (noun)",
+        "image": "standard.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13042,
+        "word": "firmware",
+        "pronunciation": "/firmware/",
+        "audio": "firmware.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần sụn",
+        "definition": "Something in between hardware and software. Like software, it is created from source code, but it is closely tied to the hardware it runs on.",
+        "example": "We need to understand the concept of firmware.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phần sụn.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "firmware process, key firmware",
+        "wordFamily": "firmware (noun)",
+        "image": "firmware.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13043,
+        "word": "node",
+        "pronunciation": "/node/",
+        "audio": "node.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nút",
+        "definition": "A knot, knob, protuberance or swelling.",
+        "example": "We need to understand the concept of node.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về nút.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "node process, key node",
+        "wordFamily": "node (noun)",
+        "image": "node.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13044,
+        "word": "module",
+        "pronunciation": "/ˈmɒdjuːl/",
+        "audio": "module.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mô-đun",
+        "definition": "A self-contained component of a system, often interchangeable, which has a well-defined interface to the other components.",
+        "example": "We need to understand the concept of module.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm module.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "module process, key module",
+        "wordFamily": "module (noun)",
+        "image": "module.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13045,
+        "word": "component",
+        "pronunciation": "/kʌmˈpoʊnənt/",
+        "audio": "component.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thành phần",
+        "definition": "A smaller, self-contained part of a larger entity. Often refers to a manufactured object that is part of a larger device.",
+        "example": "A CPU is a component of a computer.",
+        "exampleVi": "CPU là một thành phần của máy tính.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "component process, key component",
+        "wordFamily": "component (noun)",
+        "image": "component.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13046,
+        "word": "subsystem",
+        "pronunciation": "/subsystem/",
+        "audio": "subsystem.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hệ thống con",
+        "definition": "A group of related components that are part of a larger system.",
+        "example": "We need to understand the concept of subsystem.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hệ thống con.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "subsystem process, key subsystem",
+        "wordFamily": "subsystem (noun)",
+        "image": "subsystem.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13047,
+        "word": "infrastructure",
+        "pronunciation": "/ˈɪnfɹəˌstɹʌk(t)ʃɚ/",
+        "audio": "infrastructure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơ sở hạ tầng",
+        "definition": "(systems theory) An underlying base or foundation especially for an organization or system.",
+        "example": "The parasitic tyranny's infrastructure depends on secrecy in order to be effective.",
+        "exampleVi": "Cơ sở hạ tầng của chế độ chuyên chế ký sinh phụ thuộc vào tính bí mật để có hiệu quả.",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "infrastructure process, key infrastructure",
+        "wordFamily": "infrastructure (noun)",
+        "image": "infrastructure.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13048,
+        "word": "widget",
+        "pronunciation": "/widget/",
+        "audio": "widget.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "widget",
+        "definition": "A placeholder name for an unnamed, unspecified, or hypothetical manufactured good or product.",
+        "example": "Suppose we have a widget factory that produces 100 units per year...",
+        "exampleVi": "Giả sử chúng ta có một nhà máy sản xuất phụ tùng sản xuất 100 chiếc mỗi năm...",
+        "topic": "Technology",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "widget process, key widget",
+        "wordFamily": "widget (noun)",
+        "image": "widget.webp",
+        "tags": [
+            "technology",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

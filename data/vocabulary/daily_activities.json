@@ -1,0 +1,3194 @@
+[
+    {
+        "id": 10861,
+        "word": "wake",
+        "pronunciation": "/ˈweɪk/",
+        "audio": "wake.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thức dậy",
+        "definition": "The act of waking, or state of being awake.",
+        "example": "We need to understand the concept of wake.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thức tỉnh.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wake process, key wake",
+        "wordFamily": "wake (noun)",
+        "image": "wake.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10862,
+        "word": "wash",
+        "pronunciation": "/wɑʃ/",
+        "audio": "wash.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rửa",
+        "definition": "The process or an instance of washing or being washed by water or other liquid.",
+        "example": "I'm going to have a quick wash before coming to bed.",
+        "exampleVi": "Tôi sẽ tắm rửa nhanh trước khi đi ngủ.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wash process, key wash",
+        "wordFamily": "wash (noun)",
+        "image": "wash.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10863,
+        "word": "brush",
+        "pronunciation": "/bɹʌʃ/",
+        "audio": "brush.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chải",
+        "definition": "An implement consisting of multiple more or less flexible bristles or other filaments attached to a handle, used for any of various purposes including cleaning, painting, and arranging hair.",
+        "example": "We need to understand the concept of brush.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cọ vẽ.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "brush process, key brush",
+        "wordFamily": "brush (noun)",
+        "image": "brush.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10864,
+        "word": "shower",
+        "pronunciation": "/ˈʃaʊ.ə(ɹ)/",
+        "audio": "shower.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vòi sen",
+        "definition": "A brief fall of precipitation (spell of rain, or a similar fall of snow, sleet, or cascade).",
+        "example": "Today there will be frequent showers and some sunny spells.",
+        "exampleVi": "Hôm nay sẽ có mưa rào thường xuyên và có vài đợt nắng.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shower process, key shower",
+        "wordFamily": "shower (noun)",
+        "image": "shower.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10865,
+        "word": "dress",
+        "pronunciation": "/dɹɛs/",
+        "audio": "dress.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đầm",
+        "definition": "An item of clothing (usually worn by a woman or young girl) which both covers the upper part of the body and includes skirts below the waist.",
+        "example": "Amy and Mary looked very pretty in their dresses.",
+        "exampleVi": "Amy và Mary trông rất xinh đẹp trong bộ váy của họ.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dress process, key dress",
+        "wordFamily": "dress (noun)",
+        "image": "dress.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10866,
+        "word": "breakfast",
+        "pronunciation": "/ˈbɹɛkfəst/",
+        "audio": "breakfast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bữa sáng",
+        "definition": "The first meal of the day, usually eaten in the morning.",
+        "example": "You should put more protein in her breakfast so she will grow.",
+        "exampleVi": "Bạn nên bổ sung thêm chất đạm vào bữa sáng để bé phát triển.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "breakfast process, key breakfast",
+        "wordFamily": "breakfast (noun)",
+        "image": "breakfast.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10867,
+        "word": "lunch",
+        "pronunciation": "/lʌnt͡ʃ/",
+        "audio": "lunch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bữa trưa",
+        "definition": "A light meal usually eaten around midday, notably when not as main meal of the day.",
+        "example": "We need to understand the concept of lunch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bữa trưa.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lunch process, key lunch",
+        "wordFamily": "lunch (noun)",
+        "image": "lunch.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10868,
+        "word": "dinner",
+        "pronunciation": "/ˈdɪnə/",
+        "audio": "dinner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bữa tối",
+        "definition": "A midday meal (in a context in which the evening meal is called supper or tea).",
+        "example": "We need to understand the concept of dinner.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bữa tối.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dinner process, key dinner",
+        "wordFamily": "dinner (noun)",
+        "image": "dinner.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10869,
+        "word": "commute",
+        "pronunciation": "/kəˈmjuːt/",
+        "audio": "commute.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đi lại",
+        "definition": "To exchange substantially; to abate but not abolish completely, a penalty, obligation, or payment in return for a great, single thing or an aggregate; to cash in; to lessen",
+        "example": "to commute tithes into rentcharges for a sum; to commute market rents for a premium, to commute daily fares for a season ticket",
+        "exampleVi": "chuyển phần mười thành tiền thuê nhà cho một khoản tiền; đi lại bằng tiền thuê thị trường để có giá cao, đi lại bằng giá vé hàng ngày để lấy vé theo mùa",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "commute process, key commute",
+        "wordFamily": "commute (verb)",
+        "image": "commute.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10870,
+        "word": "work",
+        "pronunciation": "/wɜːk/",
+        "audio": "work.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công việc",
+        "definition": "(heading) Employment.",
+        "example": "We need to understand the concept of work.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công việc.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "work process, key work",
+        "wordFamily": "work (noun)",
+        "image": "work.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10871,
+        "word": "clean",
+        "pronunciation": "/kleːn/",
+        "audio": "clean.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lau dọn",
+        "definition": "Removal of dirt.",
+        "example": "This place needs a clean.",
+        "exampleVi": "Nơi này cần sạch sẽ.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "clean process, key clean",
+        "wordFamily": "clean (noun)",
+        "image": "clean.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10872,
+        "word": "cook",
+        "pronunciation": "/kuːk/",
+        "audio": "cook.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đầu bếp",
+        "definition": "A person who prepares food.",
+        "example": "I'm a terrible cook, so I eat a lot of frozen dinners.",
+        "exampleVi": "Tôi nấu ăn dở tệ nên tôi ăn rất nhiều đồ đông lạnh vào bữa tối.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cook process, key cook",
+        "wordFamily": "cook (noun)",
+        "image": "cook.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10873,
+        "word": "sweep",
+        "pronunciation": "/swiːp/",
+        "audio": "sweep.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quét",
+        "definition": "A single action of sweeping.",
+        "example": "Give the front steps a quick sweep to get rid of those fallen leaves.",
+        "exampleVi": "Quét nhanh các bậc thang phía trước để loại bỏ những chiếc lá rơi.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sweep process, key sweep",
+        "wordFamily": "sweep (noun)",
+        "image": "sweep.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10874,
+        "word": "mop",
+        "pronunciation": "/mɒp/",
+        "audio": "mop.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cây lau nhà",
+        "definition": "An implement for washing floors, or the like, made of a piece of cloth, or a collection of thrums, or coarse yarn, fastened to a handle.",
+        "example": "We need to understand the concept of mop.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cây lau nhà.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mop process, key mop",
+        "wordFamily": "mop (noun)",
+        "image": "mop.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10875,
+        "word": "iron",
+        "pronunciation": "/ˈaɪən/",
+        "audio": "iron.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sắt",
+        "definition": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.",
+        "example": "We need to understand the concept of iron.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sắt.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "iron process, key iron",
+        "wordFamily": "iron (noun)",
+        "image": "iron.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10876,
+        "word": "laundry",
+        "pronunciation": "/ˈlɑn.dɹi/",
+        "audio": "laundry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giặt ủi",
+        "definition": "A laundering; a washing.",
+        "example": "We need to understand the concept of laundry.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giặt giũ.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "laundry process, key laundry",
+        "wordFamily": "laundry (noun)",
+        "image": "laundry.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10877,
+        "word": "exercise",
+        "pronunciation": "/ˈɛk.sə.saɪz/",
+        "audio": "exercise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài tập",
+        "definition": "Any activity designed to develop or hone a skill or ability.",
+        "example": "The teacher told us that the next exercise is to write an essay.",
+        "exampleVi": "Giáo viên nói với chúng tôi rằng bài tập tiếp theo là viết một bài luận.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "exercise process, key exercise",
+        "wordFamily": "exercise (noun)",
+        "image": "exercise.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10878,
+        "word": "read",
+        "pronunciation": "/ɹiːd/",
+        "audio": "read.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đọc",
+        "definition": "A reading or an act of reading, especially an actor's part of a play.",
+        "example": "We need to understand the concept of read.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đọc.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "read process, key read",
+        "wordFamily": "read (noun)",
+        "image": "read.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10879,
+        "word": "sleep",
+        "pronunciation": "/sliːp/",
+        "audio": "sleep.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "ngủ",
+        "definition": "To rest in a state of reduced consciousness.",
+        "example": "You should sleep 8 hours a day.",
+        "exampleVi": "Bạn nên ngủ 8 tiếng mỗi ngày.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sleep process, key sleep",
+        "wordFamily": "sleep (verb)",
+        "image": "sleep.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10880,
+        "word": "relax",
+        "pronunciation": "/ɹɪˈlæks/",
+        "audio": "relax.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thư giãn",
+        "definition": "To calm down.",
+        "example": "We need to understand the concept of relax.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thư giãn.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "relax process, key relax",
+        "wordFamily": "relax (verb)",
+        "image": "relax.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10881,
+        "word": "shop",
+        "pronunciation": "/ʃɒp/",
+        "audio": "shop.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cửa hàng",
+        "definition": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
+        "example": "We need to understand the concept of shop.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cửa hàng.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shop process, key shop",
+        "wordFamily": "shop (noun)",
+        "image": "shop.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10882,
+        "word": "drive",
+        "pronunciation": "/dɹaɪv/",
+        "audio": "drive.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lái xe",
+        "definition": "Motivation to do or achieve something; ability coupled with ambition.",
+        "example": "Crassus had wealth and wit, but Pompey had drive and Caesar as much again.",
+        "exampleVi": "Crassus giàu có và thông minh, nhưng Pompey lại có tài xế và Caesar.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "drive process, key drive",
+        "wordFamily": "drive (noun)",
+        "image": "drive.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10883,
+        "word": "walk",
+        "pronunciation": "/wɔːk/",
+        "audio": "walk.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đi bộ",
+        "definition": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+        "example": "To walk briskly for an hour every day is to keep fit.",
+        "exampleVi": "Đi bộ nhanh một giờ mỗi ngày là để giữ dáng.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "walk process, key walk",
+        "wordFamily": "walk (verb)",
+        "image": "walk.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10884,
+        "word": "run",
+        "pronunciation": "/ɹʊn/",
+        "audio": "run.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chạy",
+        "definition": "To run.",
+        "example": "We need to understand the concept of run.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chạy.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "run process, key run",
+        "wordFamily": "run (verb)",
+        "image": "run.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10885,
+        "word": "cycle",
+        "pronunciation": "/ˈsaɪkəl/",
+        "audio": "cycle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe đạp",
+        "definition": "An interval of space or time in which one set of events or phenomena is completed.",
+        "example": "the cycle of the seasons, or of the year",
+        "exampleVi": "chu kỳ của các mùa hoặc của năm",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cycle process, key cycle",
+        "wordFamily": "cycle (noun)",
+        "image": "cycle.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10886,
+        "word": "stretch",
+        "pronunciation": "/stɹɛtʃ/",
+        "audio": "stretch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kéo dài",
+        "definition": "An act of stretching.",
+        "example": "I was right in the middle of a stretch when the phone rang.",
+        "exampleVi": "Tôi đang nói dở thì điện thoại reo.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stretch process, key stretch",
+        "wordFamily": "stretch (noun)",
+        "image": "stretch.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10887,
+        "word": "shave",
+        "pronunciation": "/ʃeɪv/",
+        "audio": "shave.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "cạo râu",
+        "definition": "To make bald or shorter by using a tool such as a razor or pair of electric clippers to cut the hair close to the skin.",
+        "example": "We need to understand the concept of shave.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cạo râu.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shave process, key shave",
+        "wordFamily": "shave (verb)",
+        "image": "shave.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10888,
+        "word": "makeup",
+        "pronunciation": "/makeup/",
+        "audio": "makeup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang điểm",
+        "definition": "An item's composition.",
+        "example": "To understand how a nuclear reactor works, we must first look at its makeup.",
+        "exampleVi": "Để hiểu cách thức hoạt động của lò phản ứng hạt nhân, trước tiên chúng ta phải nhìn vào cấu tạo của nó.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "makeup process, key makeup",
+        "wordFamily": "makeup (noun)",
+        "image": "makeup.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10889,
+        "word": "nap",
+        "pronunciation": "/nap/",
+        "audio": "nap.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngủ trưa",
+        "definition": "A short period of sleep, especially one during the day.",
+        "example": "We need to understand the concept of nap.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giấc ngủ ngắn.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nap process, key nap",
+        "wordFamily": "nap (noun)",
+        "image": "nap.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10890,
+        "word": "bathe",
+        "pronunciation": "/beɪð/",
+        "audio": "bathe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tắm",
+        "definition": "The act of swimming or bathing, especially in the sea, a lake, or a river; a swimming bath.",
+        "example": "I'm going to have a midnight bathe tonight.",
+        "exampleVi": "Tối nay tôi sẽ đi tắm lúc nửa đêm.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bathe process, key bathe",
+        "wordFamily": "bathe (noun)",
+        "image": "bathe.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10891,
+        "word": "chat",
+        "pronunciation": "/tʃæt/",
+        "audio": "chat.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trò chuyện",
+        "definition": "Informal conversation.",
+        "example": "We need to understand the concept of chat.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trò chuyện.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chat process, key chat",
+        "wordFamily": "chat (noun)",
+        "image": "chat.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10892,
+        "word": "garden",
+        "pronunciation": "/ˈɡɑːdn̩/",
+        "audio": "garden.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vườn",
+        "definition": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.",
+        "example": "a vegetable garden  a flower garden",
+        "exampleVi": "vườn rau, vườn hoa",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "garden process, key garden",
+        "wordFamily": "garden (noun)",
+        "image": "garden.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10893,
+        "word": "feed",
+        "pronunciation": "/ˈfiːd/",
+        "audio": "feed.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cho ăn",
+        "definition": "Food given to (especially herbivorous) animals.",
+        "example": "They sell feed, riding helmets, and everything else for horses.",
+        "exampleVi": "Họ bán thức ăn, mũ bảo hiểm cưỡi ngựa và mọi thứ khác cho ngựa.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "feed process, key feed",
+        "wordFamily": "feed (noun)",
+        "image": "feed.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10894,
+        "word": "water",
+        "pronunciation": "/ˈwoːtə/",
+        "audio": "water.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Nước",
+        "definition": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+        "example": "By the action of electricity, the water was resolved into its two parts, oxygen and hydrogen.",
+        "exampleVi": "Nhờ tác động của điện, nước được phân giải thành hai phần là oxy và hydro.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "water process, key water",
+        "wordFamily": "water (noun)",
+        "image": "water.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10895,
+        "word": "study",
+        "pronunciation": "/ˈstʌdi/",
+        "audio": "study.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "học",
+        "definition": "(usually academic) To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.",
+        "example": "I need to study my biology notes.",
+        "exampleVi": "Tôi cần nghiên cứu các ghi chú sinh học của mình.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "study process, key study",
+        "wordFamily": "study (verb)",
+        "image": "study.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10896,
+        "word": "write",
+        "pronunciation": "/ɹaɪt/",
+        "audio": "write.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "viết",
+        "definition": "The act or style of writing.",
+        "example": "We need to understand the concept of write.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm viết.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "write process, key write",
+        "wordFamily": "write (noun)",
+        "image": "write.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10897,
+        "word": "paint",
+        "pronunciation": "/peɪnt/",
+        "audio": "paint.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sơn",
+        "definition": "A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds color/colour to an object or surface to which it has been applied.",
+        "example": "We need to understand the concept of paint.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sơn.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "paint process, key paint",
+        "wordFamily": "paint (noun)",
+        "image": "paint.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10898,
+        "word": "draw",
+        "pronunciation": "/dɹɔː/",
+        "audio": "draw.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vẽ tranh",
+        "definition": "The result of a contest that neither side has won; a tie.",
+        "example": "The game ended in a draw.",
+        "exampleVi": "Trận đấu kết thúc với tỷ số hòa.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "draw process, key draw",
+        "wordFamily": "draw (noun)",
+        "image": "draw.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10899,
+        "word": "sew",
+        "pronunciation": "/səʊ/",
+        "audio": "sew.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "may",
+        "definition": "To use a needle to pass thread repeatedly through (pieces of fabric) in order to join them together.",
+        "example": "Balls were first made of grass or leaves held together by strings, and later of pieces of animal skin sewn together and stuffed with feathers or hay.",
+        "exampleVi": "Những quả bóng đầu tiên được làm bằng cỏ hoặc lá được buộc lại với nhau bằng dây, sau đó là những mảnh da động vật được khâu lại với nhau và nhồi lông vũ hoặc cỏ khô.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sew process, key sew",
+        "wordFamily": "sew (verb)",
+        "image": "sew.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10900,
+        "word": "knit",
+        "pronunciation": "/ˈnɪt/",
+        "audio": "knit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đan",
+        "definition": "A knitted garment.",
+        "example": "We need to understand the concept of knit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đan.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "knit process, key knit",
+        "wordFamily": "knit (noun)",
+        "image": "knit.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10901,
+        "word": "dust",
+        "pronunciation": "/dʌst/",
+        "audio": "dust.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bụi",
+        "definition": "Fine particles",
+        "example": "We need to understand the concept of dust.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bụi.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dust process, key dust",
+        "wordFamily": "dust (noun)",
+        "image": "dust.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10902,
+        "word": "vacuum",
+        "pronunciation": "/ˈvæ.kjuː.əm/",
+        "audio": "vacuum.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chân không",
+        "definition": "A region of space that contains no matter.",
+        "example": "We need to understand the concept of vacuum.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chân không.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "vacuum process, key vacuum",
+        "wordFamily": "vacuum (noun)",
+        "image": "vacuum.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10903,
+        "word": "tidy",
+        "pronunciation": "/ˈtaɪdi/",
+        "audio": "tidy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngăn nắp",
+        "definition": "A tabletop container for pens and stationery.",
+        "example": "a desk tidy",
+        "exampleVi": "bàn làm việc gọn gàng",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tidy process, key tidy",
+        "wordFamily": "tidy (noun)",
+        "image": "tidy.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10904,
+        "word": "scrub",
+        "pronunciation": "/skɹʌb/",
+        "audio": "scrub.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chà",
+        "definition": "One who labors hard and lives meanly; a mean fellow.",
+        "example": "We need to understand the concept of scrub.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chà.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "scrub process, key scrub",
+        "wordFamily": "scrub (noun)",
+        "image": "scrub.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10905,
+        "word": "polish",
+        "pronunciation": "/ˈpɒlɪʃ/",
+        "audio": "polish.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đánh bóng",
+        "definition": "A substance used to polish.",
+        "example": "A good silver polish will remove tarnish easily.",
+        "exampleVi": "Chất đánh bóng bạc tốt sẽ dễ dàng loại bỏ vết xỉn màu.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "polish process, key polish",
+        "wordFamily": "polish (noun)",
+        "image": "polish.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10906,
+        "word": "dishes",
+        "pronunciation": "/ˈdɪʃɪz/",
+        "audio": "dishes.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đĩa",
+        "definition": "A vessel such as a plate for holding or serving food, often flat with a depressed region in the middle.",
+        "example": "We need to understand the concept of dishes.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về món ăn.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dishes process, key dishes",
+        "wordFamily": "dishes (noun)",
+        "image": "dishes.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10907,
+        "word": "garbage",
+        "pronunciation": "/ˈɡɑːbɪd͡ʒ/",
+        "audio": "garbage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rác",
+        "definition": "Food waste material of any kind.",
+        "example": "Garbage is collected on Tuesdays; rubbish on Fridays",
+        "exampleVi": "Rác được thu gom vào các ngày thứ Ba; rác vào thứ sáu",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "garbage process, key garbage",
+        "wordFamily": "garbage (noun)",
+        "image": "garbage.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10908,
+        "word": "groceries",
+        "pronunciation": "/ˈɡɹəʊs(ə)ɹiz/",
+        "audio": "groceries.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cửa hàng tạp hóa",
+        "definition": "The commodities sold by a grocer or in a grocery store.",
+        "example": "She carried a sack of groceries in from her car and placed it on the kitchen table.",
+        "exampleVi": "Cô mang một bao hàng tạp hóa từ trong xe vào và đặt nó lên bàn bếp.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "groceries process, key groceries",
+        "wordFamily": "groceries (noun)",
+        "image": "groceries.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10909,
+        "word": "errands",
+        "pronunciation": "/errands/",
+        "audio": "errands.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "việc vặt",
+        "definition": "A journey undertaken to accomplish some task.",
+        "example": "We need to understand the concept of errands.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm việc vặt.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "errands process, key errands",
+        "wordFamily": "errands (noun)",
+        "image": "errands.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10910,
+        "word": "meditate",
+        "pronunciation": "/meditate/",
+        "audio": "meditate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thiền định",
+        "definition": "To contemplate; to keep the mind fixed upon something; to study.",
+        "example": "We need to understand the concept of meditate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thiền.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "meditate process, key meditate",
+        "wordFamily": "meditate (noun)",
+        "image": "meditate.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10911,
+        "word": "journal",
+        "pronunciation": "/ˈd͡ʒɜːnəl/",
+        "audio": "journal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tạp chí",
+        "definition": "A diary or daily record of a person, organization, vessel etc.; daybook.",
+        "example": "We need to understand the concept of journal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhật ký.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "journal process, key journal",
+        "wordFamily": "journal (noun)",
+        "image": "journal.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10912,
+        "word": "schedule",
+        "pronunciation": "/ˈskɛ.dʒu.əl/",
+        "audio": "schedule.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch trình",
+        "definition": "A slip of paper; a short note.",
+        "example": "We need to understand the concept of schedule.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lịch trình.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "schedule process, key schedule",
+        "wordFamily": "schedule (noun)",
+        "image": "schedule.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10913,
+        "word": "alarm",
+        "pronunciation": "/əˈlɑːm/",
+        "audio": "alarm.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "báo thức",
+        "definition": "A summons to arms, as on the approach of an enemy.",
+        "example": "We need to understand the concept of alarm.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm báo động.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "alarm process, key alarm",
+        "wordFamily": "alarm (noun)",
+        "image": "alarm.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10914,
+        "word": "coffee",
+        "pronunciation": "/ˈkɑ.fi/",
+        "audio": "coffee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cà phê",
+        "definition": "A beverage made by infusing the beans of the coffee plant in hot water.",
+        "example": "We need to understand the concept of coffee.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cà phê.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "coffee process, key coffee",
+        "wordFamily": "coffee (noun)",
+        "image": "coffee.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10915,
+        "word": "tea",
+        "pronunciation": "/tiː/",
+        "audio": "tea.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trà",
+        "definition": "A drug smoked or ingested for euphoric effect, cannabis.",
+        "example": "After smoking a bowl of that fine marijuana, they ate some brownies.",
+        "exampleVi": "Sau khi hút một bát cần sa hảo hạng, họ ăn một ít bánh hạnh nhân.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tea process, key tea",
+        "wordFamily": "tea (noun)",
+        "image": "tea.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10916,
+        "word": "snack",
+        "pronunciation": "/snæk/",
+        "audio": "snack.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồ ăn vặt",
+        "definition": "A light meal.",
+        "example": "We need to understand the concept of snack.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đồ ăn nhẹ.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "snack process, key snack",
+        "wordFamily": "snack (noun)",
+        "image": "snack.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10917,
+        "word": "commence",
+        "pronunciation": "/kəˈmɛns/",
+        "audio": "commence.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bắt đầu",
+        "definition": "To begin, start.",
+        "example": "We need to understand the concept of commence.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bắt đầu.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "commence process, key commence",
+        "wordFamily": "commence (noun)",
+        "image": "commence.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10918,
+        "word": "finish",
+        "pronunciation": "/ˈfɪnɪʃ/",
+        "audio": "finish.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoàn thành",
+        "definition": "An end; the end of anything.",
+        "example": "We need to understand the concept of finish.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kết thúc.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "finish process, key finish",
+        "wordFamily": "finish (noun)",
+        "image": "finish.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10919,
+        "word": "unwind",
+        "pronunciation": "/ʌnˈwaɪnd/",
+        "audio": "unwind.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư giãn",
+        "definition": "Any mechanism or operation that unwinds something.",
+        "example": "We need to understand the concept of unwind.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thư giãn.",
+        "topic": "Daily Activities",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "unwind process, key unwind",
+        "wordFamily": "unwind (noun)",
+        "image": "unwind.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "organize",
+        "pronunciation": "/ˈɔːrɡənaɪz/",
+        "partOfSpeech": "verb",
+        "vietnamese": "sắp xếp",
+        "definition": "to arrange or systematize things in a structured way.",
+        "example": "I need to organize my schedule for the upcoming week to ensure all tasks are completed on time.",
+        "exampleVi": "Tôi cần sắp xếp lịch trình của mình cho tuần tới để đảm bảo tất cả các nhiệm vụ được hoàn thành đúng hạn.",
+        "collocations": "organize a meeting, organize files, organize an event",
+        "wordFamily": "organization, organizer, organized",
+        "id": 10920,
+        "audio": "organize.mp3",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "organize.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10921,
+        "word": "hobby",
+        "pronunciation": "/ˈhɒ.bi/",
+        "audio": "hobby.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sở thích",
+        "definition": "An activity that one enjoys doing in one's spare time.",
+        "example": "I like to collect stamps from different countries as a hobby.",
+        "exampleVi": "Tôi thích sưu tập tem từ các quốc gia khác nhau như một sở thích.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hobby process, key hobby",
+        "wordFamily": "hobby (noun)",
+        "image": "hobby.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10922,
+        "word": "leisure",
+        "pronunciation": "/ˈliːʒə(ɹ)/",
+        "audio": "leisure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải trí",
+        "definition": "Freedom provided by the cessation of activities.",
+        "example": "We need to understand the concept of leisure.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhàn rỗi.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "leisure process, key leisure",
+        "wordFamily": "leisure (noun)",
+        "image": "leisure.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10923,
+        "word": "errand",
+        "pronunciation": "/ˈɛɹənd/",
+        "audio": "errand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "việc vặt",
+        "definition": "A journey undertaken to accomplish some task.",
+        "example": "We need to understand the concept of errand.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm việc vặt.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "errand process, key errand",
+        "wordFamily": "errand (noun)",
+        "image": "errand.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10924,
+        "word": "workout",
+        "pronunciation": "/ˈwəːk.aʊt/",
+        "audio": "workout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tập luyện",
+        "definition": "An exercise session; a period of physical exercise.",
+        "example": "We need to understand the concept of workout.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tập luyện.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "workout process, key workout",
+        "wordFamily": "workout (noun)",
+        "image": "workout.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10925,
+        "word": "entertainment",
+        "pronunciation": "/ˈɛn.tɚˈteɪn.mənt/",
+        "audio": "entertainment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải trí",
+        "definition": "An activity designed to give pleasure, enjoyment, diversion, amusement, or relaxation to an audience, no matter whether the audience participates passively as in watching opera or a movie, or actively as in games.",
+        "example": "We need to understand the concept of entertainment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giải trí.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "entertainment process, key entertainment",
+        "wordFamily": "entertainment (noun)",
+        "image": "entertainment.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10926,
+        "word": "housework",
+        "pronunciation": "/housework/",
+        "audio": "housework.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "việc nhà",
+        "definition": "Domestic household chores such as cleaning and cooking.",
+        "example": "We need to understand the concept of housework.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm việc nhà.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "housework process, key housework",
+        "wordFamily": "housework (noun)",
+        "image": "housework.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10927,
+        "word": "recreation",
+        "pronunciation": "/ɹɛkɹiˈeɪʃən/",
+        "audio": "recreation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải trí",
+        "definition": "Any activity, such as play, that amuses, diverts or stimulates.",
+        "example": "We need to understand the concept of recreation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giải trí.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "recreation process, key recreation",
+        "wordFamily": "recreation (noun)",
+        "image": "recreation.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10928,
+        "word": "routine",
+        "pronunciation": "/ɹuːˈtiːn/",
+        "audio": "routine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thói quen",
+        "definition": "A course of action to be followed regularly; a standard procedure.",
+        "example": "We need to understand the concept of routine.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thói quen.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "routine process, key routine",
+        "wordFamily": "routine (noun)",
+        "image": "routine.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10929,
+        "word": "chore",
+        "pronunciation": "/tʃɔː/",
+        "audio": "chore.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "việc vặt",
+        "definition": "A task, especially a difficult, unpleasant, or routine one.",
+        "example": "Washing dishes is a chore, but we cannot just stop eating.",
+        "exampleVi": "Rửa bát là một việc vặt nhưng chúng ta không thể ngừng ăn.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "chore process, key chore",
+        "wordFamily": "chore (noun)",
+        "image": "chore.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10930,
+        "word": "agenda",
+        "pronunciation": "/əˈdʒɛn.də/",
+        "audio": "agenda.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chương trình nghị sự",
+        "definition": "A temporally organized plan for matters to be attended to.",
+        "example": "We need to understand the concept of agenda.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chương trình nghị sự.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "agenda process, key agenda",
+        "wordFamily": "agenda (noun)",
+        "image": "agenda.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10931,
+        "word": "conclude",
+        "pronunciation": "/kən.ˈkluːd/",
+        "audio": "conclude.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kết luận",
+        "definition": "To end; to come to an end.",
+        "example": "The story concluded with a moral.",
+        "exampleVi": "Câu chuyện kết thúc bằng một bài học đạo đức.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "conclude process, key conclude",
+        "wordFamily": "conclude (noun)",
+        "image": "conclude.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10932,
+        "word": "proceed",
+        "pronunciation": "/pɹəˈsiːd/",
+        "audio": "proceed.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tiến hành",
+        "definition": "To move, pass, or go forward or onward; to advance; to carry on",
+        "example": "To proceed on a journey.",
+        "exampleVi": "Để tiếp tục một cuộc hành trình.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "proceed process, key proceed",
+        "wordFamily": "proceed (noun)",
+        "image": "proceed.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10933,
+        "word": "appointment",
+        "pronunciation": "/əˈpɔɪnt.mɛnt/",
+        "audio": "appointment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc hẹn",
+        "definition": "The act of appointing a person to hold an office or to have a position of trust",
+        "example": "His appointment was deemed suitable",
+        "exampleVi": "Việc bổ nhiệm ông được cho là phù hợp",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "appointment process, key appointment",
+        "wordFamily": "appointment (noun)",
+        "image": "appointment.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10934,
+        "word": "socialize",
+        "pronunciation": "/socialize/",
+        "audio": "socialize.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giao tiếp xã hội",
+        "definition": "To interact with others",
+        "example": "We need to understand the concept of socialize.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xã hội hóa.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "socialize process, key socialize",
+        "wordFamily": "socialize (noun)",
+        "image": "socialize.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10935,
+        "word": "relaxation",
+        "pronunciation": "/ˌɹilækˈseɪʃən/",
+        "audio": "relaxation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư giãn",
+        "definition": "The act of relaxing or the state of being relaxed; the opposite of stress or tension; the aim of recreation and leisure activities.",
+        "example": "We need to understand the concept of relaxation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thư giãn.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "relaxation process, key relaxation",
+        "wordFamily": "relaxation (noun)",
+        "image": "relaxation.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10936,
+        "word": "cancel",
+        "pronunciation": "/ˈkænsl̩/",
+        "audio": "cancel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hủy bỏ",
+        "definition": "A cancellation (US); (nonstandard in some kinds of English).",
+        "example": "We need to understand the concept of cancel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hủy bỏ.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cancel process, key cancel",
+        "wordFamily": "cancel (noun)",
+        "image": "cancel.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10937,
+        "word": "suspend",
+        "pronunciation": "/səˈspɛnd/",
+        "audio": "suspend.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đình chỉ",
+        "definition": "To halt something temporarily.",
+        "example": "The meeting was suspended for lunch.",
+        "exampleVi": "Cuộc họp tạm dừng để ăn trưa.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "suspend process, key suspend",
+        "wordFamily": "suspend (noun)",
+        "image": "suspend.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10938,
+        "word": "resume",
+        "pronunciation": "/ɹəˈzjuːm/",
+        "audio": "resume.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "sơ yếu lý lịch",
+        "definition": "To take back possession of (something).",
+        "example": "We need to understand the concept of resume.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sơ yếu lý lịch.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "resume process, key resume",
+        "wordFamily": "resume (noun)",
+        "image": "resume.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10939,
+        "word": "postpone",
+        "pronunciation": "/poʊstˈpoʊn/",
+        "audio": "postpone.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hoãn lại",
+        "definition": "To delay or put off an event, appointment etc.",
+        "example": "We need to understand the concept of postpone.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trì hoãn.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "postpone process, key postpone",
+        "wordFamily": "postpone (noun)",
+        "image": "postpone.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10940,
+        "word": "delay",
+        "pronunciation": "/dɪˈleɪ/",
+        "audio": "delay.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự chậm trễ",
+        "definition": "A period of time before an event occurs; the act of delaying; procrastination; lingering inactivity.",
+        "example": "the delay before the echo of a sound",
+        "exampleVi": "độ trễ trước tiếng vang của âm thanh",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "delay process, key delay",
+        "wordFamily": "delay (noun)",
+        "image": "delay.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10941,
+        "word": "overtime",
+        "pronunciation": "/ˈoʊvɚˌtaɪm/",
+        "audio": "overtime.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "làm thêm giờ",
+        "definition": "Working time outside of one's regular hours.",
+        "example": "Workers are usually paid extra for working overtime.",
+        "exampleVi": "Người lao động thường được trả thêm tiền khi làm thêm giờ.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "overtime process, key overtime",
+        "wordFamily": "overtime (noun)",
+        "image": "overtime.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10942,
+        "word": "punctual",
+        "pronunciation": "/ˈpʌŋktjʊəl/",
+        "audio": "punctual.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "đúng giờ",
+        "definition": "Prompt; on time.",
+        "example": "We need to understand the concept of punctual.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đúng giờ.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "punctual process, key punctual",
+        "wordFamily": "punctual (noun)",
+        "image": "punctual.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10943,
+        "word": "flexitime",
+        "pronunciation": "/flexitime/",
+        "audio": "flexitime.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời gian linh hoạt",
+        "definition": "An arrangement that allows employees to set their own working hours within agreed limits; normally must include certain periods (core time) when they must be at work.",
+        "example": "We need to understand the concept of flexitime.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thời gian linh hoạt.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "flexitime process, key flexitime",
+        "wordFamily": "flexitime (noun)",
+        "image": "flexitime.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10944,
+        "word": "tardy",
+        "pronunciation": "/ˈtɑːdi/",
+        "audio": "tardy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chậm trễ",
+        "definition": "A piece of paper given to students who are late to class.",
+        "example": "The teacher gave her a tardy because she did not come into the classroom until after the bell.",
+        "exampleVi": "Giáo viên đã cho cô ấy đi trễ vì cô ấy không vào lớp cho đến sau tiếng chuông.",
+        "topic": "Daily Activities",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tardy process, key tardy",
+        "wordFamily": "tardy (noun)",
+        "image": "tardy.webp",
+        "tags": [
+            "daily",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

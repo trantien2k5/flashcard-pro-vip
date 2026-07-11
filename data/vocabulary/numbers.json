@@ -1,0 +1,3080 @@
+[
+    {
+        "id": 12485,
+        "word": "one",
+        "pronunciation": "/wan/",
+        "audio": "one.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "một",
+        "definition": "The digit or figure 1.",
+        "example": "We need to understand the concept of one.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về một.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "one process, key one",
+        "wordFamily": "one (noun)",
+        "image": "one.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12486,
+        "word": "two",
+        "pronunciation": "/tuː/",
+        "audio": "two.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hai",
+        "definition": "The digit/figure 2.",
+        "example": "The number 2202 contains three twos.",
+        "exampleVi": "Số 2202 có ba số hai.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "two process, key two",
+        "wordFamily": "two (noun)",
+        "image": "two.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12487,
+        "word": "three",
+        "pronunciation": "/θɹiː/",
+        "audio": "three.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ba",
+        "definition": "The digit/figure 3.",
+        "example": "We need to understand the concept of three.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm số ba.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "three process, key three",
+        "wordFamily": "three (noun)",
+        "image": "three.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12488,
+        "word": "four",
+        "pronunciation": "/foː/",
+        "audio": "four.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bốn",
+        "definition": "The digit or figure 4; an occurrence thereof.",
+        "example": "We need to understand the concept of four.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bốn.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "four process, key four",
+        "wordFamily": "four (noun)",
+        "image": "four.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12489,
+        "word": "five",
+        "pronunciation": "/fɑev/",
+        "audio": "five.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "năm",
+        "definition": "The digit/figure 5.",
+        "example": "He wrote a five followed by four zeroes.",
+        "exampleVi": "Anh ấy viết số năm theo sau là bốn số không.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "five process, key five",
+        "wordFamily": "five (noun)",
+        "image": "five.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12490,
+        "word": "six",
+        "pronunciation": "/sɪks/",
+        "audio": "six.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sáu",
+        "definition": "The digit or figure 6.",
+        "example": "We need to understand the concept of six.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sáu.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "six process, key six",
+        "wordFamily": "six (noun)",
+        "image": "six.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12491,
+        "word": "seven",
+        "pronunciation": "/ˈsɛv.ən/",
+        "audio": "seven.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảy",
+        "definition": "The digit/figure 7 or an occurrence thereof.",
+        "example": "He wrote three sevens on the paper.",
+        "exampleVi": "Anh ấy viết ba số bảy trên giấy.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "seven process, key seven",
+        "wordFamily": "seven (noun)",
+        "image": "seven.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12492,
+        "word": "eight",
+        "pronunciation": "/eɪt/",
+        "audio": "eight.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tám",
+        "definition": "The digit/figure 8.",
+        "example": "We need to understand the concept of eight.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm số tám.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "eight process, key eight",
+        "wordFamily": "eight (noun)",
+        "image": "eight.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12493,
+        "word": "nine",
+        "pronunciation": "/naɪn/",
+        "audio": "nine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chín",
+        "definition": "The digit or figure 9.",
+        "example": "We need to understand the concept of nine.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm số chín.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nine process, key nine",
+        "wordFamily": "nine (noun)",
+        "image": "nine.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12494,
+        "word": "ten",
+        "pronunciation": "/tɛn/",
+        "audio": "ten.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mười",
+        "definition": "A set or group with ten elements.",
+        "example": "We divided the chocolates into tens to hand out to Hallowe'en visitors.",
+        "exampleVi": "Chúng tôi chia sôcôla thành hàng chục để phát cho khách tham quan Halloween.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ten process, key ten",
+        "wordFamily": "ten (noun)",
+        "image": "ten.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12495,
+        "word": "eleven",
+        "pronunciation": "/ɪˈlɛv.ən/",
+        "audio": "eleven.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mười một",
+        "definition": "A cricket team of eleven players. Hence first eleven - the team of best cricket players (at a school), second eleven - the \"B\" team, etc.",
+        "example": "We need to understand the concept of eleven.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm số mười một.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "eleven process, key eleven",
+        "wordFamily": "eleven (noun)",
+        "image": "eleven.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12496,
+        "word": "twelve",
+        "pronunciation": "/twɛlv/",
+        "audio": "twelve.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mười hai",
+        "definition": "A group of twelve items.",
+        "example": "Fractions would be a little easier if we counted by twelves.",
+        "exampleVi": "Phân số sẽ dễ dàng hơn một chút nếu chúng ta đếm bằng số mười hai.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "twelve process, key twelve",
+        "wordFamily": "twelve (noun)",
+        "image": "twelve.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12497,
+        "word": "twenty",
+        "pronunciation": "/ˈtwɛnti/",
+        "audio": "twenty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hai mươi",
+        "definition": "A banknote with a denomination of 20.",
+        "example": "The waiter’s face lit up when I gave him a twenty.",
+        "exampleVi": "Mặt người phục vụ sáng lên khi tôi đưa cho anh ta hai mươi đô la.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "twenty process, key twenty",
+        "wordFamily": "twenty (noun)",
+        "image": "twenty.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12498,
+        "word": "thirty",
+        "pronunciation": "/ˈθɜːti/",
+        "audio": "thirty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ba mươi",
+        "definition": "A rack of thirty beers.",
+        "example": "We need to understand the concept of thirty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ba mươi.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "thirty process, key thirty",
+        "wordFamily": "thirty (noun)",
+        "image": "thirty.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12499,
+        "word": "forty",
+        "pronunciation": "/ˈfɔɹti/",
+        "audio": "forty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bốn mươi",
+        "definition": "A bottle of beer containing forty fluid ounces.",
+        "example": "We need to understand the concept of forty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bốn mươi.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "forty process, key forty",
+        "wordFamily": "forty (noun)",
+        "image": "forty.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12500,
+        "word": "fifty",
+        "pronunciation": "/ˈfɪfti/",
+        "audio": "fifty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "năm mươi",
+        "definition": "A banknote or coin with a denomination of 50.",
+        "example": "Do you want small bills or are fifties OK?",
+        "exampleVi": "Bạn có muốn hóa đơn nhỏ hay năm mươi được không?",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fifty process, key fifty",
+        "wordFamily": "fifty (noun)",
+        "image": "fifty.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12501,
+        "word": "hundred",
+        "pronunciation": "/ˈhʌndɚd/",
+        "audio": "hundred.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trăm",
+        "definition": "A hundred-dollar bill, or any other note denominated 100 (e.g. a hundred euros).",
+        "example": "We need to understand the concept of hundred.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trăm.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hundred process, key hundred",
+        "wordFamily": "hundred (noun)",
+        "image": "hundred.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12502,
+        "word": "thousand",
+        "pronunciation": "/ˈθaʊzənd/",
+        "audio": "thousand.mp3",
+        "partOfSpeech": "numeral",
+        "vietnamese": "nghìn",
+        "definition": "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "example": "Many thousands of people came to the conference.",
+        "exampleVi": "Hàng ngàn người đã đến dự hội nghị.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "thousand process, key thousand",
+        "wordFamily": "thousand (numeral)",
+        "image": "thousand.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12503,
+        "word": "million",
+        "pronunciation": "/ˈmɪljən/",
+        "audio": "million.mp3",
+        "partOfSpeech": "numeral",
+        "vietnamese": "triệu",
+        "definition": "(long and short scales) The cardinal number 1,000,000: 106; a thousand thousand.",
+        "example": "We need to understand the concept of million.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm triệu.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "million process, key million",
+        "wordFamily": "million (numeral)",
+        "image": "million.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12504,
+        "word": "billion",
+        "pronunciation": "/ˈbɪljən/",
+        "audio": "billion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tỷ",
+        "definition": "(modern British & Australian, short scale) a thousand million (logic: 1,000 × 1,000^2): 1 followed by nine zeros, 109; a milliard",
+        "example": "We need to understand the concept of billion.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tỷ.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "billion process, key billion",
+        "wordFamily": "billion (noun)",
+        "image": "billion.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12505,
+        "word": "first",
+        "pronunciation": "/fɪrst/",
+        "audio": "first.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Đầu tiên",
+        "definition": "The person or thing in the first position.",
+        "example": "He was the first to complete the course.",
+        "exampleVi": "Anh ấy là người đầu tiên hoàn thành khóa học.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "first process, key first",
+        "wordFamily": "first (noun)",
+        "image": "first.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12506,
+        "word": "second",
+        "pronunciation": "/ˈsɛkɪnd/",
+        "audio": "second.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thứ hai",
+        "definition": "Something that is number two in a series.",
+        "example": "We need to understand the concept of second.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giây.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "second process, key second",
+        "wordFamily": "second (noun)",
+        "image": "second.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12507,
+        "word": "third",
+        "pronunciation": "/θɜːd/",
+        "audio": "third.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thứ ba",
+        "definition": "The person or thing in the third position.",
+        "example": "Jones came in third.",
+        "exampleVi": "Jones đứng thứ ba.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "third process, key third",
+        "wordFamily": "third (noun)",
+        "image": "third.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12508,
+        "word": "fourth",
+        "pronunciation": "/fɔːθ/",
+        "audio": "fourth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thứ tư",
+        "definition": "(not used in the plural) The person or thing in the fourth position.",
+        "example": "We need to understand the concept of fourth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thứ tư.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fourth process, key fourth",
+        "wordFamily": "fourth (noun)",
+        "image": "fourth.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12509,
+        "word": "fifth",
+        "pronunciation": "/fɪft/",
+        "audio": "fifth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thứ năm",
+        "definition": "The person or thing in the fifth position.",
+        "example": "We need to understand the concept of fifth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thứ năm.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fifth process, key fifth",
+        "wordFamily": "fifth (noun)",
+        "image": "fifth.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12510,
+        "word": "tenth",
+        "pronunciation": "/tɛnθ/",
+        "audio": "tenth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thứ mười",
+        "definition": "The person or thing coming next after the ninth in a series; that which is in the tenth position.",
+        "example": "We need to understand the concept of tenth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm số mười.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tenth process, key tenth",
+        "wordFamily": "tenth (noun)",
+        "image": "tenth.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12511,
+        "word": "double",
+        "pronunciation": "/ˈdʌb.əl/",
+        "audio": "double.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gấp đôi",
+        "definition": "Twice the number, amount, size, etc.",
+        "example": "We need to understand the concept of double.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gấp đôi.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "double process, key double",
+        "wordFamily": "double (noun)",
+        "image": "double.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12512,
+        "word": "triple",
+        "pronunciation": "/ˈtɹɪpl/",
+        "audio": "triple.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gấp ba",
+        "definition": "Three times or thrice the number, amount, size, etc",
+        "example": "We need to understand the concept of triple.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bộ ba.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "triple process, key triple",
+        "wordFamily": "triple (noun)",
+        "image": "triple.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12513,
+        "word": "half",
+        "pronunciation": "/hɑːf/",
+        "audio": "half.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "một nửa",
+        "definition": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.",
+        "example": "I ate the slightly smaller half of the apple.",
+        "exampleVi": "Tôi ăn nửa quả táo nhỏ hơn một chút.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "half process, key half",
+        "wordFamily": "half (noun)",
+        "image": "half.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12514,
+        "word": "quarter",
+        "pronunciation": "/ˈkoː.tɘ/",
+        "audio": "quarter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "một phần tư",
+        "definition": "A fourth part of something.",
+        "example": "We need to understand the concept of quarter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm quý.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "quarter process, key quarter",
+        "wordFamily": "quarter (noun)",
+        "image": "quarter.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12515,
+        "word": "dozen",
+        "pronunciation": "/ˈdʌzən/",
+        "audio": "dozen.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tá",
+        "definition": "A set of twelve.",
+        "example": "Can I have a dozen eggs, please?",
+        "exampleVi": "Cho tôi xin một tá trứng được không?",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dozen process, key dozen",
+        "wordFamily": "dozen (noun)",
+        "image": "dozen.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12516,
+        "word": "score",
+        "pronunciation": "/skɔː/",
+        "audio": "score.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điểm",
+        "definition": "The total number of goals, points, runs, etc. earned by a participant in a game.",
+        "example": "The player with the highest score is the winner.",
+        "exampleVi": "Người chơi có số điểm cao nhất là người chiến thắng.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "score process, key score",
+        "wordFamily": "score (noun)",
+        "image": "score.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12517,
+        "word": "zero",
+        "pronunciation": "/ˈzɪəɹəʊ/",
+        "audio": "zero.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "không",
+        "definition": "The numeric symbol that represents the cardinal number zero.",
+        "example": "In unary and k-adic notation in general, zero is the empty string.",
+        "exampleVi": "Trong ký hiệu đơn phân và k-adic nói chung, số 0 là chuỗi rỗng.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "zero process, key zero",
+        "wordFamily": "zero (noun)",
+        "image": "zero.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12518,
+        "word": "couple",
+        "pronunciation": "/ˈkʌpəl/",
+        "audio": "couple.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cặp đôi",
+        "definition": "Two partners in a romantic or sexual relationship.",
+        "example": "We need to understand the concept of couple.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vợ chồng.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "couple process, key couple",
+        "wordFamily": "couple (noun)",
+        "image": "couple.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12519,
+        "word": "few",
+        "pronunciation": "/fjuː/",
+        "audio": "few.mp3",
+        "partOfSpeech": "pronoun",
+        "vietnamese": "một vài",
+        "definition": "Few people, few things.",
+        "example": "Many are called, but few are chosen.",
+        "exampleVi": "Nhiều người được gọi nhưng ít người được chọn.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "few process, key few",
+        "wordFamily": "few (noun)",
+        "image": "few.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12520,
+        "word": "many",
+        "pronunciation": "/ˈmæni/",
+        "audio": "many.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhiều",
+        "definition": "A multitude; a great aggregate; a mass of people; the generality; the common herd.",
+        "example": "Democracy must balance the rights of the few against the will of the many.",
+        "exampleVi": "Dân chủ phải cân bằng quyền lợi của thiểu số với ý chí của đa số.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "many process, key many",
+        "wordFamily": "many (noun)",
+        "image": "many.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12521,
+        "word": "several",
+        "pronunciation": "/ˈsɛv(ə)ɹəl/",
+        "audio": "several.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "một số",
+        "definition": "An area of land in private ownership (as opposed to common land).",
+        "example": "We need to understand the concept of several.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về một số.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "several process, key several",
+        "wordFamily": "several (noun)",
+        "image": "several.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12522,
+        "word": "infinite",
+        "pronunciation": "/ˈɪnfɪnɪt/",
+        "audio": "infinite.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vô hạn",
+        "definition": "Something that is infinite in nature.",
+        "example": "We need to understand the concept of infinite.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vô hạn.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "infinite process, key infinite",
+        "wordFamily": "infinite (noun)",
+        "image": "infinite.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12523,
+        "word": "percent",
+        "pronunciation": "/pəˈsɛnt/",
+        "audio": "percent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần trăm",
+        "definition": "A percentage, a proportion (especially per hundred).",
+        "example": "only a small percent attain the top ranks",
+        "exampleVi": "chỉ một phần trăm nhỏ đạt được thứ hạng cao nhất",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "percent process, key percent",
+        "wordFamily": "percent (noun)",
+        "image": "percent.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12524,
+        "word": "average",
+        "pronunciation": "/ˈævəɹɪd͡ʒ/",
+        "audio": "average.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trung bình",
+        "definition": "The arithmetic mean.",
+        "example": "The average of 10, 20 and 24 is (10 + 20 + 24)/3 = 18.",
+        "exampleVi": "Trung bình cộng của 10, 20 và 24 là (10 + 20 + 24)/3 = 18.",
+        "topic": "Numbers",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "average process, key average",
+        "wordFamily": "average (noun)",
+        "image": "average.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "century",
+        "pronunciation": "/ˈsɛn.tʃər.i/",
+        "partOfSpeech": "noun",
+        "vietnamese": "thế kỷ",
+        "definition": "A period of one hundred years.",
+        "example": "The company has been in business for over a century.",
+        "exampleVi": "Công ty đã hoạt động hơn một thế kỷ.",
+        "collocations": "century mark, 21st century",
+        "wordFamily": "centuries",
+        "id": 12525,
+        "audio": "century.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "century.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "decimal",
+        "pronunciation": "/ˈdɛs.ɪ.məl/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thập phân",
+        "definition": "Based on the number ten; relating to a system of numbers that uses ten as a base.",
+        "example": "You need to convert the fraction into a decimal for the report.",
+        "exampleVi": "Bạn cần chuyển đổi phân số thành số thập phân cho báo cáo.",
+        "collocations": "decimal point, decimal system",
+        "wordFamily": "decimals",
+        "id": 12526,
+        "audio": "decimal.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "decimal.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "estimate",
+        "pronunciation": "/ˈɛs.tɪ.meɪt/",
+        "partOfSpeech": "verb",
+        "vietnamese": "ước lượng",
+        "definition": "To calculate or judge the approximate value or number of something.",
+        "example": "We need to estimate the costs before finalizing the budget.",
+        "exampleVi": "Chúng tôi cần ước lượng chi phí trước khi hoàn tất ngân sách.",
+        "collocations": "estimate costs, estimate time",
+        "wordFamily": "estimation, estimated",
+        "id": 12527,
+        "audio": "estimate.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "estimate.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "quantity",
+        "pronunciation": "/ˈkwɒn.tɪ.ti/",
+        "partOfSpeech": "noun",
+        "vietnamese": "số lượng",
+        "definition": "The amount or number of a material or immaterial thing.",
+        "example": "Please specify the quantity of items needed for the order.",
+        "exampleVi": "Vui lòng chỉ định số lượng hàng hóa cần thiết cho đơn hàng.",
+        "collocations": "large quantity, small quantity",
+        "wordFamily": "quantities",
+        "id": 12528,
+        "audio": "quantity.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "quantity.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "ratio",
+        "pronunciation": "/ˈreɪ.ʃi.oʊ/",
+        "partOfSpeech": "noun",
+        "vietnamese": "tỷ lệ",
+        "definition": "A relationship between two numbers indicating how many times the first number contains the second.",
+        "example": "The ratio of sales to expenses is crucial for our analysis.",
+        "exampleVi": "Tỷ lệ giữa doanh thu và chi phí là rất quan trọng cho phân tích của chúng tôi.",
+        "collocations": "profit ratio, ratio analysis",
+        "wordFamily": "ratios",
+        "id": 12529,
+        "audio": "ratio.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "ratio.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "aggregate",
+        "pronunciation": "/ˈæɡ.rɪ.ɡət/",
+        "partOfSpeech": "noun",
+        "vietnamese": "tổng hợp",
+        "definition": "A whole formed by combining several elements.",
+        "example": "The aggregate of all sales figures will be reviewed at the meeting.",
+        "exampleVi": "Tổng hợp tất cả các số liệu bán hàng sẽ được xem xét tại cuộc họp.",
+        "collocations": "aggregate data, aggregate score",
+        "wordFamily": "aggregated, aggregation",
+        "id": 12530,
+        "audio": "aggregate.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "aggregate.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "tally",
+        "pronunciation": "/ˈtæl.i/",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự tính toán",
+        "definition": "A record of a count or score.",
+        "example": "We kept a tally of the votes during the election.",
+        "exampleVi": "Chúng tôi đã giữ một bảng tính toán số phiếu trong cuộc bầu cử.",
+        "collocations": "tally sheet, tally marks",
+        "wordFamily": "tallies",
+        "id": 12531,
+        "audio": "tally.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "tally.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "quota",
+        "pronunciation": "/ˈkwoʊ.tə/",
+        "partOfSpeech": "noun",
+        "vietnamese": "hạn ngạch",
+        "definition": "A fixed share of something that a person or group is entitled to receive or is bound to contribute.",
+        "example": "Each department has a sales quota to meet each quarter.",
+        "exampleVi": "Mỗi phòng ban có một hạn ngạch doanh số cần đạt được mỗi quý.",
+        "collocations": "sales quota, production quota",
+        "wordFamily": "quotas",
+        "id": 12532,
+        "audio": "quota.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "quota.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "increment",
+        "pronunciation": "/ˈɪŋ.krə.mənt/",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự gia tăng",
+        "definition": "An increase or addition, especially one of a series on a fixed scale.",
+        "example": "The salary increment will be discussed in the next meeting.",
+        "exampleVi": "Sự gia tăng lương sẽ được thảo luận trong cuộc họp tới.",
+        "collocations": "incremental increase, salary increment",
+        "wordFamily": "increments",
+        "id": 12533,
+        "audio": "increment.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "increment.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "surplus",
+        "pronunciation": "/ˈsɜːr.pləs/",
+        "partOfSpeech": "noun",
+        "vietnamese": "thặng dư",
+        "definition": "An amount of something left over when requirements have been met.",
+        "example": "The surplus budget will be allocated for future projects.",
+        "exampleVi": "Ngân sách thặng dư sẽ được phân bổ cho các dự án trong tương lai.",
+        "collocations": "budget surplus, trade surplus",
+        "wordFamily": "surpluses",
+        "id": 12534,
+        "audio": "surplus.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "surplus.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "valuation",
+        "pronunciation": "/ˌvæl.juˈeɪ.ʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "định giá",
+        "definition": "The process of determining the current worth of an asset or company.",
+        "example": "The valuation of the company will be completed by next month.",
+        "exampleVi": "Việc định giá công ty sẽ được hoàn thành vào tháng tới.",
+        "collocations": "market valuation, asset valuation",
+        "wordFamily": "valuations",
+        "id": 12535,
+        "audio": "valuation.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "valuation.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "calculation",
+        "pronunciation": "/ˌkæl.kjʊˈleɪ.ʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính toán",
+        "definition": "The process of using mathematics to find an answer.",
+        "example": "The calculation of the total expenses was done manually.",
+        "exampleVi": "Việc tính toán tổng chi phí được thực hiện bằng tay.",
+        "collocations": "accurate calculation, calculation method",
+        "wordFamily": "calculations",
+        "id": 12536,
+        "audio": "calculation.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "calculation.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "numerical",
+        "pronunciation": "/njuːˈmɪrɪkəl/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "số học",
+        "definition": "Relating to or expressed as a number.",
+        "example": "The numerical data presented in the report highlights significant trends.",
+        "exampleVi": "Dữ liệu số học được trình bày trong báo cáo nêu bật các xu hướng quan trọng.",
+        "collocations": "numerical analysis, numerical value",
+        "wordFamily": "numerically",
+        "id": 12537,
+        "audio": "numerical.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "numerical.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "quantitative",
+        "pronunciation": "/ˈkwɒntɪtətɪv/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "định lượng",
+        "definition": "Relating to the measurement of quantity or amount.",
+        "example": "The quantitative research provided clear insights into customer preferences.",
+        "exampleVi": "Nghiên cứu định lượng đã cung cấp cái nhìn rõ ràng về sở thích của khách hàng.",
+        "collocations": "quantitative analysis, quantitative data",
+        "wordFamily": "quantify, quantification",
+        "id": 12538,
+        "audio": "quantitative.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "quantitative.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "proportion",
+        "pronunciation": "/prəˈpɔːrʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "tỷ lệ",
+        "definition": "A part, share, or number considered in comparative relation to a whole.",
+        "example": "A large proportion of our revenue comes from online sales.",
+        "exampleVi": "Một tỷ lệ lớn doanh thu của chúng tôi đến từ doanh số bán hàng trực tuyến.",
+        "collocations": "large proportion, equal proportion",
+        "wordFamily": "proportional, proportionate",
+        "id": 12539,
+        "audio": "proportion.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "proportion.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "statistical",
+        "pronunciation": "/stəˈtɪstɪkəl/",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thống kê",
+        "definition": "Relating to the use of statistics or data analysis.",
+        "example": "The statistical analysis revealed important patterns in consumer behavior.",
+        "exampleVi": "Phân tích thống kê đã tiết lộ các mẫu quan trọng trong hành vi của người tiêu dùng.",
+        "collocations": "statistical data, statistical methods",
+        "wordFamily": "statistic, statistics",
+        "id": 12540,
+        "audio": "statistical.mp3",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "statistical.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12541,
+        "word": "sum",
+        "pronunciation": "/sʌm/",
+        "audio": "sum.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tổng",
+        "definition": "A quantity obtained by addition or aggregation.",
+        "example": "The sum of 3 and 4 is 7.",
+        "exampleVi": "Tổng của 3 và 4 là 7.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sum process, key sum",
+        "wordFamily": "sum (noun)",
+        "image": "sum.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12542,
+        "word": "total",
+        "pronunciation": "/ˈtəʊ.təl/",
+        "audio": "total.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tổng số",
+        "definition": "An amount obtained by the addition of smaller amounts.",
+        "example": "A total of £145 was raised by the bring-and-buy stall.",
+        "exampleVi": "Tổng cộng 145 bảng Anh đã được quyên góp từ gian hàng mang và mua.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "total process, key total",
+        "wordFamily": "total (noun)",
+        "image": "total.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12543,
+        "word": "percentage",
+        "pronunciation": "/pəˈsɛntɪd͡ʒ/",
+        "audio": "percentage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tỷ lệ phần trăm",
+        "definition": "The amount, number or rate of something, regarded as part of a total of 100; a part of a whole.",
+        "example": "A high percentage of secondary school leavers take a gap year.",
+        "exampleVi": "Một tỷ lệ cao học sinh tốt nghiệp trung học phải mất một năm.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "percentage process, key percentage",
+        "wordFamily": "percentage (noun)",
+        "image": "percentage.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12544,
+        "word": "mode",
+        "pronunciation": "/məʊd/",
+        "audio": "mode.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chế độ",
+        "definition": "One of several ancient Greek scales.",
+        "example": "We need to understand the concept of mode.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chế độ.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mode process, key mode",
+        "wordFamily": "mode (noun)",
+        "image": "mode.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12545,
+        "word": "mean",
+        "pronunciation": "/miːn/",
+        "audio": "mean.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "có nghĩa là",
+        "definition": "To lament.",
+        "example": "We need to understand the concept of mean.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ý nghĩa.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mean process, key mean",
+        "wordFamily": "mean (noun)",
+        "image": "mean.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12546,
+        "word": "data",
+        "pronunciation": "/data/",
+        "audio": "data.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dữ liệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word data.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng dữ liệu từ.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "data process, key data",
+        "wordFamily": "data (noun)",
+        "image": "data.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12547,
+        "word": "number",
+        "pronunciation": "/number/",
+        "audio": "number.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "số",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word number.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng số từ.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "number process, key number",
+        "wordFamily": "number (noun)",
+        "image": "number.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12548,
+        "word": "integer",
+        "pronunciation": "/integer/",
+        "audio": "integer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "số nguyên",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word integer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ số nguyên.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "integer process, key integer",
+        "wordFamily": "integer (noun)",
+        "image": "integer.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12549,
+        "word": "statistic",
+        "pronunciation": "/statistic/",
+        "audio": "statistic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thống kê",
+        "definition": "A single item in a statistical study.",
+        "example": "We need to understand the concept of statistic.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thống kê.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "statistic process, key statistic",
+        "wordFamily": "statistic (noun)",
+        "image": "statistic.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12550,
+        "word": "figure",
+        "pronunciation": "/ˈfɪɡjɚ/",
+        "audio": "figure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hình",
+        "definition": "A drawing or diagram conveying information.",
+        "example": "We need to understand the concept of figure.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về hình.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "figure process, key figure",
+        "wordFamily": "figure (noun)",
+        "image": "figure.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12551,
+        "word": "measurement",
+        "pronunciation": "/measurement/",
+        "audio": "measurement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đo lường",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word measurement.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đo lường.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "measurement process, key measurement",
+        "wordFamily": "measurement (noun)",
+        "image": "measurement.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12552,
+        "word": "median",
+        "pronunciation": "/ˈmiːdɪən/",
+        "audio": "median.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trung vị",
+        "definition": "A central vein or nerve, especially the median vein or median nerve running through the forearm and arm.",
+        "example": "We need to understand the concept of median.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trung vị.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "median process, key median",
+        "wordFamily": "median (noun)",
+        "image": "median.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12553,
+        "word": "fraction",
+        "pronunciation": "/ˈfɹæk.ʃən/",
+        "audio": "fraction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phân số",
+        "definition": "A part of a whole, especially a comparatively small part.",
+        "example": "We need to understand the concept of fraction.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phân số.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fraction process, key fraction",
+        "wordFamily": "fraction (noun)",
+        "image": "fraction.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12554,
+        "word": "digit",
+        "pronunciation": "/digit/",
+        "audio": "digit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chữ số",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word digit.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chữ số.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "digit process, key digit",
+        "wordFamily": "digit (noun)",
+        "image": "digit.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12555,
+        "word": "amount",
+        "pronunciation": "/əˈmaʊnt/",
+        "audio": "amount.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "số tiền",
+        "definition": "The total, aggregate or sum of material (not applicable to discrete numbers or units or items in standard English).",
+        "example": "The amount of atmospheric pollution threatens a health crisis.",
+        "exampleVi": "Lượng ô nhiễm khí quyển đe dọa một cuộc khủng hoảng sức khỏe.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "amount process, key amount",
+        "wordFamily": "amount (noun)",
+        "image": "amount.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12556,
+        "word": "capacity",
+        "pronunciation": "/capacity/",
+        "audio": "capacity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "năng lực",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word capacity.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ năng lực.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "capacity process, key capacity",
+        "wordFamily": "capacity (noun)",
+        "image": "capacity.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12557,
+        "word": "size",
+        "pronunciation": "/size/",
+        "audio": "size.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kích thước",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word size.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng kích thước từ.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "size process, key size",
+        "wordFamily": "size (noun)",
+        "image": "size.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12558,
+        "word": "dimension",
+        "pronunciation": "/dimension/",
+        "audio": "dimension.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thứ nguyên",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dimension.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thứ nguyên.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dimension process, key dimension",
+        "wordFamily": "dimension (noun)",
+        "image": "dimension.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12559,
+        "word": "width",
+        "pronunciation": "/width/",
+        "audio": "width.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiều rộng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word width.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng chiều rộng của từ.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "width process, key width",
+        "wordFamily": "width (noun)",
+        "image": "width.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12560,
+        "word": "weight",
+        "pronunciation": "/weight/",
+        "audio": "weight.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trọng lượng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word weight.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trọng lượng.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "weight process, key weight",
+        "wordFamily": "weight (noun)",
+        "image": "weight.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12561,
+        "word": "length",
+        "pronunciation": "/length/",
+        "audio": "length.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "độ dài",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word length.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng độ dài từ.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "length process, key length",
+        "wordFamily": "length (noun)",
+        "image": "length.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12562,
+        "word": "volume",
+        "pronunciation": "/volume/",
+        "audio": "volume.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "âm lượng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word volume.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng khối lượng từ.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "volume process, key volume",
+        "wordFamily": "volume (noun)",
+        "image": "volume.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12563,
+        "word": "area",
+        "pronunciation": "/area/",
+        "audio": "area.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khu vực",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word area.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng khu vực từ.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "area process, key area",
+        "wordFamily": "area (noun)",
+        "image": "area.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12564,
+        "word": "height",
+        "pronunciation": "/height/",
+        "audio": "height.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiều cao",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word height.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chiều cao.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "height process, key height",
+        "wordFamily": "height (noun)",
+        "image": "height.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12565,
+        "word": "depth",
+        "pronunciation": "/depth/",
+        "audio": "depth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "độ sâu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word depth.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng độ sâu từ.",
+        "topic": "Numbers",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "depth process, key depth",
+        "wordFamily": "depth (noun)",
+        "image": "depth.webp",
+        "tags": [
+            "numbers",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

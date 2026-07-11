@@ -1,0 +1,1788 @@
+[
+    {
+        "id": 11292,
+        "word": "environment",
+        "pronunciation": "/-mɪnt/",
+        "audio": "environment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "môi trường",
+        "definition": "The surroundings of, and influences on, a particular item of interest.",
+        "example": "We need to understand the concept of environment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm môi trường.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "environment process, key environment",
+        "wordFamily": "environment (noun)",
+        "image": "environment.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11293,
+        "word": "nature",
+        "pronunciation": "/ˈnæɪ̯tʃə/",
+        "audio": "nature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiên nhiên",
+        "definition": "The natural world; that which consists of all things unaffected by or predating human technology, production, and design. (Compare ecosystem.)",
+        "example": "Nature never lies (i.e. tells untruths).",
+        "exampleVi": "Tự nhiên không bao giờ nói dối (tức là nói sai sự thật).",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nature process, key nature",
+        "wordFamily": "nature (noun)",
+        "image": "nature.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11294,
+        "word": "natural",
+        "pronunciation": "/ˈnætʃəɹəl/",
+        "audio": "natural.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tự nhiên",
+        "definition": "A native inhabitant of a place, country etc.",
+        "example": "We need to understand the concept of natural.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tự nhiên.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "natural process, key natural",
+        "wordFamily": "natural (noun)",
+        "image": "natural.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11295,
+        "word": "eco",
+        "pronunciation": "/eco/",
+        "audio": "eco.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "sinh thái",
+        "definition": "Environmentally friendly or sensitive.",
+        "example": "We need to understand the concept of eco.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sinh thái.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "eco process, key eco",
+        "wordFamily": "eco (adjective)",
+        "image": "eco.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11296,
+        "word": "green",
+        "pronunciation": "/ɡɹiːn/",
+        "audio": "green.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "màu xanh lá",
+        "definition": "Having green as its color.",
+        "example": "The former flag of Libya is fully green.",
+        "exampleVi": "Quốc kỳ cũ của Libya có màu xanh hoàn toàn.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "green process, key green",
+        "wordFamily": "green (adjective)",
+        "image": "green.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11297,
+        "word": "earth",
+        "pronunciation": "/ɜːθ/",
+        "audio": "earth.mp3",
+        "partOfSpeech": "proper noun",
+        "vietnamese": "trái đất",
+        "definition": "The third planet of the Solar System; the world upon which humans live.",
+        "example": "We need to understand the concept of earth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trái đất.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "earth process, key earth",
+        "wordFamily": "earth (proper noun)",
+        "image": "earth.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11298,
+        "word": "planet",
+        "pronunciation": "/ˈplænət/",
+        "audio": "planet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành tinh",
+        "definition": "Each of the seven major bodies which move relative to the fixed stars in the night sky—the Moon, Mercury, Venus, the Sun, Mars, Jupiter and Saturn.",
+        "example": "We need to understand the concept of planet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về hành tinh.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "planet process, key planet",
+        "wordFamily": "planet (noun)",
+        "image": "planet.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11299,
+        "word": "climate",
+        "pronunciation": "/ˈklaɪmɪt/",
+        "audio": "climate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khí hậu",
+        "definition": "An area of the earth's surface between two parallels of latitude.",
+        "example": "We need to understand the concept of climate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khí hậu.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "climate process, key climate",
+        "wordFamily": "climate (noun)",
+        "image": "climate.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11300,
+        "word": "change",
+        "pronunciation": "/tʃeɪndʒ/",
+        "audio": "change.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thay đổi",
+        "definition": "The process of becoming different.",
+        "example": "The product is undergoing a change in order to improve it.",
+        "exampleVi": "Sản phẩm đang trải qua một sự thay đổi để cải thiện nó.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "change process, key change",
+        "wordFamily": "change (noun)",
+        "image": "change.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11301,
+        "word": "global",
+        "pronunciation": "/ˈɡləʊbəl/",
+        "audio": "global.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "toàn cầu",
+        "definition": "A globally scoped identifier.",
+        "example": "We need to understand the concept of global.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm toàn cầu.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "global process, key global",
+        "wordFamily": "global (noun)",
+        "image": "global.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11302,
+        "word": "warming",
+        "pronunciation": "/warming/",
+        "audio": "warming.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "sự nóng lên",
+        "definition": "To make or keep warm.",
+        "example": "We need to understand the concept of warming.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sự nóng lên.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "warming process, key warming",
+        "wordFamily": "warming (verb)",
+        "image": "warming.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11303,
+        "word": "pollution",
+        "pronunciation": "/pəˈl(j)uːʃn̩/",
+        "audio": "pollution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự ô nhiễm",
+        "definition": "The desecration of something holy or sacred; defilement, profanation.",
+        "example": "We need to understand the concept of pollution.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ô nhiễm.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pollution process, key pollution",
+        "wordFamily": "pollution (noun)",
+        "image": "pollution.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11304,
+        "word": "pollute",
+        "pronunciation": "/pəˈljuːt/",
+        "audio": "pollute.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "làm ô nhiễm",
+        "definition": "To make something harmful, especially by the addition of some unwanted product.",
+        "example": "The factory polluted the river when it cleaned its tanks.",
+        "exampleVi": "Nhà máy làm ô nhiễm dòng sông khi làm sạch bể chứa.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pollute process, key pollute",
+        "wordFamily": "pollute (verb)",
+        "image": "pollute.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11305,
+        "word": "waste",
+        "pronunciation": "/weɪst/",
+        "audio": "waste.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rác thải",
+        "definition": "Excess of material, useless by-products or damaged, unsaleable products; garbage; rubbish.",
+        "example": "We need to understand the concept of waste.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lãng phí.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "waste process, key waste",
+        "wordFamily": "waste (noun)",
+        "image": "waste.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11306,
+        "word": "recycle",
+        "pronunciation": "/ɹiˈsaɪkəl/",
+        "audio": "recycle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tái chế",
+        "definition": "An act of recycling.",
+        "example": "We need to understand the concept of recycle.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tái chế.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "recycle process, key recycle",
+        "wordFamily": "recycle (noun)",
+        "image": "recycle.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11307,
+        "word": "garbage",
+        "pronunciation": "/ˈɡɑːbɪd͡ʒ/",
+        "audio": "garbage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rác",
+        "definition": "Food waste material of any kind.",
+        "example": "Garbage is collected on Tuesdays; rubbish on Fridays",
+        "exampleVi": "Rác được thu gom vào các ngày thứ Ba; rác vào thứ sáu",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "garbage process, key garbage",
+        "wordFamily": "garbage (noun)",
+        "image": "garbage.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11308,
+        "word": "trash",
+        "pronunciation": "/tɹæʃ/",
+        "audio": "trash.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rác",
+        "definition": "Useless things to be discarded; rubbish; refuse.",
+        "example": "We need to understand the concept of trash.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rác.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "trash process, key trash",
+        "wordFamily": "trash (noun)",
+        "image": "trash.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11309,
+        "word": "rubbish",
+        "pronunciation": "/ˈɹʌbɪʃ/",
+        "audio": "rubbish.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rác",
+        "definition": "Refuse, waste, garbage, junk, trash.",
+        "example": "The rubbish is collected every Thursday in Gloucester, but on Wednesdays in Cheltenham.",
+        "exampleVi": "Rác được thu gom vào thứ Năm hàng tuần ở Gloucester, nhưng vào thứ Tư ở Cheltenham.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rubbish process, key rubbish",
+        "wordFamily": "rubbish (noun)",
+        "image": "rubbish.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11310,
+        "word": "litter",
+        "pronunciation": "/ˈlɪtə(ɹ)/",
+        "audio": "litter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rác",
+        "definition": "A platform mounted on two shafts, or a more elaborate construction, designed to be carried by two (or more) people to transport one (in luxury models sometimes more) third person(s) or (occasionally in the elaborate version) a cargo, such as a religious idol.",
+        "example": "We need to understand the concept of litter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rác thải.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "litter process, key litter",
+        "wordFamily": "litter (noun)",
+        "image": "litter.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11311,
+        "word": "protect",
+        "pronunciation": "/pɹəˈtɛkt/",
+        "audio": "protect.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bảo vệ",
+        "definition": "To keep safe; to defend; to guard; to prevent harm coming to.",
+        "example": "Condoms are designed to protect against sexually-transmitted diseases.",
+        "exampleVi": "Bao cao su được thiết kế để bảo vệ chống lại các bệnh lây truyền qua đường tình dục.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "protect process, key protect",
+        "wordFamily": "protect (verb)",
+        "image": "protect.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11312,
+        "word": "conservation",
+        "pronunciation": "/conservation/",
+        "audio": "conservation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo tồn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word conservation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bảo tồn.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "conservation process, key conservation",
+        "wordFamily": "conservation (noun)",
+        "image": "conservation.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11313,
+        "word": "preservation",
+        "pronunciation": "/preservation/",
+        "audio": "preservation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự bảo tồn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word preservation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bảo quản.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "preservation process, key preservation",
+        "wordFamily": "preservation (noun)",
+        "image": "preservation.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11314,
+        "word": "ecology",
+        "pronunciation": "/ecology/",
+        "audio": "ecology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sinh thái",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ecology.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sinh thái.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ecology process, key ecology",
+        "wordFamily": "ecology (noun)",
+        "image": "ecology.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11315,
+        "word": "ecological",
+        "pronunciation": "/ecological/",
+        "audio": "ecological.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sinh thái",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ecological.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sinh thái.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ecological process, key ecological",
+        "wordFamily": "ecological (noun)",
+        "image": "ecological.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11316,
+        "word": "wildlife",
+        "pronunciation": "/wildlife/",
+        "audio": "wildlife.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "động vật hoang dã",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word wildlife.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ động vật hoang dã.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wildlife process, key wildlife",
+        "wordFamily": "wildlife (noun)",
+        "image": "wildlife.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11317,
+        "word": "animal",
+        "pronunciation": "/animal/",
+        "audio": "animal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "động vật",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word animal.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ động vật.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "animal process, key animal",
+        "wordFamily": "animal (noun)",
+        "image": "animal.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11318,
+        "word": "plant",
+        "pronunciation": "/plant/",
+        "audio": "plant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thực vật",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word plant.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ plant.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "plant process, key plant",
+        "wordFamily": "plant (noun)",
+        "image": "plant.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11319,
+        "word": "forest",
+        "pronunciation": "/forest/",
+        "audio": "forest.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rừng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word forest.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ rừng.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "forest process, key forest",
+        "wordFamily": "forest (noun)",
+        "image": "forest.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11320,
+        "word": "resource",
+        "pronunciation": "/resource/",
+        "audio": "resource.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài nguyên",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word resource.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tài nguyên.",
+        "topic": "Environment",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "resource process, key resource",
+        "wordFamily": "resource (noun)",
+        "image": "resource.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11321,
+        "word": "biomass",
+        "pronunciation": "/ˈbaɪ.ə(ʊ)ˌmæs/",
+        "audio": "biomass.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sinh khối",
+        "definition": "The total mass of a living thing or part thereof, such as a cell.",
+        "example": "We need to understand the concept of biomass.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sinh khối.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "biomass process, key biomass",
+        "wordFamily": "biomass (noun)",
+        "image": "biomass.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11322,
+        "word": "alternative",
+        "pronunciation": "/ɒl.ˈtɜː(ɹ).nə.tɪv/",
+        "audio": "alternative.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thay thế",
+        "definition": "A situation which allows a mutually exclusive choice between two or more possibilities; a choice between two or more possibilities.",
+        "example": "We need to understand the concept of alternative.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thay thế.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "alternative process, key alternative",
+        "wordFamily": "alternative (noun)",
+        "image": "alternative.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11323,
+        "word": "biodiversity",
+        "pronunciation": "/ˌbaɪoʊdɑɪˈvɚsəti/",
+        "audio": "biodiversity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đa dạng sinh học",
+        "definition": "The diversity (number and variety of species) of plant and animal life within a region.",
+        "example": "We need to understand the concept of biodiversity.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đa dạng sinh học.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "biodiversity process, key biodiversity",
+        "wordFamily": "biodiversity (noun)",
+        "image": "biodiversity.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11324,
+        "word": "ecosystem",
+        "pronunciation": "/ˈiːkəʊˌsɪstəm/",
+        "audio": "ecosystem.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hệ sinh thái",
+        "definition": "A system formed by an ecological community and its environment that functions as a unit.",
+        "example": "We need to understand the concept of ecosystem.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hệ sinh thái.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ecosystem process, key ecosystem",
+        "wordFamily": "ecosystem (noun)",
+        "image": "ecosystem.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11325,
+        "word": "renewable",
+        "pronunciation": "/renewable/",
+        "audio": "renewable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tái tạo",
+        "definition": "A thing that is renewable; especially, a renewable source of energy.",
+        "example": "We need to understand the concept of renewable.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về năng lượng tái tạo.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "renewable process, key renewable",
+        "wordFamily": "renewable (noun)",
+        "image": "renewable.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11326,
+        "word": "wind",
+        "pronunciation": "/ˈwaɪnd/",
+        "audio": "wind.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gió",
+        "definition": "Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.",
+        "example": "As they accelerated onto the motorway, the wind tore the plywood off the car's roof-rack.",
+        "exampleVi": "Khi họ tăng tốc trên đường cao tốc, gió xé toạc tấm ván ép khỏi giá nóc ô tô.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wind process, key wind",
+        "wordFamily": "wind (noun)",
+        "image": "wind.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11327,
+        "word": "hydroelectric",
+        "pronunciation": "/hydroelectric/",
+        "audio": "hydroelectric.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "thủy điện",
+        "definition": "That generates electricity by converting the energy of moving water, or of steam escaping under high pressure",
+        "example": "We need to understand the concept of hydroelectric.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thủy điện.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hydroelectric process, key hydroelectric",
+        "wordFamily": "hydroelectric (noun)",
+        "image": "hydroelectric.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11328,
+        "word": "solar",
+        "pronunciation": "/ˈsəʊlə/",
+        "audio": "solar.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "năng lượng mặt trời",
+        "definition": "Of or pertaining to the sun; proceeding from the sun",
+        "example": "solar influence",
+        "exampleVi": "ảnh hưởng của mặt trời",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "solar process, key solar",
+        "wordFamily": "solar (noun)",
+        "image": "solar.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11329,
+        "word": "geothermal",
+        "pronunciation": "/geothermal/",
+        "audio": "geothermal.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "địa nhiệt",
+        "definition": "Pertaining to heat energy extracted from reservoirs in the earth's interior",
+        "example": "We need to understand the concept of geothermal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa nhiệt.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "geothermal process, key geothermal",
+        "wordFamily": "geothermal (noun)",
+        "image": "geothermal.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11330,
+        "word": "protection",
+        "pronunciation": "/pɹəˈtɛkʃən/",
+        "audio": "protection.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo vệ",
+        "definition": "The process of keeping (something or someone) safe.",
+        "example": "Raincoats give protection from rain.",
+        "exampleVi": "Áo mưa giúp bảo vệ khỏi mưa.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "protection process, key protection",
+        "wordFamily": "protection (noun)",
+        "image": "protection.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11331,
+        "word": "contamination",
+        "pronunciation": "/kənˌtæmɪˈneɪʃən/",
+        "audio": "contamination.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ô nhiễm",
+        "definition": "The act or process of contaminating",
+        "example": "We need to understand the concept of contamination.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ô nhiễm.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "contamination process, key contamination",
+        "wordFamily": "contamination (noun)",
+        "image": "contamination.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11332,
+        "word": "habitat",
+        "pronunciation": "/ˈhæbɪtæt/",
+        "audio": "habitat.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "môi trường sống",
+        "definition": "Conditions suitable for an organism or population of organisms to live.",
+        "example": "This park offers important amphibian habitat and breeding area.",
+        "exampleVi": "Công viên này cung cấp môi trường sống và khu vực sinh sản lưỡng cư quan trọng.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "habitat process, key habitat",
+        "wordFamily": "habitat (noun)",
+        "image": "habitat.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11333,
+        "word": "greenhouse",
+        "pronunciation": "/ˈɡɹiːnˌhaʊs/",
+        "audio": "greenhouse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà kính",
+        "definition": "A building used to grow plants, particularly one with large glass windows or plastic sheeting to trap heat from sunlight even in intemperate seasons or climates.",
+        "example": "We need to understand the concept of greenhouse.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà kính.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "greenhouse process, key greenhouse",
+        "wordFamily": "greenhouse (noun)",
+        "image": "greenhouse.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11334,
+        "word": "emission",
+        "pronunciation": "/ɪˈmɪʃn̩/",
+        "audio": "emission.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "emission",
+        "definition": "Something which is emitted or sent out; issue.",
+        "example": "the emission was mostly blood",
+        "exampleVi": "khí thải chủ yếu là máu",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "emission process, key emission",
+        "wordFamily": "emission (noun)",
+        "image": "emission.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11335,
+        "word": "landfill",
+        "pronunciation": "/ˈlænd.fɪl/",
+        "audio": "landfill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "landfill",
+        "definition": "A site at which refuse is buried under layers of earth.",
+        "example": "We need to understand the concept of landfill.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bãi rác.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "landfill process, key landfill",
+        "wordFamily": "landfill (noun)",
+        "image": "landfill.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11336,
+        "word": "sustainability",
+        "pronunciation": "/səsˌteɪnəˈbɪlɪti/",
+        "audio": "sustainability.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sustainability",
+        "definition": "The ability to sustain something.",
+        "example": "We need to understand the concept of sustainability.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tính bền vững.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sustainability process, key sustainability",
+        "wordFamily": "sustainability (noun)",
+        "image": "sustainability.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11337,
+        "word": "atmosphere",
+        "pronunciation": "/ˈæt.məsˌfɪə(ɹ)/",
+        "audio": "atmosphere.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bầu không khí",
+        "definition": "The gases surrounding the Earth or any astronomical body.",
+        "example": "We need to understand the concept of atmosphere.",
+        "exampleVi": "We need to understand the concept of atmosphere.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "atmosphere process, key atmosphere",
+        "wordFamily": "atmosphere (noun)",
+        "image": "atmosphere.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11338,
+        "word": "carbon",
+        "pronunciation": "/ˈkɑɹbən/",
+        "audio": "carbon.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "carbon",
+        "definition": "The chemical element (symbol C) with an atomic number of 6. It can be found in pure form for example as graphite, a black, shiny and very soft material, or diamond, a colourless, transparent, crystalline solid and the hardest known material.",
+        "example": "We need to understand the concept of carbon.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm carbon.",
+        "topic": "Environment",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "carbon process, key carbon",
+        "wordFamily": "carbon (noun)",
+        "image": "carbon.webp",
+        "tags": [
+            "environment",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

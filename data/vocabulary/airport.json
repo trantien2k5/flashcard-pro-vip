@@ -1,0 +1,1788 @@
+[
+    {
+        "id": 10109,
+        "word": "airport",
+        "pronunciation": "/ˈɛə.pɔːt/",
+        "audio": "airport.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sân bay",
+        "definition": "An airfield (an area designated for the takeoff and landing of aircraft), including one or more runways and (for commercial airports) one or more passenger terminals.",
+        "example": "Because of this, and contrary to popular belief, British airports primarily act as giant wealth extractors, transporting our richest citizens out of the country as often as possible to take their money overseas. ― The Independent, Heathrow expansion to mainly benefit wealthy frequent fliers, research finds, 23 june 2018.",
+        "exampleVi": "Vì điều này, và trái ngược với niềm tin phổ biến, các sân bay ở Anh chủ yếu hoạt động như những kẻ bòn rút tài sản khổng lồ, vận chuyển những công dân giàu nhất của chúng ta ra khỏi đất nước thường xuyên nhất có thể để mang tiền của họ ra nước ngoài. ― The Independent, việc mở rộng Heathrow chủ yếu mang lại lợi ích cho những người giàu có thường xuyên bay, nghiên cứu cho thấy, ngày 23 tháng 6 năm 2018.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "airport process, key airport",
+        "wordFamily": "airport (noun)",
+        "image": "airport.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10110,
+        "word": "terminal",
+        "pronunciation": "/ˈtɚmɪnəl/",
+        "audio": "terminal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần cuối",
+        "definition": "A building in an airport where passengers transfer from ground transportation to the facilities that allow them to board airplanes.",
+        "example": "We need to understand the concept of terminal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thiết bị đầu cuối.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "terminal process, key terminal",
+        "wordFamily": "terminal (noun)",
+        "image": "terminal.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10111,
+        "word": "flight",
+        "pronunciation": "/flaɪt/",
+        "audio": "flight.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến bay",
+        "definition": "The act of flying.",
+        "example": "Most birds are capable of flight.",
+        "exampleVi": "Hầu hết các loài chim đều có khả năng bay.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "flight process, key flight",
+        "wordFamily": "flight (noun)",
+        "image": "flight.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10112,
+        "word": "plane",
+        "pronunciation": "/pleɪn/",
+        "audio": "plane.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy bay",
+        "definition": "A level or flat surface.",
+        "example": "We need to understand the concept of plane.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mặt phẳng.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "plane process, key plane",
+        "wordFamily": "plane (noun)",
+        "image": "plane.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10113,
+        "word": "airplane",
+        "pronunciation": "/ˈɛəpleɪn/",
+        "audio": "airplane.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy bay",
+        "definition": "A powered heavier-than-air aircraft with fixed wings.",
+        "example": "We need to understand the concept of airplane.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm máy bay.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "airplane process, key airplane",
+        "wordFamily": "airplane (noun)",
+        "image": "airplane.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10114,
+        "word": "airline",
+        "pronunciation": "/airline/",
+        "audio": "airline.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hãng hàng không",
+        "definition": "A company that flies airplanes to transport people and goods.",
+        "example": "We need to understand the concept of airline.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về hàng không.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "airline process, key airline",
+        "wordFamily": "airline (noun)",
+        "image": "airline.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10115,
+        "word": "gate",
+        "pronunciation": "/ɡeɪt/",
+        "audio": "gate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cổng",
+        "definition": "A doorlike structure outside a house.",
+        "example": "We need to understand the concept of gate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cổng.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gate process, key gate",
+        "wordFamily": "gate (noun)",
+        "image": "gate.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10116,
+        "word": "runway",
+        "pronunciation": "/ˈɹən-/",
+        "audio": "runway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường băng",
+        "definition": "A defined, narrow section of land or an artificial structure used for access.",
+        "example": "We need to understand the concept of runway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường băng.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "runway process, key runway",
+        "wordFamily": "runway (noun)",
+        "image": "runway.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10117,
+        "word": "ticket",
+        "pronunciation": "/ˈtɪkɪt/",
+        "audio": "ticket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vé",
+        "definition": "A pass entitling the holder to admission to a show, concert, etc.",
+        "example": "We need to understand the concept of ticket.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về vé.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ticket process, key ticket",
+        "wordFamily": "ticket (noun)",
+        "image": "ticket.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10118,
+        "word": "boarding",
+        "pronunciation": "/boarding/",
+        "audio": "boarding.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lên máy bay",
+        "definition": "To step or climb onto or otherwise enter a ship, aircraft, train or other conveyance.",
+        "example": "It is time to board the aircraft.",
+        "exampleVi": "Đã đến lúc lên máy bay.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "boarding process, key boarding",
+        "wordFamily": "boarding (verb)",
+        "image": "boarding.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10119,
+        "word": "pass",
+        "pronunciation": "[pʰäːs]",
+        "audio": "pass.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "vượt qua",
+        "definition": "To change place.",
+        "example": "We need to understand the concept of pass.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về pass.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pass process, key pass",
+        "wordFamily": "pass (verb)",
+        "image": "pass.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10120,
+        "word": "check",
+        "pronunciation": "/t͡ʃɛk/",
+        "audio": "check.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm tra",
+        "definition": "A situation in which the king is directly threatened by an opposing piece.",
+        "example": "We need to understand the concept of check.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiểm tra.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "check process, key check",
+        "wordFamily": "check (noun)",
+        "image": "check.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10121,
+        "word": "in",
+        "pronunciation": "/ɪn/",
+        "audio": "in.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "TRONG",
+        "definition": "A position of power or influence, or a way to get it.",
+        "example": "His parents got him an in with the company.",
+        "exampleVi": "Cha mẹ anh ấy đã cho anh ấy gia nhập công ty.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "in process, key in",
+        "wordFamily": "in (noun)",
+        "image": "in.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10122,
+        "word": "security",
+        "pronunciation": "/sɪˈkjɔːɹəti/",
+        "audio": "security.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo vệ",
+        "definition": "The condition of not being threatened, especially physically, psychologically, emotionally, or financially.",
+        "example": "We need to understand the concept of security.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bảo mật.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "security process, key security",
+        "wordFamily": "security (noun)",
+        "image": "security.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10123,
+        "word": "customs",
+        "pronunciation": "/ˈkʌstəmz/",
+        "audio": "customs.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hải quan",
+        "definition": "(in the plural) The duties or taxes imposed on imported or exported goods.",
+        "example": "Customs of £200 were due on all the wine we took back from France.",
+        "exampleVi": "Số tiền hải quan 200 bảng Anh phải nộp đối với tất cả số rượu chúng tôi mang về từ Pháp.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "customs process, key customs",
+        "wordFamily": "customs (noun)",
+        "image": "customs.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10124,
+        "word": "baggage",
+        "pronunciation": "/ˈbæɡɪdʒ/",
+        "audio": "baggage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành lý",
+        "definition": "(usually uncountable) Luggage; traveling equipment",
+        "example": "Please put your baggage in the trunk.",
+        "exampleVi": "Vui lòng để hành lý của bạn vào cốp xe.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "baggage process, key baggage",
+        "wordFamily": "baggage (noun)",
+        "image": "baggage.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10125,
+        "word": "claim",
+        "pronunciation": "/kleɪm/",
+        "audio": "claim.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khẳng định",
+        "definition": "A demand of ownership made for something.",
+        "example": "a claim of ownership",
+        "exampleVi": "yêu cầu quyền sở hữu",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "claim process, key claim",
+        "wordFamily": "claim (noun)",
+        "image": "claim.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10126,
+        "word": "delay",
+        "pronunciation": "/dɪˈleɪ/",
+        "audio": "delay.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trì hoãn",
+        "definition": "A period of time before an event occurs; the act of delaying; procrastination; lingering inactivity.",
+        "example": "the delay before the echo of a sound",
+        "exampleVi": "độ trễ trước tiếng vang của âm thanh",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "delay process, key delay",
+        "wordFamily": "delay (noun)",
+        "image": "delay.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10127,
+        "word": "cancel",
+        "pronunciation": "/ˈkænsl̩/",
+        "audio": "cancel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Hủy bỏ",
+        "definition": "A cancellation (US); (nonstandard in some kinds of English).",
+        "example": "We need to understand the concept of cancel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hủy bỏ.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cancel process, key cancel",
+        "wordFamily": "cancel (noun)",
+        "image": "cancel.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10128,
+        "word": "land",
+        "pronunciation": "/lænd/",
+        "audio": "land.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đất",
+        "definition": "The part of Earth which is not covered by oceans or other bodies of water.",
+        "example": "Most insects live on land.",
+        "exampleVi": "Hầu hết côn trùng sống trên cạn.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "land process, key land",
+        "wordFamily": "land (noun)",
+        "image": "land.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10129,
+        "word": "takeoff",
+        "pronunciation": "/takeoff/",
+        "audio": "takeoff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cởi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word takeoff.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cất cánh.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "takeoff process, key takeoff",
+        "wordFamily": "takeoff (noun)",
+        "image": "takeoff.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10130,
+        "word": "pilot",
+        "pronunciation": "/pilot/",
+        "audio": "pilot.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phi công",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word pilot.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phi công.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pilot process, key pilot",
+        "wordFamily": "pilot (noun)",
+        "image": "pilot.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10131,
+        "word": "crew",
+        "pronunciation": "/crew/",
+        "audio": "crew.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phi hành đoàn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word crew.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phi hành đoàn.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "crew process, key crew",
+        "wordFamily": "crew (noun)",
+        "image": "crew.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10132,
+        "word": "luggage",
+        "pronunciation": "/luggage/",
+        "audio": "luggage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành lý",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word luggage.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hành lý.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "luggage process, key luggage",
+        "wordFamily": "luggage (noun)",
+        "image": "luggage.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10133,
+        "word": "scale",
+        "pronunciation": "/scale/",
+        "audio": "scale.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tỉ lệ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word scale.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng thang đo từ.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "scale process, key scale",
+        "wordFamily": "scale (noun)",
+        "image": "scale.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10134,
+        "word": "dutyfree",
+        "pronunciation": "/dutyfree/",
+        "audio": "dutyfree.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "miễn thuế",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dutyfree.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ Dutyfree.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dutyfree process, key dutyfree",
+        "wordFamily": "dutyfree (noun)",
+        "image": "dutyfree.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10135,
+        "word": "announcement",
+        "pronunciation": "/announcement/",
+        "audio": "announcement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thông báo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word announcement.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thông báo.",
+        "topic": "Airport",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "announcement process, key announcement",
+        "wordFamily": "announcement (noun)",
+        "image": "announcement.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10136,
+        "word": "carousel",
+        "pronunciation": "/carousel/",
+        "audio": "carousel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "băng chuyền",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word carousel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ băng chuyền.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "carousel process, key carousel",
+        "wordFamily": "carousel (noun)",
+        "image": "carousel.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10137,
+        "word": "arrival",
+        "pronunciation": "/arrival/",
+        "audio": "arrival.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đến",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word arrival.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đến.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "arrival process, key arrival",
+        "wordFamily": "arrival (noun)",
+        "image": "arrival.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10138,
+        "word": "tarmac",
+        "pronunciation": "/tarmac/",
+        "audio": "tarmac.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường băng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word tarmac.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tarmac.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tarmac process, key tarmac",
+        "wordFamily": "tarmac (noun)",
+        "image": "tarmac.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10139,
+        "word": "declaration",
+        "pronunciation": "/declaration/",
+        "audio": "declaration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyên bố",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word declaration.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng khai báo từ.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "declaration process, key declaration",
+        "wordFamily": "declaration (noun)",
+        "image": "declaration.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10140,
+        "word": "checkout",
+        "pronunciation": "/checkout/",
+        "audio": "checkout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thanh toán",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word checkout.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kiểm tra.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "checkout process, key checkout",
+        "wordFamily": "checkout (noun)",
+        "image": "checkout.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10141,
+        "word": "lounge",
+        "pronunciation": "/lounge/",
+        "audio": "lounge.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng chờ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word lounge.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phòng chờ.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "lounge process, key lounge",
+        "wordFamily": "lounge (noun)",
+        "image": "lounge.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10142,
+        "word": "passport",
+        "pronunciation": "/passport/",
+        "audio": "passport.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hộ chiếu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word passport.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hộ chiếu.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "passport process, key passport",
+        "wordFamily": "passport (noun)",
+        "image": "passport.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10143,
+        "word": "hangar",
+        "pronunciation": "/hangar/",
+        "audio": "hangar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà chứa máy bay",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hangar.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hangar.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hangar process, key hangar",
+        "wordFamily": "hangar (noun)",
+        "image": "hangar.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10144,
+        "word": "concourse",
+        "pronunciation": "/concourse/",
+        "audio": "concourse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng chờ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word concourse.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ concourse.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "concourse process, key concourse",
+        "wordFamily": "concourse (noun)",
+        "image": "concourse.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10145,
+        "word": "layover",
+        "pronunciation": "/layover/",
+        "audio": "layover.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "layover",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word layover.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ layover.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "layover process, key layover",
+        "wordFamily": "layover (noun)",
+        "image": "layover.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10146,
+        "word": "checkin",
+        "pronunciation": "/checkin/",
+        "audio": "checkin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đăng ký",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word checkin.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ checkin.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "checkin process, key checkin",
+        "wordFamily": "checkin (noun)",
+        "image": "checkin.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10147,
+        "word": "stopover",
+        "pronunciation": "/stopover/",
+        "audio": "stopover.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điểm dừng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word stopover.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dừng lại.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stopover process, key stopover",
+        "wordFamily": "stopover (noun)",
+        "image": "stopover.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10148,
+        "word": "departure",
+        "pronunciation": "/departure/",
+        "audio": "departure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khởi hành",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word departure.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khởi hành.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "departure process, key departure",
+        "wordFamily": "departure (noun)",
+        "image": "departure.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10149,
+        "word": "visa",
+        "pronunciation": "/visa/",
+        "audio": "visa.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thị thực",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word visa.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ visa.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "visa process, key visa",
+        "wordFamily": "visa (noun)",
+        "image": "visa.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10150,
+        "word": "immigration",
+        "pronunciation": "/immigration/",
+        "audio": "immigration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhập cư",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word immigration.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhập cư.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "immigration process, key immigration",
+        "wordFamily": "immigration (noun)",
+        "image": "immigration.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10151,
+        "word": "shuttle",
+        "pronunciation": "/shuttle/",
+        "audio": "shuttle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe đưa đón",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word shuttle.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đưa đón.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shuttle process, key shuttle",
+        "wordFamily": "shuttle (noun)",
+        "image": "shuttle.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10152,
+        "word": "stewardess",
+        "pronunciation": "/stjuː.əˈdɛs/",
+        "audio": "stewardess.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiếp viên",
+        "definition": "A female flight attendant (a member of the crew of an airplane who is responsible for the comfort and safety of its passengers).",
+        "example": "We need to understand the concept of stewardess.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiếp viên hàng không.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stewardess process, key stewardess",
+        "wordFamily": "stewardess (noun)",
+        "image": "stewardess.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10153,
+        "word": "boardingpass",
+        "pronunciation": "/boardingpass/",
+        "audio": "boardingpass.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thẻ lên máy bay",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word boardingpass.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ boardingpass.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "boardingpass process, key boardingpass",
+        "wordFamily": "boardingpass (noun)",
+        "image": "boardingpass.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10154,
+        "word": "turbulence",
+        "pronunciation": "/turbulence/",
+        "audio": "turbulence.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự hỗn loạn",
+        "definition": "The state or fact of being turbulent or agitated; tempestuousness, disturbance.",
+        "example": "We need to understand the concept of turbulence.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhiễu loạn.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "turbulence process, key turbulence",
+        "wordFamily": "turbulence (noun)",
+        "image": "turbulence.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10155,
+        "word": "controltower",
+        "pronunciation": "/controltower/",
+        "audio": "controltower.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tháp điều khiển",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word controltower.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ controltower.",
+        "topic": "Airport",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "controltower process, key controltower",
+        "wordFamily": "controltower (noun)",
+        "image": "controltower.webp",
+        "tags": [
+            "airport",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

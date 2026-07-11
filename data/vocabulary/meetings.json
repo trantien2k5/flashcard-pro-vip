@@ -1,0 +1,2282 @@
+[
+    {
+        "id": 12425,
+        "word": "meeting",
+        "pronunciation": "/ˈmiːtɪŋ/",
+        "audio": "meeting.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc họp",
+        "definition": "(gerund) The act of persons or things that meet.",
+        "example": "Meeting him will be exciting. I enjoy meeting new people.",
+        "exampleVi": "Gặp anh ấy sẽ rất thú vị. Tôi thích gặp gỡ những người mới.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "meeting process, key meeting",
+        "wordFamily": "meeting (noun)",
+        "image": "meeting.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12426,
+        "word": "agenda",
+        "pronunciation": "/əˈdʒɛn.də/",
+        "audio": "agenda.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chương trình nghị sự",
+        "definition": "A temporally organized plan for matters to be attended to.",
+        "example": "We need to understand the concept of agenda.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chương trình nghị sự.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "agenda process, key agenda",
+        "wordFamily": "agenda (noun)",
+        "image": "agenda.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12427,
+        "word": "minutes",
+        "pronunciation": "/ˈmɪnɪts/",
+        "audio": "minutes.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phút",
+        "definition": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
+        "example": "You have twenty minutes to complete the test.",
+        "exampleVi": "Bạn có hai mươi phút để hoàn thành bài kiểm tra.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "minutes process, key minutes",
+        "wordFamily": "minutes (noun)",
+        "image": "minutes.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12428,
+        "word": "discuss",
+        "pronunciation": "/dɪsˈkʊs/",
+        "audio": "discuss.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bàn luận",
+        "definition": "To converse or debate concerning a particular topic.",
+        "example": "I don't wish to discuss this further. Let's talk about something else.",
+        "exampleVi": "Tôi không muốn thảo luận thêm về vấn đề này. Hãy nói về chuyện khác.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "discuss process, key discuss",
+        "wordFamily": "discuss (verb)",
+        "image": "discuss.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12429,
+        "word": "agree",
+        "pronunciation": "/əˈɡɹi/",
+        "audio": "agree.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đồng ý",
+        "definition": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+        "example": "all parties agree in the expediency of the law.",
+        "exampleVi": "tất cả các bên đồng ý về tính hiệu quả của pháp luật.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "agree process, key agree",
+        "wordFamily": "agree (verb)",
+        "image": "agree.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12430,
+        "word": "disagree",
+        "pronunciation": "/dɪsəˈɡɹiː/",
+        "audio": "disagree.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "không đồng ý",
+        "definition": "To fail to agree; to have a different opinion or belief.",
+        "example": "Bob says cats are friendlier than dogs, but I disagree.",
+        "exampleVi": "Bob nói mèo thân thiện hơn chó nhưng tôi không đồng ý.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "disagree process, key disagree",
+        "wordFamily": "disagree (verb)",
+        "image": "disagree.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12431,
+        "word": "vote",
+        "pronunciation": "/vəʊt/",
+        "audio": "vote.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bỏ phiếu",
+        "definition": "A formalized choice on matters of administration or other democratic activities",
+        "example": "One occasion indicative votes were used was in 2003 when MPs were presented with seven different options on how to reform the House of Lords.",
+        "exampleVi": "Một lần bỏ phiếu chỉ định đã được sử dụng là vào năm 2003 khi các nghị sĩ được đưa ra bảy lựa chọn khác nhau về cách cải tổ Hạ viện.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "vote process, key vote",
+        "wordFamily": "vote (noun)",
+        "image": "vote.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12432,
+        "word": "propose",
+        "pronunciation": "/pɹəˈpəʊz/",
+        "audio": "propose.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đề nghị",
+        "definition": "An objective or aim.",
+        "example": "We need to understand the concept of propose.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đề xuất.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "propose process, key propose",
+        "wordFamily": "propose (noun)",
+        "image": "propose.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12433,
+        "word": "suggest",
+        "pronunciation": "/səˈdʒɛst/",
+        "audio": "suggest.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "gợi ý",
+        "definition": "To imply but stop short of saying explicitly.",
+        "example": "Are you suggesting that I killed my wife?",
+        "exampleVi": "Ý bạn là tôi đã giết vợ mình?",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "suggest process, key suggest",
+        "wordFamily": "suggest (verb)",
+        "image": "suggest.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12434,
+        "word": "present",
+        "pronunciation": "/pɹəˈzɛnt/",
+        "audio": "present.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiện tại",
+        "definition": "The current moment or period of time.",
+        "example": "We need to understand the concept of present.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về hiện tại.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "present process, key present",
+        "wordFamily": "present (noun)",
+        "image": "present.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12435,
+        "word": "slide",
+        "pronunciation": "/slaɪd/",
+        "audio": "slide.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cầu trượt",
+        "definition": "An item of play equipment that children can climb up and then slide down again.",
+        "example": "The long, red slide was great fun for the kids.",
+        "exampleVi": "Đường trượt dài màu đỏ mang lại niềm vui lớn cho bọn trẻ.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "slide process, key slide",
+        "wordFamily": "slide (noun)",
+        "image": "slide.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12436,
+        "word": "projector",
+        "pronunciation": "/projector/",
+        "audio": "projector.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy chiếu",
+        "definition": "Someone who devises or suggests a project; a proposer or planner of something.",
+        "example": "We need to understand the concept of projector.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm máy chiếu.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "projector process, key projector",
+        "wordFamily": "projector (noun)",
+        "image": "projector.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12437,
+        "word": "room",
+        "pronunciation": "/ɹuːm/",
+        "audio": "room.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng",
+        "definition": "Opportunity or scope (to do something).",
+        "example": "We need to understand the concept of room.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phòng.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "room process, key room",
+        "wordFamily": "room (noun)",
+        "image": "room.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12438,
+        "word": "attend",
+        "pronunciation": "/əˈtɛnd/",
+        "audio": "attend.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tham gia",
+        "definition": "To listen to (something or someone); to pay attention to; regard; heed.",
+        "example": "We need to understand the concept of attend.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tham dự.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "attend process, key attend",
+        "wordFamily": "attend (verb)",
+        "image": "attend.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12439,
+        "word": "participant",
+        "pronunciation": "/pɑːˈtɪsɪpənt/",
+        "audio": "participant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người tham gia",
+        "definition": "One who participates.",
+        "example": "All participants must adhere to the rules of the competition.",
+        "exampleVi": "Tất cả những người tham gia phải tuân thủ các quy định của cuộc thi.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "participant process, key participant",
+        "wordFamily": "participant (noun)",
+        "image": "participant.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12440,
+        "word": "chairman",
+        "pronunciation": "/ˈtʃɛːmən/",
+        "audio": "chairman.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chủ tịch",
+        "definition": "A person presiding over a meeting.",
+        "example": "We need to understand the concept of chairman.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chủ tịch.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chairman process, key chairman",
+        "wordFamily": "chairman (noun)",
+        "image": "chairman.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12441,
+        "word": "leader",
+        "pronunciation": "/ˈlidɚ/",
+        "audio": "leader.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lãnh đạo",
+        "definition": "Any person that leads or directs",
+        "example": "We need to understand the concept of leader.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người lãnh đạo.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "leader process, key leader",
+        "wordFamily": "leader (noun)",
+        "image": "leader.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12442,
+        "word": "schedule",
+        "pronunciation": "/ˈskɛ.dʒu.əl/",
+        "audio": "schedule.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch trình",
+        "definition": "A slip of paper; a short note.",
+        "example": "We need to understand the concept of schedule.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lịch trình.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "schedule process, key schedule",
+        "wordFamily": "schedule (noun)",
+        "image": "schedule.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12443,
+        "word": "postpone",
+        "pronunciation": "/poʊstˈpoʊn/",
+        "audio": "postpone.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hoãn",
+        "definition": "To delay or put off an event, appointment etc.",
+        "example": "We need to understand the concept of postpone.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trì hoãn.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "postpone process, key postpone",
+        "wordFamily": "postpone (verb)",
+        "image": "postpone.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12444,
+        "word": "cancel",
+        "pronunciation": "/ˈkænsl̩/",
+        "audio": "cancel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Hủy bỏ",
+        "definition": "A cancellation (US); (nonstandard in some kinds of English).",
+        "example": "We need to understand the concept of cancel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hủy bỏ.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cancel process, key cancel",
+        "wordFamily": "cancel (noun)",
+        "image": "cancel.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12445,
+        "word": "point",
+        "pronunciation": "/point/",
+        "audio": "point.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điểm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word point.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điểm.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "point process, key point",
+        "wordFamily": "point (noun)",
+        "image": "point.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12446,
+        "word": "opinion",
+        "pronunciation": "/əˈpɪnjən/",
+        "audio": "opinion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ý kiến",
+        "definition": "A subjective belief, judgment or perspective that a person has formed about a topic, issue, person or thing.",
+        "example": "Every man is a fool in some man's opinion.",
+        "exampleVi": "Mọi người đều là kẻ ngốc theo quan điểm của một số người.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "opinion process, key opinion",
+        "wordFamily": "opinion (noun)",
+        "image": "opinion.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12447,
+        "word": "consensus",
+        "pronunciation": "/consensus/",
+        "audio": "consensus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đồng thuận",
+        "definition": "A process of decision-making that seeks widespread agreement among group members.",
+        "example": "We need to understand the concept of consensus.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đồng thuận.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "consensus process, key consensus",
+        "wordFamily": "consensus (noun)",
+        "image": "consensus.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12448,
+        "word": "compromise",
+        "pronunciation": "/ˈkɒmpɹəˌmaɪz/",
+        "audio": "compromise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thỏa hiệp",
+        "definition": "The settlement of differences by arbitration or by consent reached by mutual concessions.",
+        "example": "We need to understand the concept of compromise.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thỏa hiệp.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "compromise process, key compromise",
+        "wordFamily": "compromise (noun)",
+        "image": "compromise.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12449,
+        "word": "conflict",
+        "pronunciation": "/kənˈflɪkt/",
+        "audio": "conflict.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xung đột",
+        "definition": "A clash or disagreement, often violent, between two or more opposing groups or individuals.",
+        "example": "The conflict between the government and the rebels began three years ago.",
+        "exampleVi": "Cuộc xung đột giữa chính phủ và quân nổi dậy bắt đầu từ ba năm trước.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "conflict process, key conflict",
+        "wordFamily": "conflict (noun)",
+        "image": "conflict.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12450,
+        "word": "resolution",
+        "pronunciation": "/ˌɹɛzəˈluːʃ(ə)n/",
+        "audio": "resolution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghị quyết",
+        "definition": "A strong will, determination.",
+        "example": "We need to understand the concept of resolution.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về độ phân giải.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "resolution process, key resolution",
+        "wordFamily": "resolution (noun)",
+        "image": "resolution.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12451,
+        "word": "motion",
+        "pronunciation": "/ˈməʊʃən/",
+        "audio": "motion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cử động",
+        "definition": "A state of progression from one place to another.",
+        "example": "We need to understand the concept of motion.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chuyển động.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "motion process, key motion",
+        "wordFamily": "motion (noun)",
+        "image": "motion.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12452,
+        "word": "speech",
+        "pronunciation": "/ˈspiːtʃ/",
+        "audio": "speech.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lời nói",
+        "definition": "The faculty of uttering articulate sounds or words; the ability to speak or to use vocalizations to communicate.",
+        "example": "It was hard to hear the sounds of his speech over the noise. He had a bad speech impediment.",
+        "exampleVi": "Thật khó để nghe được âm thanh bài phát biểu của anh ấy vì tiếng ồn. Anh ấy có một trở ngại về lời nói.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "speech process, key speech",
+        "wordFamily": "speech (noun)",
+        "image": "speech.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12453,
+        "word": "argument",
+        "pronunciation": "/ˈɑːɡjʊmənt/",
+        "audio": "argument.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lý lẽ",
+        "definition": "A fact or statement used to support a proposition; a reason.",
+        "example": "We need to understand the concept of argument.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lập luận.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "argument process, key argument",
+        "wordFamily": "argument (noun)",
+        "image": "argument.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12454,
+        "word": "briefing",
+        "pronunciation": "/ˈbɹiːfɪŋ/",
+        "audio": "briefing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giao ban",
+        "definition": "To summarize a recent development to some person with decision-making power.",
+        "example": "The U.S. president was briefed on the military coup and its implications on African stability.",
+        "exampleVi": "Tổng thống Mỹ đã được thông báo tóm tắt về cuộc đảo chính quân sự và những tác động của nó đối với sự ổn định của châu Phi.",
+        "topic": "Meetings",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "briefing process, key briefing",
+        "wordFamily": "briefing (noun)",
+        "image": "briefing.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12455,
+        "word": "panel",
+        "pronunciation": "/panel/",
+        "audio": "panel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảng điều khiển",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word panel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng bảng từ.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "panel process, key panel",
+        "wordFamily": "panel (noun)",
+        "image": "panel.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12456,
+        "word": "convention",
+        "pronunciation": "/kənˈvɛn.ʃən/",
+        "audio": "convention.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quy ước",
+        "definition": "A meeting or gathering.",
+        "example": "The convention was held in Geneva.",
+        "exampleVi": "Hội nghị được tổ chức tại Geneva.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "convention process, key convention",
+        "wordFamily": "convention (noun)",
+        "image": "convention.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12457,
+        "word": "workshop",
+        "pronunciation": "/ˈwɜːk.ʃɒp/",
+        "audio": "workshop.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hội thảo",
+        "definition": "A room, especially one which is not particularly large, used for manufacturing or other light industrial work.",
+        "example": "We need to understand the concept of workshop.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hội thảo.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "workshop process, key workshop",
+        "wordFamily": "workshop (noun)",
+        "image": "workshop.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12458,
+        "word": "seminar",
+        "pronunciation": "/seminar/",
+        "audio": "seminar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hội thảo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word seminar.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hội thảo.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "seminar process, key seminar",
+        "wordFamily": "seminar (noun)",
+        "image": "seminar.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12459,
+        "word": "discussion",
+        "pronunciation": "/dɪsˈkʊʃən/",
+        "audio": "discussion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thảo luận",
+        "definition": "Conversation or debate concerning a particular topic.",
+        "example": "My discussion with the professor was very enlightening.",
+        "exampleVi": "Cuộc thảo luận của tôi với giáo sư rất thú vị.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "discussion process, key discussion",
+        "wordFamily": "discussion (noun)",
+        "image": "discussion.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12460,
+        "word": "debate",
+        "pronunciation": "/dɪˈbeɪt/",
+        "audio": "debate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tranh luận",
+        "definition": "An argument, or discussion, usually in an ordered or formal setting, often with more than two people, generally ending with a vote or other decision.",
+        "example": "After a four-hour debate, the committee voted to table the motion.",
+        "exampleVi": "Sau cuộc tranh luận kéo dài bốn giờ, ủy ban đã bỏ phiếu thông qua đề xuất này.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "debate process, key debate",
+        "wordFamily": "debate (noun)",
+        "image": "debate.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12461,
+        "word": "forum",
+        "pronunciation": "/ˈfɔːɹəm/",
+        "audio": "forum.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "diễn đàn",
+        "definition": "A place for discussion.",
+        "example": "We need to understand the concept of forum.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm diễn đàn.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "forum process, key forum",
+        "wordFamily": "forum (noun)",
+        "image": "forum.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12462,
+        "word": "conference",
+        "pronunciation": "/ˈkɒn.fə.ɹəns/",
+        "audio": "conference.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hội nghị",
+        "definition": "The act of consulting together formally; serious conversation or discussion; interchange of views.",
+        "example": "We need to understand the concept of conference.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hội nghị.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "conference process, key conference",
+        "wordFamily": "conference (noun)",
+        "image": "conference.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12463,
+        "word": "symposium",
+        "pronunciation": "/sɪm.ˈpoʊ.zi.əm/",
+        "audio": "symposium.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hội nghị chuyên đề",
+        "definition": "A conference or other meeting for discussion of a topic, especially one in which the participants make presentations.",
+        "example": "We need to understand the concept of symposium.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hội nghị chuyên đề.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "symposium process, key symposium",
+        "wordFamily": "symposium (noun)",
+        "image": "symposium.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12464,
+        "word": "hearing",
+        "pronunciation": "/ˈhiːɹ.ɪŋ/",
+        "audio": "hearing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "điều trần",
+        "definition": "(stative) To perceive sounds through the ear.",
+        "example": "I was deaf, and now I can hear.",
+        "exampleVi": "Tôi đã bị điếc và bây giờ tôi có thể nghe được.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hearing process, key hearing",
+        "wordFamily": "hearing (noun)",
+        "image": "hearing.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12465,
+        "word": "assembly",
+        "pronunciation": "/əˈsɛmb.lɪ/",
+        "audio": "assembly.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hội đồng",
+        "definition": "A set of pieces that work together in unison as a mechanism or device.",
+        "example": "In order to change the bearing, you must first remove the gearbox assembly.",
+        "exampleVi": "Để thay ổ trục, trước tiên bạn phải tháo cụm hộp số.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "assembly process, key assembly",
+        "wordFamily": "assembly (noun)",
+        "image": "assembly.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12466,
+        "word": "consultation",
+        "pronunciation": "/consultation/",
+        "audio": "consultation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tham vấn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word consultation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tham vấn.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consultation process, key consultation",
+        "wordFamily": "consultation (noun)",
+        "image": "consultation.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12467,
+        "word": "gathering",
+        "pronunciation": "/gathering/",
+        "audio": "gathering.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tập hợp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word gathering.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thu thập.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gathering process, key gathering",
+        "wordFamily": "gathering (noun)",
+        "image": "gathering.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12468,
+        "word": "session",
+        "pronunciation": "/ˈsɛʃən/",
+        "audio": "session.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phiên họp",
+        "definition": "An informal gathering of musicians to play music, especially improvised jazz or a similar genre.",
+        "example": "We need to understand the concept of session.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phiên.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "session process, key session",
+        "wordFamily": "session (noun)",
+        "image": "session.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12469,
+        "word": "sitting",
+        "pronunciation": "/ˈsɪtɪŋ/",
+        "audio": "sitting.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngồi",
+        "definition": "A period during which one is seated for a specific purpose.",
+        "example": "Due to the sheer volume of guests, we had to have two sittings for the meal.",
+        "exampleVi": "Do lượng khách quá đông nên chúng tôi phải ngồi ăn hai lần.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sitting process, key sitting",
+        "wordFamily": "sitting (noun)",
+        "image": "sitting.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12470,
+        "word": "timetable",
+        "pronunciation": "/ˈtaɪmˌteɪbəl/",
+        "audio": "timetable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời gian biểu",
+        "definition": "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "example": "The timetable has been changed several times since it was first announced.",
+        "exampleVi": "Lịch trình đã được thay đổi nhiều lần kể từ lần đầu tiên được công bố.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "timetable process, key timetable",
+        "wordFamily": "timetable (noun)",
+        "image": "timetable.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12471,
+        "word": "venue",
+        "pronunciation": "/ˈvɛnjuː/",
+        "audio": "venue.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa điểm",
+        "definition": "A theater, auditorium, arena, or other area designated for sporting or entertainment events.",
+        "example": "We need to understand the concept of venue.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa điểm.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "venue process, key venue",
+        "wordFamily": "venue (noun)",
+        "image": "venue.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12472,
+        "word": "attendee",
+        "pronunciation": "/attendee/",
+        "audio": "attendee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người tham dự",
+        "definition": "A person who is in attendance or in the audience of an event.",
+        "example": "We need to understand the concept of attendee.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người tham dự.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "attendee process, key attendee",
+        "wordFamily": "attendee (noun)",
+        "image": "attendee.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12473,
+        "word": "audience",
+        "pronunciation": "/ˈɔːdi.əns/",
+        "audio": "audience.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khán giả",
+        "definition": "A group of people within hearing; specifically, a large gathering of people listening to or watching a performance, speech, etc.",
+        "example": "We joined the audience just as the lights went down.",
+        "exampleVi": "Chúng tôi tham gia cùng khán giả ngay khi đèn tắt.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "audience process, key audience",
+        "wordFamily": "audience (noun)",
+        "image": "audience.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12474,
+        "word": "location",
+        "pronunciation": "/ləʊˈkeɪʃən/",
+        "audio": "location.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa điểm",
+        "definition": "A particular point or place in physical space.",
+        "example": "We need to understand the concept of location.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vị trí.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "location process, key location",
+        "wordFamily": "location (noun)",
+        "image": "location.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12475,
+        "word": "speaker",
+        "pronunciation": "/ˈspiːkə/",
+        "audio": "speaker.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "diễn giả",
+        "definition": "One who speaks.",
+        "example": "We need to understand the concept of speaker.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người nói.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "speaker process, key speaker",
+        "wordFamily": "speaker (noun)",
+        "image": "speaker.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12476,
+        "word": "moderator",
+        "pronunciation": "/ˈmɒdəˌɹeɪtə(ɹ)/",
+        "audio": "moderator.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người điều hành",
+        "definition": "Someone who moderates",
+        "example": "We need to understand the concept of moderator.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người điều hành.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "moderator process, key moderator",
+        "wordFamily": "moderator (noun)",
+        "image": "moderator.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12477,
+        "word": "chairperson",
+        "pronunciation": "/chairperson/",
+        "audio": "chairperson.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chủ tịch",
+        "definition": "A chairman or chairwoman, someone who presides over a meeting, board, etc.",
+        "example": "We need to understand the concept of chairperson.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chủ tịch.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "chairperson process, key chairperson",
+        "wordFamily": "chairperson (noun)",
+        "image": "chairperson.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12478,
+        "word": "presenter",
+        "pronunciation": "/pɹɪˈzɛntə(ɹ)/",
+        "audio": "presenter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người trình bày",
+        "definition": "Someone who presents a broadcast programme; a compere or master of ceremonies.",
+        "example": "We need to understand the concept of presenter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người trình bày.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "presenter process, key presenter",
+        "wordFamily": "presenter (noun)",
+        "image": "presenter.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12479,
+        "word": "keynote",
+        "pronunciation": "/ˈkiːˌnoʊt/",
+        "audio": "keynote.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài phát biểu quan trọng",
+        "definition": "The note on which a musical key is based; the tonic.",
+        "example": "We need to understand the concept of keynote.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bài phát biểu.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "keynote process, key keynote",
+        "wordFamily": "keynote (noun)",
+        "image": "keynote.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12480,
+        "word": "proxy",
+        "pronunciation": "/ˈpɹɒk.si/",
+        "audio": "proxy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "proxy",
+        "definition": "An agent or substitute authorized to act for another person.",
+        "example": "We need to understand the concept of proxy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm proxy.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "proxy process, key proxy",
+        "wordFamily": "proxy (noun)",
+        "image": "proxy.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12481,
+        "word": "debriefing",
+        "pronunciation": "/diːˈbɹiːfɪŋ/",
+        "audio": "debriefing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "cuộc phỏng vấn",
+        "definition": "To question someone after a military mission in order to obtain intelligence.",
+        "example": "We need to understand the concept of debriefing.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về việc phỏng vấn.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "debriefing process, key debriefing",
+        "wordFamily": "debriefing (noun)",
+        "image": "debriefing.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12482,
+        "word": "adjourn",
+        "pronunciation": "/əˈdʒɜːn/",
+        "audio": "adjourn.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hoãn lại",
+        "definition": "To postpone.",
+        "example": "The trial was adjourned for a week.",
+        "exampleVi": "Phiên tòa đã bị hoãn lại một tuần.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "adjourn process, key adjourn",
+        "wordFamily": "adjourn (noun)",
+        "image": "adjourn.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12483,
+        "word": "convene",
+        "pronunciation": "/kənˈvɪin/",
+        "audio": "convene.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "triệu tập",
+        "definition": "To come together; to meet; to unite.",
+        "example": "We need to understand the concept of convene.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm triệu tập.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "convene process, key convene",
+        "wordFamily": "convene (noun)",
+        "image": "convene.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12484,
+        "word": "quorum",
+        "pronunciation": "/ˈkwɔː.ɹəm/",
+        "audio": "quorum.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "túc số",
+        "definition": "The minimum number of members required for a group to officially conduct business and to cast votes, often but not necessarily a majority or supermajority.",
+        "example": "We can discuss the issue tonight, but cannot vote until we have a quorum.",
+        "exampleVi": "Chúng ta có thể thảo luận vấn đề này tối nay, nhưng không thể bỏ phiếu cho đến khi có đủ số đại biểu cần thiết.",
+        "topic": "Meetings",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "quorum process, key quorum",
+        "wordFamily": "quorum (noun)",
+        "image": "quorum.webp",
+        "tags": [
+            "meetings",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

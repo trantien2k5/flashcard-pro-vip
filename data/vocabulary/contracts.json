@@ -1,0 +1,1978 @@
+[
+    {
+        "id": 10738,
+        "word": "contract",
+        "pronunciation": "/ˈkɒntɹækt/",
+        "audio": "contract.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hợp đồng",
+        "definition": "An agreement between two or more parties, to perform a specific job or work order, often temporary or of fixed duration and usually governed by a written agreement.",
+        "example": "Marriage is a contract.",
+        "exampleVi": "Hôn nhân là một hợp đồng.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "contract process, key contract",
+        "wordFamily": "contract (noun)",
+        "image": "contract.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10739,
+        "word": "agreement",
+        "pronunciation": "/əˈɡɹiːmənt/",
+        "audio": "agreement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiệp định",
+        "definition": "An understanding between entities to follow a specific course of conduct.",
+        "example": "to enter an agreement;  the UK and US negotiators nearing agreement;  he nodded his agreement.",
+        "exampleVi": "để tham gia một thỏa thuận;  các nhà đàm phán Anh và Mỹ sắp đạt được thỏa thuận;  anh gật đầu đồng ý.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "agreement process, key agreement",
+        "wordFamily": "agreement (noun)",
+        "image": "agreement.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10740,
+        "word": "deal",
+        "pronunciation": "/diːl/",
+        "audio": "deal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thỏa thuận",
+        "definition": "A division, a portion, a share.",
+        "example": "We gave three deals of grain in tribute to the king.",
+        "exampleVi": "Chúng tôi đã dâng ba lạng thóc để cống nạp cho nhà vua.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "deal process, key deal",
+        "wordFamily": "deal (noun)",
+        "image": "deal.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10741,
+        "word": "treaty",
+        "pronunciation": "/ˈtɹiːti/",
+        "audio": "treaty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiệp ước",
+        "definition": "A binding agreement concluded by subjects of international law, namely states and international organizations.",
+        "example": "We need to understand the concept of treaty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hiệp ước.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "treaty process, key treaty",
+        "wordFamily": "treaty (noun)",
+        "image": "treaty.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10742,
+        "word": "sign",
+        "pronunciation": "/saɪn/",
+        "audio": "sign.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dấu hiệu",
+        "definition": "(sometimes also used uncountably) A visible indication.",
+        "example": "I gave them a thumbs-up sign.",
+        "exampleVi": "Tôi đưa ngón tay cái lên cho họ.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sign process, key sign",
+        "wordFamily": "sign (noun)",
+        "image": "sign.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10743,
+        "word": "signature",
+        "pronunciation": "/ˈsɪɡnətʃə/",
+        "audio": "signature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chữ ký",
+        "definition": "A person's name, written by that person, used as identification or to signify approval of accompanying material, such as a legal contract.",
+        "example": "We need to understand the concept of signature.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chữ ký.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "signature process, key signature",
+        "wordFamily": "signature (noun)",
+        "image": "signature.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10744,
+        "word": "clause",
+        "pronunciation": "/klɔːz/",
+        "audio": "clause.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điều khoản",
+        "definition": "(grammar) A verb, its necessary grammatical arguments, and any adjuncts affecting them.",
+        "example": "We need to understand the concept of clause.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mệnh đề.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "clause process, key clause",
+        "wordFamily": "clause (noun)",
+        "image": "clause.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10745,
+        "word": "term",
+        "pronunciation": "/tɜːm/",
+        "audio": "term.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuật ngữ",
+        "definition": "That which limits the extent of anything; limit, extremity, bound, boundary.",
+        "example": "\"Alright, look...we can spend the holidays with your parents, but this time it will be on my terms.\"",
+        "exampleVi": "\"Được rồi, nghe này...chúng ta có thể dành kỳ nghỉ với bố mẹ cậu, nhưng lần này sẽ theo điều kiện của tôi.\"",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "term process, key term",
+        "wordFamily": "term (noun)",
+        "image": "term.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10746,
+        "word": "condition",
+        "pronunciation": "/kənˈdɪʃən/",
+        "audio": "condition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tình trạng",
+        "definition": "A logical clause or phrase that a conditional statement uses. The phrase can either be true or false.",
+        "example": "We need to understand the concept of condition.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm điều kiện.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "condition process, key condition",
+        "wordFamily": "condition (noun)",
+        "image": "condition.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10747,
+        "word": "party",
+        "pronunciation": "/ˈpɑ(ː)ɾi/",
+        "audio": "party.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi tiệc",
+        "definition": "A person or group of people constituting a particular side in a contract or legal action.",
+        "example": "The contract requires that the party of the first part pay the fee.",
+        "exampleVi": "Hợp đồng yêu cầu bên thứ nhất phải trả phí.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "party process, key party",
+        "wordFamily": "party (noun)",
+        "image": "party.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10748,
+        "word": "partner",
+        "pronunciation": "/ˈpɐːtnə/",
+        "audio": "partner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cộng sự",
+        "definition": "Someone who is associated with another in a common activity or interest.",
+        "example": "We need to understand the concept of partner.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đối tác.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "partner process, key partner",
+        "wordFamily": "partner (noun)",
+        "image": "partner.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10749,
+        "word": "legal",
+        "pronunciation": "/ˈliː.ɡəl/",
+        "audio": "legal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hợp pháp",
+        "definition": "The legal department of a company.",
+        "example": "Legal wants this in writing.",
+        "exampleVi": "Pháp lý muốn điều này bằng văn bản.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "legal process, key legal",
+        "wordFamily": "legal (noun)",
+        "image": "legal.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10750,
+        "word": "binding",
+        "pronunciation": "/ˈbaɪndɪŋ/",
+        "audio": "binding.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "ràng buộc",
+        "definition": "To tie; to confine by any ligature.",
+        "example": "We need to understand the concept of binding.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ràng buộc.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "binding process, key binding",
+        "wordFamily": "binding (verb)",
+        "image": "binding.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10751,
+        "word": "breach",
+        "pronunciation": "[bɹiːtʃ]",
+        "audio": "breach.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự vi phạm",
+        "definition": "A gap or opening made by breaking or battering, as in a wall, fortification or levee / embankment; the space between the parts of a solid body rent by violence",
+        "example": "We need to understand the concept of breach.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vi phạm.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "breach process, key breach",
+        "wordFamily": "breach (noun)",
+        "image": "breach.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10752,
+        "word": "terminate",
+        "pronunciation": "/ˈtɜːmɪneɪt/",
+        "audio": "terminate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chấm dứt",
+        "definition": "To end, especially in an incomplete state.",
+        "example": "to terminate a surface by a line",
+        "exampleVi": "để kết thúc một bề mặt bằng một đường",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "terminate process, key terminate",
+        "wordFamily": "terminate (verb)",
+        "image": "terminate.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10753,
+        "word": "renew",
+        "pronunciation": "/ɹɪˈnjuː/",
+        "audio": "renew.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "gia hạn",
+        "definition": "To make (something) new again; to restore to freshness or original condition.",
+        "example": "We need to understand the concept of renew.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đổi mới.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "renew process, key renew",
+        "wordFamily": "renew (verb)",
+        "image": "renew.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10754,
+        "word": "extend",
+        "pronunciation": "/ɛkˈstɛnd/",
+        "audio": "extend.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "mở rộng",
+        "definition": "To increase in extent.",
+        "example": "We need to understand the concept of extend.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mở rộng.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "extend process, key extend",
+        "wordFamily": "extend (verb)",
+        "image": "extend.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10755,
+        "word": "draft",
+        "pronunciation": "/dɹæft/",
+        "audio": "draft.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản nháp",
+        "definition": "A current of air, usually coming into a room or vehicle.",
+        "example": "We need to understand the concept of draft.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dự thảo.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "draft process, key draft",
+        "wordFamily": "draft (noun)",
+        "image": "draft.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10756,
+        "word": "negotiate",
+        "pronunciation": "/nəˈɡəʊ.ʃi.eɪt/",
+        "audio": "negotiate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thương lượng",
+        "definition": "To confer with others in order to come to terms or reach an agreement.",
+        "example": "We need to understand the concept of negotiate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đàm phán.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "negotiate process, key negotiate",
+        "wordFamily": "negotiate (verb)",
+        "image": "negotiate.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10757,
+        "word": "approve",
+        "pronunciation": "/əˈpɹuːv/",
+        "audio": "approve.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chấp thuận",
+        "definition": "To sanction officially; to ratify; to confirm; to set as satisfactory.",
+        "example": "Although we may disagree with it, we must nevertheless approve the sentence handed down by the court-martial.",
+        "exampleVi": "Mặc dù chúng tôi có thể không đồng ý với điều đó, nhưng chúng tôi vẫn phải chấp nhận bản án mà tòa án quân sự đưa ra.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "approve process, key approve",
+        "wordFamily": "approve (verb)",
+        "image": "approve.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10758,
+        "word": "obligations",
+        "pronunciation": "/obligations/",
+        "audio": "obligations.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghĩa vụ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word obligations.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nghĩa vụ.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "obligations process, key obligations",
+        "wordFamily": "obligations (noun)",
+        "image": "obligations.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10759,
+        "word": "rights",
+        "pronunciation": "/ɹaɪts/",
+        "audio": "rights.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quyền",
+        "definition": "That which complies with justice, law or reason.",
+        "example": "We're on the side of right in this contest.",
+        "exampleVi": "Chúng tôi đứng về phía bên phải trong cuộc thi này.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rights process, key rights",
+        "wordFamily": "rights (noun)",
+        "image": "rights.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10760,
+        "word": "liability",
+        "pronunciation": "/laɪəˈbɪlɪti/",
+        "audio": "liability.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trách nhiệm pháp lý",
+        "definition": "An obligation, debt or responsibility owed to someone.",
+        "example": "We need to understand the concept of liability.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trách nhiệm.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "liability process, key liability",
+        "wordFamily": "liability (noun)",
+        "image": "liability.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10761,
+        "word": "penalty",
+        "pronunciation": "/ˈpɛnəlti/",
+        "audio": "penalty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hình phạt",
+        "definition": "A legal sentence.",
+        "example": "The penalty for his crime was to do hard labor.",
+        "exampleVi": "Hình phạt cho tội ác của anh ta là lao động khổ sai.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "penalty process, key penalty",
+        "wordFamily": "penalty (noun)",
+        "image": "penalty.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10762,
+        "word": "dispute",
+        "pronunciation": "/ˈdɪs.pjuːt/",
+        "audio": "dispute.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tranh luận",
+        "definition": "An argument or disagreement, a failure to agree.",
+        "example": "We need to understand the concept of dispute.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tranh chấp.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dispute process, key dispute",
+        "wordFamily": "dispute (noun)",
+        "image": "dispute.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10763,
+        "word": "resolution",
+        "pronunciation": "/ˌɹɛzəˈluːʃ(ə)n/",
+        "audio": "resolution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghị quyết",
+        "definition": "A strong will, determination.",
+        "example": "We need to understand the concept of resolution.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về độ phân giải.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "resolution process, key resolution",
+        "wordFamily": "resolution (noun)",
+        "image": "resolution.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10764,
+        "word": "arbitration",
+        "pronunciation": "/ˌɑː.bɪˈtɹeɪ.ʃən/",
+        "audio": "arbitration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trọng tài",
+        "definition": "The act or process of arbitrating.",
+        "example": "We need to understand the concept of arbitration.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trọng tài.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "arbitration process, key arbitration",
+        "wordFamily": "arbitration (noun)",
+        "image": "arbitration.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10765,
+        "word": "settlement",
+        "pronunciation": "/ˈset.l.mənt/",
+        "audio": "settlement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải quyết",
+        "definition": "The act of settling.",
+        "example": "We need to understand the concept of settlement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hòa giải.",
+        "topic": "Contracts",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "settlement process, key settlement",
+        "wordFamily": "settlement (noun)",
+        "image": "settlement.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10766,
+        "word": "void",
+        "pronunciation": "/void/",
+        "audio": "void.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vô hiệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word void.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ void.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "void process, key void",
+        "wordFamily": "void (noun)",
+        "image": "void.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10767,
+        "word": "violation",
+        "pronunciation": "/violation/",
+        "audio": "violation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vi phạm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word violation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vi phạm.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "violation process, key violation",
+        "wordFamily": "violation (noun)",
+        "image": "violation.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10768,
+        "word": "provision",
+        "pronunciation": "/provision/",
+        "audio": "provision.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điều khoản",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word provision.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cung cấp.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "provision process, key provision",
+        "wordFamily": "provision (noun)",
+        "image": "provision.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10769,
+        "word": "execute",
+        "pronunciation": "/execute/",
+        "audio": "execute.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thực hiện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word execute.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thực thi.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "execute process, key execute",
+        "wordFamily": "execute (noun)",
+        "image": "execute.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10770,
+        "word": "stipulation",
+        "pronunciation": "/stipulation/",
+        "audio": "stipulation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quy định",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word stipulation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ quy định.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stipulation process, key stipulation",
+        "wordFamily": "stipulation (noun)",
+        "image": "stipulation.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10771,
+        "word": "expire",
+        "pronunciation": "/expire/",
+        "audio": "expire.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hết hạn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word expire.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hết hạn.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "expire process, key expire",
+        "wordFamily": "expire (noun)",
+        "image": "expire.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10772,
+        "word": "warranty",
+        "pronunciation": "/warranty/",
+        "audio": "warranty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo hành",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word warranty.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bảo hành.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "warranty process, key warranty",
+        "wordFamily": "warranty (noun)",
+        "image": "warranty.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10773,
+        "word": "modify",
+        "pronunciation": "/modify/",
+        "audio": "modify.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sửa đổi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word modify.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sửa đổi.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "modify process, key modify",
+        "wordFamily": "modify (noun)",
+        "image": "modify.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10774,
+        "word": "witness",
+        "pronunciation": "/witness/",
+        "audio": "witness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân chứng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word witness.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhân chứng.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "witness process, key witness",
+        "wordFamily": "witness (noun)",
+        "image": "witness.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10775,
+        "word": "enforceable",
+        "pronunciation": "/enforceable/",
+        "audio": "enforceable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "có hiệu lực thi hành",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word enforceable.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ có thể thi hành.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "enforceable process, key enforceable",
+        "wordFamily": "enforceable (noun)",
+        "image": "enforceable.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10776,
+        "word": "notary",
+        "pronunciation": "/notary/",
+        "audio": "notary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công chứng viên",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word notary.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ notary.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "notary process, key notary",
+        "wordFamily": "notary (noun)",
+        "image": "notary.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10777,
+        "word": "invalid",
+        "pronunciation": "/invalid/",
+        "audio": "invalid.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "không hợp lệ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word invalid.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ không hợp lệ.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "invalid process, key invalid",
+        "wordFamily": "invalid (noun)",
+        "image": "invalid.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10778,
+        "word": "guarantee",
+        "pronunciation": "/guarantee/",
+        "audio": "guarantee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo lãnh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word guarantee.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đảm bảo.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "guarantee process, key guarantee",
+        "wordFamily": "guarantee (noun)",
+        "image": "guarantee.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10779,
+        "word": "obligation",
+        "pronunciation": "/obligation/",
+        "audio": "obligation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghĩa vụ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word obligation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nghĩa vụ.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "obligation process, key obligation",
+        "wordFamily": "obligation (noun)",
+        "image": "obligation.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10780,
+        "word": "amend",
+        "pronunciation": "/amend/",
+        "audio": "amend.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sửa đổi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word amend.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sửa đổi.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "amend process, key amend",
+        "wordFamily": "amend (noun)",
+        "image": "amend.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10781,
+        "word": "fine",
+        "pronunciation": "/fine/",
+        "audio": "fine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phạt tiền",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word fine.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tốt.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fine process, key fine",
+        "wordFamily": "fine (noun)",
+        "image": "fine.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10782,
+        "word": "compromise",
+        "pronunciation": "/ˈkɒmpɹəˌmaɪz/",
+        "audio": "compromise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thỏa hiệp",
+        "definition": "The settlement of differences by arbitration or by consent reached by mutual concessions.",
+        "example": "We need to understand the concept of compromise.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thỏa hiệp.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compromise process, key compromise",
+        "wordFamily": "compromise (noun)",
+        "image": "compromise.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10783,
+        "word": "alliance",
+        "pronunciation": "/əˈlaɪ.əns/",
+        "audio": "alliance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liên minh",
+        "definition": "The state of being allied.",
+        "example": "matrimonial alliances; an alliance between church and state, or between two countries",
+        "exampleVi": "liên minh hôn nhân; một liên minh giữa nhà thờ và nhà nước, hoặc giữa hai quốc gia",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "alliance process, key alliance",
+        "wordFamily": "alliance (noun)",
+        "image": "alliance.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10784,
+        "word": "transaction",
+        "pronunciation": "/tɹænˈzækʃən/",
+        "audio": "transaction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao dịch",
+        "definition": "The act of conducting or carrying out (business, negotiations, plans).",
+        "example": "The transaction was made on Friday with the supplier.",
+        "exampleVi": "Giao dịch được thực hiện vào thứ Sáu với nhà cung cấp.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transaction process, key transaction",
+        "wordFamily": "transaction (noun)",
+        "image": "transaction.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10785,
+        "word": "article",
+        "pronunciation": "/ˈɑːtɪkəl/",
+        "audio": "article.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài viết",
+        "definition": "A piece of nonfictional writing such as a story, report, opinion piece, or entry in a newspaper, magazine, journal, dictionary, encyclopedia, etc.",
+        "example": "We need to understand the concept of article.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bài viết.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "article process, key article",
+        "wordFamily": "article (noun)",
+        "image": "article.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10786,
+        "word": "bargain",
+        "pronunciation": "/-ɡɪn/",
+        "audio": "bargain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mặc cả",
+        "definition": "An agreement between parties concerning the sale of property; or a contract by which one party binds himself to transfer the right to some property for a consideration, and the other party binds himself to receive the property and pay the consideration.",
+        "example": "We need to understand the concept of bargain.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mặc cả.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bargain process, key bargain",
+        "wordFamily": "bargain (noun)",
+        "image": "bargain.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10787,
+        "word": "covenant",
+        "pronunciation": "/ˈkʌv.nənt/",
+        "audio": "covenant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao ước",
+        "definition": "An agreement to do or not do a particular thing.",
+        "example": "We need to understand the concept of covenant.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giao ước.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "covenant process, key covenant",
+        "wordFamily": "covenant (noun)",
+        "image": "covenant.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10788,
+        "word": "compact",
+        "pronunciation": "/kəmˈpækt/",
+        "audio": "compact.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhỏ gọn",
+        "definition": "An agreement or contract.",
+        "example": "We need to understand the concept of compact.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhỏ gọn.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compact process, key compact",
+        "wordFamily": "compact (noun)",
+        "image": "compact.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10789,
+        "word": "section",
+        "pronunciation": "/ˈsɛkʃən/",
+        "audio": "section.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần",
+        "definition": "A cutting; a part cut out from the rest of something.",
+        "example": "We need to understand the concept of section.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phần.",
+        "topic": "Contracts",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "section process, key section",
+        "wordFamily": "section (noun)",
+        "image": "section.webp",
+        "tags": [
+            "contracts",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

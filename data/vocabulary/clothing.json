@@ -1,0 +1,2282 @@
+[
+    {
+        "id": 10368,
+        "word": "shirt",
+        "pronunciation": "/ʃɜːt/",
+        "audio": "shirt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "áo sơ mi",
+        "definition": "An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.",
+        "example": "It can take a while to learn how to iron a shirt properly.",
+        "exampleVi": "Có thể mất một thời gian để học cách ủi áo sơ mi đúng cách.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shirt process, key shirt",
+        "wordFamily": "shirt (noun)",
+        "image": "shirt.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10369,
+        "word": "pants",
+        "pronunciation": "/pænts/",
+        "audio": "pants.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quần dài",
+        "definition": "(Manchester) An outer garment that covers the body from the waist downwards, covering each leg separately, usually as far as the ankles; trousers.",
+        "example": "We need to understand the concept of pants.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về quần.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pants process, key pants",
+        "wordFamily": "pants (noun)",
+        "image": "pants.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10370,
+        "word": "trousers",
+        "pronunciation": "/ˈtɹaʊzəz/",
+        "audio": "trousers.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quần dài",
+        "definition": "An article of clothing that covers the part of the body between the waist and the ankles or knees, and is divided into a separate part for each leg.",
+        "example": "The trousers need to be shortened.",
+        "exampleVi": "Quần cần được cắt ngắn lại.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "trousers process, key trousers",
+        "wordFamily": "trousers (noun)",
+        "image": "trousers.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10371,
+        "word": "jacket",
+        "pronunciation": "/ˈd͡ʒæk.ɪt/",
+        "audio": "jacket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "áo khoác",
+        "definition": "A piece of clothing worn on the upper body outside a shirt or blouse, often waist length to thigh length.",
+        "example": "We need to understand the concept of jacket.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về áo khoác.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "jacket process, key jacket",
+        "wordFamily": "jacket (noun)",
+        "image": "jacket.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10372,
+        "word": "coat",
+        "pronunciation": "/kəʊt/",
+        "audio": "coat.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "áo choàng",
+        "definition": "An outer garment covering the upper torso and arms.Wp",
+        "example": "We need to understand the concept of coat.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về áo khoác.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "coat process, key coat",
+        "wordFamily": "coat (noun)",
+        "image": "coat.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10373,
+        "word": "dress",
+        "pronunciation": "/dɹɛs/",
+        "audio": "dress.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đầm",
+        "definition": "An item of clothing (usually worn by a woman or young girl) which both covers the upper part of the body and includes skirts below the waist.",
+        "example": "Amy and Mary looked very pretty in their dresses.",
+        "exampleVi": "Amy và Mary trông rất xinh đẹp trong bộ váy của họ.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dress process, key dress",
+        "wordFamily": "dress (noun)",
+        "image": "dress.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10374,
+        "word": "skirt",
+        "pronunciation": "/skɜːt/",
+        "audio": "skirt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "váy ngắn",
+        "definition": "An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body.",
+        "example": "We need to understand the concept of skirt.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm váy.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "skirt process, key skirt",
+        "wordFamily": "skirt (noun)",
+        "image": "skirt.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10375,
+        "word": "suit",
+        "pronunciation": "/s(j)uːt/",
+        "audio": "suit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bộ đồ",
+        "definition": "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "example": "Nick hired a navy-blue suit for the wedding.",
+        "exampleVi": "Nick đã thuê một bộ đồ màu xanh nước biển cho đám cưới.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "suit process, key suit",
+        "wordFamily": "suit (noun)",
+        "image": "suit.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10376,
+        "word": "tie",
+        "pronunciation": "/taɪ/",
+        "audio": "tie.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cà vạt",
+        "definition": "A knot; a fastening.",
+        "example": "We need to understand the concept of tie.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cà vạt.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tie process, key tie",
+        "wordFamily": "tie (noun)",
+        "image": "tie.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10377,
+        "word": "hat",
+        "pronunciation": "[hat]",
+        "audio": "hat.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mũ",
+        "definition": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
+        "example": "We need to understand the concept of hat.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chiếc mũ.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hat process, key hat",
+        "wordFamily": "hat (noun)",
+        "image": "hat.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10378,
+        "word": "socks",
+        "pronunciation": "/sɒks/",
+        "audio": "socks.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vớ",
+        "definition": "A knitted or woven covering for the foot.",
+        "example": "We need to understand the concept of socks.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tất.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "socks process, key socks",
+        "wordFamily": "socks (noun)",
+        "image": "socks.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10379,
+        "word": "shoes",
+        "pronunciation": "/ʃuːz/",
+        "audio": "shoes.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đôi giày",
+        "definition": "A protective covering for the foot, with a bottom part composed of thick leather or plastic sole and often a thicker heel, and a softer upper part made of leather or synthetic material. Shoes generally do not extend above the ankle, as opposed to boots, which do.",
+        "example": "Get your shoes on now, or you'll be late for school.",
+        "exampleVi": "Hãy mang giày vào ngay nếu không sẽ muộn học.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shoes process, key shoes",
+        "wordFamily": "shoes (noun)",
+        "image": "shoes.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10380,
+        "word": "boots",
+        "pronunciation": "/buːts/",
+        "audio": "boots.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bốt",
+        "definition": "A heavy shoe that covers part of the leg.",
+        "example": "We need to understand the concept of boots.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ủng.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "boots process, key boots",
+        "wordFamily": "boots (noun)",
+        "image": "boots.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10381,
+        "word": "gloves",
+        "pronunciation": "/ɡlʌvz/",
+        "audio": "gloves.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "găng tay",
+        "definition": "An item of clothing other than a mitten, covering all or part of the hand and fingers, but usually allowing independent movement of the fingers.",
+        "example": "I wore gloves to keep my hands warm.",
+        "exampleVi": "Tôi đeo găng tay để giữ ấm tay.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gloves process, key gloves",
+        "wordFamily": "gloves (noun)",
+        "image": "gloves.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10382,
+        "word": "scarf",
+        "pronunciation": "/skɑːf/",
+        "audio": "scarf.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khăn quàng cổ",
+        "definition": "A long, often knitted, garment worn around the neck.",
+        "example": "We need to understand the concept of scarf.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chiếc khăn quàng cổ.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "scarf process, key scarf",
+        "wordFamily": "scarf (noun)",
+        "image": "scarf.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10383,
+        "word": "belt",
+        "pronunciation": "/bɛlt/",
+        "audio": "belt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thắt lưng",
+        "definition": "A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.",
+        "example": "As part of the act, the fat clown's belt broke, causing his pants to fall down.",
+        "exampleVi": "Khi đang biểu diễn, thắt lưng của chú hề béo bị đứt khiến quần của anh ta tụt xuống.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "belt process, key belt",
+        "wordFamily": "belt (noun)",
+        "image": "belt.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10384,
+        "word": "pocket",
+        "pronunciation": "/ˈpɒkɪt/",
+        "audio": "pocket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "túi",
+        "definition": "A bag stitched to an item of clothing, used for carrying small items.",
+        "example": "We need to understand the concept of pocket.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm túi.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pocket process, key pocket",
+        "wordFamily": "pocket (noun)",
+        "image": "pocket.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10385,
+        "word": "button",
+        "pronunciation": "/ˈbʌtn̩/",
+        "audio": "button.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái nút",
+        "definition": "One who adjusts, especially for the insurance industry's employment title \"loss adjuster\" (or \"claims adjuster\" in the United States).",
+        "example": "We need to understand the concept of button.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về nút.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "button process, key button",
+        "wordFamily": "button (noun)",
+        "image": "button.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10386,
+        "word": "zipper",
+        "pronunciation": "/ˈzɪpɚ/",
+        "audio": "zipper.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dây kéo",
+        "definition": "A zip fastener.",
+        "example": "We need to understand the concept of zipper.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về dây kéo.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "zipper process, key zipper",
+        "wordFamily": "zipper (noun)",
+        "image": "zipper.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10387,
+        "word": "collar",
+        "pronunciation": "/ˈkɒl.ə/",
+        "audio": "collar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cổ áo",
+        "definition": "Anything that encircles the neck.",
+        "example": "We need to understand the concept of collar.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cổ áo.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "collar process, key collar",
+        "wordFamily": "collar (noun)",
+        "image": "collar.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10388,
+        "word": "uniform",
+        "pronunciation": "/uniform/",
+        "audio": "uniform.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồng phục",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word uniform.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đồng phục.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "uniform process, key uniform",
+        "wordFamily": "uniform (noun)",
+        "image": "uniform.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10389,
+        "word": "pyjamas",
+        "pronunciation": "/pyjamas/",
+        "audio": "pyjamas.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồ ngủ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word pyjamas.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ pyjama.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pyjamas process, key pyjamas",
+        "wordFamily": "pyjamas (noun)",
+        "image": "pyjamas.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10390,
+        "word": "underwear",
+        "pronunciation": "/underwear/",
+        "audio": "underwear.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồ lót",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word underwear.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đồ lót.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "underwear process, key underwear",
+        "wordFamily": "underwear (noun)",
+        "image": "underwear.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10391,
+        "word": "sweater",
+        "pronunciation": "/sweater/",
+        "audio": "sweater.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "áo len",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word sweater.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ áo len.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sweater process, key sweater",
+        "wordFamily": "sweater (noun)",
+        "image": "sweater.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10392,
+        "word": "cardigan",
+        "pronunciation": "/cardigan/",
+        "audio": "cardigan.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "áo len",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cardigan.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cardigan.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cardigan process, key cardigan",
+        "wordFamily": "cardigan (noun)",
+        "image": "cardigan.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10393,
+        "word": "blouse",
+        "pronunciation": "/blouse/",
+        "audio": "blouse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "áo cánh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word blouse.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ blouse.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "blouse process, key blouse",
+        "wordFamily": "blouse (noun)",
+        "image": "blouse.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10394,
+        "word": "jeans",
+        "pronunciation": "/jeans/",
+        "audio": "jeans.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quần jean",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word jeans.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ jeans.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "jeans process, key jeans",
+        "wordFamily": "jeans (noun)",
+        "image": "jeans.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10395,
+        "word": "shorts",
+        "pronunciation": "/shorts/",
+        "audio": "shorts.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quần short",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word shorts.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ short.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shorts process, key shorts",
+        "wordFamily": "shorts (noun)",
+        "image": "shorts.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10396,
+        "word": "sneakers",
+        "pronunciation": "/sneakers/",
+        "audio": "sneakers.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giày thể thao",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word sneakers.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sneaker.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sneakers process, key sneakers",
+        "wordFamily": "sneakers (noun)",
+        "image": "sneakers.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10397,
+        "word": "sandals",
+        "pronunciation": "/sandals/",
+        "audio": "sandals.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dép xăng đan",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word sandals.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sandal.",
+        "topic": "Clothing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sandals process, key sandals",
+        "wordFamily": "sandals (noun)",
+        "image": "sandals.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10398,
+        "word": "apparel",
+        "pronunciation": "/apparel/",
+        "audio": "apparel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "may mặc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word apparel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trang phục.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "apparel process, key apparel",
+        "wordFamily": "apparel (noun)",
+        "image": "apparel.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10399,
+        "word": "silk",
+        "pronunciation": "/silk/",
+        "audio": "silk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lụa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word silk.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lụa.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "silk process, key silk",
+        "wordFamily": "silk (noun)",
+        "image": "silk.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10400,
+        "word": "attire",
+        "pronunciation": "/attire/",
+        "audio": "attire.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang phục",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word attire.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trang phục.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "attire process, key attire",
+        "wordFamily": "attire (noun)",
+        "image": "attire.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10401,
+        "word": "costume",
+        "pronunciation": "/costume/",
+        "audio": "costume.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang phục",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word costume.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trang phục.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "costume process, key costume",
+        "wordFamily": "costume (noun)",
+        "image": "costume.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10402,
+        "word": "tailor",
+        "pronunciation": "/tailor/",
+        "audio": "tailor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thợ may",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word tailor.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thợ may.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tailor process, key tailor",
+        "wordFamily": "tailor (noun)",
+        "image": "tailor.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10403,
+        "word": "linen",
+        "pronunciation": "/linen/",
+        "audio": "linen.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vải lanh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word linen.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lanh.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "linen process, key linen",
+        "wordFamily": "linen (noun)",
+        "image": "linen.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10404,
+        "word": "garment",
+        "pronunciation": "/garment/",
+        "audio": "garment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "may mặc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word garment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ may mặc.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "garment process, key garment",
+        "wordFamily": "garment (noun)",
+        "image": "garment.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10405,
+        "word": "leather",
+        "pronunciation": "/leather/",
+        "audio": "leather.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "da",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word leather.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ da.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "leather process, key leather",
+        "wordFamily": "leather (noun)",
+        "image": "leather.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10406,
+        "word": "wool",
+        "pronunciation": "/wool/",
+        "audio": "wool.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "len",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word wool.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ len.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wool process, key wool",
+        "wordFamily": "wool (noun)",
+        "image": "wool.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10407,
+        "word": "cotton",
+        "pronunciation": "/cotton/",
+        "audio": "cotton.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bông",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cotton.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bông.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cotton process, key cotton",
+        "wordFamily": "cotton (noun)",
+        "image": "cotton.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10408,
+        "word": "outfit",
+        "pronunciation": "/outfit/",
+        "audio": "outfit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang phục",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word outfit.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trang phục.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "outfit process, key outfit",
+        "wordFamily": "outfit (noun)",
+        "image": "outfit.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10409,
+        "word": "fabric",
+        "pronunciation": "/fabric/",
+        "audio": "fabric.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vải",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word fabric.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vải.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fabric process, key fabric",
+        "wordFamily": "fabric (noun)",
+        "image": "fabric.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10410,
+        "word": "polyester",
+        "pronunciation": "/polyester/",
+        "audio": "polyester.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "polyester",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word polyester.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ polyester.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "polyester process, key polyester",
+        "wordFamily": "polyester (noun)",
+        "image": "polyester.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10411,
+        "word": "textile",
+        "pronunciation": "/textile/",
+        "audio": "textile.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dệt may",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word textile.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dệt may.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "textile process, key textile",
+        "wordFamily": "textile (noun)",
+        "image": "textile.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10412,
+        "word": "material",
+        "pronunciation": "/material/",
+        "audio": "material.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất liệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word material.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chất liệu.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "material process, key material",
+        "wordFamily": "material (noun)",
+        "image": "material.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10413,
+        "word": "wardrobe",
+        "pronunciation": "/wardrobe/",
+        "audio": "wardrobe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ quần áo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word wardrobe.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tủ quần áo.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wardrobe process, key wardrobe",
+        "wordFamily": "wardrobe (noun)",
+        "image": "wardrobe.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10414,
+        "word": "fitting",
+        "pronunciation": "/fitting/",
+        "audio": "fitting.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vừa vặn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word fitting.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phù hợp.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fitting process, key fitting",
+        "wordFamily": "fitting (noun)",
+        "image": "fitting.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10415,
+        "word": "seamstress",
+        "pronunciation": "/seamstress/",
+        "audio": "seamstress.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thợ may",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word seamstress.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thợ may.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "seamstress process, key seamstress",
+        "wordFamily": "seamstress (noun)",
+        "image": "seamstress.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10416,
+        "word": "alteration",
+        "pronunciation": "/alteration/",
+        "audio": "alteration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự thay đổi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word alteration.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thay đổi.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "alteration process, key alteration",
+        "wordFamily": "alteration (noun)",
+        "image": "alteration.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10417,
+        "word": "closet",
+        "pronunciation": "/closet/",
+        "audio": "closet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ quần áo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word closet.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tủ quần áo.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "closet process, key closet",
+        "wordFamily": "closet (noun)",
+        "image": "closet.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10418,
+        "word": "hanger",
+        "pronunciation": "/hanger/",
+        "audio": "hanger.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "móc áo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hanger.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ móc áo.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hanger process, key hanger",
+        "wordFamily": "hanger (noun)",
+        "image": "hanger.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10419,
+        "word": "designer",
+        "pronunciation": "/designer/",
+        "audio": "designer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà thiết kế",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word designer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thiết kế.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "designer process, key designer",
+        "wordFamily": "designer (noun)",
+        "image": "designer.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10420,
+        "word": "accessory",
+        "pronunciation": "/accessory/",
+        "audio": "accessory.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phụ kiện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word accessory.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phụ kiện.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "accessory process, key accessory",
+        "wordFamily": "accessory (noun)",
+        "image": "accessory.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10421,
+        "word": "brand",
+        "pronunciation": "/brand/",
+        "audio": "brand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thương hiệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word brand.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thương hiệu.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "brand process, key brand",
+        "wordFamily": "brand (noun)",
+        "image": "brand.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10422,
+        "word": "footwear",
+        "pronunciation": "/footwear/",
+        "audio": "footwear.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giày dép",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word footwear.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giày dép.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "footwear process, key footwear",
+        "wordFamily": "footwear (noun)",
+        "image": "footwear.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10423,
+        "word": "label",
+        "pronunciation": "/label/",
+        "audio": "label.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhãn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word label.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhãn.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "label process, key label",
+        "wordFamily": "label (noun)",
+        "image": "label.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10424,
+        "word": "drawer",
+        "pronunciation": "/dɹɔː(ɹ)/",
+        "audio": "drawer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngăn kéo",
+        "definition": "An open-topped box that can be slid in and out of the cabinet that contains it, used for storing clothing or other articles.",
+        "example": "We need to understand the concept of drawer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ngăn kéo.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "drawer process, key drawer",
+        "wordFamily": "drawer (noun)",
+        "image": "drawer.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10425,
+        "word": "casualwear",
+        "pronunciation": "/casualwear/",
+        "audio": "casualwear.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang phục thường ngày",
+        "definition": "Clothing for non-formal occasions.",
+        "example": "We need to understand the concept of casualwear.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trang phục thường ngày.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "casualwear process, key casualwear",
+        "wordFamily": "casualwear (noun)",
+        "image": "casualwear.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10426,
+        "word": "formalwear",
+        "pronunciation": "/formalwear/",
+        "audio": "formalwear.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang phục lịch sự",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word formalwear.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trang phục lịch sự.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "formalwear process, key formalwear",
+        "wordFamily": "formalwear (noun)",
+        "image": "formalwear.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10427,
+        "word": "sportswear",
+        "pronunciation": "/sportswear/",
+        "audio": "sportswear.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồ thể thao",
+        "definition": "Casual clothing that is comfortable to wear when exercising or partaking in sport; activewear.",
+        "example": "We need to understand the concept of sportswear.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trang phục thể thao.",
+        "topic": "Clothing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sportswear process, key sportswear",
+        "wordFamily": "sportswear (noun)",
+        "image": "sportswear.webp",
+        "tags": [
+            "clothing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

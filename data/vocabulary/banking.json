@@ -1,0 +1,2624 @@
+[
+    {
+        "id": 10225,
+        "word": "bank",
+        "pronunciation": "/bæŋk/",
+        "audio": "bank.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngân hàng",
+        "definition": "An institution where one can place and borrow money and take care of financial affairs.",
+        "example": "We need to understand the concept of bank.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ngân hàng.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bank process, key bank",
+        "wordFamily": "bank (noun)",
+        "image": "bank.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10226,
+        "word": "account",
+        "pronunciation": "/ə.ˈkaʊnt/",
+        "audio": "account.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài khoản",
+        "definition": "A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and also of other things subjected to a reckoning or review.",
+        "example": "We need to understand the concept of account.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tài khoản.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "account process, key account",
+        "wordFamily": "account (noun)",
+        "image": "account.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10227,
+        "word": "balance",
+        "pronunciation": "/ˈbæləns/",
+        "audio": "balance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "THĂNG BẰNG",
+        "definition": "A state in which opposing forces harmonise; equilibrium.",
+        "example": "We need to understand the concept of balance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cân bằng.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "balance process, key balance",
+        "wordFamily": "balance (noun)",
+        "image": "balance.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10228,
+        "word": "deposit",
+        "pronunciation": "/dɪˈpɒzɪt/",
+        "audio": "deposit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền gửi",
+        "definition": "Sediment or rock that is not native to its present location or is different from the surrounding material. Sometimes refers to ore or gems.",
+        "example": "We need to understand the concept of deposit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiền gửi.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "deposit process, key deposit",
+        "wordFamily": "deposit (noun)",
+        "image": "deposit.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10229,
+        "word": "withdraw",
+        "pronunciation": "/wɪðˈdɹɔː/",
+        "audio": "withdraw.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "rút",
+        "definition": "To pull (something) back, aside, or away.",
+        "example": "We need to understand the concept of withdraw.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rút lui.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "withdraw process, key withdraw",
+        "wordFamily": "withdraw (verb)",
+        "image": "withdraw.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10230,
+        "word": "withdrawal",
+        "pronunciation": "/wɪðˈdɹɔːəl/",
+        "audio": "withdrawal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rút tiền",
+        "definition": "Receiving from someone's care what one has earlier entrusted to them. Usually refers to money.",
+        "example": "We need to understand the concept of withdrawal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rút lui.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "withdrawal process, key withdrawal",
+        "wordFamily": "withdrawal (noun)",
+        "image": "withdrawal.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10231,
+        "word": "transfer",
+        "pronunciation": "/ˈtɹænzfɜː/",
+        "audio": "transfer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyển khoản",
+        "definition": "The act of conveying or removing something from one place, person or thing to another.",
+        "example": "We need to understand the concept of transfer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chuyển giao.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "transfer process, key transfer",
+        "wordFamily": "transfer (noun)",
+        "image": "transfer.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10232,
+        "word": "loan",
+        "pronunciation": "/ləʊn/",
+        "audio": "loan.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoản vay",
+        "definition": "An act or instance of lending, an act or instance of granting something for temporary use.",
+        "example": "Because of the loan that John made to me, I was able to pay my tuition for the upcoming semester.",
+        "exampleVi": "Nhờ khoản vay mà John đã cho tôi vay nên tôi đã có thể trả được học phí cho học kỳ sắp tới.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "loan process, key loan",
+        "wordFamily": "loan (noun)",
+        "image": "loan.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10233,
+        "word": "interest",
+        "pronunciation": "/ˈɪntəɹɪst/",
+        "audio": "interest.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quan tâm",
+        "definition": "The price paid for obtaining, or price received for providing, money or goods in a credit transaction, calculated as a fraction of the amount or value of what was borrowed.",
+        "example": "Our bank offers borrowers an annual interest of 5%.",
+        "exampleVi": "Ngân hàng của chúng tôi cung cấp cho người vay lãi suất hàng năm là 5%.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "interest process, key interest",
+        "wordFamily": "interest (noun)",
+        "image": "interest.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10234,
+        "word": "debt",
+        "pronunciation": "/dɛt/",
+        "audio": "debt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "món nợ",
+        "definition": "An action, state of mind, or object one has an obligation to perform for another, adopt toward another, or give to another.",
+        "example": "We need to understand the concept of debt.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nợ.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "debt process, key debt",
+        "wordFamily": "debt (noun)",
+        "image": "debt.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10235,
+        "word": "credit",
+        "pronunciation": "/ˈkɹɛdɪt/",
+        "audio": "credit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tín dụng",
+        "definition": "Reliance on the truth of something said or done; faith; trust.",
+        "example": "We need to understand the concept of credit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tín dụng.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "credit process, key credit",
+        "wordFamily": "credit (noun)",
+        "image": "credit.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10236,
+        "word": "debit",
+        "pronunciation": "/ˈdɛb.ɪt/",
+        "audio": "debit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ghi nợ",
+        "definition": "In bookkeeping, an entry in the left hand column of an account.",
+        "example": "A cash sale is recorded as debit on the cash account and as credit on the sales account.",
+        "exampleVi": "Việc bán hàng bằng tiền mặt được ghi nhận là ghi nợ trên tài khoản tiền mặt và ghi có trên tài khoản bán hàng.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "debit process, key debit",
+        "wordFamily": "debit (noun)",
+        "image": "debit.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10237,
+        "word": "card",
+        "pronunciation": "/kaːd/",
+        "audio": "card.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thẻ",
+        "definition": "A playing card.",
+        "example": "We need to understand the concept of card.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thẻ.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "card process, key card",
+        "wordFamily": "card (noun)",
+        "image": "card.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10238,
+        "word": "atm",
+        "pronunciation": "/ˌeɪ.tiːˈem/",
+        "audio": "atm.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy rút tiền tự động",
+        "definition": "a machine, usually built into an outside wall of a bank, that allows people to take out money from their account using a special card",
+        "example": "I need to withdraw some cash from the ATM before we go.",
+        "exampleVi": "Tôi cần rút một ít tiền mặt từ máy ATM trước khi chúng ta đi.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "atm process, key atm",
+        "wordFamily": "atm (noun)",
+        "image": "atm.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10239,
+        "word": "branch",
+        "pronunciation": "/bɹæntʃ/",
+        "audio": "branch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chi nhánh",
+        "definition": "The woody part of a tree arising from the trunk and usually dividing.",
+        "example": "We need to understand the concept of branch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhánh.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "branch process, key branch",
+        "wordFamily": "branch (noun)",
+        "image": "branch.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10240,
+        "word": "cashier",
+        "pronunciation": "/kəˈʃɪə/",
+        "audio": "cashier.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thu ngân",
+        "definition": "To dismiss (someone, especially military personnel) from service",
+        "example": "We need to understand the concept of cashier.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân viên thu ngân.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cashier process, key cashier",
+        "wordFamily": "cashier (verb)",
+        "image": "cashier.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10241,
+        "word": "teller",
+        "pronunciation": "/ˈtɛlə/",
+        "audio": "teller.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người giao dịch",
+        "definition": "A device that provides bank customers with cash withdrawal and other services without the need for a human teller.",
+        "example": "We need to understand the concept of teller.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người giao dịch.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "teller process, key teller",
+        "wordFamily": "teller (noun)",
+        "image": "teller.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10242,
+        "word": "signature",
+        "pronunciation": "/ˈsɪɡnətʃə/",
+        "audio": "signature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chữ ký",
+        "definition": "A person's name, written by that person, used as identification or to signify approval of accompanying material, such as a legal contract.",
+        "example": "We need to understand the concept of signature.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chữ ký.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "signature process, key signature",
+        "wordFamily": "signature (noun)",
+        "image": "signature.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10243,
+        "word": "cheque",
+        "pronunciation": "/tʃɛk/",
+        "audio": "cheque.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm tra",
+        "definition": "A draft directing a bank to pay money to a named person or entity.",
+        "example": "I was not carrying cash, so I wrote a cheque for the amount.",
+        "exampleVi": "Tôi không mang theo tiền mặt nên tôi viết séc để xác nhận số tiền đó.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cheque process, key cheque",
+        "wordFamily": "cheque (noun)",
+        "image": "cheque.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10244,
+        "word": "check",
+        "pronunciation": "/t͡ʃɛk/",
+        "audio": "check.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm tra",
+        "definition": "A situation in which the king is directly threatened by an opposing piece.",
+        "example": "We need to understand the concept of check.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiểm tra.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "check process, key check",
+        "wordFamily": "check (noun)",
+        "image": "check.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10245,
+        "word": "vault",
+        "pronunciation": "/vɒlt/",
+        "audio": "vault.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kho tiền",
+        "definition": "An arched masonry structure supporting and forming a ceiling, whether freestanding or forming part of a larger building.",
+        "example": "We need to understand the concept of vault.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về vault.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "vault process, key vault",
+        "wordFamily": "vault (noun)",
+        "image": "vault.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10246,
+        "word": "currency",
+        "pronunciation": "/ˈkʌɹ.ən.si/",
+        "audio": "currency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền tệ",
+        "definition": "Money or other items used to facilitate transactions.",
+        "example": "Wampum was used as a currency by Amerindians.",
+        "exampleVi": "Wampum được người Mỹ bản địa sử dụng làm tiền tệ.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "currency process, key currency",
+        "wordFamily": "currency (noun)",
+        "image": "currency.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10247,
+        "word": "cash",
+        "pronunciation": "/kæʃ/",
+        "audio": "cash.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền mặt",
+        "definition": "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+        "example": "After you bounced those checks last time, they want to be paid in cash.",
+        "exampleVi": "Sau khi bạn trả lại những tấm séc đó lần trước, họ muốn được thanh toán bằng tiền mặt.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cash process, key cash",
+        "wordFamily": "cash (noun)",
+        "image": "cash.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10248,
+        "word": "coin",
+        "pronunciation": "/kɔɪn/",
+        "audio": "coin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồng xu",
+        "definition": "(money) A piece of currency, usually metallic and in the shape of a disc, but sometimes polygonal, or with a hole in the middle.",
+        "example": "We need to understand the concept of coin.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tiền xu.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "coin process, key coin",
+        "wordFamily": "coin (noun)",
+        "image": "coin.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10249,
+        "word": "statement",
+        "pronunciation": "/ˈsteɪtm(ə)nt/",
+        "audio": "statement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyên bố",
+        "definition": "A declaration or remark.",
+        "example": "We need to understand the concept of statement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phát biểu.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "statement process, key statement",
+        "wordFamily": "statement (noun)",
+        "image": "statement.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10250,
+        "word": "fee",
+        "pronunciation": "/fiː/",
+        "audio": "fee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phí",
+        "definition": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+        "example": "We need to understand the concept of fee.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phí.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fee process, key fee",
+        "wordFamily": "fee (noun)",
+        "image": "fee.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10251,
+        "word": "overdraft",
+        "pronunciation": "/ˈəʊvədɹɑːft/",
+        "audio": "overdraft.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thấu chi",
+        "definition": "The act of overdrawing a bank account.",
+        "example": "We need to understand the concept of overdraft.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thấu chi.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "overdraft process, key overdraft",
+        "wordFamily": "overdraft (noun)",
+        "image": "overdraft.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10252,
+        "word": "security",
+        "pronunciation": "/sɪˈkjɔːɹəti/",
+        "audio": "security.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo vệ",
+        "definition": "The condition of not being threatened, especially physically, psychologically, emotionally, or financially.",
+        "example": "We need to understand the concept of security.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bảo mật.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "security process, key security",
+        "wordFamily": "security (noun)",
+        "image": "security.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10253,
+        "word": "saving",
+        "pronunciation": "/ˈseɪvɪŋ/",
+        "audio": "saving.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tiết kiệm",
+        "definition": "To prevent harm or difficulty.",
+        "example": "We need to understand the concept of saving.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiết kiệm.",
+        "topic": "Banking",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "saving process, key saving",
+        "wordFamily": "saving (noun)",
+        "image": "saving.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10254,
+        "word": "transaction",
+        "pronunciation": "/tɹænˈzækʃən/",
+        "audio": "transaction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao dịch",
+        "definition": "The act of conducting or carrying out (business, negotiations, plans).",
+        "example": "The transaction was made on Friday with the supplier.",
+        "exampleVi": "Giao dịch được thực hiện vào thứ Sáu với nhà cung cấp.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transaction process, key transaction",
+        "wordFamily": "transaction (noun)",
+        "image": "transaction.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10255,
+        "word": "default",
+        "pronunciation": "/dɪˈfɔːlt/",
+        "audio": "default.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vỡ nợ",
+        "definition": "The condition of failing to meet an obligation.",
+        "example": "He failed to make payments on time and is now in default.",
+        "exampleVi": "Anh ta đã không thanh toán đúng hạn và hiện đang bị vỡ nợ.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "default process, key default",
+        "wordFamily": "default (noun)",
+        "image": "default.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10256,
+        "word": "draft",
+        "pronunciation": "/dɹæft/",
+        "audio": "draft.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dự thảo",
+        "definition": "A current of air, usually coming into a room or vehicle.",
+        "example": "We need to understand the concept of draft.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dự thảo.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "draft process, key draft",
+        "wordFamily": "draft (noun)",
+        "image": "draft.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10257,
+        "word": "ledger",
+        "pronunciation": "/ˈlɛdʒə/",
+        "audio": "ledger.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sổ cái",
+        "definition": "A book for keeping notes, especially one for keeping accounting records; a record book, a register.",
+        "example": "We need to understand the concept of ledger.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sổ cái.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ledger process, key ledger",
+        "wordFamily": "ledger (noun)",
+        "image": "ledger.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10258,
+        "word": "commission",
+        "pronunciation": "/kəˈmɪʃən/",
+        "audio": "commission.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoa hồng",
+        "definition": "A sending or mission (to do or accomplish something).",
+        "example": "We need to understand the concept of commission.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hoa hồng.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "commission process, key commission",
+        "wordFamily": "commission (noun)",
+        "image": "commission.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10259,
+        "word": "bankruptcy",
+        "pronunciation": "/ˈbæŋkɹʌptsɪ/",
+        "audio": "bankruptcy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phá sản",
+        "definition": "A legally declared or recognized condition of insolvency of a person or organization.",
+        "example": "We need to understand the concept of bankruptcy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phá sản.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bankruptcy process, key bankruptcy",
+        "wordFamily": "bankruptcy (noun)",
+        "image": "bankruptcy.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10260,
+        "word": "mortgage",
+        "pronunciation": "/ˈmɔː.ɡɪdʒ/",
+        "audio": "mortgage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thế chấp",
+        "definition": "A special form of secured loan where the purpose of the loan must be specified to the lender, to purchase assets that must be fixed (not movable) property, such as a house or piece of farm land. The assets are registered as the legal property of the borrower but the lender can seize them and dispose of them if they are not satisfied with the manner in which the repayment of the loan is conducted by the borrower. Once the loan is fully repaid, the lender loses this right of seizure and the assets are then deemed to be unencumbered.",
+        "example": "We're renting a property in the city centre because we can't afford to get a mortgage yet.",
+        "exampleVi": "Chúng tôi đang thuê một căn nhà ở trung tâm thành phố vì chúng tôi chưa đủ khả năng vay thế chấp.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mortgage process, key mortgage",
+        "wordFamily": "mortgage (noun)",
+        "image": "mortgage.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10261,
+        "word": "collateral",
+        "pronunciation": "/kəˈlætəɹəl/",
+        "audio": "collateral.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài sản thế chấp",
+        "definition": "A security or guarantee (usually an asset) pledged for the repayment of a loan if one cannot procure enough funds to repay.",
+        "example": "We need to understand the concept of collateral.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tài sản đảm bảo.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "collateral process, key collateral",
+        "wordFamily": "collateral (noun)",
+        "image": "collateral.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10262,
+        "word": "charge",
+        "pronunciation": "/t͡ʃɑːd͡ʒ/",
+        "audio": "charge.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phí",
+        "definition": "The amount of money levied for a service.",
+        "example": "There will be a charge of five dollars.",
+        "exampleVi": "Sẽ có một khoản phí năm đô la.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "charge process, key charge",
+        "wordFamily": "charge (noun)",
+        "image": "charge.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10263,
+        "word": "remittance",
+        "pronunciation": "/remittance/",
+        "audio": "remittance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyển tiền",
+        "definition": "The act of transmitting money, bills, etc. to a distant place, in return or payment for goods purchased.",
+        "example": "We need to understand the concept of remittance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chuyển tiền.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "remittance process, key remittance",
+        "wordFamily": "remittance (noun)",
+        "image": "remittance.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10264,
+        "word": "safebox",
+        "pronunciation": "/safebox/",
+        "audio": "safebox.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hộp an toàn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word safebox.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ safebox.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "safebox process, key safebox",
+        "wordFamily": "safebox (noun)",
+        "image": "safebox.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10265,
+        "word": "creditor",
+        "pronunciation": "/creditor/",
+        "audio": "creditor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chủ nợ",
+        "definition": "A person to whom a debt is owed.",
+        "example": "We need to understand the concept of creditor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chủ nợ.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "creditor process, key creditor",
+        "wordFamily": "creditor (noun)",
+        "image": "creditor.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10266,
+        "word": "foreclose",
+        "pronunciation": "/ˌfɔːˈkləʊz/",
+        "audio": "foreclose.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tịch thu tài sản",
+        "definition": "To repossess a mortgaged property whose owner has failed to make the necessary payments; used with on.",
+        "example": "They have to move out of their house because the bank foreclosed on their mortgage.",
+        "exampleVi": "Họ phải rời khỏi nhà vì ngân hàng tịch thu tài sản thế chấp của họ.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "foreclose process, key foreclose",
+        "wordFamily": "foreclose (noun)",
+        "image": "foreclose.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10267,
+        "word": "debtor",
+        "pronunciation": "/ˈdet.ə/",
+        "audio": "debtor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "con nợ",
+        "definition": "A person or firm that owes money; one in debt; one who owes a debt",
+        "example": "We need to understand the concept of debtor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm con nợ.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "debtor process, key debtor",
+        "wordFamily": "debtor (noun)",
+        "image": "debtor.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10268,
+        "word": "guarantor",
+        "pronunciation": "/ˈɡæɹəntɔː(ɹ)/",
+        "audio": "guarantor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bảo lãnh",
+        "definition": "A person or company that provides a guarantee.",
+        "example": "We need to understand the concept of guarantor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người bảo lãnh.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "guarantor process, key guarantor",
+        "wordFamily": "guarantor (noun)",
+        "image": "guarantor.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10269,
+        "word": "capital",
+        "pronunciation": "/ˈkæp.ɪ.təl/",
+        "audio": "capital.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vốn",
+        "definition": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+        "example": "We need to understand the concept of capital.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vốn.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "capital process, key capital",
+        "wordFamily": "capital (noun)",
+        "image": "capital.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10270,
+        "word": "liquidity",
+        "pronunciation": "/lɪkˈwɪdəti/",
+        "audio": "liquidity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thanh khoản",
+        "definition": "The degree of which something is in high supply and demand, making it easily convertible to cash",
+        "example": "My Picasso painting is not very liquid, it would take me months to sell it. Gold on the other hand is convertible to cash at any moment, making it a very liquid commodity.",
+        "exampleVi": "Bức tranh Picasso của tôi không có tính thanh khoản cao, tôi phải mất nhiều tháng mới bán được nó. Mặt khác, vàng có thể chuyển đổi thành tiền mặt bất cứ lúc nào, khiến nó trở thành một mặt hàng có tính thanh khoản cao.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "liquidity process, key liquidity",
+        "wordFamily": "liquidity (noun)",
+        "image": "liquidity.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10271,
+        "word": "solvency",
+        "pronunciation": "/solvency/",
+        "audio": "solvency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khả năng thanh toán",
+        "definition": "The state of having enough funds or liquid assets to pay all of one's debts; the state of being solvent.",
+        "example": "We need to understand the concept of solvency.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khả năng thanh toán.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "solvency process, key solvency",
+        "wordFamily": "solvency (noun)",
+        "image": "solvency.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10272,
+        "word": "reserve",
+        "pronunciation": "/ɹɪˈzɜːv/",
+        "audio": "reserve.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dự trữ",
+        "definition": "(behaviour) Restriction.",
+        "example": "We need to understand the concept of reserve.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dự trữ.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "reserve process, key reserve",
+        "wordFamily": "reserve (noun)",
+        "image": "reserve.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10273,
+        "word": "treasury",
+        "pronunciation": "/ˈtɹɛʒəɹi/",
+        "audio": "treasury.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kho bạc",
+        "definition": "A place where treasure is stored safely.",
+        "example": "We need to understand the concept of treasury.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kho bạc.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "treasury process, key treasury",
+        "wordFamily": "treasury (noun)",
+        "image": "treasury.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10274,
+        "word": "insolvency",
+        "pronunciation": "[ɪnˈsɒlvn̩si]",
+        "audio": "insolvency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mất khả năng thanh toán",
+        "definition": "The condition of being insolvent; the state or condition of a person who is insolvent; the condition of one who is unable to pay his debts as they fall due, or in the usual course of trade and business.",
+        "example": "The company faces insolvency.",
+        "exampleVi": "Công ty phải đối mặt với tình trạng phá sản.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "insolvency process, key insolvency",
+        "wordFamily": "insolvency (noun)",
+        "image": "insolvency.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10275,
+        "word": "beneficiary",
+        "pronunciation": "/ˌbɛn.əˈfɪʃ.əɹ.i/",
+        "audio": "beneficiary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người thụ hưởng",
+        "definition": "One who benefits or receives an advantage.",
+        "example": "You are the lucky beneficiary of this special offer.",
+        "exampleVi": "Bạn là người may mắn được hưởng ưu đãi đặc biệt này.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "beneficiary process, key beneficiary",
+        "wordFamily": "beneficiary (noun)",
+        "image": "beneficiary.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10276,
+        "word": "officer",
+        "pronunciation": "/ˈɑfɪsɚ/",
+        "audio": "officer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "viên chức",
+        "definition": "One who has a position of authority in a hierarchical organization, especially in military, police or government organizations.",
+        "example": "We need to understand the concept of officer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sĩ quan.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "officer process, key officer",
+        "wordFamily": "officer (noun)",
+        "image": "officer.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10277,
+        "word": "lender",
+        "pronunciation": "/ˈlɛndɚ/",
+        "audio": "lender.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người cho vay",
+        "definition": "One who lends, especially money; specifically, a bank or other entity that specializes in granting loans.",
+        "example": "We need to understand the concept of lender.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người cho vay.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "lender process, key lender",
+        "wordFamily": "lender (noun)",
+        "image": "lender.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10278,
+        "word": "payer",
+        "pronunciation": "/ˈpeɪ.ɚ/",
+        "audio": "payer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người trả tiền",
+        "definition": "One who pays; specifically, the person by whom a bill or note has been, or should be, paid.",
+        "example": "We need to understand the concept of payer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người trả tiền.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "payer process, key payer",
+        "wordFamily": "payer (noun)",
+        "image": "payer.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10279,
+        "word": "payee",
+        "pronunciation": "/payee/",
+        "audio": "payee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người được trả tiền",
+        "definition": "One to whom money is paid.",
+        "example": "We need to understand the concept of payee.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người được trả tiền.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "payee process, key payee",
+        "wordFamily": "payee (noun)",
+        "image": "payee.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10280,
+        "word": "notary",
+        "pronunciation": "/notary/",
+        "audio": "notary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công chứng viên",
+        "definition": "A lawyer of noncontentious private civil law who drafts, takes, and records legal instruments for private parties, and provides legal advice, but does not appear in court on clients' behalf.",
+        "example": "We need to understand the concept of notary.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công chứng.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "notary process, key notary",
+        "wordFamily": "notary (noun)",
+        "image": "notary.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10281,
+        "word": "borrower",
+        "pronunciation": "/ˈbɔɹəuə/",
+        "audio": "borrower.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người đi vay",
+        "definition": "One who borrows.",
+        "example": "a library borrower's card",
+        "exampleVi": "thẻ mượn thư viện",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "borrower process, key borrower",
+        "wordFamily": "borrower (noun)",
+        "image": "borrower.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10282,
+        "word": "depositor",
+        "pronunciation": "/depositor/",
+        "audio": "depositor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người gửi tiền",
+        "definition": "A person who makes a deposit, especially a deposit of money in a bank",
+        "example": "We need to understand the concept of depositor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người gửi tiền.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "depositor process, key depositor",
+        "wordFamily": "depositor (noun)",
+        "image": "depositor.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10283,
+        "word": "transferor",
+        "pronunciation": "/transferor/",
+        "audio": "transferor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người chuyển nhượng",
+        "definition": "Someone who transfers his property to another.",
+        "example": "We need to understand the concept of transferor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người chuyển nhượng.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transferor process, key transferor",
+        "wordFamily": "transferor (noun)",
+        "image": "transferor.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10284,
+        "word": "endorser",
+        "pronunciation": "/endorser/",
+        "audio": "endorser.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người chứng thực",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word endorser.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ xác nhận.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "endorser process, key endorser",
+        "wordFamily": "endorser (noun)",
+        "image": "endorser.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10285,
+        "word": "withdrawer",
+        "pronunciation": "/withdrawer/",
+        "audio": "withdrawer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người rút tiền",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word withdrawer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ rút tiền.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "withdrawer process, key withdrawer",
+        "wordFamily": "withdrawer (noun)",
+        "image": "withdrawer.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10286,
+        "word": "auditor",
+        "pronunciation": "/ˈɔːdɪtə(ɹ)/",
+        "audio": "auditor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm toán viên",
+        "definition": "One who audits bookkeeping accounts.",
+        "example": "We need to understand the concept of auditor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kiểm toán viên.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "auditor process, key auditor",
+        "wordFamily": "auditor (noun)",
+        "image": "auditor.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10287,
+        "word": "accountant",
+        "pronunciation": "/ə.ˈkæʊn.(t)ən̩(t)/",
+        "audio": "accountant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kế toán",
+        "definition": "One who renders account; one accountable.",
+        "example": "We need to understand the concept of accountant.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kế toán.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "accountant process, key accountant",
+        "wordFamily": "accountant (noun)",
+        "image": "accountant.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10288,
+        "word": "manager",
+        "pronunciation": "/ˈmæn.ɪ.dʒə/",
+        "audio": "manager.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người quản lý",
+        "definition": "A person whose job is to manage something, such as a business, a restaurant, or a sports team.",
+        "example": "We need to understand the concept of manager.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người quản lý.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "manager process, key manager",
+        "wordFamily": "manager (noun)",
+        "image": "manager.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10289,
+        "word": "signatory",
+        "pronunciation": "/ˈsɪɡ.nə.tɔː.ɹi/",
+        "audio": "signatory.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người ký kết",
+        "definition": "One who signs or has signed something.",
+        "example": "John Hancock is famous for being the first signatory to the American Declaration of Independence, and for writing his name large.",
+        "exampleVi": "John Hancock nổi tiếng là người đầu tiên ký Tuyên ngôn Độc lập Hoa Kỳ và viết tên ông thật lớn.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "signatory process, key signatory",
+        "wordFamily": "signatory (noun)",
+        "image": "signatory.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10290,
+        "word": "safe",
+        "pronunciation": "/seɪf/",
+        "audio": "safe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "an toàn",
+        "definition": "A box, usually made of metal, in which valuables can be locked for safekeeping.",
+        "example": "We need to understand the concept of safe.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm an toàn.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "safe process, key safe",
+        "wordFamily": "safe (noun)",
+        "image": "safe.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10291,
+        "word": "remitter",
+        "pronunciation": "/remitter/",
+        "audio": "remitter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người gửi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word remitter.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ remitter.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "remitter process, key remitter",
+        "wordFamily": "remitter (noun)",
+        "image": "remitter.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10292,
+        "word": "remittee",
+        "pronunciation": "/remittee/",
+        "audio": "remittee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người chuyển tiền",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word remittee.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ remittee.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "remittee process, key remittee",
+        "wordFamily": "remittee (noun)",
+        "image": "remittee.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10293,
+        "word": "transferee",
+        "pronunciation": "/transferee/",
+        "audio": "transferee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "transferee",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word transferee.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ transferee.",
+        "topic": "Banking",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transferee process, key transferee",
+        "wordFamily": "transferee (noun)",
+        "image": "transferee.webp",
+        "tags": [
+            "banking",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

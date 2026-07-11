@@ -1,0 +1,2890 @@
+[
+    {
+        "id": 10662,
+        "word": "speak",
+        "pronunciation": "/spiːk/",
+        "audio": "speak.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nói chuyện",
+        "definition": "A low class bar, a speakeasy.",
+        "example": "We need to understand the concept of speak.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nói.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "speak process, key speak",
+        "wordFamily": "speak (noun)",
+        "image": "speak.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10663,
+        "word": "talk",
+        "pronunciation": "/toːk/",
+        "audio": "talk.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "nói chuyện",
+        "definition": "To communicate, usually by means of speech.",
+        "example": "Although I don't speak Chinese I managed to talk with the villagers using signs and gestures.",
+        "exampleVi": "Mặc dù tôi không nói được tiếng Trung nhưng tôi vẫn có thể nói chuyện với dân làng bằng ký hiệu và cử chỉ.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "talk process, key talk",
+        "wordFamily": "talk (verb)",
+        "image": "talk.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10664,
+        "word": "listen",
+        "pronunciation": "/ˈlɪs.ən/",
+        "audio": "listen.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Nghe",
+        "definition": "An instance of listening.",
+        "example": "Give the motor a listen and tell me if it sounds off.",
+        "exampleVi": "Hãy nghe động cơ và cho tôi biết nếu nó tắt.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "listen process, key listen",
+        "wordFamily": "listen (noun)",
+        "image": "listen.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10665,
+        "word": "write",
+        "pronunciation": "/ɹaɪt/",
+        "audio": "write.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "viết",
+        "definition": "The act or style of writing.",
+        "example": "We need to understand the concept of write.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm viết.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "write process, key write",
+        "wordFamily": "write (noun)",
+        "image": "write.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10666,
+        "word": "read",
+        "pronunciation": "/ɹiːd/",
+        "audio": "read.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đọc",
+        "definition": "A reading or an act of reading, especially an actor's part of a play.",
+        "example": "We need to understand the concept of read.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đọc.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "read process, key read",
+        "wordFamily": "read (noun)",
+        "image": "read.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10667,
+        "word": "say",
+        "pronunciation": "/seɪ/",
+        "audio": "say.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nói",
+        "definition": "A chance to speak; the right or power to influence or make a decision.",
+        "example": "We need to understand the concept of say.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nói.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "say process, key say",
+        "wordFamily": "say (noun)",
+        "image": "say.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10668,
+        "word": "tell",
+        "pronunciation": "/tɛl/",
+        "audio": "tell.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kể",
+        "definition": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
+        "example": "We need to understand the concept of tell.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kể.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tell process, key tell",
+        "wordFamily": "tell (noun)",
+        "image": "tell.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10669,
+        "word": "ask",
+        "pronunciation": "/ˈask/",
+        "audio": "ask.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hỏi",
+        "definition": "An act or instance of asking.",
+        "example": "We need to understand the concept of ask.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hỏi.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ask process, key ask",
+        "wordFamily": "ask (noun)",
+        "image": "ask.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10670,
+        "word": "answer",
+        "pronunciation": "/ˈan.sə/",
+        "audio": "answer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trả lời",
+        "definition": "A response or reply; something said or done in reaction to a statement or question.",
+        "example": "Her answer to his proposal was a slap in the face.",
+        "exampleVi": "Câu trả lời của cô cho lời đề nghị của anh là một cái tát vào mặt.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "answer process, key answer",
+        "wordFamily": "answer (noun)",
+        "image": "answer.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10671,
+        "word": "reply",
+        "pronunciation": "/ɹɪˈplaɪ/",
+        "audio": "reply.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hồi đáp",
+        "definition": "A written or spoken response; part of a conversation.",
+        "example": "We need to understand the concept of reply.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trả lời.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reply process, key reply",
+        "wordFamily": "reply (noun)",
+        "image": "reply.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10672,
+        "word": "message",
+        "pronunciation": "/ˈmɛsɪd͡ʒ/",
+        "audio": "message.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tin nhắn",
+        "definition": "A communication, or what is communicated; any concept or information conveyed.",
+        "example": "We've just received an urgent message from the President.",
+        "exampleVi": "Chúng tôi vừa nhận được một tin nhắn khẩn cấp từ Tổng thống.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "message process, key message",
+        "wordFamily": "message (noun)",
+        "image": "message.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10673,
+        "word": "letter",
+        "pronunciation": "/-ɾə(ɹ)/",
+        "audio": "letter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư",
+        "definition": "A symbol in an alphabet.",
+        "example": "There are twenty-six letters in the English alphabet.",
+        "exampleVi": "Có hai mươi sáu chữ cái trong bảng chữ cái tiếng Anh.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "letter process, key letter",
+        "wordFamily": "letter (noun)",
+        "image": "letter.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10674,
+        "word": "email",
+        "pronunciation": "/ˈiːmeɪl/",
+        "audio": "email.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "e-mail",
+        "definition": "A system for transferring messages from one computer to another, usually through a network.",
+        "example": "He sent me his details via email.",
+        "exampleVi": "Anh ấy đã gửi cho tôi thông tin chi tiết của anh ấy qua email.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "email process, key email",
+        "wordFamily": "email (noun)",
+        "image": "email.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10675,
+        "word": "phone",
+        "pronunciation": "/fəʊ̯n/",
+        "audio": "phone.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện thoại",
+        "definition": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+        "example": "We need to understand the concept of phone.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về điện thoại.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "phone process, key phone",
+        "wordFamily": "phone (noun)",
+        "image": "phone.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10676,
+        "word": "call",
+        "pronunciation": "/kɔːɫ/",
+        "audio": "call.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gọi ",
+        "definition": "A telephone conversation.",
+        "example": "I received several calls today.",
+        "exampleVi": "Tôi đã nhận được một số cuộc gọi ngày hôm nay.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "call process, key call",
+        "wordFamily": "call (noun)",
+        "image": "call.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10677,
+        "word": "discuss",
+        "pronunciation": "/dɪsˈkʊs/",
+        "audio": "discuss.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bàn luận",
+        "definition": "To converse or debate concerning a particular topic.",
+        "example": "I don't wish to discuss this further. Let's talk about something else.",
+        "exampleVi": "Tôi không muốn thảo luận thêm về vấn đề này. Hãy nói về chuyện khác.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "discuss process, key discuss",
+        "wordFamily": "discuss (verb)",
+        "image": "discuss.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10678,
+        "word": "explain",
+        "pronunciation": "/ɛkˈspleɪn/",
+        "audio": "explain.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giải thích",
+        "definition": "To make plain, manifest, or intelligible; to clear of obscurity; to illustrate the meaning of.",
+        "example": "To explain a chapter of the Bible.",
+        "exampleVi": "Để giải thích một chương của Kinh Thánh.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "explain process, key explain",
+        "wordFamily": "explain (verb)",
+        "image": "explain.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10679,
+        "word": "describe",
+        "pronunciation": "/dəˈskɹaɪb/",
+        "audio": "describe.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "mô tả",
+        "definition": "To represent in words.",
+        "example": "The feeling is difficult to describe, but not unpleasant.",
+        "exampleVi": "Cảm giác khó diễn tả nhưng không hề khó chịu.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "describe process, key describe",
+        "wordFamily": "describe (verb)",
+        "image": "describe.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10680,
+        "word": "negotiate",
+        "pronunciation": "/nəˈɡəʊ.ʃi.eɪt/",
+        "audio": "negotiate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thương lượng",
+        "definition": "To confer with others in order to come to terms or reach an agreement.",
+        "example": "We need to understand the concept of negotiate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đàm phán.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "negotiate process, key negotiate",
+        "wordFamily": "negotiate (verb)",
+        "image": "negotiate.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10681,
+        "word": "persuade",
+        "pronunciation": "/pəˈsweɪd/",
+        "audio": "persuade.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thuyết phục",
+        "definition": "To successfully convince (someone) to agree to, accept, or do something, usually through reasoning and verbal influence.",
+        "example": "That salesman was able to persuade me into buying this bottle of lotion.",
+        "exampleVi": "Người bán hàng đó đã thuyết phục được tôi mua chai kem dưỡng da này.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "persuade process, key persuade",
+        "wordFamily": "persuade (verb)",
+        "image": "persuade.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10682,
+        "word": "dialogue",
+        "pronunciation": "/dialogue/",
+        "audio": "dialogue.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đối thoại",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dialogue.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đối thoại.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dialogue process, key dialogue",
+        "wordFamily": "dialogue (noun)",
+        "image": "dialogue.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10683,
+        "word": "conversation",
+        "pronunciation": "/conversation/",
+        "audio": "conversation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc hội thoại",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word conversation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng cuộc trò chuyện từ.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "conversation process, key conversation",
+        "wordFamily": "conversation (noun)",
+        "image": "conversation.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10684,
+        "word": "report",
+        "pronunciation": "/report/",
+        "audio": "report.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "báo cáo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word report.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ báo cáo.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "report process, key report",
+        "wordFamily": "report (noun)",
+        "image": "report.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10685,
+        "word": "speech",
+        "pronunciation": "/speech/",
+        "audio": "speech.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lời nói",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word speech.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng lời nói.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "speech process, key speech",
+        "wordFamily": "speech (noun)",
+        "image": "speech.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10686,
+        "word": "signal",
+        "pronunciation": "/signal/",
+        "audio": "signal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tín hiệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word signal.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng tín hiệu từ.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "signal process, key signal",
+        "wordFamily": "signal (noun)",
+        "image": "signal.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10687,
+        "word": "language",
+        "pronunciation": "/language/",
+        "audio": "language.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngôn ngữ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word language.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng ngôn ngữ từ.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "language process, key language",
+        "wordFamily": "language (noun)",
+        "image": "language.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10688,
+        "word": "information",
+        "pronunciation": "/information/",
+        "audio": "information.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thông tin",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word information.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thông tin.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "information process, key information",
+        "wordFamily": "information (noun)",
+        "image": "information.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10689,
+        "word": "announcement",
+        "pronunciation": "/announcement/",
+        "audio": "announcement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thông báo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word announcement.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thông báo.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "announcement process, key announcement",
+        "wordFamily": "announcement (noun)",
+        "image": "announcement.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10690,
+        "word": "contact",
+        "pronunciation": "/contact/",
+        "audio": "contact.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liên hệ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word contact.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ liên hệ.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "contact process, key contact",
+        "wordFamily": "contact (noun)",
+        "image": "contact.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10691,
+        "word": "chat",
+        "pronunciation": "/chat/",
+        "audio": "chat.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trò chuyện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word chat.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trò chuyện.",
+        "topic": "Communication",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chat process, key chat",
+        "wordFamily": "chat (noun)",
+        "image": "chat.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10692,
+        "word": "publish",
+        "pronunciation": "/publish/",
+        "audio": "publish.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xuất bản",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word publish.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ xuất bản.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "publish process, key publish",
+        "wordFamily": "publish (noun)",
+        "image": "publish.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10693,
+        "word": "inquiry",
+        "pronunciation": "/inquiry/",
+        "audio": "inquiry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc điều tra",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word inquiry.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điều tra.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "inquiry process, key inquiry",
+        "wordFamily": "inquiry (noun)",
+        "image": "inquiry.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10694,
+        "word": "broadcast",
+        "pronunciation": "/ˈbɹɑdkæst/",
+        "audio": "broadcast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phát sóng",
+        "definition": "A transmission of a radio or television programme intended to be received by anyone with a receiver.",
+        "example": "We need to understand the concept of broadcast.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phát sóng.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "broadcast process, key broadcast",
+        "wordFamily": "broadcast (noun)",
+        "image": "broadcast.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10695,
+        "word": "agreement",
+        "pronunciation": "/əˈɡɹiːmənt/",
+        "audio": "agreement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thỏa thuận",
+        "definition": "An understanding between entities to follow a specific course of conduct.",
+        "example": "to enter an agreement;  the UK and US negotiators nearing agreement;  he nodded his agreement.",
+        "exampleVi": "để tham gia một thỏa thuận;  các nhà đàm phán Anh và Mỹ sắp đạt được thỏa thuận;  anh gật đầu đồng ý.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "agreement process, key agreement",
+        "wordFamily": "agreement (noun)",
+        "image": "agreement.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10696,
+        "word": "feedback",
+        "pronunciation": "/ˈfiːdˌbæk/",
+        "audio": "feedback.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phản hồi",
+        "definition": "Critical assessment of a process or activity or of their results.",
+        "example": "After you hand in your essays, I will give both grades and feedback.",
+        "exampleVi": "Sau khi bạn nộp bài luận, tôi sẽ cho điểm và phản hồi.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "feedback process, key feedback",
+        "wordFamily": "feedback (noun)",
+        "image": "feedback.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10697,
+        "word": "consensus",
+        "pronunciation": "/consensus/",
+        "audio": "consensus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đồng thuận",
+        "definition": "A process of decision-making that seeks widespread agreement among group members.",
+        "example": "We need to understand the concept of consensus.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đồng thuận.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consensus process, key consensus",
+        "wordFamily": "consensus (noun)",
+        "image": "consensus.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10698,
+        "word": "discussion",
+        "pronunciation": "/dɪsˈkʊʃən/",
+        "audio": "discussion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thảo luận",
+        "definition": "Conversation or debate concerning a particular topic.",
+        "example": "My discussion with the professor was very enlightening.",
+        "exampleVi": "Cuộc thảo luận của tôi với giáo sư rất thú vị.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "discussion process, key discussion",
+        "wordFamily": "discussion (noun)",
+        "image": "discussion.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10699,
+        "word": "compromise",
+        "pronunciation": "/ˈkɒmpɹəˌmaɪz/",
+        "audio": "compromise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thỏa hiệp",
+        "definition": "The settlement of differences by arbitration or by consent reached by mutual concessions.",
+        "example": "We need to understand the concept of compromise.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thỏa hiệp.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compromise process, key compromise",
+        "wordFamily": "compromise (noun)",
+        "image": "compromise.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10700,
+        "word": "conflict",
+        "pronunciation": "/conflict/",
+        "audio": "conflict.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xung đột",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word conflict.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ xung đột.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "conflict process, key conflict",
+        "wordFamily": "conflict (noun)",
+        "image": "conflict.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10701,
+        "word": "correspondence",
+        "pronunciation": "/correspondence/",
+        "audio": "correspondence.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư từ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word correspondence.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tương ứng.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "correspondence process, key correspondence",
+        "wordFamily": "correspondence (noun)",
+        "image": "correspondence.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10702,
+        "word": "resolution",
+        "pronunciation": "/resolution/",
+        "audio": "resolution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "độ phân giải",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word resolution.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng độ phân giải từ.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "resolution process, key resolution",
+        "wordFamily": "resolution (noun)",
+        "image": "resolution.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10703,
+        "word": "consultation",
+        "pronunciation": "/ˌkɒnsl̩ˈteɪʃən/",
+        "audio": "consultation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tham vấn",
+        "definition": "The act of consulting.",
+        "example": "We need to understand the concept of consultation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tư vấn.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consultation process, key consultation",
+        "wordFamily": "consultation (noun)",
+        "image": "consultation.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10704,
+        "word": "briefing",
+        "pronunciation": "/briefing/",
+        "audio": "briefing.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tóm tắt",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word briefing.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tóm tắt.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "briefing process, key briefing",
+        "wordFamily": "briefing (noun)",
+        "image": "briefing.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10705,
+        "word": "dispute",
+        "pronunciation": "/dispute/",
+        "audio": "dispute.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tranh chấp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dispute.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tranh chấp.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dispute process, key dispute",
+        "wordFamily": "dispute (noun)",
+        "image": "dispute.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10706,
+        "word": "press",
+        "pronunciation": "/pɹɛs/",
+        "audio": "press.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "báo chí",
+        "definition": "A device used to apply pressure to an item.",
+        "example": "a flower press",
+        "exampleVi": "một máy ép hoa",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "press process, key press",
+        "wordFamily": "press (noun)",
+        "image": "press.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10707,
+        "word": "distribution",
+        "pronunciation": "/ˌdɪstɹəˈbjuːʃən/",
+        "audio": "distribution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phân phối",
+        "definition": "An act of distributing or state of being distributed.",
+        "example": "We need to understand the concept of distribution.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phân phối.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "distribution process, key distribution",
+        "wordFamily": "distribution (noun)",
+        "image": "distribution.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10708,
+        "word": "reach",
+        "pronunciation": "/ɹiːt͡ʃ/",
+        "audio": "reach.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiếp cận",
+        "definition": "The act of stretching or extending; extension.",
+        "example": "We need to understand the concept of reach.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phạm vi tiếp cận.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "reach process, key reach",
+        "wordFamily": "reach (noun)",
+        "image": "reach.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10709,
+        "word": "clarification",
+        "pronunciation": "/ˌklæɹɪfɪˈkeɪʃən/",
+        "audio": "clarification.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "làm rõ",
+        "definition": "The act of clarifying; the act or process of making clear or transparent by freeing visible impurities; particularly, the clearing or fining of liquid substances from feculent matter by the separation of the insoluble particles which prevent the liquid from being transparent.",
+        "example": "The clarification of wine.",
+        "exampleVi": "Sự làm rõ của rượu vang.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "clarification process, key clarification",
+        "wordFamily": "clarification (noun)",
+        "image": "clarification.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10710,
+        "word": "coverage",
+        "pronunciation": "/ˈkʌv.əɹ.ɪdʒ/",
+        "audio": "coverage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phạm vi bảo hiểm",
+        "definition": "An amount by which something or someone is covered.",
+        "example": "Before laying sod on that clay, the ground needs two inches of coverage with topsoil.",
+        "exampleVi": "Trước khi rải cỏ lên lớp đất sét đó, mặt đất cần được phủ lớp đất mặt 2 inch.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "coverage process, key coverage",
+        "wordFamily": "coverage (noun)",
+        "image": "coverage.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10711,
+        "word": "circulation",
+        "pronunciation": "/ˌsɜː(ɹ).kjʊˈleɪ.ʃən/",
+        "audio": "circulation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lưu thông",
+        "definition": "The act of moving in a circle, or in a course which brings the moving body to the place where its motion began.",
+        "example": "We need to understand the concept of circulation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tuần hoàn.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "circulation process, key circulation",
+        "wordFamily": "circulation (noun)",
+        "image": "circulation.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10712,
+        "word": "media",
+        "pronunciation": "/ˈmiːdɪə/",
+        "audio": "media.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phương tiện truyền thông",
+        "definition": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+        "example": "We need to understand the concept of media.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về truyền thông.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "media process, key media",
+        "wordFamily": "media (noun)",
+        "image": "media.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10713,
+        "word": "journalism",
+        "pronunciation": "/ˈdʒɜːn(ə)lɪzəm/",
+        "audio": "journalism.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "báo chí",
+        "definition": "The activity or profession of being a journalist.",
+        "example": "We need to understand the concept of journalism.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm báo chí.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "journalism process, key journalism",
+        "wordFamily": "journalism (noun)",
+        "image": "journalism.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10714,
+        "word": "telecommunication",
+        "pronunciation": "/telecommunication/",
+        "audio": "telecommunication.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "viễn thông",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word telecommunication.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ viễn thông.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "telecommunication process, key telecommunication",
+        "wordFamily": "telecommunication (noun)",
+        "image": "telecommunication.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10715,
+        "word": "memo",
+        "pronunciation": "/memo/",
+        "audio": "memo.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản ghi nhớ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word memo.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ memo.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "memo process, key memo",
+        "wordFamily": "memo (noun)",
+        "image": "memo.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10716,
+        "word": "channel",
+        "pronunciation": "/channel/",
+        "audio": "channel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kênh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word channel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kênh.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "channel process, key channel",
+        "wordFamily": "channel (noun)",
+        "image": "channel.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10717,
+        "word": "newsletter",
+        "pronunciation": "/newsletter/",
+        "audio": "newsletter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản tin",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word newsletter.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bản tin.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "newsletter process, key newsletter",
+        "wordFamily": "newsletter (noun)",
+        "image": "newsletter.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10718,
+        "word": "network",
+        "pronunciation": "/network/",
+        "audio": "network.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mạng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word network.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng mạng từ.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "network process, key network",
+        "wordFamily": "network (noun)",
+        "image": "network.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10719,
+        "word": "telephony",
+        "pronunciation": "/təˈlɛf.ə.ni/",
+        "audio": "telephony.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện thoại",
+        "definition": "The act of sound transmission via the electromagnetic spectrum.",
+        "example": "We need to understand the concept of telephony.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về điện thoại.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "telephony process, key telephony",
+        "wordFamily": "telephony (noun)",
+        "image": "telephony.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10720,
+        "word": "satellite",
+        "pronunciation": "/ˈsætəlaɪt/",
+        "audio": "satellite.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vệ tinh",
+        "definition": "A moon or other smaller body orbiting a larger one.",
+        "example": "A spent upper stage is a derelict satellite.",
+        "exampleVi": "Tầng trên đã qua sử dụng là một vệ tinh bị bỏ hoang.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "satellite process, key satellite",
+        "wordFamily": "satellite (noun)",
+        "image": "satellite.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10721,
+        "word": "pamphlet",
+        "pronunciation": "/ˈpæmf.lɪt/",
+        "audio": "pamphlet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuốn sách nhỏ",
+        "definition": "A small booklet of printed informational matter, often unbound, having only a paper cover.",
+        "example": "We need to understand the concept of pamphlet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tờ rơi.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pamphlet process, key pamphlet",
+        "wordFamily": "pamphlet (noun)",
+        "image": "pamphlet.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10722,
+        "word": "bulletin",
+        "pronunciation": "/ˈbʊlətɪn/",
+        "audio": "bulletin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản tin",
+        "definition": "A short report, especially one released through official channels to be broadcast or publicized.",
+        "example": "We need to understand the concept of bulletin.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bản tin.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bulletin process, key bulletin",
+        "wordFamily": "bulletin (noun)",
+        "image": "bulletin.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10723,
+        "word": "courier",
+        "pronunciation": "/ˈkʊɹ.ɪə/",
+        "audio": "courier.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyển phát nhanh",
+        "definition": "A person who looks after and guides tourists",
+        "example": "We need to understand the concept of courier.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chuyển phát nhanh.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "courier process, key courier",
+        "wordFamily": "courier (noun)",
+        "image": "courier.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10724,
+        "word": "reception",
+        "pronunciation": "/ɹɪˈsɛp.ʃn̩/",
+        "audio": "reception.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiếp nhận",
+        "definition": "The act of receiving.",
+        "example": "We need to understand the concept of reception.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiếp nhận.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "reception process, key reception",
+        "wordFamily": "reception (noun)",
+        "image": "reception.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10725,
+        "word": "leaflet",
+        "pronunciation": "/ˈliːflɪt/",
+        "audio": "leaflet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tờ rơi",
+        "definition": "One of the components of a compound leaf.",
+        "example": "We need to understand the concept of leaflet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tờ rơi.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "leaflet process, key leaflet",
+        "wordFamily": "leaflet (noun)",
+        "image": "leaflet.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10726,
+        "word": "bandwidth",
+        "pronunciation": "/ˈbændwɪdθ/",
+        "audio": "bandwidth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "băng thông",
+        "definition": "The width, usually measured in hertz, of a frequency band.",
+        "example": "We need to understand the concept of bandwidth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm băng thông.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bandwidth process, key bandwidth",
+        "wordFamily": "bandwidth (noun)",
+        "image": "bandwidth.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10727,
+        "word": "circular",
+        "pronunciation": "/ˈsɜːk.jə.lə(ɹ)/",
+        "audio": "circular.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thông tư",
+        "definition": "Short for circular letter.",
+        "example": "We need to understand the concept of circular.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hình tròn.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "circular process, key circular",
+        "wordFamily": "circular (noun)",
+        "image": "circular.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10728,
+        "word": "messenger",
+        "pronunciation": "/ˈmɛs.n̩.d͡ʒə/",
+        "audio": "messenger.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người đưa tin",
+        "definition": "One who brings messages.",
+        "example": "We need to understand the concept of messenger.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về người đưa tin.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "messenger process, key messenger",
+        "wordFamily": "messenger (noun)",
+        "image": "messenger.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10729,
+        "word": "handbill",
+        "pronunciation": "/handbill/",
+        "audio": "handbill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tờ rơi",
+        "definition": "A pruning hook.",
+        "example": "We need to understand the concept of handbill.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hóa đơn.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "handbill process, key handbill",
+        "wordFamily": "handbill (noun)",
+        "image": "handbill.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10730,
+        "word": "transmission",
+        "pronunciation": "/tɹænsˈmɪʃən/",
+        "audio": "transmission.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "truyền tải",
+        "definition": "The act of transmitting, e.g. data or electric power.",
+        "example": "We need to understand the concept of transmission.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm truyền tải.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transmission process, key transmission",
+        "wordFamily": "transmission (noun)",
+        "image": "transmission.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10731,
+        "word": "broadcaster",
+        "pronunciation": "/broadcaster/",
+        "audio": "broadcaster.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đài truyền hình",
+        "definition": "An organisation that engages in the activity of broadcasting.",
+        "example": "We need to understand the concept of broadcaster.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đài truyền hình.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "broadcaster process, key broadcaster",
+        "wordFamily": "broadcaster (noun)",
+        "image": "broadcaster.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10732,
+        "word": "dispatch",
+        "pronunciation": "/dəˈspætʃ/",
+        "audio": "dispatch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công văn",
+        "definition": "A message sent quickly, as a shipment, a prompt settlement of a business, or an important official message sent by a diplomat, or military officer.",
+        "example": "We need to understand the concept of dispatch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về công văn.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dispatch process, key dispatch",
+        "wordFamily": "dispatch (noun)",
+        "image": "dispatch.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10733,
+        "word": "cable",
+        "pronunciation": "/keɪ.bl/",
+        "audio": "cable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cáp",
+        "definition": "(material) A long object used to make a physical connection.",
+        "example": "We need to understand the concept of cable.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cáp.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cable process, key cable",
+        "wordFamily": "cable (noun)",
+        "image": "cable.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10734,
+        "word": "flyer",
+        "pronunciation": "/flyer/",
+        "audio": "flyer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tờ rơi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word flyer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tờ rơi.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "flyer process, key flyer",
+        "wordFamily": "flyer (noun)",
+        "image": "flyer.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10735,
+        "word": "proclamation",
+        "pronunciation": "/proclamation/",
+        "audio": "proclamation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyên bố",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word proclamation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tuyên bố.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "proclamation process, key proclamation",
+        "wordFamily": "proclamation (noun)",
+        "image": "proclamation.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10736,
+        "word": "brochure",
+        "pronunciation": "/brochure/",
+        "audio": "brochure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài liệu quảng cáo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word brochure.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng tài liệu từ.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "brochure process, key brochure",
+        "wordFamily": "brochure (noun)",
+        "image": "brochure.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10737,
+        "word": "decree",
+        "pronunciation": "/decree/",
+        "audio": "decree.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghị định",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word decree.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nghị định.",
+        "topic": "Communication",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "decree process, key decree",
+        "wordFamily": "decree (noun)",
+        "image": "decree.webp",
+        "tags": [
+            "communication",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

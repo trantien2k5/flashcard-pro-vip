@@ -1,0 +1,2814 @@
+[
+    {
+        "id": 10294,
+        "word": "company",
+        "pronunciation": "/ˈkʌmp(ə)ni/",
+        "audio": "company.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công ty",
+        "definition": "A team; a group of people who work together professionally.",
+        "example": "We need to understand the concept of company.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công ty.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "company process, key company",
+        "wordFamily": "company (noun)",
+        "image": "company.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10295,
+        "word": "firm",
+        "pronunciation": "/fɜːm/",
+        "audio": "firm.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vững chãi",
+        "definition": "A business partnership; the name under which it trades.",
+        "example": "We need to understand the concept of firm.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm doanh nghiệp.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "firm process, key firm",
+        "wordFamily": "firm (noun)",
+        "image": "firm.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10296,
+        "word": "corporation",
+        "pronunciation": "/corporation/",
+        "audio": "corporation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tập đoàn",
+        "definition": "A body corporate, created by law or under authority of law, having a continuous existence independent of the existences of its members, and powers and liabilities distinct from those of its members.",
+        "example": "We need to understand the concept of corporation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công ty.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "corporation process, key corporation",
+        "wordFamily": "corporation (noun)",
+        "image": "corporation.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10297,
+        "word": "enterprise",
+        "pronunciation": "/ˈɛntɚˌpɹaɪz/",
+        "audio": "enterprise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "doanh nghiệp",
+        "definition": "A company, business, organization, or other purposeful endeavor.",
+        "example": "A micro-enterprise is defined as a business having 5 or fewer employees and a low seed capital.",
+        "exampleVi": "Doanh nghiệp siêu nhỏ được định nghĩa là doanh nghiệp có từ 5 nhân viên trở xuống và có vốn ban đầu thấp.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "enterprise process, key enterprise",
+        "wordFamily": "enterprise (noun)",
+        "image": "enterprise.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10298,
+        "word": "business",
+        "pronunciation": "/ˈbɪd.nəs/",
+        "audio": "business.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "việc kinh doanh",
+        "definition": "A specific commercial enterprise or establishment.",
+        "example": "I was left my father's business.",
+        "exampleVi": "Tôi đã rời bỏ công việc kinh doanh của cha tôi.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "business process, key business",
+        "wordFamily": "business (noun)",
+        "image": "business.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10299,
+        "word": "commerce",
+        "pronunciation": "/kɒˈmɜːs/",
+        "audio": "commerce.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thương mại",
+        "definition": "The exchange or buying and selling of commodities; especially the exchange of merchandise, on a large scale, between different places or communities; extended trade or traffic.",
+        "example": "We need to understand the concept of commerce.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thương mại.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "commerce process, key commerce",
+        "wordFamily": "commerce (noun)",
+        "image": "commerce.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10300,
+        "word": "trade",
+        "pronunciation": "/tɹeɪd/",
+        "audio": "trade.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buôn bán",
+        "definition": "Buying and selling of goods and services on a market.",
+        "example": "We need to understand the concept of trade.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thương mại.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "trade process, key trade",
+        "wordFamily": "trade (noun)",
+        "image": "trade.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10301,
+        "word": "industry",
+        "pronunciation": "/ˈɪndəstɹi/",
+        "audio": "industry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngành công nghiệp",
+        "definition": "The tendency to work persistently. Diligence.",
+        "example": "Over the years, their industry and business sense made them wealthy.",
+        "exampleVi": "Qua nhiều năm, kỹ năng công nghiệp và ý thức kinh doanh đã giúp họ trở nên giàu có.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "industry process, key industry",
+        "wordFamily": "industry (noun)",
+        "image": "industry.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10302,
+        "word": "market",
+        "pronunciation": "/ˈmɑːkɪt/",
+        "audio": "market.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chợ",
+        "definition": "A gathering of people for the purchase and sale of merchandise at a set time, often periodic.",
+        "example": "The privilege to hold a weekly market was invaluable for any feudal era burgh.",
+        "exampleVi": "Đặc quyền được tổ chức phiên chợ hàng tuần là vô giá đối với bất kỳ thành phố nào ở thời phong kiến.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "market process, key market",
+        "wordFamily": "market (noun)",
+        "image": "market.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10303,
+        "word": "product",
+        "pronunciation": "/ˈpɹɒd.əkt/",
+        "audio": "product.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sản phẩm",
+        "definition": "A commodity offered for sale.",
+        "example": "That store offers a variety of products.  We've got to sell a lot of product by the end of the month.",
+        "exampleVi": "Cửa hàng đó cung cấp nhiều loại sản phẩm.  Chúng ta phải bán được nhiều sản phẩm vào cuối tháng.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "product process, key product",
+        "wordFamily": "product (noun)",
+        "image": "product.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10304,
+        "word": "service",
+        "pronunciation": "/ˈsɜːvɪs/",
+        "audio": "service.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dịch vụ",
+        "definition": "An act of being of assistance to someone.",
+        "example": "I say I did him a service by ending our relationship – now he can freely pursue his career.",
+        "exampleVi": "Tôi nói rằng tôi đã giúp ích cho anh ấy bằng cách chấm dứt mối quan hệ của chúng tôi - giờ anh ấy có thể tự do theo đuổi sự nghiệp của mình.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "service process, key service",
+        "wordFamily": "service (noun)",
+        "image": "service.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10305,
+        "word": "customer",
+        "pronunciation": "/ˈkʌstəmə/",
+        "audio": "customer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A patron, a client; one who purchases or receives a product or service from a business or merchant, or intends to do so.",
+        "example": "Every person who passes by is a potential customer.",
+        "exampleVi": "Mỗi người đi ngang qua đều là khách hàng tiềm năng.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "customer process, key customer",
+        "wordFamily": "customer (noun)",
+        "image": "customer.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10306,
+        "word": "client",
+        "pronunciation": "/ˈklʌɪənt/",
+        "audio": "client.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A customer, a buyer or receiver of goods or services.",
+        "example": "We need to understand the concept of client.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khách hàng.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "client process, key client",
+        "wordFamily": "client (noun)",
+        "image": "client.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10307,
+        "word": "competitor",
+        "pronunciation": "/competitor/",
+        "audio": "competitor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đối thủ cạnh tranh",
+        "definition": "A person or organization against whom one is competing.",
+        "example": "We need to understand the concept of competitor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đối thủ cạnh tranh.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "competitor process, key competitor",
+        "wordFamily": "competitor (noun)",
+        "image": "competitor.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10308,
+        "word": "strategy",
+        "pronunciation": "/ˈstɹætədʒi/",
+        "audio": "strategy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiến lược",
+        "definition": "The science and art of military command as applied to the overall planning and conduct of warfare.",
+        "example": "We need to understand the concept of strategy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chiến lược.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "strategy process, key strategy",
+        "wordFamily": "strategy (noun)",
+        "image": "strategy.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10309,
+        "word": "plan",
+        "pronunciation": "/plæn/",
+        "audio": "plan.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kế hoạch",
+        "definition": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
+        "example": "The plans for many important buildings were once publicly available.",
+        "exampleVi": "Kế hoạch của nhiều tòa nhà quan trọng đã từng được công bố rộng rãi.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "plan process, key plan",
+        "wordFamily": "plan (noun)",
+        "image": "plan.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10310,
+        "word": "goal",
+        "pronunciation": "/ɡɒʊl/",
+        "audio": "goal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mục tiêu",
+        "definition": "A result that one is attempting to achieve.",
+        "example": "My lifelong goal is to get into a Hollywood movie.",
+        "exampleVi": "Mục tiêu cả đời của tôi là được tham gia một bộ phim Hollywood.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "goal process, key goal",
+        "wordFamily": "goal (noun)",
+        "image": "goal.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10311,
+        "word": "target",
+        "pronunciation": "/tɑːɡɪt/",
+        "audio": "target.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mục tiêu",
+        "definition": "A butt or mark to shoot at, as for practice, or to test the accuracy of a firearm, or the force of a projectile.",
+        "example": "Take careful aim at the target.",
+        "exampleVi": "Hãy cẩn thận nhắm vào mục tiêu.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "target process, key target",
+        "wordFamily": "target (noun)",
+        "image": "target.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10312,
+        "word": "profit",
+        "pronunciation": "/ˈpɹɒfɪt/",
+        "audio": "profit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lợi nhuận",
+        "definition": "Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price.",
+        "example": "We need to understand the concept of profit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lợi nhuận.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "profit process, key profit",
+        "wordFamily": "profit (noun)",
+        "image": "profit.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10313,
+        "word": "loss",
+        "pronunciation": "/lɑs/",
+        "audio": "loss.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự mất mát",
+        "definition": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
+        "example": "In other areas, glacier loss creates serious risk of a dry period across the Third Pole, Wang said.",
+        "exampleVi": "Wang cho biết ở các khu vực khác, việc mất sông băng tạo ra nguy cơ nghiêm trọng về thời kỳ khô hạn trên khắp Cực thứ ba.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "loss process, key loss",
+        "wordFamily": "loss (noun)",
+        "image": "loss.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10314,
+        "word": "revenue",
+        "pronunciation": "/revenue/",
+        "audio": "revenue.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "doanh thu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word revenue.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ doanh thu.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "revenue process, key revenue",
+        "wordFamily": "revenue (noun)",
+        "image": "revenue.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10315,
+        "word": "expenditure",
+        "pronunciation": "/expenditure/",
+        "audio": "expenditure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chi tiêu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word expenditure.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chi tiêu.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "expenditure process, key expenditure",
+        "wordFamily": "expenditure (noun)",
+        "image": "expenditure.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10316,
+        "word": "budget",
+        "pronunciation": "/budget/",
+        "audio": "budget.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngân sách",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word budget.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ngân sách.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "budget process, key budget",
+        "wordFamily": "budget (noun)",
+        "image": "budget.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10317,
+        "word": "finance",
+        "pronunciation": "/finance/",
+        "audio": "finance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài chính",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word finance.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tài chính.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "finance process, key finance",
+        "wordFamily": "finance (noun)",
+        "image": "finance.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10318,
+        "word": "investment",
+        "pronunciation": "/investment/",
+        "audio": "investment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đầu tư",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word investment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đầu tư.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "investment process, key investment",
+        "wordFamily": "investment (noun)",
+        "image": "investment.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10319,
+        "word": "investor",
+        "pronunciation": "/investor/",
+        "audio": "investor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà đầu tư",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word investor.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhà đầu tư.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "investor process, key investor",
+        "wordFamily": "investor (noun)",
+        "image": "investor.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10320,
+        "word": "shareholder",
+        "pronunciation": "/shareholder/",
+        "audio": "shareholder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cổ đông",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word shareholder.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cổ đông.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shareholder process, key shareholder",
+        "wordFamily": "shareholder (noun)",
+        "image": "shareholder.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10321,
+        "word": "partner",
+        "pronunciation": "/partner/",
+        "audio": "partner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cộng sự",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word partner.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đối tác.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "partner process, key partner",
+        "wordFamily": "partner (noun)",
+        "image": "partner.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10322,
+        "word": "alliance",
+        "pronunciation": "/alliance/",
+        "audio": "alliance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liên minh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word alliance.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ liên minh.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "alliance process, key alliance",
+        "wordFamily": "alliance (noun)",
+        "image": "alliance.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10323,
+        "word": "merger",
+        "pronunciation": "/merger/",
+        "audio": "merger.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sáp nhập",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word merger.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sáp nhập.",
+        "topic": "Business",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "merger process, key merger",
+        "wordFamily": "merger (noun)",
+        "image": "merger.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10324,
+        "word": "branch",
+        "pronunciation": "/bɹæntʃ/",
+        "audio": "branch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chi nhánh",
+        "definition": "The woody part of a tree arising from the trunk and usually dividing.",
+        "example": "We need to understand the concept of branch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhánh.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "branch process, key branch",
+        "wordFamily": "branch (noun)",
+        "image": "branch.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10325,
+        "word": "headquarters",
+        "pronunciation": "/ˌhɛd.ˈkwɔː.təz/",
+        "audio": "headquarters.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trụ sở chính",
+        "definition": "The military installation from which troops are commanded and orders are issued; the military unit consisting of a commander and his support staff.",
+        "example": "We need to understand the concept of headquarters.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trụ sở chính.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "headquarters process, key headquarters",
+        "wordFamily": "headquarters (noun)",
+        "image": "headquarters.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10326,
+        "word": "takeover",
+        "pronunciation": "/takeover/",
+        "audio": "takeover.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiếp quản",
+        "definition": "The purchase of one company by another; a merger without the formation of a new company, especially where some stakeholders in the purchased company oppose the purchase.",
+        "example": "We need to understand the concept of takeover.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiếp quản.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "takeover process, key takeover",
+        "wordFamily": "takeover (noun)",
+        "image": "takeover.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10327,
+        "word": "affiliate",
+        "pronunciation": "/əˈfɪl.i.et/",
+        "audio": "affiliate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chi nhánh",
+        "definition": "Someone or something, especially, a television station, that is associated with a larger, related organization, such as a television network; a member of a group of associated things.",
+        "example": "Our local TV channel is an affiliate of NBC.",
+        "exampleVi": "Kênh truyền hình địa phương của chúng tôi là một chi nhánh của NBC.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "affiliate process, key affiliate",
+        "wordFamily": "affiliate (noun)",
+        "image": "affiliate.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10328,
+        "word": "oligopoly",
+        "pronunciation": "/ɒlɪˈɡɒpəli/",
+        "audio": "oligopoly.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "độc quyền nhóm",
+        "definition": "An economic condition in which a small number of sellers exert control over the market of a commodity.",
+        "example": "We need to understand the concept of oligopoly.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm độc quyền nhóm.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "oligopoly process, key oligopoly",
+        "wordFamily": "oligopoly (noun)",
+        "image": "oligopoly.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10329,
+        "word": "proprietorship",
+        "pronunciation": "/proprietorship/",
+        "audio": "proprietorship.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quyền sở hữu",
+        "definition": "The state of being a proprietor; ownership",
+        "example": "We need to understand the concept of proprietorship.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sở hữu.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "proprietorship process, key proprietorship",
+        "wordFamily": "proprietorship (noun)",
+        "image": "proprietorship.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10330,
+        "word": "startup",
+        "pronunciation": "/ˈstɑɹtˌʌp/",
+        "audio": "startup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khởi nghiệp",
+        "definition": "The act or process of starting a process or machine.",
+        "example": "We need to understand the concept of startup.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khởi nghiệp.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "startup process, key startup",
+        "wordFamily": "startup (noun)",
+        "image": "startup.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10331,
+        "word": "sector",
+        "pronunciation": "/ˈsɛk.təɹ/",
+        "audio": "sector.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngành",
+        "definition": "Section",
+        "example": "We need to understand the concept of sector.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ngành.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sector process, key sector",
+        "wordFamily": "sector (noun)",
+        "image": "sector.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10332,
+        "word": "subsidiary",
+        "pronunciation": "/sʌbˈsɪ.di.əɹ.i/",
+        "audio": "subsidiary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công ty con",
+        "definition": "A company owned by a parent company or a holding company, also called daughter company or sister company.",
+        "example": "We need to understand the concept of subsidiary.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công ty con.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "subsidiary process, key subsidiary",
+        "wordFamily": "subsidiary (noun)",
+        "image": "subsidiary.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10333,
+        "word": "venture",
+        "pronunciation": "/ˈvɛn.t͡ʃə/",
+        "audio": "venture.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liên doanh",
+        "definition": "A risky or daring undertaking or journey.",
+        "example": "We need to understand the concept of venture.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mạo hiểm.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "venture process, key venture",
+        "wordFamily": "venture (noun)",
+        "image": "venture.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10334,
+        "word": "tactic",
+        "pronunciation": "/ˈtæktɪk/",
+        "audio": "tactic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiến thuật",
+        "definition": "A maneuver, or action calculated to achieve some end.",
+        "example": "We need to understand the concept of tactic.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chiến thuật.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tactic process, key tactic",
+        "wordFamily": "tactic (noun)",
+        "image": "tactic.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10335,
+        "word": "restructure",
+        "pronunciation": "/restructure/",
+        "audio": "restructure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tái cơ cấu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word restructure.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cơ cấu lại.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "restructure process, key restructure",
+        "wordFamily": "restructure (noun)",
+        "image": "restructure.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10336,
+        "word": "vision",
+        "pronunciation": "/vision/",
+        "audio": "vision.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tầm nhìn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word vision.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tầm nhìn.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vision process, key vision",
+        "wordFamily": "vision (noun)",
+        "image": "vision.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10337,
+        "word": "diversify",
+        "pronunciation": "/diversify/",
+        "audio": "diversify.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đa dạng hóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word diversify.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đa dạng hóa.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "diversify process, key diversify",
+        "wordFamily": "diversify (noun)",
+        "image": "diversify.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10338,
+        "word": "mission",
+        "pronunciation": "/mission/",
+        "audio": "mission.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sứ mệnh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word mission.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhiệm vụ.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mission process, key mission",
+        "wordFamily": "mission (noun)",
+        "image": "mission.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10339,
+        "word": "rival",
+        "pronunciation": "/ˈɹaɪvəl/",
+        "audio": "rival.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đối thủ",
+        "definition": "A competitor (person, team, company, etc.) with the same goal as another, or striving to attain the same thing. Defeating a rival may be a primary or necessary goal of a competitor.",
+        "example": "Chris is my biggest rival in the 400-metre race.",
+        "exampleVi": "Chris là đối thủ lớn nhất của tôi trong cuộc đua 400 mét.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rival process, key rival",
+        "wordFamily": "rival (noun)",
+        "image": "rival.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10340,
+        "word": "acquisition",
+        "pronunciation": "/æ.kwɪ.ˈzɪ.ʃən/",
+        "audio": "acquisition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mua lại",
+        "definition": "The act or process of acquiring.",
+        "example": "The acquisition of sports equipment can be fun in itself.",
+        "exampleVi": "Bản thân việc mua lại thiết bị thể thao có thể rất thú vị.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "acquisition process, key acquisition",
+        "wordFamily": "acquisition (noun)",
+        "image": "acquisition.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10341,
+        "word": "monopoly",
+        "pronunciation": "/məˈnɒpəˌli/",
+        "audio": "monopoly.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "độc quyền",
+        "definition": "A situation, by legal privilege or other agreement, in which solely one party (company, cartel etc.) exclusively provides a particular product or service, dominating that market and generally exerting powerful control over it.",
+        "example": "We need to understand the concept of monopoly.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm độc quyền.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "monopoly process, key monopoly",
+        "wordFamily": "monopoly (noun)",
+        "image": "monopoly.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10342,
+        "word": "downsize",
+        "pronunciation": "/downsize/",
+        "audio": "downsize.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thu hẹp quy mô",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word downsize.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giảm kích thước.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "downsize process, key downsize",
+        "wordFamily": "downsize (noun)",
+        "image": "downsize.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10343,
+        "word": "synergy",
+        "pronunciation": "/synergy/",
+        "audio": "synergy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sức mạnh tổng hợp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word synergy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ synergy.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "synergy process, key synergy",
+        "wordFamily": "synergy (noun)",
+        "image": "synergy.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10344,
+        "word": "objective",
+        "pronunciation": "/objective/",
+        "audio": "objective.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mục tiêu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word objective.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ mục tiêu.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "objective process, key objective",
+        "wordFamily": "objective (noun)",
+        "image": "objective.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10345,
+        "word": "partnership",
+        "pronunciation": "/partnership/",
+        "audio": "partnership.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quan hệ đối tác",
+        "definition": "The state of being associated with a partner.",
+        "example": "We need to understand the concept of partnership.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hợp tác.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "partnership process, key partnership",
+        "wordFamily": "partnership (noun)",
+        "image": "partnership.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10346,
+        "word": "expand",
+        "pronunciation": "/expand/",
+        "audio": "expand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mở rộng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word expand.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ mở rộng.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "expand process, key expand",
+        "wordFamily": "expand (noun)",
+        "image": "expand.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10347,
+        "word": "metric",
+        "pronunciation": "/ˈmɛt.ɹɪk/",
+        "audio": "metric.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "số liệu",
+        "definition": "A measure for something; a means of deriving a quantitative measurement or approximation for otherwise qualitative phenomena (especially used in engineering).",
+        "example": "How to measure marketing? Use these key metrics for measuring marketing effectiveness.",
+        "exampleVi": "Làm thế nào để đo lường tiếp thị? Sử dụng các số liệu chính này để đo lường hiệu quả tiếp thị.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "metric process, key metric",
+        "wordFamily": "metric (noun)",
+        "image": "metric.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10348,
+        "word": "indicator",
+        "pronunciation": "/ˈɪn.dɪ.ˌkeɪ.tə(ɹ)/",
+        "audio": "indicator.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chỉ số",
+        "definition": "A pointer or index that indicates something.",
+        "example": "We need to understand the concept of indicator.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chỉ báo.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "indicator process, key indicator",
+        "wordFamily": "indicator (noun)",
+        "image": "indicator.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10349,
+        "word": "performance",
+        "pronunciation": "[pə.ˈfɔː.məns]",
+        "audio": "performance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiệu suất",
+        "definition": "The act of performing; carrying into execution or action; execution; achievement; accomplishment; representation by action.",
+        "example": "the performance of an undertaking or a duty",
+        "exampleVi": "việc thực hiện một cam kết hoặc một nghĩa vụ",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "performance process, key performance",
+        "wordFamily": "performance (noun)",
+        "image": "performance.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10350,
+        "word": "outcome",
+        "pronunciation": "/ˈaʊtkʌm/",
+        "audio": "outcome.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kết quả",
+        "definition": "That which is produced or occurs as a result of an event or process.",
+        "example": "A quality automobile is the outcome of the work of skilled engineers and thousands of workers.",
+        "exampleVi": "Một chiếc ô tô chất lượng là thành quả lao động của những kỹ sư lành nghề và hàng nghìn công nhân.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "outcome process, key outcome",
+        "wordFamily": "outcome (noun)",
+        "image": "outcome.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10351,
+        "word": "operations",
+        "pronunciation": "/ˌɒpəˈɹeɪʃənz/",
+        "audio": "operations.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoạt động",
+        "definition": "The method by which a device performs its function.",
+        "example": "We need to understand the concept of operations.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hoạt động.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "operations process, key operations",
+        "wordFamily": "operations (noun)",
+        "image": "operations.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10352,
+        "word": "multinational",
+        "pronunciation": "/multinational/",
+        "audio": "multinational.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đa quốc gia",
+        "definition": "A multinational company.",
+        "example": "We need to understand the concept of multinational.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đa quốc gia.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "multinational process, key multinational",
+        "wordFamily": "multinational (noun)",
+        "image": "multinational.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10353,
+        "word": "milestone",
+        "pronunciation": "/milestone/",
+        "audio": "milestone.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cột mốc quan trọng",
+        "definition": "A stone milepost (or by extension in other materials), one of a series of numbered markers placed along a road at regular intervals, typically at the side of the road or in a median.",
+        "example": "We need to understand the concept of milestone.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cột mốc.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "milestone process, key milestone",
+        "wordFamily": "milestone (noun)",
+        "image": "milestone.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10354,
+        "word": "deliverable",
+        "pronunciation": "/dɪˈlɪvɹəbəɫ/",
+        "audio": "deliverable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "có thể giao được",
+        "definition": "The tangible end product; that which will be delivered.",
+        "example": "Due to inclement weather, we will be unable to provide our deliverables.",
+        "exampleVi": "Do thời tiết khắc nghiệt, chúng tôi sẽ không thể cung cấp hàng hóa.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "deliverable process, key deliverable",
+        "wordFamily": "deliverable (noun)",
+        "image": "deliverable.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10355,
+        "word": "franchise",
+        "pronunciation": "/ˈfɹænt͡ʃaɪ̯z/",
+        "audio": "franchise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhượng quyền thương mại",
+        "definition": "The right to vote at a public election or referendum; see: suffrage, suffragette.",
+        "example": "We need to understand the concept of franchise.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhượng quyền thương mại.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "franchise process, key franchise",
+        "wordFamily": "franchise (noun)",
+        "image": "franchise.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10356,
+        "word": "conglomerate",
+        "pronunciation": "/kənˈɡlɒm(ə)ɹət/",
+        "audio": "conglomerate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tập đoàn",
+        "definition": "A cluster of heterogeneous things.",
+        "example": "We need to understand the concept of conglomerate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tập đoàn.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "conglomerate process, key conglomerate",
+        "wordFamily": "conglomerate (noun)",
+        "image": "conglomerate.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10357,
+        "word": "nationalization",
+        "pronunciation": "/nationalization/",
+        "audio": "nationalization.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quốc hữu hóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word nationalization.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ quốc hữu hóa.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "nationalization process, key nationalization",
+        "wordFamily": "nationalization (noun)",
+        "image": "nationalization.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10358,
+        "word": "syndicate",
+        "pronunciation": "/ˈsɪndɪkeɪt/",
+        "audio": "syndicate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tổ chức",
+        "definition": "A group of individuals or companies formed to transact some specific business, or to promote a common interest; a self-coordinating group.",
+        "example": "a gambling syndicate",
+        "exampleVi": "một tập đoàn cờ bạc",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "syndicate process, key syndicate",
+        "wordFamily": "syndicate (noun)",
+        "image": "syndicate.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10359,
+        "word": "privatization",
+        "pronunciation": "/privatization/",
+        "audio": "privatization.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tư nhân hóa",
+        "definition": "The transfer of a company or organization from government to private ownership and control.",
+        "example": "We need to understand the concept of privatization.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tư nhân hóa.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "privatization process, key privatization",
+        "wordFamily": "privatization (noun)",
+        "image": "privatization.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10360,
+        "word": "outsourcing",
+        "pronunciation": "/outsourcing/",
+        "audio": "outsourcing.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gia công phần mềm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word outsourcing.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ outsourcing.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "outsourcing process, key outsourcing",
+        "wordFamily": "outsourcing (noun)",
+        "image": "outsourcing.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10361,
+        "word": "industrialization",
+        "pronunciation": "/industrialization/",
+        "audio": "industrialization.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công nghiệp hóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word industrialization.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ công nghiệp hóa.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "industrialization process, key industrialization",
+        "wordFamily": "industrialization (noun)",
+        "image": "industrialization.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10362,
+        "word": "globalization",
+        "pronunciation": "/globalization/",
+        "audio": "globalization.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "toàn cầu hóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word globalization.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ toàn cầu hóa.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "globalization process, key globalization",
+        "wordFamily": "globalization (noun)",
+        "image": "globalization.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10363,
+        "word": "buyout",
+        "pronunciation": "/buyout/",
+        "audio": "buyout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mua lại",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word buyout.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ mua lại.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "buyout process, key buyout",
+        "wordFamily": "buyout (noun)",
+        "image": "buyout.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10364,
+        "word": "cartel",
+        "pronunciation": "/cartel/",
+        "audio": "cartel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cartel",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cartel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cartel.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cartel process, key cartel",
+        "wordFamily": "cartel (noun)",
+        "image": "cartel.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10365,
+        "word": "localization",
+        "pronunciation": "/localization/",
+        "audio": "localization.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản địa hóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word localization.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bản địa hóa.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "localization process, key localization",
+        "wordFamily": "localization (noun)",
+        "image": "localization.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10366,
+        "word": "consortium",
+        "pronunciation": "/consortium/",
+        "audio": "consortium.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tập đoàn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word consortium.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ consortium.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consortium process, key consortium",
+        "wordFamily": "consortium (noun)",
+        "image": "consortium.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10367,
+        "word": "commercialization",
+        "pronunciation": "/commercialization/",
+        "audio": "commercialization.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thương mại hóa",
+        "definition": "The act of commercializing.",
+        "example": "We need to understand the concept of commercialization.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thương mại hóa.",
+        "topic": "Business",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "commercialization process, key commercialization",
+        "wordFamily": "commercialization (noun)",
+        "image": "commercialization.webp",
+        "tags": [
+            "business",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

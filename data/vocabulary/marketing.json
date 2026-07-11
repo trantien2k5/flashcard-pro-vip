@@ -1,0 +1,2396 @@
+[
+    {
+        "id": 12321,
+        "word": "marketing",
+        "pronunciation": "/marketing/",
+        "audio": "marketing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tiếp thị",
+        "definition": "To make (products or services) available for sale and promote them.",
+        "example": "We plan to market an ecology model by next quarter.",
+        "exampleVi": "Chúng tôi dự định tung ra thị trường một mô hình sinh thái vào quý tới.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "marketing process, key marketing",
+        "wordFamily": "marketing (verb)",
+        "image": "marketing.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12322,
+        "word": "market",
+        "pronunciation": "/ˈmɑːkɪt/",
+        "audio": "market.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chợ",
+        "definition": "A gathering of people for the purchase and sale of merchandise at a set time, often periodic.",
+        "example": "The privilege to hold a weekly market was invaluable for any feudal era burgh.",
+        "exampleVi": "Đặc quyền được tổ chức phiên chợ hàng tuần là vô giá đối với bất kỳ thành phố nào ở thời phong kiến.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "market process, key market",
+        "wordFamily": "market (noun)",
+        "image": "market.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12323,
+        "word": "customer",
+        "pronunciation": "/ˈkʌstəmə/",
+        "audio": "customer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A patron, a client; one who purchases or receives a product or service from a business or merchant, or intends to do so.",
+        "example": "Every person who passes by is a potential customer.",
+        "exampleVi": "Mỗi người đi ngang qua đều là khách hàng tiềm năng.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "customer process, key customer",
+        "wordFamily": "customer (noun)",
+        "image": "customer.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12324,
+        "word": "consumer",
+        "pronunciation": "/kənˈsjuːmə/",
+        "audio": "consumer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người tiêu dùng",
+        "definition": "One who, or that which, consumes.",
+        "example": "We need to understand the concept of consumer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người tiêu dùng.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "consumer process, key consumer",
+        "wordFamily": "consumer (noun)",
+        "image": "consumer.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12325,
+        "word": "brand",
+        "pronunciation": "/bɹand/",
+        "audio": "brand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thương hiệu",
+        "definition": "A conflagration; a flame.",
+        "example": "We need to understand the concept of brand.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thương hiệu.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "brand process, key brand",
+        "wordFamily": "brand (noun)",
+        "image": "brand.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12326,
+        "word": "product",
+        "pronunciation": "/ˈpɹɒd.əkt/",
+        "audio": "product.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sản phẩm",
+        "definition": "A commodity offered for sale.",
+        "example": "That store offers a variety of products.  We've got to sell a lot of product by the end of the month.",
+        "exampleVi": "Cửa hàng đó cung cấp nhiều loại sản phẩm.  Chúng ta phải bán được nhiều sản phẩm vào cuối tháng.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "product process, key product",
+        "wordFamily": "product (noun)",
+        "image": "product.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12327,
+        "word": "price",
+        "pronunciation": "/pɹaɪs/",
+        "audio": "price.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá ",
+        "definition": "The cost required to gain possession of something.",
+        "example": "We need to understand the concept of price.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giá cả.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "price process, key price",
+        "wordFamily": "price (noun)",
+        "image": "price.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12328,
+        "word": "place",
+        "pronunciation": "/pleɪs/",
+        "audio": "place.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa điểm",
+        "definition": "(physical) An area; somewhere within an area.",
+        "example": "We need to understand the concept of place.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về địa điểm.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "place process, key place",
+        "wordFamily": "place (noun)",
+        "image": "place.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12329,
+        "word": "promotion",
+        "pronunciation": "/pɹəˈməʊʃən/",
+        "audio": "promotion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khuyến mãi",
+        "definition": "An advancement in rank or position.",
+        "example": "I'll have to give myself a promotion!",
+        "exampleVi": "Tôi sẽ phải tự thăng chức cho mình!",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "promotion process, key promotion",
+        "wordFamily": "promotion (noun)",
+        "image": "promotion.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12330,
+        "word": "strategy",
+        "pronunciation": "/ˈstɹætədʒi/",
+        "audio": "strategy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiến lược",
+        "definition": "The science and art of military command as applied to the overall planning and conduct of warfare.",
+        "example": "We need to understand the concept of strategy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chiến lược.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "strategy process, key strategy",
+        "wordFamily": "strategy (noun)",
+        "image": "strategy.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12331,
+        "word": "campaign",
+        "pronunciation": "/kæmˈpeɪn/",
+        "audio": "campaign.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiến dịch",
+        "definition": "A series of operations undertaken to achieve a set goal.",
+        "example": "The company is targeting children in their latest advertising campaign.",
+        "exampleVi": "Công ty đang nhắm đến trẻ em trong chiến dịch quảng cáo mới nhất của họ.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "campaign process, key campaign",
+        "wordFamily": "campaign (noun)",
+        "image": "campaign.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12332,
+        "word": "advertise",
+        "pronunciation": "/ˈadvə(ɹ)taɪz/",
+        "audio": "advertise.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "quảng cáo",
+        "definition": "To give (especially public) notice of (something); to announce publicly.",
+        "example": "We need to understand the concept of advertise.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm quảng cáo.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "advertise process, key advertise",
+        "wordFamily": "advertise (verb)",
+        "image": "advertise.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12333,
+        "word": "advertisement",
+        "pronunciation": "/ədˈvɜːtɪsmənt/",
+        "audio": "advertisement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quảng cáo",
+        "definition": "A commercial solicitation designed to sell some commodity, service or similar.",
+        "example": "Companies try to sell their products using advertisements in form of placards, television spots and print publications.",
+        "exampleVi": "Các công ty cố gắng bán sản phẩm của mình bằng cách sử dụng quảng cáo dưới dạng bảng hiệu, điểm truyền hình và ấn phẩm in.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "advertisement process, key advertisement",
+        "wordFamily": "advertisement (noun)",
+        "image": "advertisement.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12334,
+        "word": "research",
+        "pronunciation": "/ɹɪˈsɜːtʃ/",
+        "audio": "research.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nghiên cứu",
+        "definition": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth.",
+        "example": "The research station that houses Wang and his team is outside Lijiang, a city of about 1.2 million people.",
+        "exampleVi": "Trạm nghiên cứu của Wang và nhóm của ông nằm ở ngoại ô Lệ Giang, thành phố có khoảng 1,2 triệu dân.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "research process, key research",
+        "wordFamily": "research (noun)",
+        "image": "research.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12335,
+        "word": "survey",
+        "pronunciation": "/survey/",
+        "audio": "survey.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự khảo sát",
+        "definition": "The act of surveying; a general view.",
+        "example": "We need to understand the concept of survey.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khảo sát.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "survey process, key survey",
+        "wordFamily": "survey (noun)",
+        "image": "survey.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12336,
+        "word": "data",
+        "pronunciation": "/ˈdaetə/",
+        "audio": "data.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dữ liệu",
+        "definition": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc.",
+        "example": "We need to understand the concept of data.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dữ liệu.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "data process, key data",
+        "wordFamily": "data (noun)",
+        "image": "data.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12337,
+        "word": "analysis",
+        "pronunciation": "/əˈnælɪsɪs/",
+        "audio": "analysis.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Phân tích",
+        "definition": "Decomposition into components in order to study (a complex thing, concept, theory etc.).",
+        "example": "We need to understand the concept of analysis.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phân tích.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "analysis process, key analysis",
+        "wordFamily": "analysis (noun)",
+        "image": "analysis.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12338,
+        "word": "trend",
+        "pronunciation": "/tɹɛnd/",
+        "audio": "trend.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xu hướng",
+        "definition": "An inclination in a particular direction.",
+        "example": "the trend of a coastline",
+        "exampleVi": "xu hướng đường bờ biển",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "trend process, key trend",
+        "wordFamily": "trend (noun)",
+        "image": "trend.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12339,
+        "word": "target",
+        "pronunciation": "/tɑːɡɪt/",
+        "audio": "target.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mục tiêu",
+        "definition": "A butt or mark to shoot at, as for practice, or to test the accuracy of a firearm, or the force of a projectile.",
+        "example": "Take careful aim at the target.",
+        "exampleVi": "Hãy cẩn thận nhắm vào mục tiêu.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "target process, key target",
+        "wordFamily": "target (noun)",
+        "image": "target.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12340,
+        "word": "niche",
+        "pronunciation": "/niːʃ/",
+        "audio": "niche.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hốc tường",
+        "definition": "A cavity, hollow, or recess, generally within the thickness of a wall, for a statue, bust, or other erect ornament. Hence, any similar position, literal or figurative.",
+        "example": "We need to understand the concept of niche.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm niche.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "niche process, key niche",
+        "wordFamily": "niche (noun)",
+        "image": "niche.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12341,
+        "word": "placement",
+        "pronunciation": "/placement/",
+        "audio": "placement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vị trí",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word placement.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng vị trí từ.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "placement process, key placement",
+        "wordFamily": "placement (noun)",
+        "image": "placement.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12342,
+        "word": "branding",
+        "pronunciation": "/branding/",
+        "audio": "branding.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xây dựng thương hiệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word branding.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ xây dựng thương hiệu.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "branding process, key branding",
+        "wordFamily": "branding (noun)",
+        "image": "branding.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12343,
+        "word": "logo",
+        "pronunciation": "/logo/",
+        "audio": "logo.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biểu tượng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word logo.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ logo.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "logo process, key logo",
+        "wordFamily": "logo (noun)",
+        "image": "logo.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12344,
+        "word": "slogan",
+        "pronunciation": "/slogan/",
+        "audio": "slogan.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khẩu hiệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word slogan.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ slogan.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "slogan process, key slogan",
+        "wordFamily": "slogan (noun)",
+        "image": "slogan.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12345,
+        "word": "digital",
+        "pronunciation": "/digital/",
+        "audio": "digital.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện tử",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word digital.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kỹ thuật số.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "digital process, key digital",
+        "wordFamily": "digital (noun)",
+        "image": "digital.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12346,
+        "word": "social",
+        "pronunciation": "/social/",
+        "audio": "social.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xã hội",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word social.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ xã hội.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "social process, key social",
+        "wordFamily": "social (noun)",
+        "image": "social.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12347,
+        "word": "seo",
+        "pronunciation": "/seo/",
+        "audio": "seo.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "seo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word seo.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ seo.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "seo process, key seo",
+        "wordFamily": "seo (noun)",
+        "image": "seo.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12348,
+        "word": "analytics",
+        "pronunciation": "/analytics/",
+        "audio": "analytics.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phân tích",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word analytics.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phân tích.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "analytics process, key analytics",
+        "wordFamily": "analytics (noun)",
+        "image": "analytics.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12349,
+        "word": "loyalty",
+        "pronunciation": "/loyalty/",
+        "audio": "loyalty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lòng trung thành",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word loyalty.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trung thành.",
+        "topic": "Marketing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "loyalty process, key loyalty",
+        "wordFamily": "loyalty (noun)",
+        "image": "loyalty.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12350,
+        "word": "wholesale",
+        "pronunciation": "/ˈhoʊlseɪl/",
+        "audio": "wholesale.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bán buôn",
+        "definition": "The sale of products, often in large quantities, to retailers or other merchants.",
+        "example": "We need to understand the concept of wholesale.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bán buôn.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wholesale process, key wholesale",
+        "wordFamily": "wholesale (noun)",
+        "image": "wholesale.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12351,
+        "word": "distribution",
+        "pronunciation": "/ˌdɪstɹəˈbjuːʃən/",
+        "audio": "distribution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phân phối",
+        "definition": "An act of distributing or state of being distributed.",
+        "example": "We need to understand the concept of distribution.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phân phối.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "distribution process, key distribution",
+        "wordFamily": "distribution (noun)",
+        "image": "distribution.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12352,
+        "word": "relations",
+        "pronunciation": "/ɹɪˈleɪʃənz/",
+        "audio": "relations.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quan hệ",
+        "definition": "The manner in which two things may be associated.",
+        "example": "The relation between diet and health is complex.",
+        "exampleVi": "Mối quan hệ giữa chế độ ăn uống và sức khỏe rất phức tạp.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "relations process, key relations",
+        "wordFamily": "relations (noun)",
+        "image": "relations.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12353,
+        "word": "buyer",
+        "pronunciation": "/ˈbaɪ.ə(ɹ)/",
+        "audio": "buyer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người mua",
+        "definition": "A person who makes one or more purchases.",
+        "example": "Every person who steps through the door is a potential buyer, so acknowledge their presence.",
+        "exampleVi": "Mỗi người bước qua cửa đều là người mua tiềm năng, vì vậy hãy thừa nhận sự hiện diện của họ.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "buyer process, key buyer",
+        "wordFamily": "buyer (noun)",
+        "image": "buyer.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12354,
+        "word": "retail",
+        "pronunciation": "/ˈɹiˌteɪl/",
+        "audio": "retail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bán lẻ",
+        "definition": "The sale of goods directly to the consumer, encompassing the storefronts, mail-order, websites, etc., and the corporate mechanisms, branding, advertising, etc. that support them.",
+        "example": "She works in retail.",
+        "exampleVi": "Cô ấy làm việc trong lĩnh vực bán lẻ.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "retail process, key retail",
+        "wordFamily": "retail (noun)",
+        "image": "retail.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12355,
+        "word": "publicity",
+        "pronunciation": "/publicity/",
+        "audio": "publicity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công khai",
+        "definition": "Advertising or other activity designed to rouse public interest in something.",
+        "example": "We need to understand the concept of publicity.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công khai.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "publicity process, key publicity",
+        "wordFamily": "publicity (noun)",
+        "image": "publicity.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12356,
+        "word": "client",
+        "pronunciation": "/ˈklʌɪənt/",
+        "audio": "client.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A customer, a buyer or receiver of goods or services.",
+        "example": "We need to understand the concept of client.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khách hàng.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "client process, key client",
+        "wordFamily": "client (noun)",
+        "image": "client.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12357,
+        "word": "demographics",
+        "pronunciation": "/dɛməˈɡɹæfɪks/",
+        "audio": "demographics.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân khẩu học",
+        "definition": "The characteristics of human populations for purposes of social studies.",
+        "example": "We need to understand the concept of demographics.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân khẩu học.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demographics process, key demographics",
+        "wordFamily": "demographics (noun)",
+        "image": "demographics.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12358,
+        "word": "sales",
+        "pronunciation": "/seɪlz/",
+        "audio": "sales.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bán hàng",
+        "definition": "A hall.",
+        "example": "We need to understand the concept of sales.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bán hàng.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sales process, key sales",
+        "wordFamily": "sales (noun)",
+        "image": "sales.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12359,
+        "word": "targeting",
+        "pronunciation": "/targeting/",
+        "audio": "targeting.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "nhắm mục tiêu",
+        "definition": "To aim something, especially a weapon, at (a target).",
+        "example": "We need to understand the concept of targeting.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mục tiêu.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "targeting process, key targeting",
+        "wordFamily": "targeting (noun)",
+        "image": "targeting.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12360,
+        "word": "advertising",
+        "pronunciation": "/ˈædvə(ɹ)ˌtaɪzɪŋ/",
+        "audio": "advertising.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "quảng cáo",
+        "definition": "To give (especially public) notice of (something); to announce publicly.",
+        "example": "We need to understand the concept of advertising.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm quảng cáo.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "advertising process, key advertising",
+        "wordFamily": "advertising (noun)",
+        "image": "advertising.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12361,
+        "word": "positioning",
+        "pronunciation": "/positioning/",
+        "audio": "positioning.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "định vị",
+        "definition": "To put into place.",
+        "example": "We need to understand the concept of positioning.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm định vị.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "positioning process, key positioning",
+        "wordFamily": "positioning (noun)",
+        "image": "positioning.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12362,
+        "word": "purchaser",
+        "pronunciation": "/purchaser/",
+        "audio": "purchaser.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người mua",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word purchaser.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ người mua.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "purchaser process, key purchaser",
+        "wordFamily": "purchaser (noun)",
+        "image": "purchaser.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12363,
+        "word": "ecommerce",
+        "pronunciation": "/ecommerce/",
+        "audio": "ecommerce.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thương mại điện tử",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ecommerce.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thương mại điện tử.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ecommerce process, key ecommerce",
+        "wordFamily": "ecommerce (noun)",
+        "image": "ecommerce.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12364,
+        "word": "segmentation",
+        "pronunciation": "/segmentation/",
+        "audio": "segmentation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phân khúc",
+        "definition": "The act or an instance of dividing into segments",
+        "example": "We need to understand the concept of segmentation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phân khúc.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "segmentation process, key segmentation",
+        "wordFamily": "segmentation (noun)",
+        "image": "segmentation.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12365,
+        "word": "supply",
+        "pronunciation": "/supply/",
+        "audio": "supply.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cung cấp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word supply.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cung cấp.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "supply process, key supply",
+        "wordFamily": "supply (noun)",
+        "image": "supply.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12366,
+        "word": "demand",
+        "pronunciation": "/demand/",
+        "audio": "demand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhu cầu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word demand.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhu cầu.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demand process, key demand",
+        "wordFamily": "demand (noun)",
+        "image": "demand.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12367,
+        "word": "competitor",
+        "pronunciation": "/competitor/",
+        "audio": "competitor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đối thủ cạnh tranh",
+        "definition": "A person or organization against whom one is competing.",
+        "example": "We need to understand the concept of competitor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đối thủ cạnh tranh.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "competitor process, key competitor",
+        "wordFamily": "competitor (noun)",
+        "image": "competitor.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12368,
+        "word": "display",
+        "pronunciation": "/dɪsˈpleɪ/",
+        "audio": "display.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiển thị",
+        "definition": "A show or spectacle.",
+        "example": "The trapeze artist put on an amazing acrobatic display.",
+        "exampleVi": "Nghệ sĩ đu dây đã có màn nhào lộn ngoạn mục.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "display process, key display",
+        "wordFamily": "display (noun)",
+        "image": "display.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12369,
+        "word": "packaging",
+        "pronunciation": "/packaging/",
+        "audio": "packaging.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bao bì",
+        "definition": "To pack or bundle something.",
+        "example": "We need to understand the concept of packaging.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bao bì.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "packaging process, key packaging",
+        "wordFamily": "packaging (noun)",
+        "image": "packaging.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12370,
+        "word": "jingle",
+        "pronunciation": "/jingle/",
+        "audio": "jingle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "leng keng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word jingle.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ leng keng.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "jingle process, key jingle",
+        "wordFamily": "jingle (noun)",
+        "image": "jingle.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12371,
+        "word": "franchise",
+        "pronunciation": "/ˈfɹænt͡ʃaɪ̯z/",
+        "audio": "franchise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhượng quyền thương mại",
+        "definition": "The right to vote at a public election or referendum; see: suffrage, suffragette.",
+        "example": "We need to understand the concept of franchise.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhượng quyền thương mại.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "franchise process, key franchise",
+        "wordFamily": "franchise (noun)",
+        "image": "franchise.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12372,
+        "word": "merchandising",
+        "pronunciation": "/merchandising/",
+        "audio": "merchandising.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bán hàng",
+        "definition": "To engage in trade; to carry on commerce.",
+        "example": "We need to understand the concept of merchandising.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bán hàng.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "merchandising process, key merchandising",
+        "wordFamily": "merchandising (noun)",
+        "image": "merchandising.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12373,
+        "word": "copyright",
+        "pronunciation": "/ˈkɒpiˌɹaɪt/",
+        "audio": "copyright.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản quyền",
+        "definition": "The right by law to be the entity which determines who may publish, copy and distribute a piece of writing, music, picture or other work of authorship.",
+        "example": "Copyright is a separate legal area from trademarks.",
+        "exampleVi": "Bản quyền là một lĩnh vực pháp lý riêng biệt với nhãn hiệu.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "copyright process, key copyright",
+        "wordFamily": "copyright (noun)",
+        "image": "copyright.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12374,
+        "word": "rollout",
+        "pronunciation": "/rollout/",
+        "audio": "rollout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "triển khai",
+        "definition": "An act of rolling out; deployment.",
+        "example": "We need to understand the concept of rollout.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm triển khai.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rollout process, key rollout",
+        "wordFamily": "rollout (noun)",
+        "image": "rollout.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12375,
+        "word": "demonstration",
+        "pronunciation": "/dɛmənˈstɹeɪʃən/",
+        "audio": "demonstration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trình diễn",
+        "definition": "The act of demonstrating; showing or explaining something.",
+        "example": "We need to understand the concept of demonstration.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm biểu tình.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demonstration process, key demonstration",
+        "wordFamily": "demonstration (noun)",
+        "image": "demonstration.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12376,
+        "word": "exhibit",
+        "pronunciation": "/exhibit/",
+        "audio": "exhibit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "triển lãm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word exhibit.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ triển lãm.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "exhibit process, key exhibit",
+        "wordFamily": "exhibit (noun)",
+        "image": "exhibit.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12377,
+        "word": "labeling",
+        "pronunciation": "/labeling/",
+        "audio": "labeling.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ghi nhãn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word labeling.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ghi nhãn.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "labeling process, key labeling",
+        "wordFamily": "labeling (noun)",
+        "image": "labeling.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12378,
+        "word": "launch",
+        "pronunciation": "/launch/",
+        "audio": "launch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ra mắt",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word launch.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khởi động.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "launch process, key launch",
+        "wordFamily": "launch (noun)",
+        "image": "launch.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12379,
+        "word": "license",
+        "pronunciation": "/license/",
+        "audio": "license.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giấy phép",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word license.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giấy phép.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "license process, key license",
+        "wordFamily": "license (noun)",
+        "image": "license.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12380,
+        "word": "presentation",
+        "pronunciation": "/presentation/",
+        "audio": "presentation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trình bày",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word presentation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng cách trình bày từ.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "presentation process, key presentation",
+        "wordFamily": "presentation (noun)",
+        "image": "presentation.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12381,
+        "word": "patent",
+        "pronunciation": "/patent/",
+        "audio": "patent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bằng sáng chế",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word patent.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bằng sáng chế.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "patent process, key patent",
+        "wordFamily": "patent (noun)",
+        "image": "patent.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12382,
+        "word": "trademark",
+        "pronunciation": "/trademark/",
+        "audio": "trademark.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhãn hiệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word trademark.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhãn hiệu.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trademark process, key trademark",
+        "wordFamily": "trademark (noun)",
+        "image": "trademark.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12383,
+        "word": "tactic",
+        "pronunciation": "/ˈtæktɪk/",
+        "audio": "tactic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiến thuật",
+        "definition": "A maneuver, or action calculated to achieve some end.",
+        "example": "We need to understand the concept of tactic.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chiến thuật.",
+        "topic": "Marketing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tactic process, key tactic",
+        "wordFamily": "tactic (noun)",
+        "image": "tactic.webp",
+        "tags": [
+            "marketing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

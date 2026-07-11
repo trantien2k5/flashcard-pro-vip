@@ -1,0 +1,1826 @@
+[
+    {
+        "id": 11985,
+        "word": "insurance",
+        "pronunciation": "/ɪn.ˈʃɔː.ɹəns/",
+        "audio": "insurance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo hiểm",
+        "definition": "A means of indemnity against a future occurrence of an uncertain event.",
+        "example": "The car was totalled, but fortunately I had insurance.",
+        "exampleVi": "Chiếc xe bị hư hỏng hoàn toàn, nhưng may mắn thay tôi có bảo hiểm.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "insurance process, key insurance",
+        "wordFamily": "insurance (noun)",
+        "image": "insurance.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11986,
+        "word": "insure",
+        "pronunciation": "/ɪnˈʃɔː/",
+        "audio": "insure.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bảo đảm",
+        "definition": "To make a pledge to (someone); to promise, guarantee (someone of something); to assure.",
+        "example": "We need to understand the concept of insure.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bảo hiểm.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "insure process, key insure",
+        "wordFamily": "insure (verb)",
+        "image": "insure.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11987,
+        "word": "policy",
+        "pronunciation": "/ˈpɒləsi/",
+        "audio": "policy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chính sách",
+        "definition": "A principle of behaviour, conduct etc. thought to be desirable or necessary, especially as formally expressed by a government or other authoritative body.",
+        "example": "The Communist Party has a policy of returning power to the workers.",
+        "exampleVi": "Đảng Cộng sản có chủ trương trả lại quyền lực cho công nhân.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "policy process, key policy",
+        "wordFamily": "policy (noun)",
+        "image": "policy.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11988,
+        "word": "premium",
+        "pronunciation": "/ˈpɹimiəm/",
+        "audio": "premium.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phần thưởng",
+        "definition": "A prize or award.",
+        "example": "We need to understand the concept of premium.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phí bảo hiểm.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "premium process, key premium",
+        "wordFamily": "premium (noun)",
+        "image": "premium.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11989,
+        "word": "coverage",
+        "pronunciation": "/ˈkʌv.əɹ.ɪdʒ/",
+        "audio": "coverage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo hiểm",
+        "definition": "An amount by which something or someone is covered.",
+        "example": "Before laying sod on that clay, the ground needs two inches of coverage with topsoil.",
+        "exampleVi": "Trước khi rải cỏ lên lớp đất sét đó, mặt đất cần được phủ lớp đất mặt 2 inch.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "coverage process, key coverage",
+        "wordFamily": "coverage (noun)",
+        "image": "coverage.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11990,
+        "word": "claim",
+        "pronunciation": "/kleɪm/",
+        "audio": "claim.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khẳng định",
+        "definition": "A demand of ownership made for something.",
+        "example": "a claim of ownership",
+        "exampleVi": "yêu cầu quyền sở hữu",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "claim process, key claim",
+        "wordFamily": "claim (noun)",
+        "image": "claim.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11991,
+        "word": "file",
+        "pronunciation": "/faɪl/",
+        "audio": "file.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài liệu",
+        "definition": "A collection of papers collated and archived together.",
+        "example": "We need to understand the concept of file.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tập tin.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "file process, key file",
+        "wordFamily": "file (noun)",
+        "image": "file.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11992,
+        "word": "damage",
+        "pronunciation": "/ˈdæmɪdʒ/",
+        "audio": "damage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hư hại",
+        "definition": "Injury or harm; the condition or measure of something not being intact.",
+        "example": "The storm did a lot of damage to the area.",
+        "exampleVi": "Cơn bão đã gây ra nhiều thiệt hại cho khu vực.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "damage process, key damage",
+        "wordFamily": "damage (noun)",
+        "image": "damage.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11993,
+        "word": "loss",
+        "pronunciation": "/lɑs/",
+        "audio": "loss.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự mất mát",
+        "definition": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
+        "example": "In other areas, glacier loss creates serious risk of a dry period across the Third Pole, Wang said.",
+        "exampleVi": "Wang cho biết ở các khu vực khác, việc mất sông băng tạo ra nguy cơ nghiêm trọng về thời kỳ khô hạn trên khắp Cực thứ ba.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "loss process, key loss",
+        "wordFamily": "loss (noun)",
+        "image": "loss.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11994,
+        "word": "accident",
+        "pronunciation": "/ˈæk.sə.dənt/",
+        "audio": "accident.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tai nạn",
+        "definition": "An unexpected event with negative consequences occurring without the intention of the one suffering the consequences.",
+        "example": "to die by an accident",
+        "exampleVi": "chết vì tai nạn",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "accident process, key accident",
+        "wordFamily": "accident (noun)",
+        "image": "accident.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11995,
+        "word": "health",
+        "pronunciation": "/hɛlθ/",
+        "audio": "health.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sức khỏe",
+        "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness.",
+        "example": "Her mental health is really affected by stressful environments.",
+        "exampleVi": "Sức khỏe tinh thần của cô thực sự bị ảnh hưởng bởi môi trường căng thẳng.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "health process, key health",
+        "wordFamily": "health (noun)",
+        "image": "health.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11996,
+        "word": "life",
+        "pronunciation": "/laɪf/",
+        "audio": "life.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mạng sống",
+        "definition": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+        "example": "Having experienced both, the vampire decided that he preferred (un)death to life.  He gave up on life.",
+        "exampleVi": "Trải qua cả hai điều đó, ma cà rồng quyết định rằng hắn thích (không) chết hơn sống.  Anh đã từ bỏ cuộc sống.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "life process, key life",
+        "wordFamily": "life (noun)",
+        "image": "life.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11997,
+        "word": "car",
+        "pronunciation": "/kɑː/",
+        "audio": "car.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe hơi",
+        "definition": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+        "example": "She drove her car to the mall.",
+        "exampleVi": "Cô lái xe đến trung tâm thương mại.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "car process, key car",
+        "wordFamily": "car (noun)",
+        "image": "car.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11998,
+        "word": "home",
+        "pronunciation": "/(h)əʊm/",
+        "audio": "home.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trang chủ",
+        "definition": "A dwelling.",
+        "example": "We need to understand the concept of home.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về nhà.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "home process, key home",
+        "wordFamily": "home (noun)",
+        "image": "home.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11999,
+        "word": "property",
+        "pronunciation": "/ˈpɹɒp.ət.i/",
+        "audio": "property.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài sản",
+        "definition": "Something that is owned.",
+        "example": "Important types of property include real property (land), personal property (other physical possessions), and intellectual property (rights over artistic creations, inventions, etc.).",
+        "exampleVi": "Các loại tài sản quan trọng bao gồm bất động sản (đất đai), tài sản cá nhân (tài sản vật chất khác) và sở hữu trí tuệ (quyền đối với các sáng tạo nghệ thuật, phát minh, v.v.).",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "property process, key property",
+        "wordFamily": "property (noun)",
+        "image": "property.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12000,
+        "word": "liability",
+        "pronunciation": "/laɪəˈbɪlɪti/",
+        "audio": "liability.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trách nhiệm pháp lý",
+        "definition": "An obligation, debt or responsibility owed to someone.",
+        "example": "We need to understand the concept of liability.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trách nhiệm.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "liability process, key liability",
+        "wordFamily": "liability (noun)",
+        "image": "liability.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12001,
+        "word": "agent",
+        "pronunciation": "/ˈeɪ.dʒənt/",
+        "audio": "agent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đại lý",
+        "definition": "One who exerts power, or has the power to act",
+        "example": "We need to understand the concept of agent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đại lý.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "agent process, key agent",
+        "wordFamily": "agent (noun)",
+        "image": "agent.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12002,
+        "word": "broker",
+        "pronunciation": "/ˈbɹəʊkə/",
+        "audio": "broker.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "người môi giới",
+        "definition": "Financially ruined, bankrupt.",
+        "example": "We need to understand the concept of broker.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm môi giới.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "broker process, key broker",
+        "wordFamily": "broker (adjective)",
+        "image": "broker.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12003,
+        "word": "company",
+        "pronunciation": "/ˈkʌmp(ə)ni/",
+        "audio": "company.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công ty",
+        "definition": "A team; a group of people who work together professionally.",
+        "example": "We need to understand the concept of company.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công ty.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "company process, key company",
+        "wordFamily": "company (noun)",
+        "image": "company.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12004,
+        "word": "deductible",
+        "pronunciation": "[dɪˈdʊktəbəɫ]",
+        "audio": "deductible.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "được khấu trừ",
+        "definition": "An amount of expenses that must be paid out of pocket before an insurer will pay further expenses.",
+        "example": "We need to understand the concept of deductible.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khấu trừ.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "deductible process, key deductible",
+        "wordFamily": "deductible (noun)",
+        "image": "deductible.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12005,
+        "word": "risk",
+        "pronunciation": "/ɹɪsk/",
+        "audio": "risk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rủi ro",
+        "definition": "A possible adverse event or outcome",
+        "example": "We need to understand the concept of risk.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rủi ro.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "risk process, key risk",
+        "wordFamily": "risk (noun)",
+        "image": "risk.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12006,
+        "word": "injury",
+        "pronunciation": "/ˈɪn.dʒə.ɹi/",
+        "audio": "injury.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chấn thương",
+        "definition": "Damage to the body of a human or animal.",
+        "example": "The passenger sustained a severe injury in the car accident.",
+        "exampleVi": "Người hành khách bị thương nặng trong vụ tai nạn ô tô.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "injury process, key injury",
+        "wordFamily": "injury (noun)",
+        "image": "injury.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12007,
+        "word": "theft",
+        "pronunciation": "/θɛft/",
+        "audio": "theft.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trộm cắp",
+        "definition": "The act of stealing property.",
+        "example": "We need to understand the concept of theft.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trộm cắp.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "theft process, key theft",
+        "wordFamily": "theft (noun)",
+        "image": "theft.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12008,
+        "word": "fire",
+        "pronunciation": "/ˈfɑeə(ɹ)/",
+        "audio": "fire.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngọn lửa",
+        "definition": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.",
+        "example": "We need to understand the concept of fire.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lửa.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fire process, key fire",
+        "wordFamily": "fire (noun)",
+        "image": "fire.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12009,
+        "word": "flood",
+        "pronunciation": "/flʌd/",
+        "audio": "flood.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lụt",
+        "definition": "A (usually disastrous) overflow of water from a lake or other body of water due to excessive rainfall or other input of water.",
+        "example": "We need to understand the concept of flood.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lũ lụt.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "flood process, key flood",
+        "wordFamily": "flood (noun)",
+        "image": "flood.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12010,
+        "word": "natural",
+        "pronunciation": "/ˈnætʃəɹəl/",
+        "audio": "natural.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tự nhiên",
+        "definition": "A native inhabitant of a place, country etc.",
+        "example": "We need to understand the concept of natural.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tự nhiên.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "natural process, key natural",
+        "wordFamily": "natural (noun)",
+        "image": "natural.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12011,
+        "word": "disaster",
+        "pronunciation": "/dɪˈzæs.tə/",
+        "audio": "disaster.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thảm họa",
+        "definition": "An unexpected natural or man-made catastrophe of substantial extent causing significant physical damage or destruction, loss of life or sometimes permanent change to the natural environment.",
+        "example": "People would suffer disasters when society's morality degenerates.",
+        "exampleVi": "Con người sẽ gặp tai họa khi đạo đức xã hội suy thoái.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "disaster process, key disaster",
+        "wordFamily": "disaster (noun)",
+        "image": "disaster.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12012,
+        "word": "compensation",
+        "pronunciation": "/ˌkɒmpɛnˈseɪʃən/",
+        "audio": "compensation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đền bù",
+        "definition": "The act or principle of compensating.",
+        "example": "We need to understand the concept of compensation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đền bù.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "compensation process, key compensation",
+        "wordFamily": "compensation (noun)",
+        "image": "compensation.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12013,
+        "word": "payout",
+        "pronunciation": "/payout/",
+        "audio": "payout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thanh toán",
+        "definition": "An amount of money paid out.",
+        "example": "We need to understand the concept of payout.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thanh toán.",
+        "topic": "Insurance",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "payout process, key payout",
+        "wordFamily": "payout (noun)",
+        "image": "payout.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12014,
+        "word": "settlement",
+        "pronunciation": "/ˈset.l.mənt/",
+        "audio": "settlement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải quyết",
+        "definition": "The act of settling.",
+        "example": "We need to understand the concept of settlement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hòa giải.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "settlement process, key settlement",
+        "wordFamily": "settlement (noun)",
+        "image": "settlement.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12015,
+        "word": "travel",
+        "pronunciation": "/ˈtɹævəl/",
+        "audio": "travel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "du lịch",
+        "definition": "The act of traveling; passage from place to place.",
+        "example": "space travel",
+        "exampleVi": "du hành vũ trụ",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "travel process, key travel",
+        "wordFamily": "travel (noun)",
+        "image": "travel.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12016,
+        "word": "peril",
+        "pronunciation": "/ˈpɛɹəl/",
+        "audio": "peril.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiểm họa",
+        "definition": "A situation of serious and immediate danger.",
+        "example": "We need to understand the concept of peril.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nguy hiểm.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "peril process, key peril",
+        "wordFamily": "peril (noun)",
+        "image": "peril.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12017,
+        "word": "hazard",
+        "pronunciation": "/ˈhazəd/",
+        "audio": "hazard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nguy hiểm",
+        "definition": "The chance of suffering harm; danger, peril, risk of loss.",
+        "example": "He encountered the enemy at the hazard of his reputation and life.",
+        "exampleVi": "Anh gặp phải kẻ thù nguy hiểm đến danh tiếng và tính mạng.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hazard process, key hazard",
+        "wordFamily": "hazard (noun)",
+        "image": "hazard.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12018,
+        "word": "death",
+        "pronunciation": "/diːθ/",
+        "audio": "death.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tử vong",
+        "definition": "The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.",
+        "example": "The death of my grandmother saddened the whole family.",
+        "exampleVi": "Cái chết của bà tôi khiến cả gia đình đau buồn.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "death process, key death",
+        "wordFamily": "death (noun)",
+        "image": "death.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12019,
+        "word": "actuary",
+        "pronunciation": "/actuary/",
+        "audio": "actuary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyên gia tính toán",
+        "definition": "Registrar, clerk.",
+        "example": "We need to understand the concept of actuary.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chuyên gia tính toán.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "actuary process, key actuary",
+        "wordFamily": "actuary (noun)",
+        "image": "actuary.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12020,
+        "word": "indemnity",
+        "pronunciation": "/ɪnˈdɛmnɪti/",
+        "audio": "indemnity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bồi thường",
+        "definition": "Security from damage, loss, or penalty.",
+        "example": "We need to understand the concept of indemnity.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bồi thường.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "indemnity process, key indemnity",
+        "wordFamily": "indemnity (noun)",
+        "image": "indemnity.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12021,
+        "word": "automobile",
+        "pronunciation": "/ˈɔː.tə.məˌbiːl/",
+        "audio": "automobile.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ô tô",
+        "definition": "A type of vehicle designed to move on the ground under its own stored power and intended to carry a driver, a small number of additional passengers, and a very limited amount of other load. A car or motorcar.",
+        "example": "We need to understand the concept of automobile.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ô tô.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "automobile process, key automobile",
+        "wordFamily": "automobile (noun)",
+        "image": "automobile.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12022,
+        "word": "underwrite",
+        "pronunciation": "/ʌndəˈɹaɪt/",
+        "audio": "underwrite.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bảo lãnh",
+        "definition": "To write below or under; subscribe.",
+        "example": "We need to understand the concept of underwrite.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bảo lãnh.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "underwrite process, key underwrite",
+        "wordFamily": "underwrite (noun)",
+        "image": "underwrite.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12023,
+        "word": "beneficiary",
+        "pronunciation": "/ˌbɛn.əˈfɪʃ.əɹ.i/",
+        "audio": "beneficiary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người thụ hưởng",
+        "definition": "One who benefits or receives an advantage.",
+        "example": "You are the lucky beneficiary of this special offer.",
+        "exampleVi": "Bạn là người may mắn được hưởng ưu đãi đặc biệt này.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "beneficiary process, key beneficiary",
+        "wordFamily": "beneficiary (noun)",
+        "image": "beneficiary.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12024,
+        "word": "homeowners",
+        "pronunciation": "/homeowners/",
+        "audio": "homeowners.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chủ nhà",
+        "definition": "Someone who owns a house",
+        "example": "We need to understand the concept of homeowners.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chủ nhà.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "homeowners process, key homeowners",
+        "wordFamily": "homeowners (noun)",
+        "image": "homeowners.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12025,
+        "word": "disability",
+        "pronunciation": "/dɪsəˈbɪlɪti/",
+        "audio": "disability.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khuyết tật",
+        "definition": "State of being disabled; deprivation or want of ability; absence of competent physical, intellectual, or moral power, means, fitness, and the like.",
+        "example": "We need to understand the concept of disability.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khuyết tật.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "disability process, key disability",
+        "wordFamily": "disability (noun)",
+        "image": "disability.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12026,
+        "word": "claimant",
+        "pronunciation": "/claimant/",
+        "audio": "claimant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người yêu cầu bồi thường",
+        "definition": "One who claims; one who makes a claim.",
+        "example": "We need to understand the concept of claimant.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nguyên đơn.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "claimant process, key claimant",
+        "wordFamily": "claimant (noun)",
+        "image": "claimant.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12027,
+        "word": "casualty",
+        "pronunciation": "/ˈkaʒ(ʊ)əlti/",
+        "audio": "casualty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tai nạn",
+        "definition": "Something that happens by chance, especially an unfortunate event; an accident, a disaster.",
+        "example": "We need to understand the concept of casualty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thương vong.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "casualty process, key casualty",
+        "wordFamily": "casualty (noun)",
+        "image": "casualty.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12028,
+        "word": "surveyor",
+        "pronunciation": "/surveyor/",
+        "audio": "surveyor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người khảo sát",
+        "definition": "A person occupied with surveying -- the process of determining positions on the earth's surface.",
+        "example": "We need to understand the concept of surveyor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người khảo sát.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "surveyor process, key surveyor",
+        "wordFamily": "surveyor (noun)",
+        "image": "surveyor.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12029,
+        "word": "assessor",
+        "pronunciation": "/əˈsɛsɚ/",
+        "audio": "assessor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người đánh giá",
+        "definition": "One who assesses a property for tax or insurance evaluation.",
+        "example": "We need to understand the concept of assessor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người đánh giá.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "assessor process, key assessor",
+        "wordFamily": "assessor (noun)",
+        "image": "assessor.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12030,
+        "word": "policyholder",
+        "pronunciation": "/policyholder/",
+        "audio": "policyholder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bên mua bảo hiểm",
+        "definition": "A person who holds an insurance policy, especially the person whose life is insured",
+        "example": "We need to understand the concept of policyholder.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người mua bảo hiểm.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "policyholder process, key policyholder",
+        "wordFamily": "policyholder (noun)",
+        "image": "policyholder.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12031,
+        "word": "adjuster",
+        "pronunciation": "/adjuster/",
+        "audio": "adjuster.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người điều chỉnh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word adjuster.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điều chỉnh.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "adjuster process, key adjuster",
+        "wordFamily": "adjuster (noun)",
+        "image": "adjuster.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12032,
+        "word": "underwriter",
+        "pronunciation": "/underwriter/",
+        "audio": "underwriter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bảo lãnh",
+        "definition": "An entity assuming a financial risk.",
+        "example": "We need to understand the concept of underwriter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người bảo lãnh.",
+        "topic": "Insurance",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "underwriter process, key underwriter",
+        "wordFamily": "underwriter (noun)",
+        "image": "underwriter.webp",
+        "tags": [
+            "insurance",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

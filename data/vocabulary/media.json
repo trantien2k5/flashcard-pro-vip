@@ -1,0 +1,1560 @@
+[
+    {
+        "id": 12384,
+        "word": "media",
+        "pronunciation": "/ˈmiːdɪə/",
+        "audio": "media.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phương tiện truyền thông",
+        "definition": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+        "example": "We need to understand the concept of media.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về truyền thông.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "media process, key media",
+        "wordFamily": "media (noun)",
+        "image": "media.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12385,
+        "word": "news",
+        "pronunciation": "/njuːz/",
+        "audio": "news.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tin tức",
+        "definition": "New information of interest.",
+        "example": "Is there any news about the storm?",
+        "exampleVi": "Có tin tức gì về cơn bão không?",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "news process, key news",
+        "wordFamily": "news (noun)",
+        "image": "news.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12386,
+        "word": "newspaper",
+        "pronunciation": "/ˈnjuːsˌpeɪpə/",
+        "audio": "newspaper.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "báo",
+        "definition": "A publication, usually published daily or weekly and usually printed on cheap, low-quality paper, containing news and other articles.",
+        "example": "We need to understand the concept of newspaper.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm báo chí.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "newspaper process, key newspaper",
+        "wordFamily": "newspaper (noun)",
+        "image": "newspaper.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12387,
+        "word": "magazine",
+        "pronunciation": "/mæɡəˈziːn/",
+        "audio": "magazine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tạp chí",
+        "definition": "A non-academic periodical publication, generally consisting of sheets of paper folded in half and stapled at the fold.",
+        "example": "We need to understand the concept of magazine.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tạp chí.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "magazine process, key magazine",
+        "wordFamily": "magazine (noun)",
+        "image": "magazine.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12388,
+        "word": "journal",
+        "pronunciation": "/ˈd͡ʒɜːnəl/",
+        "audio": "journal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tạp chí",
+        "definition": "A diary or daily record of a person, organization, vessel etc.; daybook.",
+        "example": "We need to understand the concept of journal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhật ký.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "journal process, key journal",
+        "wordFamily": "journal (noun)",
+        "image": "journal.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12389,
+        "word": "article",
+        "pronunciation": "/ˈɑːtɪkəl/",
+        "audio": "article.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài báo",
+        "definition": "A piece of nonfictional writing such as a story, report, opinion piece, or entry in a newspaper, magazine, journal, dictionary, encyclopedia, etc.",
+        "example": "We need to understand the concept of article.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bài viết.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "article process, key article",
+        "wordFamily": "article (noun)",
+        "image": "article.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12390,
+        "word": "report",
+        "pronunciation": "/ɹəˈpoːt/",
+        "audio": "report.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "báo cáo",
+        "definition": "A piece of information describing, or an account of certain events given or presented to someone, with the most common adpositions being by (referring to creator of the report) and on (referring to the subject).",
+        "example": "A report by the telecommunications ministry on the phone network revealed a severe capacity problem.",
+        "exampleVi": "Báo cáo của Bộ Viễn thông về mạng điện thoại cho thấy có vấn đề nghiêm trọng về dung lượng.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "report process, key report",
+        "wordFamily": "report (noun)",
+        "image": "report.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12391,
+        "word": "reporter",
+        "pronunciation": "/ɹɪˈpɔːtə/",
+        "audio": "reporter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phóng viên",
+        "definition": "Someone or something that reports.",
+        "example": "The reporters of important security bugs may be paid a bounty by the software developer.",
+        "exampleVi": "Người báo cáo các lỗi bảo mật quan trọng có thể được nhà phát triển phần mềm trả tiền thưởng.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reporter process, key reporter",
+        "wordFamily": "reporter (noun)",
+        "image": "reporter.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12392,
+        "word": "journalist",
+        "pronunciation": "/ˈdʒɜːnəlɪst/",
+        "audio": "journalist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà báo",
+        "definition": "The keeper of a personal journal, who writes in it regularly.",
+        "example": "We need to understand the concept of journalist.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà báo.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "journalist process, key journalist",
+        "wordFamily": "journalist (noun)",
+        "image": "journalist.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12393,
+        "word": "press",
+        "pronunciation": "/pɹɛs/",
+        "audio": "press.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhấn",
+        "definition": "A device used to apply pressure to an item.",
+        "example": "a flower press",
+        "exampleVi": "một máy ép hoa",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "press process, key press",
+        "wordFamily": "press (noun)",
+        "image": "press.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12394,
+        "word": "interview",
+        "pronunciation": "/ˈɪntəvjuː/",
+        "audio": "interview.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phỏng vấn",
+        "definition": "An official face-to-face meeting of monarchs or other important figures.",
+        "example": "We need to understand the concept of interview.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phỏng vấn.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "interview process, key interview",
+        "wordFamily": "interview (noun)",
+        "image": "interview.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12395,
+        "word": "broadcast",
+        "pronunciation": "/ˈbɹɑdkæst/",
+        "audio": "broadcast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phát tin",
+        "definition": "A transmission of a radio or television programme intended to be received by anyone with a receiver.",
+        "example": "We need to understand the concept of broadcast.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phát sóng.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "broadcast process, key broadcast",
+        "wordFamily": "broadcast (noun)",
+        "image": "broadcast.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12396,
+        "word": "channel",
+        "pronunciation": "/ˈtʃænəl/",
+        "audio": "channel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kênh",
+        "definition": "The physical confine of a river or slough, consisting of a bed and banks.",
+        "example": "The water coming out of the waterwheel created a standing wave in the channel.",
+        "exampleVi": "Nước thoát ra từ guồng nước tạo nên sóng đứng trong lòng kênh.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "channel process, key channel",
+        "wordFamily": "channel (noun)",
+        "image": "channel.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12397,
+        "word": "program",
+        "pronunciation": "/ˈpɹoʊˌɡɹæm/",
+        "audio": "program.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chương trình",
+        "definition": "A set of structured activities.",
+        "example": "Our program for today’s exercise class includes swimming and jogging.",
+        "exampleVi": "Chương trình của chúng tôi cho lớp tập thể dục hôm nay bao gồm bơi lội và chạy bộ.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "program process, key program",
+        "wordFamily": "program (noun)",
+        "image": "program.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12398,
+        "word": "show",
+        "pronunciation": "/ʃəʊ/",
+        "audio": "show.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trình diễn",
+        "definition": "A play, dance, or other entertainment.",
+        "example": "We need to understand the concept of show.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trình diễn.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "show process, key show",
+        "wordFamily": "show (noun)",
+        "image": "show.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12399,
+        "word": "radio",
+        "pronunciation": "/ˈɹeɪdiˌəʊ/",
+        "audio": "radio.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "radio",
+        "definition": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.",
+        "example": "We need to understand the concept of radio.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đài phát thanh.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "radio process, key radio",
+        "wordFamily": "radio (noun)",
+        "image": "radio.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12400,
+        "word": "television",
+        "pronunciation": "/ˈtɛləˌvɪʒən/",
+        "audio": "television.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tivi",
+        "definition": "An electronic communication medium that allows the transmission of real-time visual images, and often sound.",
+        "example": "It’s a good thing that television doesn’t transmit smell.",
+        "exampleVi": "Thật tốt khi tivi không truyền mùi.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "television process, key television",
+        "wordFamily": "television (noun)",
+        "image": "television.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12401,
+        "word": "tv",
+        "pronunciation": "/tv/",
+        "audio": "tv.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "TV",
+        "definition": "The assessed value of an asset from which the tax owing is computed.",
+        "example": "We need to understand the concept of tv.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về truyền hình.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tv process, key tv",
+        "wordFamily": "tv (noun)",
+        "image": "tv.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12402,
+        "word": "internet",
+        "pronunciation": "/ˈɪntəˌnɛt/",
+        "audio": "internet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "internet",
+        "definition": "Any set of computer networks that communicate using the Internet Protocol. (An intranet.)",
+        "example": "We need to understand the concept of internet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về internet.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "internet process, key internet",
+        "wordFamily": "internet (noun)",
+        "image": "internet.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12403,
+        "word": "social",
+        "pronunciation": "/ˈsəʊʃəl/",
+        "audio": "social.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xã hội",
+        "definition": "A festive gathering to foster introductions.",
+        "example": "They organized a social at the dance club to get people to know each other.",
+        "exampleVi": "Họ tổ chức một buổi giao lưu tại câu lạc bộ khiêu vũ để mọi người làm quen với nhau.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "social process, key social",
+        "wordFamily": "social (noun)",
+        "image": "social.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12404,
+        "word": "publish",
+        "pronunciation": "/ˈpʌblɪʃ/",
+        "audio": "publish.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xuất bản",
+        "definition": "To issue (something, such as printed work) for distribution and/or sale.",
+        "example": "Most of the sketches Faulkner published in 1925 appeared in the Sunday magazine section of the New Orleans Times-Picayune.",
+        "exampleVi": "Hầu hết các bản phác thảo mà Faulkner xuất bản năm 1925 đều xuất hiện trên mục tạp chí Chủ nhật của tờ New Orleans Times-Picayune.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "publish process, key publish",
+        "wordFamily": "publish (noun)",
+        "image": "publish.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12405,
+        "word": "publisher",
+        "pronunciation": "/ˈpʌblɪʃɚ/",
+        "audio": "publisher.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà xuất bản",
+        "definition": "One who publishes, especially books.",
+        "example": "We need to understand the concept of publisher.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà xuất bản.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "publisher process, key publisher",
+        "wordFamily": "publisher (noun)",
+        "image": "publisher.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12406,
+        "word": "editor",
+        "pronunciation": "/ˈɛdɪtə/",
+        "audio": "editor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biên tập viên",
+        "definition": "A person who edits or makes changes to documents.",
+        "example": "We need to understand the concept of editor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm biên tập viên.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "editor process, key editor",
+        "wordFamily": "editor (noun)",
+        "image": "editor.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12407,
+        "word": "headline",
+        "pronunciation": "/ˈhɛd.laɪn/",
+        "audio": "headline.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêu đề",
+        "definition": "The heading or title of a magazine or newspaper article.",
+        "example": "The headline on today's newspaper reads \"John Doe Wins Wood-Splitting Competition.\"",
+        "exampleVi": "Dòng tít trên tờ báo hôm nay là \"John Doe thắng cuộc thi chẻ củi\".",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "headline process, key headline",
+        "wordFamily": "headline (noun)",
+        "image": "headline.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12408,
+        "word": "cover",
+        "pronunciation": "/ˈkʌvə/",
+        "audio": "cover.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "che phủ",
+        "definition": "A lid.",
+        "example": "We need to understand the concept of cover.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm che đậy.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cover process, key cover",
+        "wordFamily": "cover (noun)",
+        "image": "cover.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12409,
+        "word": "column",
+        "pronunciation": "/ˈkɑljəm/",
+        "audio": "column.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cột",
+        "definition": "A solid upright structure designed usually to support a larger structure above it, such as a roof or horizontal beam, but sometimes for decoration.",
+        "example": "We need to understand the concept of column.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cột.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "column process, key column",
+        "wordFamily": "column (noun)",
+        "image": "column.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12410,
+        "word": "editorial",
+        "pronunciation": "/ˌɛdɪˈtɔːɹɪəl/",
+        "audio": "editorial.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biên tập",
+        "definition": "An article in a publication giving the opinion of its editors on a given topic or current event.",
+        "example": "We need to understand the concept of editorial.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm biên tập.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "editorial process, key editorial",
+        "wordFamily": "editorial (noun)",
+        "image": "editorial.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12411,
+        "word": "source",
+        "pronunciation": "/sɔːs/",
+        "audio": "source.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nguồn",
+        "definition": "The person, place or thing from which something (information, goods, etc.) comes or is acquired.",
+        "example": "The accused refused to reveal the source of the illegal drugs she was selling.",
+        "exampleVi": "Bị cáo từ chối tiết lộ nguồn gốc số ma túy trái phép mà cô đang bán.",
+        "topic": "Media",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "source process, key source",
+        "wordFamily": "source (noun)",
+        "image": "source.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12412,
+        "word": "information",
+        "pronunciation": "/information/",
+        "audio": "information.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thông tin",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word information.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thông tin.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "information process, key information",
+        "wordFamily": "information (noun)",
+        "image": "information.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12413,
+        "word": "web",
+        "pronunciation": "/web/",
+        "audio": "web.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "web",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word web.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ web.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "web process, key web",
+        "wordFamily": "web (noun)",
+        "image": "web.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12414,
+        "word": "book",
+        "pronunciation": "/book/",
+        "audio": "book.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuốn sách",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word book.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ book.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "book process, key book",
+        "wordFamily": "book (noun)",
+        "image": "book.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12415,
+        "word": "periodical",
+        "pronunciation": "/periodical/",
+        "audio": "periodical.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "định kỳ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word periodical.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ định kỳ.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "periodical process, key periodical",
+        "wordFamily": "periodical (noun)",
+        "image": "periodical.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12416,
+        "word": "feature",
+        "pronunciation": "/feature/",
+        "audio": "feature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính năng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word feature.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng tính năng từ.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "feature process, key feature",
+        "wordFamily": "feature (noun)",
+        "image": "feature.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12417,
+        "word": "podcast",
+        "pronunciation": "/podcast/",
+        "audio": "podcast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "podcast",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word podcast.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ podcast.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "podcast process, key podcast",
+        "wordFamily": "podcast (noun)",
+        "image": "podcast.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12418,
+        "word": "network",
+        "pronunciation": "/network/",
+        "audio": "network.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mạng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word network.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng mạng từ.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "network process, key network",
+        "wordFamily": "network (noun)",
+        "image": "network.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12419,
+        "word": "telecast",
+        "pronunciation": "/telecast/",
+        "audio": "telecast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "truyền hình",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word telecast.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ telecast.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "telecast process, key telecast",
+        "wordFamily": "telecast (noun)",
+        "image": "telecast.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12420,
+        "word": "journalism",
+        "pronunciation": "/journalism/",
+        "audio": "journalism.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "báo chí",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word journalism.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ báo chí.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "journalism process, key journalism",
+        "wordFamily": "journalism (noun)",
+        "image": "journalism.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12421,
+        "word": "broadcasting",
+        "pronunciation": "/broadcasting/",
+        "audio": "broadcasting.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phát sóng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word broadcasting.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phát sóng.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "broadcasting process, key broadcasting",
+        "wordFamily": "broadcasting (noun)",
+        "image": "broadcasting.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12422,
+        "word": "communication",
+        "pronunciation": "/communication/",
+        "audio": "communication.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao tiếp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word communication.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giao tiếp.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "communication process, key communication",
+        "wordFamily": "communication (noun)",
+        "image": "communication.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12423,
+        "word": "platform",
+        "pronunciation": "/platform/",
+        "audio": "platform.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nền tảng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word platform.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng nền tảng từ.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "platform process, key platform",
+        "wordFamily": "platform (noun)",
+        "image": "platform.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12424,
+        "word": "publishing",
+        "pronunciation": "/publishing/",
+        "audio": "publishing.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xuất bản",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word publishing.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ xuất bản.",
+        "topic": "Media",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "publishing process, key publishing",
+        "wordFamily": "publishing (noun)",
+        "image": "publishing.webp",
+        "tags": [
+            "media",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

@@ -1,0 +1,2320 @@
+[
+    {
+        "id": 13121,
+        "word": "transport",
+        "pronunciation": "/transport/",
+        "audio": "transport.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyên chở",
+        "definition": "An act of transporting; conveyance.",
+        "example": "The transport of goods is not included in the price given on the website.",
+        "exampleVi": "Việc vận chuyển hàng hóa không được bao gồm trong giá đưa ra trên trang web.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "transport process, key transport",
+        "wordFamily": "transport (noun)",
+        "image": "transport.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13122,
+        "word": "transportation",
+        "pronunciation": "/tɹænspɔːˈteɪʃən/",
+        "audio": "transportation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận tải",
+        "definition": "The act of transporting, or the state of being transported; conveyance, often of people, goods etc.",
+        "example": "We have to get people out of their cars and encourage them to use alternative forms of transportation.",
+        "exampleVi": "Chúng ta phải đưa mọi người ra khỏi ô tô và khuyến khích họ sử dụng các hình thức vận chuyển thay thế.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "transportation process, key transportation",
+        "wordFamily": "transportation (noun)",
+        "image": "transportation.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13123,
+        "word": "car",
+        "pronunciation": "/kɑː/",
+        "audio": "car.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe hơi",
+        "definition": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+        "example": "She drove her car to the mall.",
+        "exampleVi": "Cô lái xe đến trung tâm thương mại.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "car process, key car",
+        "wordFamily": "car (noun)",
+        "image": "car.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13124,
+        "word": "bus",
+        "pronunciation": "/bɐs/",
+        "audio": "bus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe buýt",
+        "definition": "A motor vehicle for transporting large numbers of people along roads.",
+        "example": "We need to understand the concept of bus.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về xe buýt.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bus process, key bus",
+        "wordFamily": "bus (noun)",
+        "image": "bus.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13125,
+        "word": "train",
+        "pronunciation": "/tɹeɪn/",
+        "audio": "train.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe lửa",
+        "definition": "Elongated portion.",
+        "example": "We need to understand the concept of train.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tàu hỏa.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "train process, key train",
+        "wordFamily": "train (noun)",
+        "image": "train.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13126,
+        "word": "tram",
+        "pronunciation": "/tɹam/",
+        "audio": "tram.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe điện",
+        "definition": "A passenger vehicle for public use that runs on tracks in the road (called a streetcar or trolley in North America).",
+        "example": "We need to understand the concept of tram.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xe điện.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tram process, key tram",
+        "wordFamily": "tram (noun)",
+        "image": "tram.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13127,
+        "word": "subway",
+        "pronunciation": "/ˈsʌbˌweɪ/",
+        "audio": "subway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tàu điện ngầm",
+        "definition": "An underground railway, especially for mass transit of people in urban areas.",
+        "example": "We need to understand the concept of subway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tàu điện ngầm.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "subway process, key subway",
+        "wordFamily": "subway (noun)",
+        "image": "subway.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13128,
+        "word": "metro",
+        "pronunciation": "/ˈmɛtɹəʊ/",
+        "audio": "metro.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tàu điện ngầm",
+        "definition": "An underground railway.",
+        "example": "We need to understand the concept of metro.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tàu điện ngầm.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "metro process, key metro",
+        "wordFamily": "metro (noun)",
+        "image": "metro.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13129,
+        "word": "bicycle",
+        "pronunciation": "/ˈbaɪsɪkl̩/",
+        "audio": "bicycle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe đạp",
+        "definition": "A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider’s feet upon pedals.",
+        "example": "We need to understand the concept of bicycle.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về xe đạp.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bicycle process, key bicycle",
+        "wordFamily": "bicycle (noun)",
+        "image": "bicycle.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13130,
+        "word": "bike",
+        "pronunciation": "[bɐɪk]",
+        "audio": "bike.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe đạp",
+        "definition": "A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider’s feet upon pedals.",
+        "example": "We need to understand the concept of bike.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về xe đạp.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bike process, key bike",
+        "wordFamily": "bike (noun)",
+        "image": "bike.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13131,
+        "word": "motorcycle",
+        "pronunciation": "/ˈməʊtəˌsaikəl/",
+        "audio": "motorcycle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe gắn máy",
+        "definition": "An open-seated motor vehicle with handlebars instead of a steering wheel, and having two (or sometimes three) wheels.",
+        "example": "We need to understand the concept of motorcycle.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về xe máy.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "motorcycle process, key motorcycle",
+        "wordFamily": "motorcycle (noun)",
+        "image": "motorcycle.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13132,
+        "word": "scooter",
+        "pronunciation": "/ˈskuːtə(ɹ)/",
+        "audio": "scooter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe tay ga",
+        "definition": "A kick scooter or push scooter; a human-powered land vehicle with a handlebar, deck and wheels that is propelled by a rider pushing off the ground.",
+        "example": "We need to understand the concept of scooter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xe tay ga.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "scooter process, key scooter",
+        "wordFamily": "scooter (noun)",
+        "image": "scooter.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13133,
+        "word": "taxi",
+        "pronunciation": "/ˈtæk.si/",
+        "audio": "taxi.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Taxi",
+        "definition": "A vehicle that may be hired for single journeys by members of the public, driven by a taxi driver.",
+        "example": "We need to understand the concept of taxi.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về taxi.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "taxi process, key taxi",
+        "wordFamily": "taxi (noun)",
+        "image": "taxi.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13134,
+        "word": "cab",
+        "pronunciation": "/kæb/",
+        "audio": "cab.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "taxi",
+        "definition": "A taxi; a taxicab.",
+        "example": "We need to understand the concept of cab.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về taxi.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cab process, key cab",
+        "wordFamily": "cab (noun)",
+        "image": "cab.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13135,
+        "word": "station",
+        "pronunciation": "/ˈsteɪʃən/",
+        "audio": "station.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ga tàu",
+        "definition": "A stopping place.",
+        "example": "We need to understand the concept of station.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trạm.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "station process, key station",
+        "wordFamily": "station (noun)",
+        "image": "station.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13136,
+        "word": "stop",
+        "pronunciation": "/stɒp/",
+        "audio": "stop.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dừng lại",
+        "definition": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.",
+        "example": "They agreed to meet at the bus stop.",
+        "exampleVi": "Họ đồng ý gặp nhau ở bến xe buýt.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stop process, key stop",
+        "wordFamily": "stop (noun)",
+        "image": "stop.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13137,
+        "word": "fare",
+        "pronunciation": "/fɛə(ɹ)/",
+        "audio": "fare.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá vé",
+        "definition": "A going; journey; travel; voyage; course; passage.",
+        "example": "We need to understand the concept of fare.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giá vé.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fare process, key fare",
+        "wordFamily": "fare (noun)",
+        "image": "fare.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13138,
+        "word": "ticket",
+        "pronunciation": "/ˈtɪkɪt/",
+        "audio": "ticket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vé",
+        "definition": "A pass entitling the holder to admission to a show, concert, etc.",
+        "example": "We need to understand the concept of ticket.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về vé.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ticket process, key ticket",
+        "wordFamily": "ticket (noun)",
+        "image": "ticket.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13139,
+        "word": "schedule",
+        "pronunciation": "/ˈskɛ.dʒu.əl/",
+        "audio": "schedule.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch trình",
+        "definition": "A slip of paper; a short note.",
+        "example": "We need to understand the concept of schedule.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lịch trình.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "schedule process, key schedule",
+        "wordFamily": "schedule (noun)",
+        "image": "schedule.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13140,
+        "word": "commute",
+        "pronunciation": "/kəˈmjuːt/",
+        "audio": "commute.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đi lại",
+        "definition": "To exchange substantially; to abate but not abolish completely, a penalty, obligation, or payment in return for a great, single thing or an aggregate; to cash in; to lessen",
+        "example": "to commute tithes into rentcharges for a sum; to commute market rents for a premium, to commute daily fares for a season ticket",
+        "exampleVi": "chuyển phần mười thành tiền thuê nhà cho một khoản tiền; đi lại bằng tiền thuê thị trường để có giá cao, đi lại bằng giá vé hàng ngày để lấy vé theo mùa",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "commute process, key commute",
+        "wordFamily": "commute (verb)",
+        "image": "commute.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13141,
+        "word": "driver",
+        "pronunciation": "/driver/",
+        "audio": "driver.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài xế",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word driver.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ driver.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "driver process, key driver",
+        "wordFamily": "driver (noun)",
+        "image": "driver.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13142,
+        "word": "road",
+        "pronunciation": "/road/",
+        "audio": "road.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word road.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đường.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "road process, key road",
+        "wordFamily": "road (noun)",
+        "image": "road.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13143,
+        "word": "rail",
+        "pronunciation": "/rail/",
+        "audio": "rail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường sắt",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word rail.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đường sắt.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rail process, key rail",
+        "wordFamily": "rail (noun)",
+        "image": "rail.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13144,
+        "word": "track",
+        "pronunciation": "/track/",
+        "audio": "track.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "theo dõi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word track.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ track.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "track process, key track",
+        "wordFamily": "track (noun)",
+        "image": "track.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13145,
+        "word": "traffic",
+        "pronunciation": "/traffic/",
+        "audio": "traffic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao thông",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word traffic.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giao thông.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "traffic process, key traffic",
+        "wordFamily": "traffic (noun)",
+        "image": "traffic.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13146,
+        "word": "congestion",
+        "pronunciation": "/congestion/",
+        "audio": "congestion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự tắc nghẽn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word congestion.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tắc nghẽn.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "congestion process, key congestion",
+        "wordFamily": "congestion (noun)",
+        "image": "congestion.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13147,
+        "word": "route",
+        "pronunciation": "/route/",
+        "audio": "route.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyến đường",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word route.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lộ trình.",
+        "topic": "Transportation",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "route process, key route",
+        "wordFamily": "route (noun)",
+        "image": "route.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13148,
+        "word": "street",
+        "pronunciation": "/stɹiːt/",
+        "audio": "street.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường phố",
+        "definition": "A paved part of road, usually in a village or a town.",
+        "example": "Walk down the street until you see a hotel on the right.",
+        "exampleVi": "Đi xuống phố cho đến khi bạn nhìn thấy một khách sạn ở bên phải.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "street process, key street",
+        "wordFamily": "street (noun)",
+        "image": "street.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13149,
+        "word": "trip",
+        "pronunciation": "/tɹɪp/",
+        "audio": "trip.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến đi",
+        "definition": "A journey; an excursion or jaunt",
+        "example": "We made a trip to the beach.",
+        "exampleVi": "Chúng tôi đã thực hiện một chuyến đi đến bãi biển.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trip process, key trip",
+        "wordFamily": "trip (noun)",
+        "image": "trip.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13150,
+        "word": "highway",
+        "pronunciation": "/ˈhaɪweɪ/",
+        "audio": "highway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường cao tốc",
+        "definition": "A motor vehicle for transporting large numbers of people along roads.",
+        "example": "We need to understand the concept of highway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường cao tốc.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "highway process, key highway",
+        "wordFamily": "highway (noun)",
+        "image": "highway.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13151,
+        "word": "flight",
+        "pronunciation": "/flaɪt/",
+        "audio": "flight.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến bay",
+        "definition": "The act of flying.",
+        "example": "Most birds are capable of flight.",
+        "exampleVi": "Hầu hết các loài chim đều có khả năng bay.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "flight process, key flight",
+        "wordFamily": "flight (noun)",
+        "image": "flight.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13152,
+        "word": "railway",
+        "pronunciation": "/ˈɹeɪlˌweɪ/",
+        "audio": "railway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường sắt",
+        "definition": "A transport system using rails used to move passengers or goods.",
+        "example": "We need to understand the concept of railway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đường sắt.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "railway process, key railway",
+        "wordFamily": "railway (noun)",
+        "image": "railway.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13153,
+        "word": "coach",
+        "pronunciation": "/kəʊtʃ/",
+        "audio": "coach.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "huấn luyện viên",
+        "definition": "A wheeled vehicle, generally drawn by horse power.",
+        "example": "We need to understand the concept of coach.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm huấn luyện viên.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "coach process, key coach",
+        "wordFamily": "coach (noun)",
+        "image": "coach.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13154,
+        "word": "transit",
+        "pronunciation": "/ˈtɹæn.sɪt/",
+        "audio": "transit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quá cảnh",
+        "definition": "The act of passing over, across, or through something.",
+        "example": "We need to understand the concept of transit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về quá cảnh.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transit process, key transit",
+        "wordFamily": "transit (noun)",
+        "image": "transit.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13155,
+        "word": "ride",
+        "pronunciation": "/ride/",
+        "audio": "ride.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đi xe",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ride.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đi xe.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ride process, key ride",
+        "wordFamily": "ride (noun)",
+        "image": "ride.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13156,
+        "word": "expressway",
+        "pronunciation": "/expressway/",
+        "audio": "expressway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường cao tốc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word expressway.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đường cao tốc.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "expressway process, key expressway",
+        "wordFamily": "expressway (noun)",
+        "image": "expressway.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13157,
+        "word": "path",
+        "pronunciation": "/path/",
+        "audio": "path.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "con đường",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word path.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ path.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "path process, key path",
+        "wordFamily": "path (noun)",
+        "image": "path.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13158,
+        "word": "journey",
+        "pronunciation": "/ˈd͡ʒɜːni/",
+        "audio": "journey.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "journey",
+        "definition": "A set amount of travelling, seen as a single unit; a discrete trip, a voyage.",
+        "example": "We need to understand the concept of journey.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hành trình.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "journey process, key journey",
+        "wordFamily": "journey (noun)",
+        "image": "journey.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13159,
+        "word": "automobile",
+        "pronunciation": "/ˈɔː.tə.məˌbiːl/",
+        "audio": "automobile.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "automobile",
+        "definition": "A type of vehicle designed to move on the ground under its own stored power and intended to carry a driver, a small number of additional passengers, and a very limited amount of other load. A car or motorcar.",
+        "example": "We need to understand the concept of automobile.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ô tô.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "automobile process, key automobile",
+        "wordFamily": "automobile (noun)",
+        "image": "automobile.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13160,
+        "word": "run",
+        "pronunciation": "/ɹʊn/",
+        "audio": "run.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "run",
+        "definition": "To run.",
+        "example": "We need to understand the concept of run.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chạy.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "run process, key run",
+        "wordFamily": "run (noun)",
+        "image": "run.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13161,
+        "word": "travel",
+        "pronunciation": "/ˈtɹævəl/",
+        "audio": "travel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "travel",
+        "definition": "The act of traveling; passage from place to place.",
+        "example": "space travel",
+        "exampleVi": "du hành vũ trụ",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "travel process, key travel",
+        "wordFamily": "travel (noun)",
+        "image": "travel.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13162,
+        "word": "drive",
+        "pronunciation": "/dɹaɪv/",
+        "audio": "drive.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "drive",
+        "definition": "Motivation to do or achieve something; ability coupled with ambition.",
+        "example": "Crassus had wealth and wit, but Pompey had drive and Caesar as much again.",
+        "exampleVi": "Crassus giàu có và thông minh, nhưng Pompey lại có tài xế và Caesar.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "drive process, key drive",
+        "wordFamily": "drive (noun)",
+        "image": "drive.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13163,
+        "word": "walk",
+        "pronunciation": "/wɔːk/",
+        "audio": "walk.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "walk",
+        "definition": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+        "example": "To walk briskly for an hour every day is to keep fit.",
+        "exampleVi": "Đi bộ nhanh một giờ mỗi ngày là để giữ dáng.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "walk process, key walk",
+        "wordFamily": "walk (noun)",
+        "image": "walk.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13164,
+        "word": "voyage",
+        "pronunciation": "/ˈvɔɪ.ɪdʒ/",
+        "audio": "voyage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "voyage",
+        "definition": "A long journey, especially by ship.",
+        "example": "We need to understand the concept of voyage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chuyến đi.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "voyage process, key voyage",
+        "wordFamily": "voyage (noun)",
+        "image": "voyage.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13165,
+        "word": "craft",
+        "pronunciation": "/kɹɑːft/",
+        "audio": "craft.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thủ công",
+        "definition": "Strength; power; might; force .",
+        "example": "We need to understand the concept of craft.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thủ công.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "craft process, key craft",
+        "wordFamily": "craft (noun)",
+        "image": "craft.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13166,
+        "word": "aircraft",
+        "pronunciation": "/ɛə.kɹɑːft/",
+        "audio": "aircraft.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy bay",
+        "definition": "A vehicle capable of atmospheric flight due to interaction with the air, such as buoyancy or lift",
+        "example": "We need to understand the concept of aircraft.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máy bay.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "aircraft process, key aircraft",
+        "wordFamily": "aircraft (noun)",
+        "image": "aircraft.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13167,
+        "word": "gondola",
+        "pronunciation": "/ˈɡɒn.də.lə/",
+        "audio": "gondola.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gondola",
+        "definition": "A small long, narrow boat with a high prow and stern, propelled with a single oar, especially in Venice.",
+        "example": "We need to understand the concept of gondola.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gondola.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gondola process, key gondola",
+        "wordFamily": "gondola (noun)",
+        "image": "gondola.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13168,
+        "word": "shuttle",
+        "pronunciation": "/shuttle/",
+        "audio": "shuttle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe đưa đón",
+        "definition": "The part of a loom that carries the woof back and forth between the warp threads.",
+        "example": "We need to understand the concept of shuttle.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tàu ​​con thoi.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shuttle process, key shuttle",
+        "wordFamily": "shuttle (noun)",
+        "image": "shuttle.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13169,
+        "word": "plane",
+        "pronunciation": "/pleɪn/",
+        "audio": "plane.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy bay",
+        "definition": "A level or flat surface.",
+        "example": "We need to understand the concept of plane.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mặt phẳng.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "plane process, key plane",
+        "wordFamily": "plane (noun)",
+        "image": "plane.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13170,
+        "word": "liner",
+        "pronunciation": "/ˈlaɪnə/",
+        "audio": "liner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lót",
+        "definition": "Someone who fits a lining to something.",
+        "example": "1973, A good liner has a pretty shrewd idea of the value of the painting he is treating and usually charges accordingly. — Kyril Bonfiglioli, Don't Point That Thing at Me (Penguin 2001, p. 41)",
+        "exampleVi": "1973, Một người vẽ tranh giỏi có ý tưởng khá sắc bén về giá trị của bức tranh mà anh ta đang xử lý và thường tính phí tương ứng. — Kyril Bonfiglioli, Đừng chĩa thứ đó vào tôi (Penguin 2001, tr. 41)",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "liner process, key liner",
+        "wordFamily": "liner (noun)",
+        "image": "liner.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13171,
+        "word": "limousine",
+        "pronunciation": "/ˌlɪməˈziːn/",
+        "audio": "limousine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe limousine",
+        "definition": "An automobile body with seats and permanent top like a coupe, and with the top projecting over the driver and a projecting front.",
+        "example": "We need to understand the concept of limousine.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm về xe limousine.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "limousine process, key limousine",
+        "wordFamily": "limousine (noun)",
+        "image": "limousine.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13172,
+        "word": "vessel",
+        "pronunciation": "/ˈvɛs.l̩/",
+        "audio": "vessel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tàu",
+        "definition": "Any craft designed for transportation on water, such as a ship or boat.",
+        "example": "We need to understand the concept of vessel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tàu.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vessel process, key vessel",
+        "wordFamily": "vessel (noun)",
+        "image": "vessel.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13173,
+        "word": "ferry",
+        "pronunciation": "/ˈfɛɹɪ/",
+        "audio": "ferry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phà",
+        "definition": "A ship used to transport people, smaller vehicles and goods from one port to another, usually on a regular schedule.",
+        "example": "We need to understand the concept of ferry.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phà.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ferry process, key ferry",
+        "wordFamily": "ferry (noun)",
+        "image": "ferry.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13174,
+        "word": "trolley",
+        "pronunciation": "/trolley/",
+        "audio": "trolley.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe đẩy",
+        "definition": "A cart or shopping cart.",
+        "example": "We need to understand the concept of trolley.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về xe đẩy.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trolley process, key trolley",
+        "wordFamily": "trolley (noun)",
+        "image": "trolley.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13175,
+        "word": "cablecar",
+        "pronunciation": "/cablecar/",
+        "audio": "cablecar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cáp treo",
+        "definition": "A streetcar moved by gripping to rotating loop of cable running along the track.",
+        "example": "We need to understand the concept of cablecar.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cáp treo.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cablecar process, key cablecar",
+        "wordFamily": "cablecar (noun)",
+        "image": "cablecar.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13176,
+        "word": "commuter",
+        "pronunciation": "/commuter/",
+        "audio": "commuter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người đi lại",
+        "definition": "One who commutes (etymology 1).",
+        "example": "We need to understand the concept of commuter.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người đi lại.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "commuter process, key commuter",
+        "wordFamily": "commuter (noun)",
+        "image": "commuter.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13177,
+        "word": "monorail",
+        "pronunciation": "/ˈmɑnəɹeɪl/",
+        "audio": "monorail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "monorail",
+        "definition": "A railroad system where the trains run on one rail",
+        "example": "We need to understand the concept of monorail.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đường ray đơn.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "monorail process, key monorail",
+        "wordFamily": "monorail (noun)",
+        "image": "monorail.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13178,
+        "word": "van",
+        "pronunciation": "/væn/",
+        "audio": "van.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "van",
+        "definition": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+        "example": "The van sped down the road.",
+        "exampleVi": "Chiếc xe tăng tốc trên đường.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "van process, key van",
+        "wordFamily": "van (noun)",
+        "image": "van.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13179,
+        "word": "funicular",
+        "pronunciation": "/funicular/",
+        "audio": "funicular.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường sắt leo núi",
+        "definition": "A particular type of rail transit system which ascends a steep urban or mountain incline, having usually two cars sharing a single track, with the cars linked by a cable and an arrangement of pulleys such that the descending car assists in the hoisting of the ascending car, i.e. the two cars serve as counterweights for each other.",
+        "example": "We need to understand the concept of funicular.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đường sắt leo núi.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "funicular process, key funicular",
+        "wordFamily": "funicular (noun)",
+        "image": "funicular.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13180,
+        "word": "truck",
+        "pronunciation": "/tɹʌk/",
+        "audio": "truck.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe tải",
+        "definition": "A small wheel or roller, specifically the wheel of a gun carriage.",
+        "example": "We need to understand the concept of truck.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xe tải.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "truck process, key truck",
+        "wordFamily": "truck (noun)",
+        "image": "truck.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13181,
+        "word": "wagon",
+        "pronunciation": "/ˈwæɡ(ə)n/",
+        "audio": "wagon.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "toa xe",
+        "definition": "A four-wheeled cart for hauling loads.",
+        "example": "We need to understand the concept of wagon.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về toa xe.",
+        "topic": "Transportation",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wagon process, key wagon",
+        "wordFamily": "wagon (noun)",
+        "image": "wagon.webp",
+        "tags": [
+            "transportation",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

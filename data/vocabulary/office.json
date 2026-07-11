@@ -1,0 +1,2928 @@
+[
+    {
+        "id": 12566,
+        "word": "desk",
+        "pronunciation": "/dɛsk/",
+        "audio": "desk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bàn làm việc",
+        "definition": "A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and readers. It often has a drawer or repository underneath.",
+        "example": "We need to understand the concept of desk.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bàn làm việc.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "desk process, key desk",
+        "wordFamily": "desk (noun)",
+        "image": "desk.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12567,
+        "word": "chair",
+        "pronunciation": "/t͡ʃɛə(ɹ)/",
+        "audio": "chair.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái ghế",
+        "definition": "An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench.",
+        "example": "All I need to weather a snowstorm is hot coffee, a warm fire, a good book and a comfortable chair.",
+        "exampleVi": "Tất cả những gì tôi cần để vượt qua cơn bão tuyết là cà phê nóng, lửa ấm, một cuốn sách hay và một chiếc ghế êm ái.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chair process, key chair",
+        "wordFamily": "chair (noun)",
+        "image": "chair.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12568,
+        "word": "computer",
+        "pronunciation": "/kəmˈpjuːtə/",
+        "audio": "computer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy tính",
+        "definition": "A person employed to perform computations; one who computes.",
+        "example": "We need to understand the concept of computer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máy tính.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "computer process, key computer",
+        "wordFamily": "computer (noun)",
+        "image": "computer.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12569,
+        "word": "printer",
+        "pronunciation": "/ˈpɹɪntə(ɹ)/",
+        "audio": "printer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy in",
+        "definition": "One who makes prints.",
+        "example": "We need to understand the concept of printer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máy in.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "printer process, key printer",
+        "wordFamily": "printer (noun)",
+        "image": "printer.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12570,
+        "word": "paper",
+        "pronunciation": "/ˈpeɪpə/",
+        "audio": "paper.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giấy",
+        "definition": "A sheet material used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water.",
+        "example": "We need to understand the concept of paper.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giấy.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "paper process, key paper",
+        "wordFamily": "paper (noun)",
+        "image": "paper.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12571,
+        "word": "file",
+        "pronunciation": "/faɪl/",
+        "audio": "file.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài liệu",
+        "definition": "A collection of papers collated and archived together.",
+        "example": "We need to understand the concept of file.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tập tin.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "file process, key file",
+        "wordFamily": "file (noun)",
+        "image": "file.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12572,
+        "word": "folder",
+        "pronunciation": "/ˈfəʊldə/",
+        "audio": "folder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư mục",
+        "definition": "An organizer that papers are kept in, usually with an index tab, to be stored as a single unit in a filing cabinet.",
+        "example": "I keep all my schoolwork in a yellow folder.",
+        "exampleVi": "Tôi giữ tất cả bài tập ở trường của mình trong một tập hồ sơ màu vàng.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "folder process, key folder",
+        "wordFamily": "folder (noun)",
+        "image": "folder.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12573,
+        "word": "document",
+        "pronunciation": "/ˈdɒkjʊmənt/",
+        "audio": "document.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tài liệu",
+        "definition": "An original or official paper used as the basis, proof, or support of anything else, including any writing, book, or other instrument conveying information pertinent to such proof or support.",
+        "example": "We need to understand the concept of document.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tài liệu.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "document process, key document",
+        "wordFamily": "document (noun)",
+        "image": "document.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12574,
+        "word": "cabinet",
+        "pronunciation": "/ˈkæ.bɪ.nɪt/",
+        "audio": "cabinet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ",
+        "definition": "A storage closet either separate from, or built into, a wall.",
+        "example": "We need to understand the concept of cabinet.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm tủ.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cabinet process, key cabinet",
+        "wordFamily": "cabinet (noun)",
+        "image": "cabinet.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12575,
+        "word": "phone",
+        "pronunciation": "/fəʊ̯n/",
+        "audio": "phone.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện thoại",
+        "definition": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+        "example": "We need to understand the concept of phone.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về điện thoại.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "phone process, key phone",
+        "wordFamily": "phone (noun)",
+        "image": "phone.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12576,
+        "word": "meeting",
+        "pronunciation": "/ˈmiːtɪŋ/",
+        "audio": "meeting.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc họp",
+        "definition": "(gerund) The act of persons or things that meet.",
+        "example": "Meeting him will be exciting. I enjoy meeting new people.",
+        "exampleVi": "Gặp anh ấy sẽ rất thú vị. Tôi thích gặp gỡ những người mới.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "meeting process, key meeting",
+        "wordFamily": "meeting (noun)",
+        "image": "meeting.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12577,
+        "word": "colleague",
+        "pronunciation": "/ˈkɒliːɡ/",
+        "audio": "colleague.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồng nghiệp",
+        "definition": "A fellow member of a profession, staff, academic faculty or other organization; an associate.",
+        "example": "We need to understand the concept of colleague.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đồng nghiệp.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "colleague process, key colleague",
+        "wordFamily": "colleague (noun)",
+        "image": "colleague.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12578,
+        "word": "manager",
+        "pronunciation": "/ˈmæn.ɪ.dʒə/",
+        "audio": "manager.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giám đốc",
+        "definition": "A person whose job is to manage something, such as a business, a restaurant, or a sports team.",
+        "example": "We need to understand the concept of manager.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người quản lý.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "manager process, key manager",
+        "wordFamily": "manager (noun)",
+        "image": "manager.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12579,
+        "word": "director",
+        "pronunciation": "/daɪˈɹɛktə(ɹ)/",
+        "audio": "director.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giám đốc",
+        "definition": "One who directs; the person in charge of managing a department or directorate (e.g., director of engineering), project, or production (as in a show or film, e.g., film director).",
+        "example": "We need to understand the concept of director.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giám đốc.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "director process, key director",
+        "wordFamily": "director (noun)",
+        "image": "director.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12580,
+        "word": "staff",
+        "pronunciation": "/ˈstæf/",
+        "audio": "staff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân viên",
+        "definition": "(plural staffs or staves) A long, straight, thick wooden rod or stick, especially one used to assist in walking.",
+        "example": "We need to understand the concept of staff.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân viên.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "staff process, key staff",
+        "wordFamily": "staff (noun)",
+        "image": "staff.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12581,
+        "word": "employee",
+        "pronunciation": "/(ˌ)ɪm-/",
+        "audio": "employee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người lao động",
+        "definition": "An individual who provides labor to a company or another person.",
+        "example": "One way to encourage your employees to work harder is by giving them incentives.",
+        "exampleVi": "Một cách để khuyến khích nhân viên của bạn làm việc chăm chỉ hơn là khuyến khích họ.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "employee process, key employee",
+        "wordFamily": "employee (noun)",
+        "image": "employee.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12582,
+        "word": "salary",
+        "pronunciation": "/ˈsælɚi/",
+        "audio": "salary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lương",
+        "definition": "A fixed amount of money paid to a worker, usually calculated on a monthly or annual basis, not hourly, as wages. Implies a degree of professionalism and/or autonomy.",
+        "example": "We need to understand the concept of salary.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiền lương.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "salary process, key salary",
+        "wordFamily": "salary (noun)",
+        "image": "salary.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12583,
+        "word": "bonus",
+        "pronunciation": "/ˈbəʊ.nəs/",
+        "audio": "bonus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thưởng",
+        "definition": "Something extra that is good; an added benefit.",
+        "example": "We need to understand the concept of bonus.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiền thưởng.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bonus process, key bonus",
+        "wordFamily": "bonus (noun)",
+        "image": "bonus.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12584,
+        "word": "schedule",
+        "pronunciation": "/ˈskɛ.dʒu.əl/",
+        "audio": "schedule.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch trình",
+        "definition": "A slip of paper; a short note.",
+        "example": "We need to understand the concept of schedule.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lịch trình.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "schedule process, key schedule",
+        "wordFamily": "schedule (noun)",
+        "image": "schedule.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12585,
+        "word": "deadline",
+        "pronunciation": "/ˈdɛdˌlaɪn/",
+        "audio": "deadline.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời hạn",
+        "definition": "A time limit in the form of a date on or before which something must be completed.",
+        "example": "I must make this deadline or my boss will kill me!",
+        "exampleVi": "Tôi phải hoàn thành thời hạn này nếu không sếp sẽ giết tôi!",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "deadline process, key deadline",
+        "wordFamily": "deadline (noun)",
+        "image": "deadline.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12586,
+        "word": "keyboard",
+        "pronunciation": "/ˈkiːbɔːd/",
+        "audio": "keyboard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bàn phím",
+        "definition": "(etc.) A set of keys used to operate a typewriter, computer etc.",
+        "example": "We need to understand the concept of keyboard.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bàn phím.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "keyboard process, key keyboard",
+        "wordFamily": "keyboard (noun)",
+        "image": "keyboard.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12587,
+        "word": "mouse",
+        "pronunciation": "/mouse/",
+        "audio": "mouse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuột",
+        "definition": "Any small rodent of the genus Mus.",
+        "example": "We need to understand the concept of mouse.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chuột.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mouse process, key mouse",
+        "wordFamily": "mouse (noun)",
+        "image": "mouse.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12588,
+        "word": "monitor",
+        "pronunciation": "/ˈmɒnɨtə/",
+        "audio": "monitor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "màn hình",
+        "definition": "Someone who watches over something; a person in charge of something or someone.",
+        "example": "The camp monitors look after the children during the night, when the teachers are asleep.",
+        "exampleVi": "Những người giám sát trại trông trẻ vào ban đêm, khi các giáo viên đã ngủ.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "monitor process, key monitor",
+        "wordFamily": "monitor (noun)",
+        "image": "monitor.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12589,
+        "word": "scanner",
+        "pronunciation": "/ˈskænə/",
+        "audio": "scanner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy quét",
+        "definition": "A device which scans documents in order to convert them to a digital medium.",
+        "example": "He put the picture in the scanner, then e-mailed a copy of it to his family.",
+        "exampleVi": "Anh cho bức ảnh vào máy scan rồi gửi một bản sao của nó qua e-mail cho gia đình.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "scanner process, key scanner",
+        "wordFamily": "scanner (noun)",
+        "image": "scanner.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12590,
+        "word": "photocopy",
+        "pronunciation": "/photocopy/",
+        "audio": "photocopy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sao chụp",
+        "definition": "A copy made using a photocopier.",
+        "example": "We need to understand the concept of photocopy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm photocopy.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "photocopy process, key photocopy",
+        "wordFamily": "photocopy (noun)",
+        "image": "photocopy.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12591,
+        "word": "stapler",
+        "pronunciation": "/ˈsteɪplə/",
+        "audio": "stapler.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái bấm ghim",
+        "definition": "A device which binds together sheets of paper by driving a thin metal staple through the sheets and simultaneously folding over the ends of the staple against the back surface of the paper.",
+        "example": "We need to understand the concept of stapler.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máy dập ghim.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stapler process, key stapler",
+        "wordFamily": "stapler (noun)",
+        "image": "stapler.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12592,
+        "word": "envelope",
+        "pronunciation": "/ˈɒn.və.ləʊp/",
+        "audio": "envelope.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phong bì",
+        "definition": "A paper or cardboard wrapper used to enclose small, flat items, especially letters, for mailing.",
+        "example": "We need to understand the concept of envelope.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phong bì.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "envelope process, key envelope",
+        "wordFamily": "envelope (noun)",
+        "image": "envelope.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12593,
+        "word": "workstation",
+        "pronunciation": "/workstation/",
+        "audio": "workstation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trạm làm việc",
+        "definition": "A desktop computer, normally more powerful than a normal PC and often dedicated to a specific task, such as graphics",
+        "example": "We need to understand the concept of workstation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm máy trạm.",
+        "topic": "Office",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "workstation process, key workstation",
+        "wordFamily": "workstation (noun)",
+        "image": "workstation.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12594,
+        "word": "drawer",
+        "pronunciation": "/drawer/",
+        "audio": "drawer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngăn kéo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word drawer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng ngăn kéo từ.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "drawer process, key drawer",
+        "wordFamily": "drawer (noun)",
+        "image": "drawer.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12595,
+        "word": "shelf",
+        "pronunciation": "/shelf/",
+        "audio": "shelf.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kệ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word shelf.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kệ.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shelf process, key shelf",
+        "wordFamily": "shelf (noun)",
+        "image": "shelf.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12596,
+        "word": "cubicle",
+        "pronunciation": "/cubicle/",
+        "audio": "cubicle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tủ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cubicle.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tủ.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cubicle process, key cubicle",
+        "wordFamily": "cubicle (noun)",
+        "image": "cubicle.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12597,
+        "word": "binder",
+        "pronunciation": "/binder/",
+        "audio": "binder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất kết dính",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word binder.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ binder.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "binder process, key binder",
+        "wordFamily": "binder (noun)",
+        "image": "binder.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12598,
+        "word": "record",
+        "pronunciation": "/record/",
+        "audio": "record.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản ghi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word record.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ record.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "record process, key record",
+        "wordFamily": "record (noun)",
+        "image": "record.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12599,
+        "word": "shredder",
+        "pronunciation": "/shredder/",
+        "audio": "shredder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy hủy tài liệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word shredder.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ máy hủy tài liệu.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shredder process, key shredder",
+        "wordFamily": "shredder (noun)",
+        "image": "shredder.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12600,
+        "word": "supplies",
+        "pronunciation": "/supplies/",
+        "audio": "supplies.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nguồn cung cấp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word supplies.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng nguồn cung cấp từ.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "supplies process, key supplies",
+        "wordFamily": "supplies (noun)",
+        "image": "supplies.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12601,
+        "word": "whiteboard",
+        "pronunciation": "/whiteboard/",
+        "audio": "whiteboard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảng trắng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word whiteboard.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bảng trắng.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "whiteboard process, key whiteboard",
+        "wordFamily": "whiteboard (noun)",
+        "image": "whiteboard.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12602,
+        "word": "workspace",
+        "pronunciation": "/workspace/",
+        "audio": "workspace.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "không gian làm việc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word workspace.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ không gian làm việc.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "workspace process, key workspace",
+        "wordFamily": "workspace (noun)",
+        "image": "workspace.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12603,
+        "word": "equipment",
+        "pronunciation": "/equipment/",
+        "audio": "equipment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiết bị",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word equipment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thiết bị.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "equipment process, key equipment",
+        "wordFamily": "equipment (noun)",
+        "image": "equipment.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12604,
+        "word": "archive",
+        "pronunciation": "/archive/",
+        "audio": "archive.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lưu trữ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word archive.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng kho lưu trữ từ.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "archive process, key archive",
+        "wordFamily": "archive (noun)",
+        "image": "archive.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12605,
+        "word": "telephone",
+        "pronunciation": "/telephone/",
+        "audio": "telephone.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện thoại",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word telephone.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điện thoại.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "telephone process, key telephone",
+        "wordFamily": "telephone (noun)",
+        "image": "telephone.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12606,
+        "word": "copier",
+        "pronunciation": "/copier/",
+        "audio": "copier.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy photocopy",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word copier.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ máy photocopy.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "copier process, key copier",
+        "wordFamily": "copier (noun)",
+        "image": "copier.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12607,
+        "word": "stationery",
+        "pronunciation": "/stationery/",
+        "audio": "stationery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "văn phòng phẩm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word stationery.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ văn phòng phẩm.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stationery process, key stationery",
+        "wordFamily": "stationery (noun)",
+        "image": "stationery.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12608,
+        "word": "projector",
+        "pronunciation": "/projector/",
+        "audio": "projector.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy chiếu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word projector.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ máy chiếu.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "projector process, key projector",
+        "wordFamily": "projector (noun)",
+        "image": "projector.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12609,
+        "word": "furniture",
+        "pronunciation": "/furniture/",
+        "audio": "furniture.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồ nội thất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word furniture.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đồ nội thất.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "furniture process, key furniture",
+        "wordFamily": "furniture (noun)",
+        "image": "furniture.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12610,
+        "word": "machinery",
+        "pronunciation": "/machinery/",
+        "audio": "machinery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy móc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word machinery.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ máy móc.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "machinery process, key machinery",
+        "wordFamily": "machinery (noun)",
+        "image": "machinery.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12611,
+        "word": "facility",
+        "pronunciation": "/facility/",
+        "audio": "facility.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơ sở vật chất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word facility.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cơ sở.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "facility process, key facility",
+        "wordFamily": "facility (noun)",
+        "image": "facility.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12612,
+        "word": "premises",
+        "pronunciation": "/premises/",
+        "audio": "premises.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơ sở",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word premises.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiền đề.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "premises process, key premises",
+        "wordFamily": "premises (noun)",
+        "image": "premises.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12613,
+        "word": "productivity",
+        "pronunciation": "/ˌpɹɒdʌkˈtɪvəti/",
+        "audio": "productivity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "năng suất",
+        "definition": "The state of being productive, fertile or efficient",
+        "example": "We need to understand the concept of productivity.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm năng suất.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "productivity process, key productivity",
+        "wordFamily": "productivity (noun)",
+        "image": "productivity.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12614,
+        "word": "efficiency",
+        "pronunciation": "/ɪˈfɪʃn̩si/",
+        "audio": "efficiency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiệu quả",
+        "definition": "The extent to which time is well used for the intended task.",
+        "example": "The efficiency of the planning department is deplorable.",
+        "exampleVi": "Hiệu quả của bộ phận kế hoạch là rất kém.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "efficiency process, key efficiency",
+        "wordFamily": "efficiency (noun)",
+        "image": "efficiency.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12615,
+        "word": "receptionist",
+        "pronunciation": "/ɹɪˈsɛpʃənɪst/",
+        "audio": "receptionist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân viên tiếp tân",
+        "definition": "An employee (such as a secretary) who works in reception (receiving visitors and/or calls) for a person or business, especially an office.",
+        "example": "We need to understand the concept of receptionist.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lễ tân.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "receptionist process, key receptionist",
+        "wordFamily": "receptionist (noun)",
+        "image": "receptionist.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12616,
+        "word": "branch",
+        "pronunciation": "/bɹæntʃ/",
+        "audio": "branch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chi nhánh",
+        "definition": "The woody part of a tree arising from the trunk and usually dividing.",
+        "example": "We need to understand the concept of branch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhánh.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "branch process, key branch",
+        "wordFamily": "branch (noun)",
+        "image": "branch.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12617,
+        "word": "infrastructure",
+        "pronunciation": "/ˈɪnfɹəˌstɹʌk(t)ʃɚ/",
+        "audio": "infrastructure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơ sở hạ tầng",
+        "definition": "(systems theory) An underlying base or foundation especially for an organization or system.",
+        "example": "The parasitic tyranny's infrastructure depends on secrecy in order to be effective.",
+        "exampleVi": "Cơ sở hạ tầng của chế độ chuyên chế ký sinh phụ thuộc vào tính bí mật để có hiệu quả.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "infrastructure process, key infrastructure",
+        "wordFamily": "infrastructure (noun)",
+        "image": "infrastructure.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12618,
+        "word": "headquarters",
+        "pronunciation": "/ˌhɛd.ˈkwɔː.təz/",
+        "audio": "headquarters.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trụ sở chính",
+        "definition": "The military installation from which troops are commanded and orders are issued; the military unit consisting of a commander and his support staff.",
+        "example": "We need to understand the concept of headquarters.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trụ sở chính.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "headquarters process, key headquarters",
+        "wordFamily": "headquarters (noun)",
+        "image": "headquarters.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12619,
+        "word": "secretary",
+        "pronunciation": "/ˈsɛk.ɹə.tɹi/",
+        "audio": "secretary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư ký",
+        "definition": "Someone entrusted with a secret; a confidant.",
+        "example": "We need to understand the concept of secretary.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thư ký.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "secretary process, key secretary",
+        "wordFamily": "secretary (noun)",
+        "image": "secretary.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12620,
+        "word": "division",
+        "pronunciation": "/dɪˈvɪʒən/",
+        "audio": "division.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phân chia",
+        "definition": "The act or process of dividing anything.",
+        "example": "We need to understand the concept of division.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phép chia.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "division process, key division",
+        "wordFamily": "division (noun)",
+        "image": "division.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12621,
+        "word": "department",
+        "pronunciation": "/dɪˈpɑːtm(ə)nt/",
+        "audio": "department.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bộ phận",
+        "definition": "A part, portion, or subdivision.",
+        "example": "We need to understand the concept of department.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phòng ban.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "department process, key department",
+        "wordFamily": "department (noun)",
+        "image": "department.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12622,
+        "word": "clerk",
+        "pronunciation": "/klɐːk/",
+        "audio": "clerk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thư ký",
+        "definition": "One who occupationally works with records, accounts, letters, etc.; an office worker.",
+        "example": "We need to understand the concept of clerk.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thư ký.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "clerk process, key clerk",
+        "wordFamily": "clerk (noun)",
+        "image": "clerk.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12623,
+        "word": "facsimile",
+        "pronunciation": "/fækˈsɪm.ə.li/",
+        "audio": "facsimile.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "fax",
+        "definition": "A copy or reproduction.",
+        "example": "We need to understand the concept of facsimile.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm fax.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "facsimile process, key facsimile",
+        "wordFamily": "facsimile (noun)",
+        "image": "facsimile.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12624,
+        "word": "headset",
+        "pronunciation": "/ˈhɛdsɛt/",
+        "audio": "headset.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tai nghe",
+        "definition": "A pair of headphones or earphones, or a singular headphone or earphone, typically with an attached microphone.",
+        "example": "We need to understand the concept of headset.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tai nghe.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "headset process, key headset",
+        "wordFamily": "headset (noun)",
+        "image": "headset.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12625,
+        "word": "superintendent",
+        "pronunciation": "/ˌsjuːpəɹɪnˈtɛndənt/",
+        "audio": "superintendent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giám đốc",
+        "definition": "A person who is authorized to supervise, direct or administer something.",
+        "example": "We need to understand the concept of superintendent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giám đốc.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "superintendent process, key superintendent",
+        "wordFamily": "superintendent (noun)",
+        "image": "superintendent.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12626,
+        "word": "telecommute",
+        "pronunciation": "/telecommute/",
+        "audio": "telecommute.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "làm việc từ xa",
+        "definition": "To work from home, sometimes for part of a working day or week, using a computer connected to one's employer's network or via the Internet.",
+        "example": "We need to understand the concept of telecommute.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm làm việc từ xa.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "telecommute process, key telecommute",
+        "wordFamily": "telecommute (noun)",
+        "image": "telecommute.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12627,
+        "word": "ergonomic",
+        "pronunciation": "/ergonomic/",
+        "audio": "ergonomic.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "công thái học",
+        "definition": "Of or relating to the science of ergonomics.",
+        "example": "We need to understand the concept of ergonomic.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về công thái học.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ergonomic process, key ergonomic",
+        "wordFamily": "ergonomic (noun)",
+        "image": "ergonomic.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12628,
+        "word": "paperclip",
+        "pronunciation": "/paperclip/",
+        "audio": "paperclip.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kẹp giấy",
+        "definition": "A small, folded, wire or plastic device used to hold sheets of paper together.",
+        "example": "We need to understand the concept of paperclip.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kẹp giấy.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "paperclip process, key paperclip",
+        "wordFamily": "paperclip (noun)",
+        "image": "paperclip.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12629,
+        "word": "ledger",
+        "pronunciation": "/ˈlɛdʒə/",
+        "audio": "ledger.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sổ cái",
+        "definition": "A book for keeping notes, especially one for keeping accounting records; a record book, a register.",
+        "example": "We need to understand the concept of ledger.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sổ cái.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ledger process, key ledger",
+        "wordFamily": "ledger (noun)",
+        "image": "ledger.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12630,
+        "word": "bulletin",
+        "pronunciation": "/ˈbʊlətɪn/",
+        "audio": "bulletin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản tin",
+        "definition": "A short report, especially one released through official channels to be broadcast or publicized.",
+        "example": "We need to understand the concept of bulletin.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bản tin.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bulletin process, key bulletin",
+        "wordFamily": "bulletin (noun)",
+        "image": "bulletin.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12631,
+        "word": "intercom",
+        "pronunciation": "/intercom/",
+        "audio": "intercom.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hệ thống liên lạc nội bộ",
+        "definition": "An electronic communication system, especially one between rooms in a building",
+        "example": "emergency intercom",
+        "exampleVi": "liên lạc khẩn cấp",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "intercom process, key intercom",
+        "wordFamily": "intercom (noun)",
+        "image": "intercom.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12632,
+        "word": "filing",
+        "pronunciation": "/faɪ.lɪŋ/",
+        "audio": "filing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "nộp hồ sơ",
+        "definition": "To commit (official papers) to some office.",
+        "example": "We need to understand the concept of filing.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nộp đơn.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "filing process, key filing",
+        "wordFamily": "filing (noun)",
+        "image": "filing.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12633,
+        "word": "postage",
+        "pronunciation": "/ˈpəʊstɪdʒ/",
+        "audio": "postage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bưu phí",
+        "definition": "The charge for posting an item.",
+        "example": "We need to understand the concept of postage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bưu chính.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "postage process, key postage",
+        "wordFamily": "postage (noun)",
+        "image": "postage.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12634,
+        "word": "laminator",
+        "pronunciation": "/laminator/",
+        "audio": "laminator.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy ép nhựa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word laminator.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ laminator.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "laminator process, key laminator",
+        "wordFamily": "laminator (noun)",
+        "image": "laminator.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12635,
+        "word": "easel",
+        "pronunciation": "/ˈiː.z(ə)l/",
+        "audio": "easel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá vẽ",
+        "definition": "An upright frame, typically on three legs, for displaying or supporting something, such as an artist's canvas.",
+        "example": "We need to understand the concept of easel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giá vẽ.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "easel process, key easel",
+        "wordFamily": "easel (noun)",
+        "image": "easel.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12636,
+        "word": "stationer",
+        "pronunciation": "/stationer/",
+        "audio": "stationer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy trạm văn phòng",
+        "definition": "A person or business that sells stationery.",
+        "example": "We need to understand the concept of stationer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm máy trạm.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stationer process, key stationer",
+        "wordFamily": "stationer (noun)",
+        "image": "stationer.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12637,
+        "word": "rubberband",
+        "pronunciation": "/rubberband/",
+        "audio": "rubberband.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dây cao su",
+        "definition": "An elastic band made of rubber.",
+        "example": "We need to understand the concept of rubberband.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dây cao su.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rubberband process, key rubberband",
+        "wordFamily": "rubberband (noun)",
+        "image": "rubberband.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12638,
+        "word": "telephony",
+        "pronunciation": "/təˈlɛf.ə.ni/",
+        "audio": "telephony.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điện thoại",
+        "definition": "The act of sound transmission via the electromagnetic spectrum.",
+        "example": "We need to understand the concept of telephony.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về điện thoại.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "telephony process, key telephony",
+        "wordFamily": "telephony (noun)",
+        "image": "telephony.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12639,
+        "word": "thumbtack",
+        "pronunciation": "/ˈθʌm.tæk/",
+        "audio": "thumbtack.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đinh bấm",
+        "definition": "A small nail-like tack with a slightly rounded head that can be pressed into place with light pressure from the thumb; used for hanging light articles on a wall or noticeboard.",
+        "example": "We need to understand the concept of thumbtack.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đinh bấm.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "thumbtack process, key thumbtack",
+        "wordFamily": "thumbtack (noun)",
+        "image": "thumbtack.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12640,
+        "word": "switchboard",
+        "pronunciation": "/switchboard/",
+        "audio": "switchboard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tổng đài",
+        "definition": "The electronic panel that is used to direct telephone calls to the desired recipient.",
+        "example": "We need to understand the concept of switchboard.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm tổng đài.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "switchboard process, key switchboard",
+        "wordFamily": "switchboard (noun)",
+        "image": "switchboard.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12641,
+        "word": "ergonomics",
+        "pronunciation": "/əːɡəˈnɒmɪks/",
+        "audio": "ergonomics.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công thái học",
+        "definition": "The science of the design of equipment, especially so as to reduce operator fatigue, discomfort and injury.",
+        "example": "Ergonomics is increasingly important in office-product design.",
+        "exampleVi": "Công thái học ngày càng quan trọng trong thiết kế sản phẩm văn phòng.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ergonomics process, key ergonomics",
+        "wordFamily": "ergonomics (noun)",
+        "image": "ergonomics.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12642,
+        "word": "holepunch",
+        "pronunciation": "/holepunch/",
+        "audio": "holepunch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cú đấm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word holepunch.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ Holepunch.",
+        "topic": "Office",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "holepunch process, key holepunch",
+        "wordFamily": "holepunch (noun)",
+        "image": "holepunch.webp",
+        "tags": [
+            "office",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

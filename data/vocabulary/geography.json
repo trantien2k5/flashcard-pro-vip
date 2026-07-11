@@ -1,0 +1,2624 @@
+[
+    {
+        "id": 11547,
+        "word": "geography",
+        "pronunciation": "/dʒɪˈɒɡɹəfi/",
+        "audio": "geography.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa lý",
+        "definition": "A description of the earth: a treatise or textbook on geography; an atlas or gazetteer.",
+        "example": "We need to understand the concept of geography.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa lý.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "geography process, key geography",
+        "wordFamily": "geography (noun)",
+        "image": "geography.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11548,
+        "word": "earth",
+        "pronunciation": "/ɜːθ/",
+        "audio": "earth.mp3",
+        "partOfSpeech": "proper noun",
+        "vietnamese": "trái đất",
+        "definition": "The third planet of the Solar System; the world upon which humans live.",
+        "example": "We need to understand the concept of earth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trái đất.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "earth process, key earth",
+        "wordFamily": "earth (proper noun)",
+        "image": "earth.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11549,
+        "word": "world",
+        "pronunciation": "/wɝld/",
+        "audio": "world.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thế giới",
+        "definition": "(with \"the\") Human collective existence; existence in general.",
+        "example": "There will always be lovers, till the world’s end.",
+        "exampleVi": "Sẽ luôn có những người yêu nhau, cho đến ngày tận thế.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "world process, key world",
+        "wordFamily": "world (noun)",
+        "image": "world.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11550,
+        "word": "map",
+        "pronunciation": "/mæp/",
+        "audio": "map.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản đồ",
+        "definition": "A visual representation of an area, whether real or imaginary.",
+        "example": "We need to understand the concept of map.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bản đồ.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "map process, key map",
+        "wordFamily": "map (noun)",
+        "image": "map.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11551,
+        "word": "continent",
+        "pronunciation": "/ˈkɒntɪnənt/",
+        "audio": "continent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lục địa",
+        "definition": "Each of the main continuous land-masses on the earth's surface, now generally regarded as seven in number, including their related islands, continental shelves etc.",
+        "example": "We need to understand the concept of continent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lục địa.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "continent process, key continent",
+        "wordFamily": "continent (noun)",
+        "image": "continent.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11552,
+        "word": "country",
+        "pronunciation": "/ˈkɐntɹi/",
+        "audio": "country.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quốc gia",
+        "definition": "(chiefly British) An area of land; a district, region.",
+        "example": "We need to understand the concept of country.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đất nước.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "country process, key country",
+        "wordFamily": "country (noun)",
+        "image": "country.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11553,
+        "word": "nation",
+        "pronunciation": "/ˈneɪ.ʃən/",
+        "audio": "nation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Quốc gia",
+        "definition": "A historically constituted, stable community of people, formed on the basis of a common language, territory, economic life, ethnicity and/or psychological make-up manifested in a common culture.",
+        "example": "The Kurdish people constitute a nation in the Middle East",
+        "exampleVi": "Người Kurd tạo thành một quốc gia ở Trung Đông",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nation process, key nation",
+        "wordFamily": "nation (noun)",
+        "image": "nation.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11554,
+        "word": "state",
+        "pronunciation": "/steɪt/",
+        "audio": "state.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tình trạng",
+        "definition": "A condition; a set of circumstances applying at any given time.",
+        "example": "We need to understand the concept of state.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà nước.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "state process, key state",
+        "wordFamily": "state (noun)",
+        "image": "state.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11555,
+        "word": "city",
+        "pronunciation": "/sɪtɪ/",
+        "audio": "city.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thành phố",
+        "definition": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
+        "example": "São Paulo is the largest city in South America.",
+        "exampleVi": "São Paulo là thành phố lớn nhất ở Nam Mỹ.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "city process, key city",
+        "wordFamily": "city (noun)",
+        "image": "city.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11556,
+        "word": "town",
+        "pronunciation": "/taʊn/",
+        "audio": "town.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thị trấn",
+        "definition": "A settlement; an area with residential districts, shops and amenities, and its own local government; especially one larger than a village and smaller than a city.",
+        "example": "This town is really dangerous because these youngsters have Beretta handguns.",
+        "exampleVi": "Thị trấn này thực sự nguy hiểm vì những thanh niên này có súng ngắn Beretta.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "town process, key town",
+        "wordFamily": "town (noun)",
+        "image": "town.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11557,
+        "word": "village",
+        "pronunciation": "/ˈvɪlɪd͡ʒ/",
+        "audio": "village.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "làng bản",
+        "definition": "A rural habitation of size between a hamlet and a town.",
+        "example": "There are 2 churches and 3 shops in our village.",
+        "exampleVi": "Có 2 nhà thờ và 3 cửa hàng trong làng của chúng tôi.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "village process, key village",
+        "wordFamily": "village (noun)",
+        "image": "village.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11558,
+        "word": "land",
+        "pronunciation": "/lænd/",
+        "audio": "land.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đất",
+        "definition": "The part of Earth which is not covered by oceans or other bodies of water.",
+        "example": "Most insects live on land.",
+        "exampleVi": "Hầu hết côn trùng sống trên cạn.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "land process, key land",
+        "wordFamily": "land (noun)",
+        "image": "land.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11559,
+        "word": "water",
+        "pronunciation": "/ˈwoːtə/",
+        "audio": "water.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Nước",
+        "definition": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+        "example": "By the action of electricity, the water was resolved into its two parts, oxygen and hydrogen.",
+        "exampleVi": "Nhờ tác động của điện, nước được phân giải thành hai phần là oxy và hydro.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "water process, key water",
+        "wordFamily": "water (noun)",
+        "image": "water.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11560,
+        "word": "sea",
+        "pronunciation": "/siː/",
+        "audio": "sea.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biển",
+        "definition": "A large body of salt water.",
+        "example": "We need to understand the concept of sea.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về biển.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sea process, key sea",
+        "wordFamily": "sea (noun)",
+        "image": "sea.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11561,
+        "word": "ocean",
+        "pronunciation": "/ˈəʊ.ʃən/",
+        "audio": "ocean.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đại dương",
+        "definition": "One of the large bodies of water separating the continents.",
+        "example": "We need to understand the concept of ocean.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đại dương.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ocean process, key ocean",
+        "wordFamily": "ocean (noun)",
+        "image": "ocean.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11562,
+        "word": "river",
+        "pronunciation": "/ˈɹɪvə/",
+        "audio": "river.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dòng sông",
+        "definition": "A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or in an inland sea.",
+        "example": "Occasionally rivers overflow their banks and cause floods.",
+        "exampleVi": "Thỉnh thoảng sông tràn bờ và gây lũ lụt.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "river process, key river",
+        "wordFamily": "river (noun)",
+        "image": "river.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11563,
+        "word": "lake",
+        "pronunciation": "/leɪk/",
+        "audio": "lake.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hồ",
+        "definition": "A small stream of running water; a channel for water; a drain.",
+        "example": "We need to understand the concept of lake.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về hồ.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lake process, key lake",
+        "wordFamily": "lake (noun)",
+        "image": "lake.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11564,
+        "word": "mountain",
+        "pronunciation": "/ˈmaʊntɪn/",
+        "audio": "mountain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "núi",
+        "definition": "An elevation of land of considerable dimensions rising more or less abruptly, forming a conspicuous figure in the landscape, usually having a small extent of surface at its summit.",
+        "example": "We spent the weekend hiking in the mountains.",
+        "exampleVi": "Chúng tôi dành những ngày cuối tuần để đi bộ trên núi.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mountain process, key mountain",
+        "wordFamily": "mountain (noun)",
+        "image": "mountain.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11565,
+        "word": "hill",
+        "pronunciation": "/hɪl/",
+        "audio": "hill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồi",
+        "definition": "An elevated location smaller than a mountain.",
+        "example": "The park is sheltered from the wind by a hill to the east.",
+        "exampleVi": "Công viên được che chắn gió bởi một ngọn đồi ở phía đông.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hill process, key hill",
+        "wordFamily": "hill (noun)",
+        "image": "hill.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11566,
+        "word": "valley",
+        "pronunciation": "/ˈvæli/",
+        "audio": "valley.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thung lũng",
+        "definition": "An elongated depression between hills or mountains, often with a river flowing through it.",
+        "example": "We need to understand the concept of valley.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thung lũng.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "valley process, key valley",
+        "wordFamily": "valley (noun)",
+        "image": "valley.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11567,
+        "word": "forest",
+        "pronunciation": "/forest/",
+        "audio": "forest.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rừng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word forest.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ rừng.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "forest process, key forest",
+        "wordFamily": "forest (noun)",
+        "image": "forest.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11568,
+        "word": "desert",
+        "pronunciation": "/desert/",
+        "audio": "desert.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sa mạc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word desert.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sa mạc.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "desert process, key desert",
+        "wordFamily": "desert (noun)",
+        "image": "desert.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11569,
+        "word": "island",
+        "pronunciation": "/island/",
+        "audio": "island.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hòn đảo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word island.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đảo.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "island process, key island",
+        "wordFamily": "island (noun)",
+        "image": "island.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11570,
+        "word": "coast",
+        "pronunciation": "/coast/",
+        "audio": "coast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bờ biển",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word coast.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bờ biển.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "coast process, key coast",
+        "wordFamily": "coast (noun)",
+        "image": "coast.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11571,
+        "word": "shore",
+        "pronunciation": "/shore/",
+        "audio": "shore.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bờ biển",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word shore.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bờ.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shore process, key shore",
+        "wordFamily": "shore (noun)",
+        "image": "shore.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11572,
+        "word": "border",
+        "pronunciation": "/border/",
+        "audio": "border.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ranh giới",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word border.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ viền.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "border process, key border",
+        "wordFamily": "border (noun)",
+        "image": "border.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11573,
+        "word": "region",
+        "pronunciation": "/region/",
+        "audio": "region.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vùng đất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word region.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vùng.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "region process, key region",
+        "wordFamily": "region (noun)",
+        "image": "region.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11574,
+        "word": "capital",
+        "pronunciation": "/capital/",
+        "audio": "capital.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thủ đô",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word capital.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vốn.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "capital process, key capital",
+        "wordFamily": "capital (noun)",
+        "image": "capital.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11575,
+        "word": "population",
+        "pronunciation": "/population/",
+        "audio": "population.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dân số",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word population.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dân số.",
+        "topic": "Geography",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "population process, key population",
+        "wordFamily": "population (noun)",
+        "image": "population.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11576,
+        "word": "equator",
+        "pronunciation": "/ɪˈkweɪ.tə/",
+        "audio": "equator.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường xích đạo",
+        "definition": "(often “the Equator”) An imaginary great circle around the Earth, equidistant from the two poles, and dividing earth's surface into the northern and southern hemisphere.",
+        "example": "We need to understand the concept of equator.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường xích đạo.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "equator process, key equator",
+        "wordFamily": "equator (noun)",
+        "image": "equator.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11577,
+        "word": "province",
+        "pronunciation": "/ˈpɹɒvɪns/",
+        "audio": "province.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tỉnh",
+        "definition": "A region of the earth or of a continent; a district or country.",
+        "example": "We need to understand the concept of province.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tỉnh.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "province process, key province",
+        "wordFamily": "province (noun)",
+        "image": "province.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11578,
+        "word": "topography",
+        "pronunciation": "/təˈpɒɡɹəfi/",
+        "audio": "topography.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa hình",
+        "definition": "A precise description of a place.",
+        "example": "We need to understand the concept of topography.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa hình.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "topography process, key topography",
+        "wordFamily": "topography (noun)",
+        "image": "topography.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11579,
+        "word": "longitude",
+        "pronunciation": "/-tʃuːd/",
+        "audio": "longitude.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kinh độ",
+        "definition": "Angular distance measured west or east of the prime meridian.",
+        "example": "We need to understand the concept of longitude.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kinh độ.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "longitude process, key longitude",
+        "wordFamily": "longitude (noun)",
+        "image": "longitude.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11580,
+        "word": "territory",
+        "pronunciation": "/ˈtɛɹɪt(ə)ɹi/",
+        "audio": "territory.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lãnh thổ",
+        "definition": "A large extent or tract of land; for example a region, country or district.",
+        "example": "We need to understand the concept of territory.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lãnh thổ.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "territory process, key territory",
+        "wordFamily": "territory (noun)",
+        "image": "territory.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11581,
+        "word": "county",
+        "pronunciation": "/ˈkaʊnti/",
+        "audio": "county.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quận",
+        "definition": "The land ruled by a count or a countess.",
+        "example": "We need to understand the concept of county.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm quận.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "county process, key county",
+        "wordFamily": "county (noun)",
+        "image": "county.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11582,
+        "word": "shoreline",
+        "pronunciation": "/shoreline/",
+        "audio": "shoreline.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường bờ biển",
+        "definition": "The divide between land and a body of water.",
+        "example": "We need to understand the concept of shoreline.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường bờ.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shoreline process, key shoreline",
+        "wordFamily": "shoreline (noun)",
+        "image": "shoreline.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11583,
+        "word": "coastline",
+        "pronunciation": "/coastline/",
+        "audio": "coastline.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bờ biển",
+        "definition": "The shape, outline, or boundary of a coast.",
+        "example": "We need to understand the concept of coastline.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường bờ biển.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "coastline process, key coastline",
+        "wordFamily": "coastline (noun)",
+        "image": "coastline.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11584,
+        "word": "terrain",
+        "pronunciation": "/tə.ˈreɪn/",
+        "audio": "terrain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa hình",
+        "definition": "A single, distinctive rock formation; an area having a preponderance of a particular rock or group of rocks.",
+        "example": "We need to understand the concept of terrain.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa hình.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "terrain process, key terrain",
+        "wordFamily": "terrain (noun)",
+        "image": "terrain.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11585,
+        "word": "frontier",
+        "pronunciation": "/fɹʌnˈtɪə/",
+        "audio": "frontier.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biên giới",
+        "definition": "The part of a country which borders or faces another country or unsettled region",
+        "example": "We need to understand the concept of frontier.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm biên giới.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "frontier process, key frontier",
+        "wordFamily": "frontier (noun)",
+        "image": "frontier.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11586,
+        "word": "hemisphere",
+        "pronunciation": "/ˈhɛmɪsfɪə/",
+        "audio": "hemisphere.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bán cầu",
+        "definition": "Half of the celestial sphere, as divided by either the ecliptic or the celestial equator .",
+        "example": "We need to understand the concept of hemisphere.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bán cầu.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hemisphere process, key hemisphere",
+        "wordFamily": "hemisphere (noun)",
+        "image": "hemisphere.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11587,
+        "word": "municipality",
+        "pronunciation": "/mjʊˌnɪsɪˈpælɪti/",
+        "audio": "municipality.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đô thị",
+        "definition": "A district with a government that typically encloses no other governed districts; a borough, city, or incorporated town or village.",
+        "example": "We need to understand the concept of municipality.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đô thị.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "municipality process, key municipality",
+        "wordFamily": "municipality (noun)",
+        "image": "municipality.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11588,
+        "word": "elevation",
+        "pronunciation": "/elevation/",
+        "audio": "elevation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "độ cao",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word elevation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ độ cao.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "elevation process, key elevation",
+        "wordFamily": "elevation (noun)",
+        "image": "elevation.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11589,
+        "word": "district",
+        "pronunciation": "/district/",
+        "audio": "district.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "huyện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word district.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ quận.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "district process, key district",
+        "wordFamily": "district (noun)",
+        "image": "district.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11590,
+        "word": "latitude",
+        "pronunciation": "/latitude/",
+        "audio": "latitude.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vĩ độ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word latitude.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vĩ độ.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "latitude process, key latitude",
+        "wordFamily": "latitude (noun)",
+        "image": "latitude.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11591,
+        "word": "demographics",
+        "pronunciation": "/demographics/",
+        "audio": "demographics.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân khẩu học",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word demographics.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhân khẩu học.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demographics process, key demographics",
+        "wordFamily": "demographics (noun)",
+        "image": "demographics.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11592,
+        "word": "suburban",
+        "pronunciation": "/suburban/",
+        "audio": "suburban.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngoại ô",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word suburban.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ngoại ô.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "suburban process, key suburban",
+        "wordFamily": "suburban (noun)",
+        "image": "suburban.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11593,
+        "word": "climate",
+        "pronunciation": "/climate/",
+        "audio": "climate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khí hậu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word climate.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khí hậu.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "climate process, key climate",
+        "wordFamily": "climate (noun)",
+        "image": "climate.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11594,
+        "word": "urban",
+        "pronunciation": "/urban/",
+        "audio": "urban.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đô thị",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word urban.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đô thị.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "urban process, key urban",
+        "wordFamily": "urban (noun)",
+        "image": "urban.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11595,
+        "word": "rural",
+        "pronunciation": "/rural/",
+        "audio": "rural.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nông thôn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word rural.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nông thôn.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rural process, key rural",
+        "wordFamily": "rural (noun)",
+        "image": "rural.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11596,
+        "word": "metropolis",
+        "pronunciation": "/metropolis/",
+        "audio": "metropolis.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đô thị",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word metropolis.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đô thị.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "metropolis process, key metropolis",
+        "wordFamily": "metropolis (noun)",
+        "image": "metropolis.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11597,
+        "word": "vegetation",
+        "pronunciation": "/vegetation/",
+        "audio": "vegetation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thảm thực vật",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word vegetation.",
+        "exampleVi": "This is an example sentence using the word vegetation.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vegetation process, key vegetation",
+        "wordFamily": "vegetation (noun)",
+        "image": "vegetation.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11598,
+        "word": "altitude",
+        "pronunciation": "/altitude/",
+        "audio": "altitude.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "độ cao",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word altitude.",
+        "exampleVi": "This is an example sentence using the word altitude.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "altitude process, key altitude",
+        "wordFamily": "altitude (noun)",
+        "image": "altitude.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11599,
+        "word": "habitat",
+        "pronunciation": "/ˈhæbɪtæt/",
+        "audio": "habitat.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "môi trường sống",
+        "definition": "Conditions suitable for an organism or population of organisms to live.",
+        "example": "This park offers important amphibian habitat and breeding area.",
+        "exampleVi": "Công viên này cung cấp môi trường sống và khu vực sinh sản lưỡng cư quan trọng.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "habitat process, key habitat",
+        "wordFamily": "habitat (noun)",
+        "image": "habitat.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11600,
+        "word": "meteorology",
+        "pronunciation": "/ˌmiːtɪəˈɹɒlədʒi/",
+        "audio": "meteorology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khí tượng học",
+        "definition": "The science that deals with the study of the atmosphere and its phenomena, especially with weather and weather forecasting.",
+        "example": "We need to understand the concept of meteorology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khí tượng học.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "meteorology process, key meteorology",
+        "wordFamily": "meteorology (noun)",
+        "image": "meteorology.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11601,
+        "word": "flora",
+        "pronunciation": "/ˈflɔː.ɹə/",
+        "audio": "flora.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hệ thực vật",
+        "definition": "Plants considered as a group, especially those of a particular country, region, time, etc.",
+        "example": "We need to understand the concept of flora.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về hệ thực vật.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "flora process, key flora",
+        "wordFamily": "flora (noun)",
+        "image": "flora.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11602,
+        "word": "geology",
+        "pronunciation": "/dʒɪˈɒlədʒɪ/",
+        "audio": "geology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa chất",
+        "definition": "The science that studies the structure of the earth (or other planets), together with its origin and development, especially by examination of its rocks.",
+        "example": "We need to understand the concept of geology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa chất.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "geology process, key geology",
+        "wordFamily": "geology (noun)",
+        "image": "geology.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11603,
+        "word": "biome",
+        "pronunciation": "/biome/",
+        "audio": "biome.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quần xã sinh vật",
+        "definition": "Any major regional biological community such as that of forest or desert",
+        "example": "We need to understand the concept of biome.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm quần xã.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "biome process, key biome",
+        "wordFamily": "biome (noun)",
+        "image": "biome.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11604,
+        "word": "environment",
+        "pronunciation": "/-mɪnt/",
+        "audio": "environment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "môi trường",
+        "definition": "The surroundings of, and influences on, a particular item of interest.",
+        "example": "We need to understand the concept of environment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm môi trường.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "environment process, key environment",
+        "wordFamily": "environment (noun)",
+        "image": "environment.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11605,
+        "word": "fauna",
+        "pronunciation": "/ˈfɔː.nə/",
+        "audio": "fauna.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hệ động vật",
+        "definition": "Animals considered as a group; especially those of a particular country, region, time.",
+        "example": "the fauna of China",
+        "exampleVi": "hệ động vật của Trung Quốc",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fauna process, key fauna",
+        "wordFamily": "fauna (noun)",
+        "image": "fauna.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11606,
+        "word": "ecology",
+        "pronunciation": "/ɛˈkɒlədʒi/",
+        "audio": "ecology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sinh thái",
+        "definition": "The branch of biology dealing with the relationships of organisms with their environment and with each other.",
+        "example": "We need to understand the concept of ecology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sinh thái.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ecology process, key ecology",
+        "wordFamily": "ecology (noun)",
+        "image": "ecology.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11607,
+        "word": "ecosystem",
+        "pronunciation": "/ˈiːkəʊˌsɪstəm/",
+        "audio": "ecosystem.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hệ sinh thái",
+        "definition": "A system formed by an ecological community and its environment that functions as a unit.",
+        "example": "We need to understand the concept of ecosystem.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hệ sinh thái.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ecosystem process, key ecosystem",
+        "wordFamily": "ecosystem (noun)",
+        "image": "ecosystem.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11608,
+        "word": "climatology",
+        "pronunciation": "/climatology/",
+        "audio": "climatology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khí hậu học",
+        "definition": "The science that deals with climates, and investigates their phenomena and causes.",
+        "example": "We need to understand the concept of climatology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khí hậu học.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "climatology process, key climatology",
+        "wordFamily": "climatology (noun)",
+        "image": "climatology.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11609,
+        "word": "surveying",
+        "pronunciation": "/surveying/",
+        "audio": "surveying.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "khảo sát",
+        "definition": "To inspect, or take a view of; to view with attention, as from a high place; to overlook",
+        "example": "He stood on a hill, and surveyed the surrounding country.",
+        "exampleVi": "Anh đứng trên một ngọn đồi và khảo sát vùng đất xung quanh.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "surveying process, key surveying",
+        "wordFamily": "surveying (noun)",
+        "image": "surveying.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11610,
+        "word": "hydrography",
+        "pronunciation": "/hydrography/",
+        "audio": "hydrography.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thủy văn",
+        "definition": "The scientific measurement and description of the physical features and conditions of navigable waters and the shoreline.",
+        "example": "We need to understand the concept of hydrography.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thủy văn.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hydrography process, key hydrography",
+        "wordFamily": "hydrography (noun)",
+        "image": "hydrography.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11611,
+        "word": "orography",
+        "pronunciation": "/ɒˈɹɒɡɹəfi/",
+        "audio": "orography.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "địa hình học",
+        "definition": "The scientific study, or a physical description of mountains",
+        "example": "We need to understand the concept of orography.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm địa hình.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "orography process, key orography",
+        "wordFamily": "orography (noun)",
+        "image": "orography.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11612,
+        "word": "geodesy",
+        "pronunciation": "/dʒiːˈɒdɪsi/",
+        "audio": "geodesy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trắc địa",
+        "definition": "The discipline which deals with the measurement and representation of Earth, its gravitational field and geodynamic phenomena (polar motion, Earth tides, and crustal motion) in three-dimensional, time-varying space",
+        "example": "We need to understand the concept of geodesy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trắc địa.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "geodesy process, key geodesy",
+        "wordFamily": "geodesy (noun)",
+        "image": "geodesy.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11613,
+        "word": "cartography",
+        "pronunciation": "/kɐː(ɹ)ˈtɔɡɹəfɪi̯/",
+        "audio": "cartography.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản đồ học",
+        "definition": "The creation of charts and maps based on the layout of a territory's geography.",
+        "example": "We need to understand the concept of cartography.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bản đồ.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cartography process, key cartography",
+        "wordFamily": "cartography (noun)",
+        "image": "cartography.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11614,
+        "word": "nature",
+        "pronunciation": "/ˈnæɪ̯tʃə/",
+        "audio": "nature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiên nhiên",
+        "definition": "The natural world; that which consists of all things unaffected by or predating human technology, production, and design. (Compare ecosystem.)",
+        "example": "Nature never lies (i.e. tells untruths).",
+        "exampleVi": "Tự nhiên không bao giờ nói dối (tức là nói sai sự thật).",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "nature process, key nature",
+        "wordFamily": "nature (noun)",
+        "image": "nature.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11615,
+        "word": "wildlife",
+        "pronunciation": "/ˈwaɪldlaɪf/",
+        "audio": "wildlife.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "động vật hoang dã",
+        "definition": "Animals, plants, and fungi, not normally domesticated, often to the exclusion of plants, fungi, fish, insects and other invertebrates, and microscopic plants and animals; hence:",
+        "example": "We need to understand the concept of wildlife.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về động vật hoang dã.",
+        "topic": "Geography",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wildlife process, key wildlife",
+        "wordFamily": "wildlife (noun)",
+        "image": "wildlife.webp",
+        "tags": [
+            "geography",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

@@ -1,0 +1,5322 @@
+[
+    {
+        "id": 11616,
+        "word": "head",
+        "pronunciation": "/hɛd/",
+        "audio": "head.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái đầu",
+        "definition": "The part of the body of an animal or human which contains the brain, mouth and main sense organs.",
+        "example": "Be careful when you pet that dog on the head; it may bite.",
+        "exampleVi": "Hãy cẩn thận khi bạn vuốt ve đầu con chó đó; nó có thể cắn.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "head process, key head",
+        "wordFamily": "head (noun)",
+        "image": "head.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11617,
+        "word": "face",
+        "pronunciation": "/feɪs/",
+        "audio": "face.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khuôn mặt",
+        "definition": "The front part of the head of a human or other animal, featuring the eyes, nose and mouth, and the surrounding area.",
+        "example": "That girl has a pretty face.",
+        "exampleVi": "Cô gái đó có khuôn mặt xinh đẹp.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "face process, key face",
+        "wordFamily": "face (noun)",
+        "image": "face.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11618,
+        "word": "eye",
+        "pronunciation": "/aɪ/",
+        "audio": "eye.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mắt ",
+        "definition": "An organ through which animals see (perceive surroundings via light).",
+        "example": "Bright lights really hurt my eyes.",
+        "exampleVi": "Ánh đèn sáng thực sự làm tôi đau mắt.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "eye process, key eye",
+        "wordFamily": "eye (noun)",
+        "image": "eye.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11619,
+        "word": "ear",
+        "pronunciation": "/ɪə̯/",
+        "audio": "ear.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tai",
+        "definition": "The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.",
+        "example": "We need to understand the concept of ear.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tai.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ear process, key ear",
+        "wordFamily": "ear (noun)",
+        "image": "ear.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11620,
+        "word": "nose",
+        "pronunciation": "/nəʊz/",
+        "audio": "nose.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mũi",
+        "definition": "A protuberance on the face housing the nostrils, which are used to breathe or smell.",
+        "example": "She has a cold in the nose.",
+        "exampleVi": "Cô ấy bị cảm lạnh ở mũi.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nose process, key nose",
+        "wordFamily": "nose (noun)",
+        "image": "nose.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11621,
+        "word": "mouth",
+        "pronunciation": "/mʌʊθ/",
+        "audio": "mouth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "miệng",
+        "definition": "The opening of a creature through which food is ingested.",
+        "example": "\"Open your mouth and say 'aah',\" directed the doctor.",
+        "exampleVi": "\"Mở miệng ra và nói 'aah',\" bác sĩ hướng dẫn.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mouth process, key mouth",
+        "wordFamily": "mouth (noun)",
+        "image": "mouth.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11622,
+        "word": "tooth",
+        "pronunciation": "/tuːθ/",
+        "audio": "tooth.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "răng",
+        "definition": "A hard, calcareous structure present in the mouth of many vertebrate animals, generally used for eating.",
+        "example": "We need to understand the concept of tooth.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về răng.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tooth process, key tooth",
+        "wordFamily": "tooth (noun)",
+        "image": "tooth.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11623,
+        "word": "neck",
+        "pronunciation": "/nɛk/",
+        "audio": "neck.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cổ ",
+        "definition": "The part of the body connecting the head and the trunk found in humans and some animals.",
+        "example": "Giraffes have long necks.",
+        "exampleVi": "Hươu cao cổ có cổ dài.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "neck process, key neck",
+        "wordFamily": "neck (noun)",
+        "image": "neck.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11624,
+        "word": "shoulder",
+        "pronunciation": "/ˈʃəʊldə/",
+        "audio": "shoulder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vai",
+        "definition": "The part of an animal's body between the base of the neck and forearm socket.",
+        "example": "We need to understand the concept of shoulder.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về vai.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shoulder process, key shoulder",
+        "wordFamily": "shoulder (noun)",
+        "image": "shoulder.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11625,
+        "word": "arm",
+        "pronunciation": "/ɑːm/",
+        "audio": "arm.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cánh tay",
+        "definition": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+        "example": "She stood with her right arm extended and her palm forward to indicate “Stop!”",
+        "exampleVi": "Cô ấy đứng với cánh tay phải mở rộng và lòng bàn tay hướng về phía trước để ra hiệu “Dừng lại!”",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "arm process, key arm",
+        "wordFamily": "arm (noun)",
+        "image": "arm.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11626,
+        "word": "hand",
+        "pronunciation": "/hænd/",
+        "audio": "hand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tay",
+        "definition": "The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.",
+        "example": "Her hands are really strong.",
+        "exampleVi": "Bàn tay của cô ấy thực sự rất khỏe.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hand process, key hand",
+        "wordFamily": "hand (noun)",
+        "image": "hand.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11627,
+        "word": "finger",
+        "pronunciation": "/ˈfɪŋəɹ/",
+        "audio": "finger.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngón tay",
+        "definition": "A slender jointed extremity of the human hand, exclusive of the thumb.",
+        "example": "Humans have two hands and ten fingers. Each hand has one thumb and four fingers.",
+        "exampleVi": "Con người có hai bàn tay và mười ngón tay. Mỗi bàn tay có một ngón cái và bốn ngón.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "finger process, key finger",
+        "wordFamily": "finger (noun)",
+        "image": "finger.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11628,
+        "word": "leg",
+        "pronunciation": "/leɪɡ/",
+        "audio": "leg.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chân",
+        "definition": "A limb or appendage that an animal uses for support or locomotion.",
+        "example": "{{ux|en|Insects have six legs.}",
+        "exampleVi": "{{ux|vi|Côn trùng có sáu chân.}",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "leg process, key leg",
+        "wordFamily": "leg (noun)",
+        "image": "leg.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11629,
+        "word": "foot",
+        "pronunciation": "[fʊt̚]",
+        "audio": "foot.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chân",
+        "definition": "A biological structure found in many animals that is used for locomotion and that is frequently a separate organ at the terminal part of the leg.",
+        "example": "A spider has eight feet.",
+        "exampleVi": "Một con nhện có tám chân.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "foot process, key foot",
+        "wordFamily": "foot (noun)",
+        "image": "foot.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11630,
+        "word": "toe",
+        "pronunciation": "/təʊ/",
+        "audio": "toe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngón chân",
+        "definition": "Each of the five digits on the end of the foot.",
+        "example": "We need to understand the concept of toe.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ngón chân.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "toe process, key toe",
+        "wordFamily": "toe (noun)",
+        "image": "toe.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11631,
+        "word": "heart",
+        "pronunciation": "/hɑːt/",
+        "audio": "heart.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trái tim",
+        "definition": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.",
+        "example": "We need to understand the concept of heart.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về trái tim.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "heart process, key heart",
+        "wordFamily": "heart (noun)",
+        "image": "heart.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11632,
+        "word": "brain",
+        "pronunciation": "/bɹeɪn/",
+        "audio": "brain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "não",
+        "definition": "The control center of the central nervous system of an animal located in the skull which is responsible for perception, cognition, attention, memory, emotion, and action.",
+        "example": "We need to understand the concept of brain.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bộ não.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "brain process, key brain",
+        "wordFamily": "brain (noun)",
+        "image": "brain.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11633,
+        "word": "lung",
+        "pronunciation": "/ˈlʌŋ/",
+        "audio": "lung.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phổi",
+        "definition": "A biological organ of vertebrates that controls breathing and oxygenates the blood.",
+        "example": "We need to understand the concept of lung.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phổi.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lung process, key lung",
+        "wordFamily": "lung (noun)",
+        "image": "lung.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11634,
+        "word": "stomach",
+        "pronunciation": "/ˈstʌmək/",
+        "audio": "stomach.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái bụng",
+        "definition": "An organ in animals that stores food in the process of digestion.",
+        "example": "We need to understand the concept of stomach.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về dạ dày.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stomach process, key stomach",
+        "wordFamily": "stomach (noun)",
+        "image": "stomach.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11635,
+        "word": "bone",
+        "pronunciation": "/bəʉn/",
+        "audio": "bone.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xương",
+        "definition": "A composite material consisting largely of calcium phosphate and collagen and making up the skeleton of most vertebrates.",
+        "example": "We need to understand the concept of bone.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về xương.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bone process, key bone",
+        "wordFamily": "bone (noun)",
+        "image": "bone.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11636,
+        "word": "blood",
+        "pronunciation": "/blʊd/",
+        "audio": "blood.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máu",
+        "definition": "A member of the Los Angeles gang The Bloods.",
+        "example": "We need to understand the concept of blood.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máu.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "blood process, key blood",
+        "wordFamily": "blood (noun)",
+        "image": "blood.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11637,
+        "word": "health",
+        "pronunciation": "/hɛlθ/",
+        "audio": "health.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sức khỏe",
+        "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness.",
+        "example": "Her mental health is really affected by stressful environments.",
+        "exampleVi": "Sức khỏe tinh thần của cô thực sự bị ảnh hưởng bởi môi trường căng thẳng.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "health process, key health",
+        "wordFamily": "health (noun)",
+        "image": "health.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11638,
+        "word": "ill",
+        "pronunciation": "/ɪl/",
+        "audio": "ill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ốm",
+        "definition": "(often pluralized) Trouble; distress; misfortune; adversity.",
+        "example": "Music won't solve all the world's ills, but it can make them easier to bear.",
+        "exampleVi": "Âm nhạc không giải quyết được mọi bệnh tật trên thế giới nhưng nó có thể khiến chúng dễ chịu đựng hơn.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ill process, key ill",
+        "wordFamily": "ill (noun)",
+        "image": "ill.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11639,
+        "word": "sick",
+        "pronunciation": "/sɪk/",
+        "audio": "sick.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đau ốm",
+        "definition": "Sick people in general as a group.",
+        "example": "We have to cure the sick.",
+        "exampleVi": "Chúng ta phải chữa bệnh.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sick process, key sick",
+        "wordFamily": "sick (noun)",
+        "image": "sick.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11640,
+        "word": "disease",
+        "pronunciation": "/dɪˈziːz/",
+        "audio": "disease.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệnh",
+        "definition": "An abnormal condition of a human, animal or plant that causes discomfort or dysfunction; distinct from injury insofar as the latter is usually instantaneously acquired.",
+        "example": "The tomato plants had some kind of disease that left their leaves splotchy and fruit withered.",
+        "exampleVi": "Cây cà chua bị một loại bệnh nào đó khiến lá bị lấm lem và quả bị héo.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "disease process, key disease",
+        "wordFamily": "disease (noun)",
+        "image": "disease.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11641,
+        "word": "pain",
+        "pronunciation": "/peɪn/",
+        "audio": "pain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nỗi đau",
+        "definition": "An ache or bodily suffering, or an instance of this; an unpleasant sensation, resulting from a derangement of functions, disease, or injury by violence; hurt.",
+        "example": "I had to stop running when I started getting pains in my feet.",
+        "exampleVi": "Tôi phải ngừng chạy khi bắt đầu thấy đau ở chân.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pain process, key pain",
+        "wordFamily": "pain (noun)",
+        "image": "pain.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11642,
+        "word": "hurt",
+        "pronunciation": "/hɜːt/",
+        "audio": "hurt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đau",
+        "definition": "An emotional or psychological humiliation or bad experience.",
+        "example": "how to overcome old hurts of the past",
+        "exampleVi": "cách vượt qua nỗi đau cũ trong quá khứ",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hurt process, key hurt",
+        "wordFamily": "hurt (noun)",
+        "image": "hurt.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11643,
+        "word": "cure",
+        "pronunciation": "/kɜː(ɹ)/",
+        "audio": "cure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự chữa bệnh",
+        "definition": "A method, device or medication that restores good health.",
+        "example": "We need to understand the concept of cure.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chữa bệnh.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cure process, key cure",
+        "wordFamily": "cure (noun)",
+        "image": "cure.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11644,
+        "word": "doctor",
+        "pronunciation": "/ˈdɒktə/",
+        "audio": "doctor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bác sĩ",
+        "definition": "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a doctor degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK.",
+        "example": "If you still feel unwell tomorrow, see your doctor.",
+        "exampleVi": "Nếu ngày mai bạn vẫn cảm thấy không khỏe, hãy đến gặp bác sĩ.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "doctor process, key doctor",
+        "wordFamily": "doctor (noun)",
+        "image": "doctor.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11645,
+        "word": "nurse",
+        "pronunciation": "/nɜːs/",
+        "audio": "nurse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "y tá",
+        "definition": "A wet nurse.",
+        "example": "We need to understand the concept of nurse.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm y tá.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nurse process, key nurse",
+        "wordFamily": "nurse (noun)",
+        "image": "nurse.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11646,
+        "word": "medicine",
+        "pronunciation": "/medicine/",
+        "audio": "medicine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuốc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word medicine.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ y học.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "medicine process, key medicine",
+        "wordFamily": "medicine (noun)",
+        "image": "medicine.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11647,
+        "word": "pill",
+        "pronunciation": "/pill/",
+        "audio": "pill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "viên thuốc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word pill.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thuốc.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pill process, key pill",
+        "wordFamily": "pill (noun)",
+        "image": "pill.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11648,
+        "word": "tablet",
+        "pronunciation": "/tablet/",
+        "audio": "tablet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "viên thuốc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word tablet.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ máy tính bảng.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tablet process, key tablet",
+        "wordFamily": "tablet (noun)",
+        "image": "tablet.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11649,
+        "word": "prescription",
+        "pronunciation": "/prescription/",
+        "audio": "prescription.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "toa thuốc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word prescription.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ theo toa.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "prescription process, key prescription",
+        "wordFamily": "prescription (noun)",
+        "image": "prescription.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11650,
+        "word": "clinic",
+        "pronunciation": "/clinic/",
+        "audio": "clinic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng khám",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word clinic.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phòng khám.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "clinic process, key clinic",
+        "wordFamily": "clinic (noun)",
+        "image": "clinic.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11651,
+        "word": "hospital",
+        "pronunciation": "/hospital/",
+        "audio": "hospital.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệnh viện",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hospital.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bệnh viện.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hospital process, key hospital",
+        "wordFamily": "hospital (noun)",
+        "image": "hospital.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11652,
+        "word": "patient",
+        "pronunciation": "/patient/",
+        "audio": "patient.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiên nhẫn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word patient.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bệnh nhân.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "patient process, key patient",
+        "wordFamily": "patient (noun)",
+        "image": "patient.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11653,
+        "word": "treatment",
+        "pronunciation": "/treatment/",
+        "audio": "treatment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đối đãi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word treatment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điều trị.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "treatment process, key treatment",
+        "wordFamily": "treatment (noun)",
+        "image": "treatment.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11654,
+        "word": "operation",
+        "pronunciation": "/operation/",
+        "audio": "operation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoạt động",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word operation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng thao tác từ.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "operation process, key operation",
+        "wordFamily": "operation (noun)",
+        "image": "operation.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11655,
+        "word": "surgery",
+        "pronunciation": "/surgery/",
+        "audio": "surgery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ca phẫu thuật",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word surgery.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phẫu thuật.",
+        "topic": "Health Body",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "surgery process, key surgery",
+        "wordFamily": "surgery (noun)",
+        "image": "surgery.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11656,
+        "word": "dosage",
+        "pronunciation": "/dosage/",
+        "audio": "dosage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liều lượng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dosage.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ liều lượng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dosage process, key dosage",
+        "wordFamily": "dosage (noun)",
+        "image": "dosage.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11657,
+        "word": "medication",
+        "pronunciation": "/medication/",
+        "audio": "medication.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuốc",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word medication.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thuốc.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "medication process, key medication",
+        "wordFamily": "medication (noun)",
+        "image": "medication.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11658,
+        "word": "infection",
+        "pronunciation": "/infection/",
+        "audio": "infection.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhiễm trùng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word infection.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lây nhiễm.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "infection process, key infection",
+        "wordFamily": "infection (noun)",
+        "image": "infection.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11659,
+        "word": "allergy",
+        "pronunciation": "/allergy/",
+        "audio": "allergy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dị ứng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word allergy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dị ứng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "allergy process, key allergy",
+        "wordFamily": "allergy (noun)",
+        "image": "allergy.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11660,
+        "word": "ache",
+        "pronunciation": "/ache/",
+        "audio": "ache.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đau nhức",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ache.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đau.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ache process, key ache",
+        "wordFamily": "ache (noun)",
+        "image": "ache.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11661,
+        "word": "wound",
+        "pronunciation": "/wound/",
+        "audio": "wound.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vết thương",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word wound.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vết thương.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wound process, key wound",
+        "wordFamily": "wound (noun)",
+        "image": "wound.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11662,
+        "word": "therapy",
+        "pronunciation": "/therapy/",
+        "audio": "therapy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trị liệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word therapy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trị liệu.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "therapy process, key therapy",
+        "wordFamily": "therapy (noun)",
+        "image": "therapy.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11663,
+        "word": "inflammation",
+        "pronunciation": "/inflammation/",
+        "audio": "inflammation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "viêm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word inflammation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ viêm.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "inflammation process, key inflammation",
+        "wordFamily": "inflammation (noun)",
+        "image": "inflammation.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11664,
+        "word": "prognosis",
+        "pronunciation": "/prognosis/",
+        "audio": "prognosis.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiên lượng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word prognosis.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiên lượng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "prognosis process, key prognosis",
+        "wordFamily": "prognosis (noun)",
+        "image": "prognosis.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11665,
+        "word": "symptom",
+        "pronunciation": "/symptom/",
+        "audio": "symptom.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "triệu chứng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word symptom.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ triệu chứng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "symptom process, key symptom",
+        "wordFamily": "symptom (noun)",
+        "image": "symptom.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11666,
+        "word": "fracture",
+        "pronunciation": "/fracture/",
+        "audio": "fracture.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gãy xương",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word fracture.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ gãy xương.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fracture process, key fracture",
+        "wordFamily": "fracture (noun)",
+        "image": "fracture.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11667,
+        "word": "illness",
+        "pronunciation": "/illness/",
+        "audio": "illness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệnh tật",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word illness.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bệnh tật.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "illness process, key illness",
+        "wordFamily": "illness (noun)",
+        "image": "illness.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11668,
+        "word": "injury",
+        "pronunciation": "/injury/",
+        "audio": "injury.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chấn thương",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word injury.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chấn thương.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "injury process, key injury",
+        "wordFamily": "injury (noun)",
+        "image": "injury.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11669,
+        "word": "remedy",
+        "pronunciation": "/remedy/",
+        "audio": "remedy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biện pháp khắc phục",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word remedy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khắc phục.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "remedy process, key remedy",
+        "wordFamily": "remedy (noun)",
+        "image": "remedy.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11670,
+        "word": "diagnosis",
+        "pronunciation": "/diagnosis/",
+        "audio": "diagnosis.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chẩn đoán",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word diagnosis.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chẩn đoán.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "diagnosis process, key diagnosis",
+        "wordFamily": "diagnosis (noun)",
+        "image": "diagnosis.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11671,
+        "word": "disorder",
+        "pronunciation": "/disorder/",
+        "audio": "disorder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rối loạn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word disorder.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ rối loạn.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "disorder process, key disorder",
+        "wordFamily": "disorder (noun)",
+        "image": "disorder.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11672,
+        "word": "condition",
+        "pronunciation": "/condition/",
+        "audio": "condition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tình trạng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word condition.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điều kiện.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "condition process, key condition",
+        "wordFamily": "condition (noun)",
+        "image": "condition.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11673,
+        "word": "fitness",
+        "pronunciation": "/fitness/",
+        "audio": "fitness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thể lực",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word fitness.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thể dục.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fitness process, key fitness",
+        "wordFamily": "fitness (noun)",
+        "image": "fitness.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11674,
+        "word": "nutrition",
+        "pronunciation": "/nutrition/",
+        "audio": "nutrition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dinh dưỡng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word nutrition.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dinh dưỡng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "nutrition process, key nutrition",
+        "wordFamily": "nutrition (noun)",
+        "image": "nutrition.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11675,
+        "word": "hygiene",
+        "pronunciation": "/hygiene/",
+        "audio": "hygiene.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vệ sinh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hygiene.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vệ sinh.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hygiene process, key hygiene",
+        "wordFamily": "hygiene (noun)",
+        "image": "hygiene.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11676,
+        "word": "wellness",
+        "pronunciation": "/wellness/",
+        "audio": "wellness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sức khỏe",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word wellness.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chăm sóc sức khỏe.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wellness process, key wellness",
+        "wordFamily": "wellness (noun)",
+        "image": "wellness.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11677,
+        "word": "physician",
+        "pronunciation": "/physician/",
+        "audio": "physician.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bác sĩ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word physician.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bác sĩ.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "physician process, key physician",
+        "wordFamily": "physician (noun)",
+        "image": "physician.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11678,
+        "word": "practitioner",
+        "pronunciation": "/practitioner/",
+        "audio": "practitioner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người hành nghề",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word practitioner.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ học viên.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "practitioner process, key practitioner",
+        "wordFamily": "practitioner (noun)",
+        "image": "practitioner.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11679,
+        "word": "specialist",
+        "pronunciation": "/specialist/",
+        "audio": "specialist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyên gia",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word specialist.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chuyên gia.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "specialist process, key specialist",
+        "wordFamily": "specialist (noun)",
+        "image": "specialist.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11680,
+        "word": "surgeon",
+        "pronunciation": "/ˈsɜːdʒən/",
+        "audio": "surgeon.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bác sĩ phẫu thuật",
+        "definition": "One who performs surgery; a doctor who performs operations on people or animals.",
+        "example": "The surgeon refused to operate because the patient was her son.",
+        "exampleVi": "Bác sĩ phẫu thuật từ chối phẫu thuật vì bệnh nhân là con trai bà.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "surgeon process, key surgeon",
+        "wordFamily": "surgeon (noun)",
+        "image": "surgeon.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11681,
+        "word": "anatomy",
+        "pronunciation": "/əˈnætəmi/",
+        "audio": "anatomy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải phẫu",
+        "definition": "The art of studying the different parts of any organized body, to discover their situation, structure, and economy.",
+        "example": "We need to understand the concept of anatomy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giải phẫu.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "anatomy process, key anatomy",
+        "wordFamily": "anatomy (noun)",
+        "image": "anatomy.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11682,
+        "word": "vaccine",
+        "pronunciation": "/vækˈsaɪn/",
+        "audio": "vaccine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vắc xin",
+        "definition": "A substance given to stimulate the body's production of antibodies and provide immunity against a disease without causing the disease itself in the treatment, prepared from the agent that causes the disease (or a related, also effective, but safer disease), or a synthetic substitute.",
+        "example": "We need to understand the concept of vaccine.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về vắc xin.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vaccine process, key vaccine",
+        "wordFamily": "vaccine (noun)",
+        "image": "vaccine.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11683,
+        "word": "gauze",
+        "pronunciation": "/ɡɔːz/",
+        "audio": "gauze.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gạc",
+        "definition": "A thin fabric with a loose, open weave.",
+        "example": "We need to understand the concept of gauze.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về gạc.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gauze process, key gauze",
+        "wordFamily": "gauze (noun)",
+        "image": "gauze.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11684,
+        "word": "bandage",
+        "pronunciation": "/ˈbændɪdʒ/",
+        "audio": "bandage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "băng bó",
+        "definition": "A strip of gauze or similar material used to protect or support a wound or injury.",
+        "example": "We need to understand the concept of bandage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm băng bó.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bandage process, key bandage",
+        "wordFamily": "bandage (noun)",
+        "image": "bandage.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11685,
+        "word": "stretcher",
+        "pronunciation": "/ˈstɹɛtʃə/",
+        "audio": "stretcher.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cáng",
+        "definition": "One who, or that which, stretches.",
+        "example": "We need to understand the concept of stretcher.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cáng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stretcher process, key stretcher",
+        "wordFamily": "stretcher (noun)",
+        "image": "stretcher.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11686,
+        "word": "immunity",
+        "pronunciation": "/ɪˈmjuːnəti/",
+        "audio": "immunity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khả năng miễn dịch",
+        "definition": "The state of being insusceptible to something; notably:",
+        "example": "We need to understand the concept of immunity.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm miễn dịch.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "immunity process, key immunity",
+        "wordFamily": "immunity (noun)",
+        "image": "immunity.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11687,
+        "word": "ambulance",
+        "pronunciation": "/ˈæm.bjə.ləns/",
+        "audio": "ambulance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe cứu thương",
+        "definition": "An emergency vehicle designed for transporting seriously ill or injured people to a hospital.",
+        "example": "We need to understand the concept of ambulance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xe cứu thương.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ambulance process, key ambulance",
+        "wordFamily": "ambulance (noun)",
+        "image": "ambulance.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11688,
+        "word": "capsule",
+        "pronunciation": "/ˈkæpsjuːl/",
+        "audio": "capsule.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "viên nang",
+        "definition": "A membranous envelope.",
+        "example": "We need to understand the concept of capsule.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm viên nang.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "capsule process, key capsule",
+        "wordFamily": "capsule (noun)",
+        "image": "capsule.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11689,
+        "word": "recovery",
+        "pronunciation": "/ɹəˈkʌvəɹi/",
+        "audio": "recovery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phục hồi",
+        "definition": "The act or process of regaining or repossession of something lost.",
+        "example": "We need to understand the concept of recovery.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phục hồi.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "recovery process, key recovery",
+        "wordFamily": "recovery (noun)",
+        "image": "recovery.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11690,
+        "word": "antiseptic",
+        "pronunciation": "/antiseptic/",
+        "audio": "antiseptic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất khử trùng",
+        "definition": "Any substance that inhibits the growth and reproduction of microorganisms. Generally includes only those that are used on living objects (as opposed to disinfectants) and aren't transported by the lymphatic system to destroy bacteria in the body (as opposed to antibiotics).",
+        "example": "We need to understand the concept of antiseptic.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thuốc sát trùng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "antiseptic process, key antiseptic",
+        "wordFamily": "antiseptic (noun)",
+        "image": "antiseptic.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11691,
+        "word": "dose",
+        "pronunciation": "/dose/",
+        "audio": "dose.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liều lượng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dose.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ liều lượng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dose process, key dose",
+        "wordFamily": "dose (noun)",
+        "image": "dose.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11692,
+        "word": "ointment",
+        "pronunciation": "/ointment/",
+        "audio": "ointment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuốc mỡ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ointment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thuốc mỡ.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ointment process, key ointment",
+        "wordFamily": "ointment (noun)",
+        "image": "ointment.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11693,
+        "word": "pharmacist",
+        "pronunciation": "/ˈfɑɹməsɪst/",
+        "audio": "pharmacist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dược sĩ",
+        "definition": "A professional who dispenses prescription drugs in a hospital or retail pharmacy.",
+        "example": "We need to understand the concept of pharmacist.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dược sĩ.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pharmacist process, key pharmacist",
+        "wordFamily": "pharmacist (noun)",
+        "image": "pharmacist.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11694,
+        "word": "wheelchair",
+        "pronunciation": "/ˈwiːlt͡ʃɛə(ɹ)/",
+        "audio": "wheelchair.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe lăn",
+        "definition": "A chair mounted on large wheels for the transportation or use of a sick or disabled person.",
+        "example": "We need to understand the concept of wheelchair.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về xe lăn.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wheelchair process, key wheelchair",
+        "wordFamily": "wheelchair (noun)",
+        "image": "wheelchair.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11695,
+        "word": "crutches",
+        "pronunciation": "/crutches/",
+        "audio": "crutches.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nạng",
+        "definition": "A device to assist in motion as a cane, especially one that provides support under the arm to reduce weight on a leg.",
+        "example": "He walked on crutches for a month until the cast was removed from his leg.",
+        "exampleVi": "Anh ấy đã phải chống nạng đi lại trong một tháng cho đến khi chân của anh ấy được tháo bó bột.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "crutches process, key crutches",
+        "wordFamily": "crutches (noun)",
+        "image": "crutches.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11696,
+        "word": "ward",
+        "pronunciation": "/ward/",
+        "audio": "ward.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phường",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ward.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ward.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ward process, key ward",
+        "wordFamily": "ward (noun)",
+        "image": "ward.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11697,
+        "word": "sore",
+        "pronunciation": "/sore/",
+        "audio": "sore.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đau nhức",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word sore.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đau.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sore process, key sore",
+        "wordFamily": "sore (noun)",
+        "image": "sore.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11698,
+        "word": "icu",
+        "pronunciation": "/icu/",
+        "audio": "icu.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "icu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word icu.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ icu.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "icu process, key icu",
+        "wordFamily": "icu (noun)",
+        "image": "icu.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11699,
+        "word": "anesthesia",
+        "pronunciation": "/anesthesia/",
+        "audio": "anesthesia.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gây mê",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word anesthesia.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ gây mê.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "anesthesia process, key anesthesia",
+        "wordFamily": "anesthesia (noun)",
+        "image": "anesthesia.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11700,
+        "word": "stethoscope",
+        "pronunciation": "/stethoscope/",
+        "audio": "stethoscope.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ống nghe",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word stethoscope.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ stethscope.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stethoscope process, key stethoscope",
+        "wordFamily": "stethoscope (noun)",
+        "image": "stethoscope.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11701,
+        "word": "ailment",
+        "pronunciation": "/ailment/",
+        "audio": "ailment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệnh tật",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ailment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bệnh tật.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ailment process, key ailment",
+        "wordFamily": "ailment (noun)",
+        "image": "ailment.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11702,
+        "word": "thermometer",
+        "pronunciation": "/thermometer/",
+        "audio": "thermometer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhiệt kế",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word thermometer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhiệt kế.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "thermometer process, key thermometer",
+        "wordFamily": "thermometer (noun)",
+        "image": "thermometer.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11703,
+        "word": "operating",
+        "pronunciation": "/operating/",
+        "audio": "operating.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoạt động",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word operating.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vận hành.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "operating process, key operating",
+        "wordFamily": "operating (noun)",
+        "image": "operating.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11704,
+        "word": "malady",
+        "pronunciation": "/malady/",
+        "audio": "malady.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệnh tật",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word malady.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ malady.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "malady process, key malady",
+        "wordFamily": "malady (noun)",
+        "image": "malady.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11705,
+        "word": "incapacitated",
+        "pronunciation": "/incapacitated/",
+        "audio": "incapacitated.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mất năng lực",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word incapacitated.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ mất khả năng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "incapacitated process, key incapacitated",
+        "wordFamily": "incapacitated (noun)",
+        "image": "incapacitated.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11706,
+        "word": "injection",
+        "pronunciation": "/injection/",
+        "audio": "injection.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word injection.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiêm.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "injection process, key injection",
+        "wordFamily": "injection (noun)",
+        "image": "injection.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11707,
+        "word": "syringe",
+        "pronunciation": "/syringe/",
+        "audio": "syringe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ống tiêm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word syringe.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ống tiêm.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "syringe process, key syringe",
+        "wordFamily": "syringe (noun)",
+        "image": "syringe.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11708,
+        "word": "needle",
+        "pronunciation": "/needle/",
+        "audio": "needle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kim tiêm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word needle.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kim.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "needle process, key needle",
+        "wordFamily": "needle (noun)",
+        "image": "needle.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11709,
+        "word": "syrup",
+        "pronunciation": "/syrup/",
+        "audio": "syrup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xi-rô",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word syrup.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ xi-rô.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "syrup process, key syrup",
+        "wordFamily": "syrup (noun)",
+        "image": "syrup.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11710,
+        "word": "painkiller",
+        "pronunciation": "/painkiller/",
+        "audio": "painkiller.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuốc giảm đau",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word painkiller.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thuốc giảm đau.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "painkiller process, key painkiller",
+        "wordFamily": "painkiller (noun)",
+        "image": "painkiller.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11711,
+        "word": "referral",
+        "pronunciation": "/referral/",
+        "audio": "referral.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giới thiệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word referral.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giới thiệu.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "referral process, key referral",
+        "wordFamily": "referral (noun)",
+        "image": "referral.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11712,
+        "word": "vitamin",
+        "pronunciation": "/vitamin/",
+        "audio": "vitamin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vitamin",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word vitamin.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vitamin.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vitamin process, key vitamin",
+        "wordFamily": "vitamin (noun)",
+        "image": "vitamin.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11713,
+        "word": "supplement",
+        "pronunciation": "/supplement/",
+        "audio": "supplement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bổ sung",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word supplement.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bổ sung.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "supplement process, key supplement",
+        "wordFamily": "supplement (noun)",
+        "image": "supplement.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11714,
+        "word": "preventative",
+        "pronunciation": "/preventative/",
+        "audio": "preventative.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phòng ngừa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word preventative.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phòng ngừa.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "preventative process, key preventative",
+        "wordFamily": "preventative (noun)",
+        "image": "preventative.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11715,
+        "word": "exercise",
+        "pronunciation": "/exercise/",
+        "audio": "exercise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tập thể dục",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word exercise.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bài tập.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "exercise process, key exercise",
+        "wordFamily": "exercise (noun)",
+        "image": "exercise.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11716,
+        "word": "rehabilitation",
+        "pronunciation": "/rehabilitation/",
+        "audio": "rehabilitation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phục hồi chức năng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word rehabilitation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phục hồi chức năng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rehabilitation process, key rehabilitation",
+        "wordFamily": "rehabilitation (noun)",
+        "image": "rehabilitation.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11717,
+        "word": "mineral",
+        "pronunciation": "/mineral/",
+        "audio": "mineral.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoáng chất",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word mineral.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khoáng sản.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mineral process, key mineral",
+        "wordFamily": "mineral (noun)",
+        "image": "mineral.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11718,
+        "word": "aerobics",
+        "pronunciation": "/aerobics/",
+        "audio": "aerobics.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thể dục nhịp điệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word aerobics.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ aerobics.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "aerobics process, key aerobics",
+        "wordFamily": "aerobics (noun)",
+        "image": "aerobics.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11719,
+        "word": "premium",
+        "pronunciation": "/premium/",
+        "audio": "premium.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phí bảo hiểm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word premium.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cao cấp.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "premium process, key premium",
+        "wordFamily": "premium (noun)",
+        "image": "premium.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11720,
+        "word": "checkup",
+        "pronunciation": "/checkup/",
+        "audio": "checkup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm tra sức khỏe",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word checkup.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kiểm tra.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "checkup process, key checkup",
+        "wordFamily": "checkup (noun)",
+        "image": "checkup.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11721,
+        "word": "insurance",
+        "pronunciation": "/insurance/",
+        "audio": "insurance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo hiểm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word insurance.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bảo hiểm.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "insurance process, key insurance",
+        "wordFamily": "insurance (noun)",
+        "image": "insurance.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11722,
+        "word": "consultation",
+        "pronunciation": "/consultation/",
+        "audio": "consultation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tư vấn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word consultation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tham vấn.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consultation process, key consultation",
+        "wordFamily": "consultation (noun)",
+        "image": "consultation.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11723,
+        "word": "cardio",
+        "pronunciation": "/cardio/",
+        "audio": "cardio.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tim mạch",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cardio.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cardio.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cardio process, key cardio",
+        "wordFamily": "cardio (noun)",
+        "image": "cardio.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11724,
+        "word": "coverage",
+        "pronunciation": "/coverage/",
+        "audio": "coverage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phạm vi bảo hiểm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word coverage.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phủ sóng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "coverage process, key coverage",
+        "wordFamily": "coverage (noun)",
+        "image": "coverage.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11725,
+        "word": "copay",
+        "pronunciation": "/copay/",
+        "audio": "copay.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồng thanh toán",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word copay.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ copay.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "copay process, key copay",
+        "wordFamily": "copay (noun)",
+        "image": "copay.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11726,
+        "word": "deductible",
+        "pronunciation": "[dɪˈdʊktəbəɫ]",
+        "audio": "deductible.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "được khấu trừ",
+        "definition": "An amount of expenses that must be paid out of pocket before an insurer will pay further expenses.",
+        "example": "We need to understand the concept of deductible.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khấu trừ.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "deductible process, key deductible",
+        "wordFamily": "deductible (noun)",
+        "image": "deductible.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11727,
+        "word": "optometrist",
+        "pronunciation": "/ɒpˈtɒmətɹɪst/",
+        "audio": "optometrist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bác sĩ đo thị lực",
+        "definition": "A person trained and skilled in examining and testing the eyes for defects, in order to prescribe corrective lenses or treatment.",
+        "example": "We need to understand the concept of optometrist.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bác sĩ đo thị lực.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "optometrist process, key optometrist",
+        "wordFamily": "optometrist (noun)",
+        "image": "optometrist.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11728,
+        "word": "psychiatrist",
+        "pronunciation": "/ˌsaɪˈkaɪ.ə.tɹɪst/",
+        "audio": "psychiatrist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bác sĩ tâm thần",
+        "definition": "A medical doctor specializing in psychiatry.",
+        "example": "We need to understand the concept of psychiatrist.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bác sĩ tâm thần.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "psychiatrist process, key psychiatrist",
+        "wordFamily": "psychiatrist (noun)",
+        "image": "psychiatrist.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11729,
+        "word": "pediatrician",
+        "pronunciation": "/piːdɪəˈtɹɪʃən/",
+        "audio": "pediatrician.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bác sĩ nhi khoa",
+        "definition": "A physician who specializes in pediatrics; a children’s doctor or babies’ doctor.",
+        "example": "We need to understand the concept of pediatrician.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bác sĩ nhi khoa.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pediatrician process, key pediatrician",
+        "wordFamily": "pediatrician (noun)",
+        "image": "pediatrician.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11730,
+        "word": "neurologist",
+        "pronunciation": "/neurologist/",
+        "audio": "neurologist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà thần kinh học",
+        "definition": "A doctor or scientist who practices or specializes in neurology.",
+        "example": "We need to understand the concept of neurologist.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà thần kinh học.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "neurologist process, key neurologist",
+        "wordFamily": "neurologist (noun)",
+        "image": "neurologist.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11731,
+        "word": "inpatient",
+        "pronunciation": "/inpatient/",
+        "audio": "inpatient.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệnh nhân nội trú",
+        "definition": "A patient whose treatment needs at least one night's residence in a hospital; a hospitalized patient.",
+        "example": "We need to understand the concept of inpatient.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bệnh nhân nội trú.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "inpatient process, key inpatient",
+        "wordFamily": "inpatient (noun)",
+        "image": "inpatient.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11732,
+        "word": "dentist",
+        "pronunciation": "/ˈdɛntɪst/",
+        "audio": "dentist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nha sĩ",
+        "definition": "A medical doctor who specializes in dentistry.",
+        "example": "We need to understand the concept of dentist.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nha sĩ.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dentist process, key dentist",
+        "wordFamily": "dentist (noun)",
+        "image": "dentist.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11733,
+        "word": "outpatient",
+        "pronunciation": "/outpatient/",
+        "audio": "outpatient.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệnh nhân ngoại trú",
+        "definition": "A patient who receives treatment at a hospital or clinic but is not admitted overnight; a receiver of ambulatory care.",
+        "example": "We need to understand the concept of outpatient.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bệnh nhân ngoại trú.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "outpatient process, key outpatient",
+        "wordFamily": "outpatient (noun)",
+        "image": "outpatient.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11734,
+        "word": "cardiologist",
+        "pronunciation": "/cardiologist/",
+        "audio": "cardiologist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bác sĩ tim mạch",
+        "definition": "A physician who specializes in medical problems related to the heart.",
+        "example": "We need to understand the concept of cardiologist.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bác sĩ tim mạch.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cardiologist process, key cardiologist",
+        "wordFamily": "cardiologist (noun)",
+        "image": "cardiologist.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11735,
+        "word": "dermatologist",
+        "pronunciation": "/ˌdɜːməˈtɒlədʒɪst/",
+        "audio": "dermatologist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bác sĩ da liễu",
+        "definition": "A person who is skilled in, professes or practices dermatology.",
+        "example": "We need to understand the concept of dermatologist.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm bác sĩ da liễu.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dermatologist process, key dermatologist",
+        "wordFamily": "dermatologist (noun)",
+        "image": "dermatologist.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11736,
+        "word": "oncology",
+        "pronunciation": "/ɒŋˈkɒlədʒi/",
+        "audio": "oncology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ung thư",
+        "definition": "The branch of medicine concerned with tumors, including study of their development, diagnosis, treatment, and prevention.",
+        "example": "We need to understand the concept of oncology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ung thư.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "oncology process, key oncology",
+        "wordFamily": "oncology (noun)",
+        "image": "oncology.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11737,
+        "word": "physio",
+        "pronunciation": "/ˈfɪzɪəʊ/",
+        "audio": "physio.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vật lý học",
+        "definition": "A branch of biology that deals with the functions and activities of life or of living matter (as organs, tissues, or cells) and of the physical and chemical phenomena involved.",
+        "example": "We need to understand the concept of physio.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vật lý.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "physio process, key physio",
+        "wordFamily": "physio (noun)",
+        "image": "physio.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11738,
+        "word": "radiology",
+        "pronunciation": "/radiology/",
+        "audio": "radiology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "X quang",
+        "definition": "The use of radioactive substances in diagnosis and treatment.",
+        "example": "We need to understand the concept of radiology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về X quang.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "radiology process, key radiology",
+        "wordFamily": "radiology (noun)",
+        "image": "radiology.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11739,
+        "word": "psychiatry",
+        "pronunciation": "/saɪˈkaɪ.əˌtɹi/",
+        "audio": "psychiatry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tâm thần học",
+        "definition": "The branch of medicine that subjectively diagnoses, treats, and studies mental disorders and behavioural conditions.",
+        "example": "We need to understand the concept of psychiatry.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tâm thần học.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "psychiatry process, key psychiatry",
+        "wordFamily": "psychiatry (noun)",
+        "image": "psychiatry.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11740,
+        "word": "geriatric",
+        "pronunciation": "/geriatric/",
+        "audio": "geriatric.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lão khoa",
+        "definition": "An old person.",
+        "example": "We need to understand the concept of geriatric.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lão khoa.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "geriatric process, key geriatric",
+        "wordFamily": "geriatric (noun)",
+        "image": "geriatric.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11741,
+        "word": "pathology",
+        "pronunciation": "/pəˈθɒlədʒi/",
+        "audio": "pathology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bệnh lý",
+        "definition": "The branch of medicine concerned with the study of the nature of disease and its causes, processes, development, and consequences.",
+        "example": "We need to understand the concept of pathology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bệnh lý.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pathology process, key pathology",
+        "wordFamily": "pathology (noun)",
+        "image": "pathology.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11742,
+        "word": "neurology",
+        "pronunciation": "/n(j)uˈɹɒlədʒi/",
+        "audio": "neurology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thần kinh học",
+        "definition": "The branch of medicine that deals with the disorders of nervous system including the brain and spinal cord of the central nervous system and the nerves, muscles, and neuromuscular junction of the peripheral nervous system.",
+        "example": "We need to understand the concept of neurology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thần kinh học.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "neurology process, key neurology",
+        "wordFamily": "neurology (noun)",
+        "image": "neurology.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11743,
+        "word": "orthopedist",
+        "pronunciation": "/orthopedist/",
+        "audio": "orthopedist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bác sĩ chỉnh hình",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word orthopedist.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ orthopedist.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "orthopedist process, key orthopedist",
+        "wordFamily": "orthopedist (noun)",
+        "image": "orthopedist.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11744,
+        "word": "optometry",
+        "pronunciation": "/optometry/",
+        "audio": "optometry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đo thị lực",
+        "definition": "The art and science of vision and eye care.",
+        "example": "We need to understand the concept of optometry.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đo thị lực.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "optometry process, key optometry",
+        "wordFamily": "optometry (noun)",
+        "image": "optometry.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11745,
+        "word": "cardiogram",
+        "pronunciation": "/cardiogram/",
+        "audio": "cardiogram.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tâm đồ",
+        "definition": "The visual output an electrocardiograph produces",
+        "example": "We need to understand the concept of cardiogram.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về điện tâm đồ.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cardiogram process, key cardiogram",
+        "wordFamily": "cardiogram (noun)",
+        "image": "cardiogram.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11746,
+        "word": "podiatry",
+        "pronunciation": "/pəˈdaɪətɹi/",
+        "audio": "podiatry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điều trị bàn chân",
+        "definition": "Chiropody",
+        "example": "We need to understand the concept of podiatry.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về podiatry.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "podiatry process, key podiatry",
+        "wordFamily": "podiatry (noun)",
+        "image": "podiatry.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11747,
+        "word": "pediatric",
+        "pronunciation": "/pediatric/",
+        "audio": "pediatric.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nhi khoa",
+        "definition": "Of or pertaining to pediatrics, the branch of medicine dealing with the care and treatment of children.",
+        "example": "The hospital has established a pediatric intensive care unit.",
+        "exampleVi": "Bệnh viện đã thành lập khoa chăm sóc tích cực nhi khoa.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pediatric process, key pediatric",
+        "wordFamily": "pediatric (noun)",
+        "image": "pediatric.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11748,
+        "word": "dermatology",
+        "pronunciation": "/ˌdɜːməˈtɒlədʒi/",
+        "audio": "dermatology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "da liễu",
+        "definition": "The study of the skin and its diseases",
+        "example": "We need to understand the concept of dermatology.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm về da liễu.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dermatology process, key dermatology",
+        "wordFamily": "dermatology (noun)",
+        "image": "dermatology.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11749,
+        "word": "chiropractic",
+        "pronunciation": "/chiropractic/",
+        "audio": "chiropractic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chỉnh hình",
+        "definition": "A system of health care involving manipulation of the spinal column and other body structures, for the purpose of alleviating neuromusculoskeletal dysfunction.",
+        "example": "We need to understand the concept of chiropractic.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chỉnh hình.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "chiropractic process, key chiropractic",
+        "wordFamily": "chiropractic (noun)",
+        "image": "chiropractic.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11750,
+        "word": "physiotherapy",
+        "pronunciation": "/physiotherapy/",
+        "audio": "physiotherapy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vật lý trị liệu",
+        "definition": "Therapy that uses physical techniques such as massage, ultrasound, heat, and exercise",
+        "example": "We need to understand the concept of physiotherapy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vật lý trị liệu.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "physiotherapy process, key physiotherapy",
+        "wordFamily": "physiotherapy (noun)",
+        "image": "physiotherapy.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11751,
+        "word": "sterilize",
+        "pronunciation": "/sterilize/",
+        "audio": "sterilize.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "khử trùng",
+        "definition": "To deprive of the ability to procreate.",
+        "example": "We need to understand the concept of sterilize.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khử trùng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sterilize process, key sterilize",
+        "wordFamily": "sterilize (noun)",
+        "image": "sterilize.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11752,
+        "word": "disinfectant",
+        "pronunciation": "/dɪs.ɪnˈfɛktənt/",
+        "audio": "disinfectant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất khử trùng",
+        "definition": "A substance that kills germs and/or viruses.",
+        "example": "The scalpels were soaked in disinfectant before the operation so disease wouldn't be spread.",
+        "exampleVi": "Dao mổ được ngâm trong chất khử trùng trước khi phẫu thuật để bệnh không lây lan.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "disinfectant process, key disinfectant",
+        "wordFamily": "disinfectant (noun)",
+        "image": "disinfectant.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11753,
+        "word": "sanitizer",
+        "pronunciation": "/ˈsænətaɪzɚ/",
+        "audio": "sanitizer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất khử trùng",
+        "definition": "Agent noun of sanitize; one who sanitizes; a product that provides a sanitized result (e.g. a hand sanitizer).",
+        "example": "We need to understand the concept of sanitizer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chất khử trùng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sanitizer process, key sanitizer",
+        "wordFamily": "sanitizer (noun)",
+        "image": "sanitizer.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11754,
+        "word": "vaccination",
+        "pronunciation": "/ˌvæk.sɪˈneɪ.ʃn̩/",
+        "audio": "vaccination.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêm chủng",
+        "definition": "Inoculation with a vaccine, in order to protect from a particular disease or strain of disease.",
+        "example": "We need to understand the concept of vaccination.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiêm chủng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vaccination process, key vaccination",
+        "wordFamily": "vaccination (noun)",
+        "image": "vaccination.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11755,
+        "word": "inoculation",
+        "pronunciation": "/ɪˌnɒkjʊˈleɪʃən/",
+        "audio": "inoculation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêm chủng",
+        "definition": "The introduction of an antigenic substance or vaccine into the body to produce immunity to a specific disease.",
+        "example": "We need to understand the concept of inoculation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tiêm chủng.",
+        "topic": "Health Body",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "inoculation process, key inoculation",
+        "wordFamily": "inoculation (noun)",
+        "image": "inoculation.webp",
+        "tags": [
+            "health",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

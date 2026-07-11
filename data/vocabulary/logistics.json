@@ -1,0 +1,2054 @@
+[
+    {
+        "id": 12212,
+        "word": "logistics",
+        "pronunciation": "/logistics/",
+        "audio": "logistics.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hậu cần",
+        "definition": "A logistic function or graph of a logistic curve.",
+        "example": "We need to understand the concept of logistics.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về logistics.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "logistics process, key logistics",
+        "wordFamily": "logistics (noun)",
+        "image": "logistics.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12213,
+        "word": "supply",
+        "pronunciation": "/səˈplaɪ/",
+        "audio": "supply.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cung cấp",
+        "definition": "The act of supplying.",
+        "example": "supply and demand",
+        "exampleVi": "cung và cầu",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "supply process, key supply",
+        "wordFamily": "supply (noun)",
+        "image": "supply.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12214,
+        "word": "chain",
+        "pronunciation": "/ˈt͡ʃeɪn/",
+        "audio": "chain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xích",
+        "definition": "A series of interconnected rings or links usually made of metal.",
+        "example": "He wore a gold chain around the neck.",
+        "exampleVi": "Anh ta đeo một sợi dây chuyền vàng quanh cổ.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "chain process, key chain",
+        "wordFamily": "chain (noun)",
+        "image": "chain.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12215,
+        "word": "transport",
+        "pronunciation": "/transport/",
+        "audio": "transport.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyên chở",
+        "definition": "An act of transporting; conveyance.",
+        "example": "The transport of goods is not included in the price given on the website.",
+        "exampleVi": "Việc vận chuyển hàng hóa không được bao gồm trong giá đưa ra trên trang web.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "transport process, key transport",
+        "wordFamily": "transport (noun)",
+        "image": "transport.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12216,
+        "word": "transportation",
+        "pronunciation": "/tɹænspɔːˈteɪʃən/",
+        "audio": "transportation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận tải",
+        "definition": "The act of transporting, or the state of being transported; conveyance, often of people, goods etc.",
+        "example": "We have to get people out of their cars and encourage them to use alternative forms of transportation.",
+        "exampleVi": "Chúng ta phải đưa mọi người ra khỏi ô tô và khuyến khích họ sử dụng các hình thức vận chuyển thay thế.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "transportation process, key transportation",
+        "wordFamily": "transportation (noun)",
+        "image": "transportation.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12217,
+        "word": "delivery",
+        "pronunciation": "/dɪˈlɪv(ə)ɹi/",
+        "audio": "delivery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận chuyển",
+        "definition": "The act of conveying something.",
+        "example": "The delivery was completed by four.",
+        "exampleVi": "Việc giao hàng đã được hoàn thành bởi bốn.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "delivery process, key delivery",
+        "wordFamily": "delivery (noun)",
+        "image": "delivery.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12218,
+        "word": "shipping",
+        "pronunciation": "/ˈʃɪpɪŋ/",
+        "audio": "shipping.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận chuyển",
+        "definition": "The transportation of goods.",
+        "example": "We need to understand the concept of shipping.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vận chuyển.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shipping process, key shipping",
+        "wordFamily": "shipping (noun)",
+        "image": "shipping.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12219,
+        "word": "cargo",
+        "pronunciation": "/ˈkɑːɡəʊ/",
+        "audio": "cargo.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hàng hóa",
+        "definition": "Freight carried by a ship, aircraft, or motor vehicle.",
+        "example": "We need to understand the concept of cargo.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hàng hóa.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cargo process, key cargo",
+        "wordFamily": "cargo (noun)",
+        "image": "cargo.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12220,
+        "word": "freight",
+        "pronunciation": "/fɹeɪt/",
+        "audio": "freight.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận chuyển hàng hóa",
+        "definition": "Payment for transportation.",
+        "example": "The freight was more expensive for cars than for coal.",
+        "exampleVi": "Cước vận chuyển ô tô đắt hơn so với than.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "freight process, key freight",
+        "wordFamily": "freight (noun)",
+        "image": "freight.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12221,
+        "word": "warehouse",
+        "pronunciation": "/warehouse/",
+        "audio": "warehouse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kho",
+        "definition": "A place for storing large amounts of products. In logistics, a place where products go to from the manufacturer before going to the retailer.",
+        "example": "We need to understand the concept of warehouse.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kho hàng.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "warehouse process, key warehouse",
+        "wordFamily": "warehouse (noun)",
+        "image": "warehouse.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12222,
+        "word": "storage",
+        "pronunciation": "/ˈstɔ.ɹɪd͡ʒ/",
+        "audio": "storage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kho",
+        "definition": "The act of storing goods; the state of being stored.",
+        "example": "There's a lot of storage space in the loft.",
+        "exampleVi": "Có rất nhiều không gian lưu trữ trên gác xép.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "storage process, key storage",
+        "wordFamily": "storage (noun)",
+        "image": "storage.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12223,
+        "word": "inventory",
+        "pronunciation": "/ɪnˈvɛn.tə.ɹi/",
+        "audio": "inventory.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hàng tồn kho",
+        "definition": "(operations) The stock of an item on hand at a particular location or business.",
+        "example": "Due to an undersized inventory at the Boston outlet, customers had to travel to Providence to find the item.",
+        "exampleVi": "Do lượng hàng tồn kho tại cửa hàng ở Boston không đủ, khách hàng phải đến Providence để tìm món hàng.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "inventory process, key inventory",
+        "wordFamily": "inventory (noun)",
+        "image": "inventory.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12224,
+        "word": "stock",
+        "pronunciation": "/stɒk/",
+        "audio": "stock.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Cổ phần",
+        "definition": "A store or supply.",
+        "example": "We need to understand the concept of stock.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chứng khoán.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stock process, key stock",
+        "wordFamily": "stock (noun)",
+        "image": "stock.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12225,
+        "word": "pack",
+        "pronunciation": "/pæk/",
+        "audio": "pack.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đóng gói",
+        "definition": "A bundle made up and prepared to be carried; especially, a bundle to be carried on the back, but also a load for an animal, a bale.",
+        "example": "The horses carried the packs across the plain.",
+        "exampleVi": "Những con ngựa chở các gói hàng qua đồng bằng.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pack process, key pack",
+        "wordFamily": "pack (noun)",
+        "image": "pack.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12226,
+        "word": "package",
+        "pronunciation": "/ˈpækɪdʒ/",
+        "audio": "package.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bưu kiện",
+        "definition": "Something which is packed, a parcel, a box, an envelope.",
+        "example": "We need to understand the concept of package.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gói.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "package process, key package",
+        "wordFamily": "package (noun)",
+        "image": "package.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12227,
+        "word": "distribute",
+        "pronunciation": "/dɨˈstɹɪbjuːt/",
+        "audio": "distribute.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phân phát",
+        "definition": "To divide into portions and dispense.",
+        "example": "He distributed the bread amongst his followers.",
+        "exampleVi": "Ông phân phát bánh mì cho những người theo ông.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "distribute process, key distribute",
+        "wordFamily": "distribute (verb)",
+        "image": "distribute.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12228,
+        "word": "distribution",
+        "pronunciation": "/ˌdɪstɹəˈbjuːʃən/",
+        "audio": "distribution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phân bổ",
+        "definition": "An act of distributing or state of being distributed.",
+        "example": "We need to understand the concept of distribution.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phân phối.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "distribution process, key distribution",
+        "wordFamily": "distribution (noun)",
+        "image": "distribution.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12229,
+        "word": "carrier",
+        "pronunciation": "/ˈkæ.ɹɪ.ə/",
+        "audio": "carrier.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người chuyên chở",
+        "definition": "A person or object that carries someone or something else.",
+        "example": "aircraft carrier",
+        "exampleVi": "tàu sân bay",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "carrier process, key carrier",
+        "wordFamily": "carrier (noun)",
+        "image": "carrier.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12230,
+        "word": "track",
+        "pronunciation": "/tɹæk/",
+        "audio": "track.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "theo dõi",
+        "definition": "A mark left by something that has passed along.",
+        "example": "Can you see any tracks in the snow?",
+        "exampleVi": "Bạn có thấy dấu vết nào trên tuyết không?",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "track process, key track",
+        "wordFamily": "track (noun)",
+        "image": "track.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12231,
+        "word": "route",
+        "pronunciation": "/ɹʉːt/",
+        "audio": "route.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyến đường",
+        "definition": "A course or way which is traveled or passed.",
+        "example": "The route was used so much that it formed a rut.",
+        "exampleVi": "Tuyến đường được sử dụng nhiều đến mức hình thành một lối mòn.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "route process, key route",
+        "wordFamily": "route (noun)",
+        "image": "route.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12232,
+        "word": "fleet",
+        "pronunciation": "/fleet/",
+        "audio": "fleet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hạm đội",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word fleet.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hạm đội.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fleet process, key fleet",
+        "wordFamily": "fleet (noun)",
+        "image": "fleet.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12233,
+        "word": "vessel",
+        "pronunciation": "/vessel/",
+        "audio": "vessel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tàu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word vessel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tàu.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "vessel process, key vessel",
+        "wordFamily": "vessel (noun)",
+        "image": "vessel.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12234,
+        "word": "truck",
+        "pronunciation": "/truck/",
+        "audio": "truck.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe tải",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word truck.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ xe tải.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "truck process, key truck",
+        "wordFamily": "truck (noun)",
+        "image": "truck.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12235,
+        "word": "container",
+        "pronunciation": "/container/",
+        "audio": "container.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thùng chứa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word container.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ container.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "container process, key container",
+        "wordFamily": "container (noun)",
+        "image": "container.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12236,
+        "word": "port",
+        "pronunciation": "/port/",
+        "audio": "port.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hải cảng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word port.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cổng.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "port process, key port",
+        "wordFamily": "port (noun)",
+        "image": "port.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12237,
+        "word": "hub",
+        "pronunciation": "/hub/",
+        "audio": "hub.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trung tâm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hub.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hub.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hub process, key hub",
+        "wordFamily": "hub (noun)",
+        "image": "hub.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12238,
+        "word": "dispatch",
+        "pronunciation": "/dispatch/",
+        "audio": "dispatch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gửi đi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word dispatch.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ công văn.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "dispatch process, key dispatch",
+        "wordFamily": "dispatch (noun)",
+        "image": "dispatch.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12239,
+        "word": "loading",
+        "pronunciation": "/loading/",
+        "audio": "loading.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đang tải",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word loading.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tải.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "loading process, key loading",
+        "wordFamily": "loading (noun)",
+        "image": "loading.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12240,
+        "word": "unloading",
+        "pronunciation": "/unloading/",
+        "audio": "unloading.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dỡ hàng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word unloading.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dỡ hàng.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "unloading process, key unloading",
+        "wordFamily": "unloading (noun)",
+        "image": "unloading.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12241,
+        "word": "transit",
+        "pronunciation": "/transit/",
+        "audio": "transit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quá cảnh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word transit.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vận chuyển.",
+        "topic": "Logistics",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "transit process, key transit",
+        "wordFamily": "transit (noun)",
+        "image": "transit.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12242,
+        "word": "handling",
+        "pronunciation": "/ˈhændlɪŋ/",
+        "audio": "handling.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xử lý",
+        "definition": "A touching, controlling, managing, using, take care of, etc., with the hand or hands, or as with the hands.",
+        "example": "We need to understand the concept of handling.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xử lý.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "handling process, key handling",
+        "wordFamily": "handling (noun)",
+        "image": "handling.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12243,
+        "word": "pallet",
+        "pronunciation": "/ˈpælət/",
+        "audio": "pallet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "pallet",
+        "definition": "A portable platform, usually designed to be easily moved by a forklift, on which goods can be stacked, for transport or storage.",
+        "example": "We need to understand the concept of pallet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về pallet.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pallet process, key pallet",
+        "wordFamily": "pallet (noun)",
+        "image": "pallet.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12244,
+        "word": "consignment",
+        "pronunciation": "/consignment/",
+        "audio": "consignment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lô hàng",
+        "definition": "A collection of goods to be sent, in transit or having been sent",
+        "example": "We need to understand the concept of consignment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lô hàng.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consignment process, key consignment",
+        "wordFamily": "consignment (noun)",
+        "image": "consignment.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12245,
+        "word": "courier",
+        "pronunciation": "/ˈkʊɹ.ɪə/",
+        "audio": "courier.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyển phát nhanh",
+        "definition": "A person who looks after and guides tourists",
+        "example": "We need to understand the concept of courier.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chuyển phát nhanh.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "courier process, key courier",
+        "wordFamily": "courier (noun)",
+        "image": "courier.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12246,
+        "word": "forwarder",
+        "pronunciation": "/forwarder/",
+        "audio": "forwarder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người giao nhận",
+        "definition": "One who, or that which, forwards something to another destination.",
+        "example": "We need to understand the concept of forwarder.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người giao nhận.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "forwarder process, key forwarder",
+        "wordFamily": "forwarder (noun)",
+        "image": "forwarder.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12247,
+        "word": "shipment",
+        "pronunciation": "/ˈʃɪpmənt/",
+        "audio": "shipment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lô hàng",
+        "definition": "A load of goods that is transported by any method (not just by ship)",
+        "example": "We need to understand the concept of shipment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vận chuyển.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shipment process, key shipment",
+        "wordFamily": "shipment (noun)",
+        "image": "shipment.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12248,
+        "word": "packaging",
+        "pronunciation": "/packaging/",
+        "audio": "packaging.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bao bì",
+        "definition": "To pack or bundle something.",
+        "example": "We need to understand the concept of packaging.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bao bì.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "packaging process, key packaging",
+        "wordFamily": "packaging (noun)",
+        "image": "packaging.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12249,
+        "word": "aircraft",
+        "pronunciation": "/ɛə.kɹɑːft/",
+        "audio": "aircraft.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy bay",
+        "definition": "A vehicle capable of atmospheric flight due to interaction with the air, such as buoyancy or lift",
+        "example": "We need to understand the concept of aircraft.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máy bay.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "aircraft process, key aircraft",
+        "wordFamily": "aircraft (noun)",
+        "image": "aircraft.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12250,
+        "word": "customs",
+        "pronunciation": "/ˈkʌstəmz/",
+        "audio": "customs.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hải quan",
+        "definition": "(in the plural) The duties or taxes imposed on imported or exported goods.",
+        "example": "Customs of £200 were due on all the wine we took back from France.",
+        "exampleVi": "Số tiền hải quan 200 bảng Anh phải nộp đối với tất cả số rượu chúng tôi mang về từ Pháp.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "customs process, key customs",
+        "wordFamily": "customs (noun)",
+        "image": "customs.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12251,
+        "word": "clearance",
+        "pronunciation": "/clearance/",
+        "audio": "clearance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải phóng mặt bằng",
+        "definition": "The act of clearing or something (such as a space) cleared",
+        "example": "We need to understand the concept of clearance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giải phóng mặt bằng.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "clearance process, key clearance",
+        "wordFamily": "clearance (noun)",
+        "image": "clearance.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12252,
+        "word": "tracking",
+        "pronunciation": "/ˈtɹækɪŋ/",
+        "audio": "tracking.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "theo dõi",
+        "definition": "To continue over time.",
+        "example": "We need to understand the concept of tracking.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm theo dõi.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tracking process, key tracking",
+        "wordFamily": "tracking (noun)",
+        "image": "tracking.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12253,
+        "word": "manifest",
+        "pronunciation": "/ˈmæn.ə.fɛst/",
+        "audio": "manifest.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảng kê khai",
+        "definition": "A list or invoice of the passengers or goods being carried by a commercial vehicle or ship.",
+        "example": "We need to understand the concept of manifest.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về biểu hiện.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "manifest process, key manifest",
+        "wordFamily": "manifest (noun)",
+        "image": "manifest.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12254,
+        "word": "billoflading",
+        "pronunciation": "/billoflading/",
+        "audio": "billoflading.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận chuyển hàng hóa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word billoflading.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ billoflading.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "billoflading process, key billoflading",
+        "wordFamily": "billoflading (noun)",
+        "image": "billoflading.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12255,
+        "word": "expedite",
+        "pronunciation": "/ˈɛk.spəˌdaɪt/",
+        "audio": "expedite.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xúc tiến",
+        "definition": "To accelerate the progress of.",
+        "example": "He expedited the search by alphabetizing the papers.",
+        "exampleVi": "Anh ta đẩy nhanh việc tìm kiếm bằng cách sắp xếp theo bảng chữ cái các giấy tờ.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "expedite process, key expedite",
+        "wordFamily": "expedite (noun)",
+        "image": "expedite.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12256,
+        "word": "broker",
+        "pronunciation": "/ˈbɹəʊkə/",
+        "audio": "broker.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "người môi giới",
+        "definition": "Financially ruined, bankrupt.",
+        "example": "We need to understand the concept of broker.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm môi giới.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "broker process, key broker",
+        "wordFamily": "broker (noun)",
+        "image": "broker.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12257,
+        "word": "unpack",
+        "pronunciation": "/ʌnˈpæk/",
+        "audio": "unpack.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giải nén",
+        "definition": "To remove from a package or container, particularly with respect to items that had previously been arranged closely and securely in a pack.",
+        "example": "They didn't have time to unpack their bags before going out to dinner.",
+        "exampleVi": "Họ không có thời gian để dỡ hành lý trước khi ra ngoài ăn tối.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "unpack process, key unpack",
+        "wordFamily": "unpack (noun)",
+        "image": "unpack.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12258,
+        "word": "store",
+        "pronunciation": "/stɔː/",
+        "audio": "store.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cửa hàng",
+        "definition": "A place where items may be accumulated or routinely kept.",
+        "example": "This building used to be a store for old tires.",
+        "exampleVi": "Tòa nhà này từng là cửa hàng bán lốp xe cũ.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "store process, key store",
+        "wordFamily": "store (noun)",
+        "image": "store.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12259,
+        "word": "crate",
+        "pronunciation": "/kɹeɪt/",
+        "audio": "crate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thùng",
+        "definition": "A large open box or basket, used especially to transport fragile goods.",
+        "example": "We need to understand the concept of crate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thùng.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "crate process, key crate",
+        "wordFamily": "crate (noun)",
+        "image": "crate.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12260,
+        "word": "trace",
+        "pronunciation": "/tɹeɪs/",
+        "audio": "trace.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dấu vết",
+        "definition": "An act of tracing.",
+        "example": "Your cell phone company can put a trace on your line.",
+        "exampleVi": "Công ty điện thoại di động của bạn có thể theo dõi đường dây của bạn.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trace process, key trace",
+        "wordFamily": "trace (noun)",
+        "image": "trace.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12261,
+        "word": "schedule",
+        "pronunciation": "/ˈskɛ.dʒu.əl/",
+        "audio": "schedule.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch trình",
+        "definition": "A slip of paper; a short note.",
+        "example": "We need to understand the concept of schedule.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lịch trình.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "schedule process, key schedule",
+        "wordFamily": "schedule (noun)",
+        "image": "schedule.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12262,
+        "word": "deliver",
+        "pronunciation": "/dɪˈlɪvə(ɹ)/",
+        "audio": "deliver.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giao hàng",
+        "definition": "To set free from restraint or danger.",
+        "example": "deliver a captive from the prison",
+        "exampleVi": "giải cứu một tù nhân ra khỏi nhà tù",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "deliver process, key deliver",
+        "wordFamily": "deliver (noun)",
+        "image": "deliver.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12263,
+        "word": "load",
+        "pronunciation": "/ləʊd/",
+        "audio": "load.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tải",
+        "definition": "A burden; a weight to be carried.",
+        "example": "I struggled up the hill with the heavy load in my rucksack.",
+        "exampleVi": "Tôi cố gắng leo lên đồi với gánh nặng trong ba lô.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "load process, key load",
+        "wordFamily": "load (noun)",
+        "image": "load.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12264,
+        "word": "unload",
+        "pronunciation": "/ʌnˈləʊd/",
+        "audio": "unload.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "dỡ hàng",
+        "definition": "To remove the load or cargo from (a vehicle, etc.).",
+        "example": "to unload a ship; to unload a camel",
+        "exampleVi": "dỡ tàu; dỡ một con lạc đà",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "unload process, key unload",
+        "wordFamily": "unload (noun)",
+        "image": "unload.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12265,
+        "word": "containerize",
+        "pronunciation": "/containerize/",
+        "audio": "containerize.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "containerize",
+        "definition": "To transport (cargo) in large, standard containers.",
+        "example": "We need to understand the concept of containerize.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm containerize.",
+        "topic": "Logistics",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "containerize process, key containerize",
+        "wordFamily": "containerize (noun)",
+        "image": "containerize.webp",
+        "tags": [
+            "logistics",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

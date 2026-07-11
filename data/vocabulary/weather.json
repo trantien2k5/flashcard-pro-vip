@@ -1,0 +1,1750 @@
+[
+    {
+        "id": 13242,
+        "word": "weather",
+        "pronunciation": "/ˈwɛðə/",
+        "audio": "weather.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời tiết",
+        "definition": "The short term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover, precipitation, wind, etc.",
+        "example": "We need to understand the concept of weather.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thời tiết.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "weather process, key weather",
+        "wordFamily": "weather (noun)",
+        "image": "weather.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13243,
+        "word": "climate",
+        "pronunciation": "/ˈklaɪmɪt/",
+        "audio": "climate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khí hậu",
+        "definition": "An area of the earth's surface between two parallels of latitude.",
+        "example": "We need to understand the concept of climate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khí hậu.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "climate process, key climate",
+        "wordFamily": "climate (noun)",
+        "image": "climate.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13244,
+        "word": "sun",
+        "pronunciation": "/sʌn/",
+        "audio": "sun.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mặt trời",
+        "definition": "A star, especially when seen as the centre of any single solar system.",
+        "example": "We need to understand the concept of sun.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mặt trời.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sun process, key sun",
+        "wordFamily": "sun (noun)",
+        "image": "sun.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13245,
+        "word": "sunny",
+        "pronunciation": "/ˈsʌni/",
+        "audio": "sunny.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhiều nắng",
+        "definition": "A sunfish.",
+        "example": "We need to understand the concept of sunny.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nắng.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sunny process, key sunny",
+        "wordFamily": "sunny (noun)",
+        "image": "sunny.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13246,
+        "word": "rain",
+        "pronunciation": "/ɹeɪn/",
+        "audio": "rain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơn mưa",
+        "definition": "Condensed water falling from a cloud.",
+        "example": "The rains came late that year.",
+        "exampleVi": "Năm đó mưa đến muộn.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rain process, key rain",
+        "wordFamily": "rain (noun)",
+        "image": "rain.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13247,
+        "word": "rainy",
+        "pronunciation": "/ˈɹeɪni/",
+        "audio": "rainy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nhiều mưa",
+        "definition": "Pouring with rain; wet; showery",
+        "example": "Due to the rainy weather, we decided not to play in the park.",
+        "exampleVi": "Do thời tiết mưa nên chúng tôi quyết định không chơi ở công viên.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rainy process, key rainy",
+        "wordFamily": "rainy (adjective)",
+        "image": "rainy.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13248,
+        "word": "cloud",
+        "pronunciation": "/klaʊd/",
+        "audio": "cloud.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đám mây",
+        "definition": "A rock; boulder; a hill.",
+        "example": "We need to understand the concept of cloud.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đám mây.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cloud process, key cloud",
+        "wordFamily": "cloud (noun)",
+        "image": "cloud.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13249,
+        "word": "cloudy",
+        "pronunciation": "/ˈklaʊːdɪ/",
+        "audio": "cloudy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "nhiều mây",
+        "definition": "Covered with or characterised by clouds; overcast.",
+        "example": "We need to understand the concept of cloudy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mây.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cloudy process, key cloudy",
+        "wordFamily": "cloudy (adjective)",
+        "image": "cloudy.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13250,
+        "word": "wind",
+        "pronunciation": "/ˈwaɪnd/",
+        "audio": "wind.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gió",
+        "definition": "Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.",
+        "example": "As they accelerated onto the motorway, the wind tore the plywood off the car's roof-rack.",
+        "exampleVi": "Khi họ tăng tốc trên đường cao tốc, gió xé toạc tấm ván ép khỏi giá nóc ô tô.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wind process, key wind",
+        "wordFamily": "wind (noun)",
+        "image": "wind.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13251,
+        "word": "windy",
+        "pronunciation": "/ˈwɪndi/",
+        "audio": "windy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "có gió",
+        "definition": "Fart",
+        "example": "We need to understand the concept of windy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gió.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "windy process, key windy",
+        "wordFamily": "windy (noun)",
+        "image": "windy.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13252,
+        "word": "snow",
+        "pronunciation": "/snəʊ/",
+        "audio": "snow.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyết",
+        "definition": "The frozen, crystalline state of water that falls as precipitation.",
+        "example": "We need to understand the concept of snow.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tuyết.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "snow process, key snow",
+        "wordFamily": "snow (noun)",
+        "image": "snow.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13253,
+        "word": "snowy",
+        "pronunciation": "/snəʊi/",
+        "audio": "snowy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "có tuyết",
+        "definition": "Marked by snow, characterized by snow.",
+        "example": "snowy day",
+        "exampleVi": "ngày tuyết rơi",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "snowy process, key snowy",
+        "wordFamily": "snowy (adjective)",
+        "image": "snowy.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13254,
+        "word": "storm",
+        "pronunciation": "/stɔːm/",
+        "audio": "storm.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bão",
+        "definition": "Any disturbed state of the atmosphere, especially as affecting the earth's surface, and strongly implying destructive or unpleasant weather.",
+        "example": "We need to understand the concept of storm.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bão.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "storm process, key storm",
+        "wordFamily": "storm (noun)",
+        "image": "storm.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13255,
+        "word": "stormy",
+        "pronunciation": "/ˈstɔɹmi/",
+        "audio": "stormy.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "giông bão",
+        "definition": "Of or pertaining to storms.",
+        "example": "We need to understand the concept of stormy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bão tố.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stormy process, key stormy",
+        "wordFamily": "stormy (adjective)",
+        "image": "stormy.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13256,
+        "word": "temperature",
+        "pronunciation": "/ˈtɛmp(ə)ɹətʃə(ɹ)/",
+        "audio": "temperature.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhiệt độ",
+        "definition": "A measure of cold or heat, often measurable with a thermometer.",
+        "example": "The temperature in the room dropped nearly 20 degrees; it went from hot to cold.",
+        "exampleVi": "Nhiệt độ trong phòng giảm gần 20 độ; nó chuyển từ nóng sang lạnh.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "temperature process, key temperature",
+        "wordFamily": "temperature (noun)",
+        "image": "temperature.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13257,
+        "word": "hot",
+        "pronunciation": "/hɒt/",
+        "audio": "hot.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "nóng",
+        "definition": "(with up) To heat; to make or become hot.",
+        "example": "We need to understand the concept of hot.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nóng.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hot process, key hot",
+        "wordFamily": "hot (verb)",
+        "image": "hot.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13258,
+        "word": "cold",
+        "pronunciation": "/kɔʊld/",
+        "audio": "cold.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "lạnh lẽo",
+        "definition": "(of a thing) Having a low temperature.",
+        "example": "A cold wind whistled through the trees.",
+        "exampleVi": "Một cơn gió lạnh thổi qua hàng cây.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cold process, key cold",
+        "wordFamily": "cold (adjective)",
+        "image": "cold.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13259,
+        "word": "warm",
+        "pronunciation": "/wɔːm/",
+        "audio": "warm.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "ấm",
+        "definition": "Having a temperature slightly higher than usual, but still pleasant; mildly hot.",
+        "example": "The tea is still warm.",
+        "exampleVi": "Trà vẫn còn ấm.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "warm process, key warm",
+        "wordFamily": "warm (adjective)",
+        "image": "warm.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13260,
+        "word": "cool",
+        "pronunciation": "/kuːl/",
+        "audio": "cool.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mát mẻ",
+        "definition": "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+        "example": "in the cool of the morning",
+        "exampleVi": "trong buổi sáng mát mẻ",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cool process, key cool",
+        "wordFamily": "cool (noun)",
+        "image": "cool.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13261,
+        "word": "mild",
+        "pronunciation": "/ˈmaɪld/",
+        "audio": "mild.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhẹ",
+        "definition": "A relatively low-gravity beer, often with a dark colour; mild ale",
+        "example": "We need to understand the concept of mild.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhẹ nhàng.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mild process, key mild",
+        "wordFamily": "mild (noun)",
+        "image": "mild.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13262,
+        "word": "humidity",
+        "pronunciation": "/humidity/",
+        "audio": "humidity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "độ ẩm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word humidity.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ độ ẩm.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "humidity process, key humidity",
+        "wordFamily": "humidity (noun)",
+        "image": "humidity.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13263,
+        "word": "fog",
+        "pronunciation": "/fog/",
+        "audio": "fog.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sương mù",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word fog.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sương mù.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fog process, key fog",
+        "wordFamily": "fog (noun)",
+        "image": "fog.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13264,
+        "word": "foggy",
+        "pronunciation": "/foggy/",
+        "audio": "foggy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "có sương mù",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word foggy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sương mù.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "foggy process, key foggy",
+        "wordFamily": "foggy (noun)",
+        "image": "foggy.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13265,
+        "word": "mist",
+        "pronunciation": "/mist/",
+        "audio": "mist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sương mù",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word mist.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sương mù.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mist process, key mist",
+        "wordFamily": "mist (noun)",
+        "image": "mist.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13266,
+        "word": "frost",
+        "pronunciation": "/frost/",
+        "audio": "frost.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sương giá",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word frost.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sương giá.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "frost process, key frost",
+        "wordFamily": "frost (noun)",
+        "image": "frost.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13267,
+        "word": "ice",
+        "pronunciation": "/ice/",
+        "audio": "ice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đá",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word ice.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ băng.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ice process, key ice",
+        "wordFamily": "ice (noun)",
+        "image": "ice.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13268,
+        "word": "hail",
+        "pronunciation": "/hail/",
+        "audio": "hail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kêu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hail.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ mưa đá.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hail process, key hail",
+        "wordFamily": "hail (noun)",
+        "image": "hail.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13269,
+        "word": "thunder",
+        "pronunciation": "/thunder/",
+        "audio": "thunder.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sấm sét",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word thunder.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sấm sét.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "thunder process, key thunder",
+        "wordFamily": "thunder (noun)",
+        "image": "thunder.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13270,
+        "word": "lightning",
+        "pronunciation": "/lightning/",
+        "audio": "lightning.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tia sét",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word lightning.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ sét.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lightning process, key lightning",
+        "wordFamily": "lightning (noun)",
+        "image": "lightning.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13271,
+        "word": "forecast",
+        "pronunciation": "/forecast/",
+        "audio": "forecast.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dự báo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word forecast.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dự báo.",
+        "topic": "Weather",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "forecast process, key forecast",
+        "wordFamily": "forecast (noun)",
+        "image": "forecast.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13272,
+        "word": "breeze",
+        "pronunciation": "/bɹiːz/",
+        "audio": "breeze.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gió nhẹ",
+        "definition": "A light, gentle wind.",
+        "example": "The breeze rustled the papers on her desk.",
+        "exampleVi": "Gió thổi xào xạc những tờ giấy trên bàn cô.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "breeze process, key breeze",
+        "wordFamily": "breeze (noun)",
+        "image": "breeze.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13273,
+        "word": "gale",
+        "pronunciation": "/ɡeɪl/",
+        "audio": "gale.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "gió giật",
+        "definition": "To sing; charm; enchant.",
+        "example": "We need to understand the concept of gale.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về gió.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gale process, key gale",
+        "wordFamily": "gale (noun)",
+        "image": "gale.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13274,
+        "word": "atmosphere",
+        "pronunciation": "/ˈæt.məsˌfɪə(ɹ)/",
+        "audio": "atmosphere.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bầu không khí",
+        "definition": "The gases surrounding the Earth or any astronomical body.",
+        "example": "We need to understand the concept of atmosphere.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về khí quyển.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "atmosphere process, key atmosphere",
+        "wordFamily": "atmosphere (noun)",
+        "image": "atmosphere.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13275,
+        "word": "drizzle",
+        "pronunciation": "/ˈdɹɪz.l/",
+        "audio": "drizzle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mưa phùn",
+        "definition": "Light rain.",
+        "example": "We need to understand the concept of drizzle.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mưa phùn.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "drizzle process, key drizzle",
+        "wordFamily": "drizzle (noun)",
+        "image": "drizzle.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13276,
+        "word": "hurricane",
+        "pronunciation": "/ˈhʌɹɪkən/",
+        "audio": "hurricane.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơn bão",
+        "definition": "A severe tropical cyclone in the North Atlantic Ocean, Caribbean Sea, Gulf of Mexico, or in the eastern North Pacific off the west coast of Mexico, with winds of 119 km/h (74 miles per hour) or greater accompanied by rain, lightning, and thunder that sometimes moves into temperate latitudes.",
+        "example": "We need to understand the concept of hurricane.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bão.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "hurricane process, key hurricane",
+        "wordFamily": "hurricane (noun)",
+        "image": "hurricane.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13277,
+        "word": "downpour",
+        "pronunciation": "/ˈdaʊn.pɔː(ɹ)/",
+        "audio": "downpour.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trận mưa như trút nước",
+        "definition": "A heavy rain.",
+        "example": "They got caught in a downpour without an umbrella and came back soaked.",
+        "exampleVi": "Họ mắc phải một trận mưa như trút nước mà không mang theo ô và trở về trong tình trạng ướt sũng.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "downpour process, key downpour",
+        "wordFamily": "downpour (noun)",
+        "image": "downpour.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13278,
+        "word": "pressure",
+        "pronunciation": "[ˈpɹɛʃ.ə(ɹ)]",
+        "audio": "pressure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "áp lực",
+        "definition": "A pressing; a force applied to a surface.",
+        "example": "Apply pressure to the wound to stop the bleeding.",
+        "exampleVi": "Áp lực lên vết thương để cầm máu.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "pressure process, key pressure",
+        "wordFamily": "pressure (noun)",
+        "image": "pressure.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13279,
+        "word": "shower",
+        "pronunciation": "/ˈʃaʊ.ə(ɹ)/",
+        "audio": "shower.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tắm",
+        "definition": "A brief fall of precipitation (spell of rain, or a similar fall of snow, sleet, or cascade).",
+        "example": "Today there will be frequent showers and some sunny spells.",
+        "exampleVi": "Hôm nay sẽ có mưa rào thường xuyên và có vài đợt nắng.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shower process, key shower",
+        "wordFamily": "shower (noun)",
+        "image": "shower.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13280,
+        "word": "report",
+        "pronunciation": "/ɹəˈpoːt/",
+        "audio": "report.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "báo cáo",
+        "definition": "A piece of information describing, or an account of certain events given or presented to someone, with the most common adpositions being by (referring to creator of the report) and on (referring to the subject).",
+        "example": "A report by the telecommunications ministry on the phone network revealed a severe capacity problem.",
+        "exampleVi": "Báo cáo của Bộ Viễn thông về mạng điện thoại cho thấy có vấn đề nghiêm trọng về dung lượng.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "report process, key report",
+        "wordFamily": "report (noun)",
+        "image": "report.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13281,
+        "word": "meteorology",
+        "pronunciation": "/ˌmiːtɪəˈɹɒlədʒi/",
+        "audio": "meteorology.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khí tượng học",
+        "definition": "The science that deals with the study of the atmosphere and its phenomena, especially with weather and weather forecasting.",
+        "example": "We need to understand the concept of meteorology.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khí tượng học.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "meteorology process, key meteorology",
+        "wordFamily": "meteorology (noun)",
+        "image": "meteorology.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13282,
+        "word": "precipitation",
+        "pronunciation": "/pɹɪˌsɪpɪˈteɪʃən/",
+        "audio": "precipitation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lượng mưa",
+        "definition": "Any or all of the forms of water particles, whether liquid or solid, that fall from the atmosphere (e.g., rain, hail, snow or sleet). It is a major class of hydrometeor, but it is distinguished from cloud, fog, dew, rime, frost, etc., in that it must fall. It is distinguished from cloud and virga in that it must reach the ground.",
+        "example": "We need to understand the concept of precipitation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về lượng mưa.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "precipitation process, key precipitation",
+        "wordFamily": "precipitation (noun)",
+        "image": "precipitation.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13283,
+        "word": "typhoon",
+        "pronunciation": "/taɪˈfuːn/",
+        "audio": "typhoon.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơn bão",
+        "definition": "A weather phenomenon in the northwestern Pacific that is precisely equivalent to a hurricane, which results in wind speeds of 64 knots (118 km/h) or above. Equivalent to a cyclone in the Indian Ocean and Indonesia/Australia.",
+        "example": "We need to understand the concept of typhoon.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bão.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "typhoon process, key typhoon",
+        "wordFamily": "typhoon (noun)",
+        "image": "typhoon.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13284,
+        "word": "tempest",
+        "pronunciation": "/ˈtɛmpəst/",
+        "audio": "tempest.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơn bão",
+        "definition": "A storm, especially one with severe winds.",
+        "example": "We need to understand the concept of tempest.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bão tố.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tempest process, key tempest",
+        "wordFamily": "tempest (noun)",
+        "image": "tempest.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13285,
+        "word": "sleet",
+        "pronunciation": "/sliːt/",
+        "audio": "sleet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mưa tuyết",
+        "definition": "Pellets of ice made of mostly frozen raindrops or refrozen melted snowflakes.",
+        "example": "We need to understand the concept of sleet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mưa đá.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sleet process, key sleet",
+        "wordFamily": "sleet (noun)",
+        "image": "sleet.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13286,
+        "word": "outlook",
+        "pronunciation": "/ˈaʊtˌlʊk/",
+        "audio": "outlook.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "triển vọng",
+        "definition": "A place from which something can be viewed.",
+        "example": "Perched on the edge of the cliff was a hidden outlook.",
+        "exampleVi": "Nằm trên rìa vách đá là một góc nhìn ẩn giấu.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "outlook process, key outlook",
+        "wordFamily": "outlook (noun)",
+        "image": "outlook.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13287,
+        "word": "tornado",
+        "pronunciation": "/tɔː(ɹ)ˈneɪ.dəʊ/",
+        "audio": "tornado.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơn lốc xoáy",
+        "definition": "A violent windstorm characterized by a mobile, twisting, funnel-shaped cloud.",
+        "example": "A tornado is a rotating column of air.",
+        "exampleVi": "Lốc xoáy là một cột không khí quay tròn.",
+        "topic": "Weather",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tornado process, key tornado",
+        "wordFamily": "tornado (noun)",
+        "image": "tornado.webp",
+        "tags": [
+            "weather",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

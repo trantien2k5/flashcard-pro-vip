@@ -1,0 +1,2776 @@
+[
+    {
+        "id": 11339,
+        "word": "parent",
+        "pronunciation": "/ˈpɛəɹənt/",
+        "audio": "parent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cha mẹ",
+        "definition": "One of the two persons from whom one is immediately biologically descended; a mother or father.",
+        "example": "We need to understand the concept of parent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cha mẹ.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "parent process, key parent",
+        "wordFamily": "parent (noun)",
+        "image": "parent.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11340,
+        "word": "father",
+        "pronunciation": "/ˈfaːðə/",
+        "audio": "father.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bố",
+        "definition": "A (generally human) male who begets a child.",
+        "example": "My father was a strong influence on me.",
+        "exampleVi": "Cha tôi là người có ảnh hưởng mạnh mẽ tới tôi.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "father process, key father",
+        "wordFamily": "father (noun)",
+        "image": "father.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11341,
+        "word": "mother",
+        "pronunciation": "/ˈmʌðə(ɹ)/",
+        "audio": "mother.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mẹ",
+        "definition": "A (human) female who has given birth to a baby",
+        "example": "He had something of his mother in him.",
+        "exampleVi": "Anh có cái gì đó của mẹ anh trong người.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mother process, key mother",
+        "wordFamily": "mother (noun)",
+        "image": "mother.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11342,
+        "word": "child",
+        "pronunciation": "/t͡ʃaɪld/",
+        "audio": "child.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đứa trẻ",
+        "definition": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+        "example": "Go easy on him: he is but a child.",
+        "exampleVi": "Hãy nhẹ nhàng với anh ấy: anh ấy chỉ là một đứa trẻ.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "child process, key child",
+        "wordFamily": "child (noun)",
+        "image": "child.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11343,
+        "word": "son",
+        "pronunciation": "/sɒn/",
+        "audio": "son.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "con trai",
+        "definition": "One's male offspring.",
+        "example": "Before the birth of the man's child, he said: \"I want a son, not a daughter.\"",
+        "exampleVi": "Trước khi sinh con, người đàn ông nói: “Tôi muốn có con trai chứ không phải con gái”.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "son process, key son",
+        "wordFamily": "son (noun)",
+        "image": "son.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11344,
+        "word": "daughter",
+        "pronunciation": "/ˈdɑ.tɚ/",
+        "audio": "daughter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "con gái",
+        "definition": "One’s female offspring.",
+        "example": "I already have a son, so I would like to have a daughter.",
+        "exampleVi": "Tôi đã có con trai rồi nên tôi muốn có con gái.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "daughter process, key daughter",
+        "wordFamily": "daughter (noun)",
+        "image": "daughter.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11345,
+        "word": "brother",
+        "pronunciation": "/ˈbɹɐðɘ(ɹ)/",
+        "audio": "brother.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "anh trai",
+        "definition": "Son of the same parents as another person.",
+        "example": "We need to understand the concept of brother.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm anh em.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "brother process, key brother",
+        "wordFamily": "brother (noun)",
+        "image": "brother.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11346,
+        "word": "sister",
+        "pronunciation": "/ˈsɪs.tə/",
+        "audio": "sister.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "em gái",
+        "definition": "A daughter of the same parents as another person; a female sibling.",
+        "example": "My sister is always driving me crazy.",
+        "exampleVi": "Chị tôi luôn làm tôi phát điên.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sister process, key sister",
+        "wordFamily": "sister (noun)",
+        "image": "sister.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11347,
+        "word": "sibling",
+        "pronunciation": "/ˈsɪblɪŋ/",
+        "audio": "sibling.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "anh em ruột",
+        "definition": "A person who shares a parent; one's brother or sister who one shares a parent with.",
+        "example": "None of my siblings are married yet.",
+        "exampleVi": "Chưa có anh chị em nào của tôi đã kết hôn.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sibling process, key sibling",
+        "wordFamily": "sibling (noun)",
+        "image": "sibling.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11348,
+        "word": "grandmother",
+        "pronunciation": "/ˈɡɹæn(d)ˌmʌðə(r)/",
+        "audio": "grandmother.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bà ngoại",
+        "definition": "A mother of someone's parent.",
+        "example": "We need to understand the concept of grandmother.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bà.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "grandmother process, key grandmother",
+        "wordFamily": "grandmother (noun)",
+        "image": "grandmother.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11349,
+        "word": "grandfather",
+        "pronunciation": "/ˈɡɹæn(d)ˌfɑːðə(r)/",
+        "audio": "grandfather.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ông nội",
+        "definition": "A father of someone's parent.",
+        "example": "We need to understand the concept of grandfather.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ông nội.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "grandfather process, key grandfather",
+        "wordFamily": "grandfather (noun)",
+        "image": "grandfather.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11350,
+        "word": "grandparent",
+        "pronunciation": "/ˈɡɹæn(d)pæɹənt/",
+        "audio": "grandparent.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "ông bà",
+        "definition": "To be, or act as, a grandfather to.",
+        "example": "We need to understand the concept of grandparent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ông bà.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "grandparent process, key grandparent",
+        "wordFamily": "grandparent (verb)",
+        "image": "grandparent.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11351,
+        "word": "uncle",
+        "pronunciation": "/ˈʌŋ.kəl/",
+        "audio": "uncle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chú ",
+        "definition": "The brother or brother-in-law of one’s parent.",
+        "example": "We need to understand the concept of uncle.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chú.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "uncle process, key uncle",
+        "wordFamily": "uncle (noun)",
+        "image": "uncle.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11352,
+        "word": "aunt",
+        "pronunciation": "/ɑ(ː)nt/",
+        "audio": "aunt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dì",
+        "definition": "The sister or sister-in-law of one’s parent.",
+        "example": "We need to understand the concept of aunt.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về dì.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "aunt process, key aunt",
+        "wordFamily": "aunt (noun)",
+        "image": "aunt.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11353,
+        "word": "cousin",
+        "pronunciation": "/ˈkʌz.n̩/",
+        "audio": "cousin.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "anh em họ",
+        "definition": "The child of a person's uncle or aunt; a first cousin.",
+        "example": "I think my cousin is a good man.",
+        "exampleVi": "Tôi nghĩ anh họ tôi là một người đàn ông tốt.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cousin process, key cousin",
+        "wordFamily": "cousin (noun)",
+        "image": "cousin.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11354,
+        "word": "nephew",
+        "pronunciation": "/ˈnɛf.ju/",
+        "audio": "nephew.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cháu trai",
+        "definition": "A son of one's sibling, brother-in-law, or sister-in-law; either a son of one's brother (fraternal nephew) or a son of one's sister (sororal nephew).",
+        "example": "We need to understand the concept of nephew.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cháu trai.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nephew process, key nephew",
+        "wordFamily": "nephew (noun)",
+        "image": "nephew.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11355,
+        "word": "niece",
+        "pronunciation": "/niːs/",
+        "audio": "niece.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cháu gái",
+        "definition": "A daughter of one’s sibling, brother-in-law, or sister-in-law; either the daughter of one's brother (\"fraternal niece\"), or of one's sister (\"sororal niece\").",
+        "example": "My niece just celebrated her 15th birthday.",
+        "exampleVi": "Cháu gái tôi vừa kỷ niệm sinh nhật lần thứ 15 của mình.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "niece process, key niece",
+        "wordFamily": "niece (noun)",
+        "image": "niece.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11356,
+        "word": "spouse",
+        "pronunciation": "/spaʊs/",
+        "audio": "spouse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vợ chồng",
+        "definition": "A person in a marriage or marital relationship.",
+        "example": "People should treat their spouses with respect.",
+        "exampleVi": "Mọi người nên đối xử với vợ/chồng của mình một cách tôn trọng.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "spouse process, key spouse",
+        "wordFamily": "spouse (noun)",
+        "image": "spouse.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11357,
+        "word": "husband",
+        "pronunciation": "/ˈhʌz.bənd/",
+        "audio": "husband.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chồng",
+        "definition": "The master of a house; the head of a family; a householder.",
+        "example": "We need to understand the concept of husband.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về người chồng.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "husband process, key husband",
+        "wordFamily": "husband (noun)",
+        "image": "husband.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11358,
+        "word": "wife",
+        "pronunciation": "/waɪf/",
+        "audio": "wife.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vợ",
+        "definition": "A married woman, especially in relation to her spouse.",
+        "example": "We need to understand the concept of wife.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về vợ.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wife process, key wife",
+        "wordFamily": "wife (noun)",
+        "image": "wife.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11359,
+        "word": "partner",
+        "pronunciation": "/ˈpɐːtnə/",
+        "audio": "partner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cộng sự",
+        "definition": "Someone who is associated with another in a common activity or interest.",
+        "example": "We need to understand the concept of partner.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đối tác.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "partner process, key partner",
+        "wordFamily": "partner (noun)",
+        "image": "partner.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11360,
+        "word": "relative",
+        "pronunciation": "[ˈɹɛl.ə.tʰɪv]",
+        "audio": "relative.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liên quan đến",
+        "definition": "Someone in the same family; someone connected by blood, marriage, or adoption.",
+        "example": "Why do my relatives always talk about sex?",
+        "exampleVi": "Tại sao người thân của tôi luôn nói về tình dục?",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "relative process, key relative",
+        "wordFamily": "relative (noun)",
+        "image": "relative.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11361,
+        "word": "ancestor",
+        "pronunciation": "/ˈæn.sɛs.tə/",
+        "audio": "ancestor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tổ tiên",
+        "definition": "One from whom a person is descended, whether on the father's or mother's side, at any distance of time; a progenitor; a forefather.",
+        "example": "We need to understand the concept of ancestor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tổ tiên.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ancestor process, key ancestor",
+        "wordFamily": "ancestor (noun)",
+        "image": "ancestor.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11362,
+        "word": "descendant",
+        "pronunciation": "/dɪˈsɛndənt/",
+        "audio": "descendant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hậu duệ",
+        "definition": "One who is the progeny of a specified person, at any distance of time or through any number of generations.",
+        "example": "The patriarch survived many descendants: five children, a dozen grandchildren, even a great grandchild.",
+        "exampleVi": "Tổ phụ còn sót lại rất nhiều hậu duệ: năm người con, chục cháu, thậm chí có cả chắt.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "descendant process, key descendant",
+        "wordFamily": "descendant (noun)",
+        "image": "descendant.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11363,
+        "word": "friend",
+        "pronunciation": "/fɹɛnd/",
+        "audio": "friend.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bạn",
+        "definition": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
+        "example": "John and I have been friends ever since we were roommates at college.   Trust is important between friends.   I used to find it hard to make friends when I was shy.",
+        "exampleVi": "John và tôi đã là bạn kể từ khi chúng tôi còn là bạn cùng phòng ở trường đại học.   Sự tin tưởng là quan trọng giữa bạn bè.   Tôi từng thấy khó kết bạn khi tôi còn nhút nhát.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "friend process, key friend",
+        "wordFamily": "friend (noun)",
+        "image": "friend.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11364,
+        "word": "colleague",
+        "pronunciation": "/ˈkɒliːɡ/",
+        "audio": "colleague.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồng nghiệp",
+        "definition": "A fellow member of a profession, staff, academic faculty or other organization; an associate.",
+        "example": "We need to understand the concept of colleague.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đồng nghiệp.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "colleague process, key colleague",
+        "wordFamily": "colleague (noun)",
+        "image": "colleague.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11365,
+        "word": "neighbor",
+        "pronunciation": "/neighbor/",
+        "audio": "neighbor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hàng xóm",
+        "definition": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position.",
+        "example": "My neighbour has two noisy cats.",
+        "exampleVi": "Hàng xóm của tôi có hai con mèo ồn ào.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "neighbor process, key neighbor",
+        "wordFamily": "neighbor (noun)",
+        "image": "neighbor.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11366,
+        "word": "marriage",
+        "pronunciation": "/ˈmæɹɪdʒ/",
+        "audio": "marriage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kết hôn",
+        "definition": "The state of being married.",
+        "example": "You should enter marriage for love.",
+        "exampleVi": "Bạn nên bước vào hôn nhân vì tình yêu.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "marriage process, key marriage",
+        "wordFamily": "marriage (noun)",
+        "image": "marriage.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11367,
+        "word": "divorce",
+        "pronunciation": "/dɪˈvɔːs/",
+        "audio": "divorce.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ly hôn",
+        "definition": "The legal dissolution of a marriage.",
+        "example": "Richard obtained a divorce from his wife some years ago, but hasn't returned to the dating scene.",
+        "exampleVi": "Richard đã ly hôn với vợ vài năm trước nhưng vẫn chưa quay lại cảnh hẹn hò.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "divorce process, key divorce",
+        "wordFamily": "divorce (noun)",
+        "image": "divorce.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11368,
+        "word": "wedding",
+        "pronunciation": "/ˈwɛdɪŋ/",
+        "audio": "wedding.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lễ cưới",
+        "definition": "To perform the marriage ceremony for; to join in matrimony.",
+        "example": "The priest wed the couple.",
+        "exampleVi": "Vị linh mục làm lễ cưới cho cặp đôi.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wedding process, key wedding",
+        "wordFamily": "wedding (verb)",
+        "image": "wedding.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11369,
+        "word": "stepfather",
+        "pronunciation": "/stepfather/",
+        "audio": "stepfather.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cha dượng",
+        "definition": "The husband of one's biological mother, other than one's biological father, especially following the divorce or death of the father.",
+        "example": "We need to understand the concept of stepfather.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cha dượng.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stepfather process, key stepfather",
+        "wordFamily": "stepfather (noun)",
+        "image": "stepfather.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11370,
+        "word": "stepmother",
+        "pronunciation": "/ˈstɛpmʌðə/",
+        "audio": "stepmother.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mẹ kế",
+        "definition": "The wife of one's biological father, other than one's biological mother.",
+        "example": "We need to understand the concept of stepmother.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mẹ kế.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stepmother process, key stepmother",
+        "wordFamily": "stepmother (noun)",
+        "image": "stepmother.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11371,
+        "word": "fiance",
+        "pronunciation": "/fiance/",
+        "audio": "fiance.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hôn phu",
+        "definition": "To betroth; to affiance.",
+        "example": "We need to understand the concept of fiance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hôn phu.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fiance process, key fiance",
+        "wordFamily": "fiance (noun)",
+        "image": "fiance.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11372,
+        "word": "relation",
+        "pronunciation": "/ɹɪˈleɪʃən/",
+        "audio": "relation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mối quan hệ",
+        "definition": "The manner in which two things may be associated.",
+        "example": "The relation between diet and health is complex.",
+        "exampleVi": "Mối quan hệ giữa chế độ ăn uống và sức khỏe rất phức tạp.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "relation process, key relation",
+        "wordFamily": "relation (noun)",
+        "image": "relation.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11373,
+        "word": "generation",
+        "pronunciation": "/ˌd͡ʒɛnəˈɹeɪʃən/",
+        "audio": "generation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thế hệ",
+        "definition": "The fact of creating something, or bringing something into being; production, creation.",
+        "example": "We need to understand the concept of generation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thế hệ.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "generation process, key generation",
+        "wordFamily": "generation (noun)",
+        "image": "generation.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11374,
+        "word": "household",
+        "pronunciation": "/ˈhaʊshəʊld/",
+        "audio": "household.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hộ gia đình ",
+        "definition": "Collectively, all the persons who live in a given house; a family including attendants, servants etc.; a domestic or family establishment.",
+        "example": "We need to understand the concept of household.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hộ gia đình.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "household process, key household",
+        "wordFamily": "household (noun)",
+        "image": "household.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11375,
+        "word": "support",
+        "pronunciation": "/səˈpɔːt/",
+        "audio": "support.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ủng hộ",
+        "definition": "(sometimes attributive) Something which supports.",
+        "example": "Don't move that beam! It's a support for the whole platform.",
+        "exampleVi": "Đừng di chuyển chùm tia đó! Đó là sự hỗ trợ cho toàn bộ nền tảng.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "support process, key support",
+        "wordFamily": "support (noun)",
+        "image": "support.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11376,
+        "word": "trust",
+        "pronunciation": "/trʊst/",
+        "audio": "trust.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lòng tin",
+        "definition": "Confidence in or reliance on some person or quality.",
+        "example": "He needs to regain her trust if he is ever going to win her back.",
+        "exampleVi": "Anh ấy cần phải lấy lại niềm tin của cô ấy nếu anh ấy muốn giành lại cô ấy.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "trust process, key trust",
+        "wordFamily": "trust (noun)",
+        "image": "trust.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11377,
+        "word": "care",
+        "pronunciation": "/kɛə/",
+        "audio": "care.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quan tâm",
+        "definition": "Grief, sorrow.",
+        "example": "We need to understand the concept of care.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chăm sóc.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "care process, key care",
+        "wordFamily": "care (noun)",
+        "image": "care.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11378,
+        "word": "adopt",
+        "pronunciation": "/əˈdɒpt/",
+        "audio": "adopt.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "nhận nuôi",
+        "definition": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+        "example": "We need to understand the concept of adopt.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhận con nuôi.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "adopt process, key adopt",
+        "wordFamily": "adopt (noun)",
+        "image": "adopt.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11379,
+        "word": "guidance",
+        "pronunciation": "/ˈɡaɪdəns/",
+        "audio": "guidance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hướng dẫn",
+        "definition": "The act or process of guiding.",
+        "example": "We need to understand the concept of guidance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hướng dẫn.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "guidance process, key guidance",
+        "wordFamily": "guidance (noun)",
+        "image": "guidance.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11380,
+        "word": "kinship",
+        "pronunciation": "/kinship/",
+        "audio": "kinship.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "họ hàng",
+        "definition": "Relation or connection by blood, marriage or adoption",
+        "example": "We need to understand the concept of kinship.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm họ hàng.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "kinship process, key kinship",
+        "wordFamily": "kinship (noun)",
+        "image": "kinship.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11381,
+        "word": "childhood",
+        "pronunciation": "/ˈtʃaɪldhʊd/",
+        "audio": "childhood.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời thơ ấu",
+        "definition": "The state of being a child.",
+        "example": "We need to understand the concept of childhood.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tuổi thơ.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "childhood process, key childhood",
+        "wordFamily": "childhood (noun)",
+        "image": "childhood.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11382,
+        "word": "grow",
+        "pronunciation": "/ɡɹəʊ/",
+        "audio": "grow.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phát triển",
+        "definition": "To become larger, to increase in magnitude.",
+        "example": "Children grow quickly.",
+        "exampleVi": "Trẻ em phát triển nhanh chóng.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "grow process, key grow",
+        "wordFamily": "grow (noun)",
+        "image": "grow.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11383,
+        "word": "nurture",
+        "pronunciation": "/ˈnɜːɹ.tʃəɹ/",
+        "audio": "nurture.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nuôi dưỡng",
+        "definition": "The act of nourishing or nursing; tender care",
+        "example": "We need to understand the concept of nurture.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nuôi dưỡng.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "nurture process, key nurture",
+        "wordFamily": "nurture (noun)",
+        "image": "nurture.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11384,
+        "word": "protect",
+        "pronunciation": "/pɹəˈtɛkt/",
+        "audio": "protect.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bảo vệ",
+        "definition": "To keep safe; to defend; to guard; to prevent harm coming to.",
+        "example": "Condoms are designed to protect against sexually-transmitted diseases.",
+        "exampleVi": "Bao cao su được thiết kế để bảo vệ chống lại các bệnh lây truyền qua đường tình dục.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "protect process, key protect",
+        "wordFamily": "protect (noun)",
+        "image": "protect.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11385,
+        "word": "unite",
+        "pronunciation": "/juˈnaɪt/",
+        "audio": "unite.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đoàn kết",
+        "definition": "A British gold coin worth 20 shillings, first produced during the reign of King James I, and bearing a legend indicating the king's intention of uniting the kingdoms of England and Scotland.",
+        "example": "We need to understand the concept of unite.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đoàn kết.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "unite process, key unite",
+        "wordFamily": "unite (noun)",
+        "image": "unite.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11386,
+        "word": "gather",
+        "pronunciation": "/ˈɡæðə/",
+        "audio": "gather.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tập trung",
+        "definition": "A plait or fold in cloth, made by drawing a thread through it; a pucker.",
+        "example": "We need to understand the concept of gather.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tập hợp.",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gather process, key gather",
+        "wordFamily": "gather (noun)",
+        "image": "gather.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11387,
+        "word": "celebrate",
+        "pronunciation": "/ˈsɛl.ə.bɹeɪt/",
+        "audio": "celebrate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kỉ niệm",
+        "definition": "To extol or honour in a solemn manner.",
+        "example": "to celebrate the name of the Most High",
+        "exampleVi": "để tôn vinh danh Đấng Tối Cao",
+        "topic": "Family Relationships",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "celebrate process, key celebrate",
+        "wordFamily": "celebrate (noun)",
+        "image": "celebrate.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "bond",
+        "pronunciation": "/bɒnd/",
+        "partOfSpeech": "noun",
+        "vietnamese": "mối liên kết",
+        "definition": "A strong connection or relationship between people.",
+        "example": "The bond between team members can enhance workplace collaboration.",
+        "exampleVi": "Mối liên kết giữa các thành viên trong nhóm có thể nâng cao sự hợp tác tại nơi làm việc.",
+        "collocations": "emotional bond, strong bond, family bond",
+        "wordFamily": "bonding, bonded",
+        "id": 11388,
+        "audio": "bond.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "bond.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "commitment",
+        "pronunciation": "/kəˈmɪt.mənt/",
+        "partOfSpeech": "noun",
+        "vietnamese": "cam kết",
+        "definition": "A promise or firm decision to do something.",
+        "example": "Her commitment to the project was evident in her dedication and hard work.",
+        "exampleVi": "Cam kết của cô ấy đối với dự án được thể hiện rõ qua sự cống hiến và nỗ lực của cô.",
+        "collocations": "long-term commitment, personal commitment, commitment to excellence",
+        "wordFamily": "commit, committed",
+        "id": 11389,
+        "audio": "commitment.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "commitment.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "affection",
+        "pronunciation": "/əˈfɛk.ʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "tình cảm",
+        "definition": "A gentle feeling of fondness or liking.",
+        "example": "Showing affection in the workplace can improve team morale.",
+        "exampleVi": "Thể hiện tình cảm tại nơi làm việc có thể cải thiện tinh thần của đội nhóm.",
+        "collocations": "show affection, express affection, deep affection",
+        "wordFamily": "affectionate",
+        "id": 11390,
+        "audio": "affection.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "affection.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "unity",
+        "pronunciation": "/ˈjuː.nɪ.ti/",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đoàn kết",
+        "definition": "The state of being united or joined as a whole.",
+        "example": "Unity among employees is crucial for achieving common goals.",
+        "exampleVi": "Sự đoàn kết giữa các nhân viên là rất quan trọng để đạt được các mục tiêu chung.",
+        "collocations": "sense of unity, promote unity, unity in diversity",
+        "wordFamily": "unite, united",
+        "id": 11391,
+        "audio": "unity.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "unity.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "interaction",
+        "pronunciation": "/ˌɪn.təˈræk.ʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự tương tác",
+        "definition": "Communication or direct involvement with someone or something.",
+        "example": "Positive interaction among colleagues fosters a collaborative environment.",
+        "exampleVi": "Sự tương tác tích cực giữa các đồng nghiệp thúc đẩy một môi trường hợp tác.",
+        "collocations": "social interaction, face-to-face interaction, interaction skills",
+        "wordFamily": "interact, interactive",
+        "id": 11392,
+        "audio": "interaction.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "interaction.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "relationship",
+        "pronunciation": "/rɪˈleɪ.ʃən.ʃɪp/",
+        "partOfSpeech": "noun",
+        "vietnamese": "mối quan hệ",
+        "definition": "The way in which two or more people or groups regard and behave toward each other.",
+        "example": "Building strong relationships with clients is essential for business success.",
+        "exampleVi": "Xây dựng mối quan hệ vững chắc với khách hàng là điều cần thiết cho sự thành công trong kinh doanh.",
+        "collocations": "professional relationship, personal relationship, build relationships",
+        "wordFamily": "relate, related",
+        "id": 11393,
+        "audio": "relationship.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "relationship.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "connection",
+        "pronunciation": "/kəˈnɛk.ʃən/",
+        "partOfSpeech": "noun",
+        "vietnamese": "mối liên hệ",
+        "definition": "A relationship in which a person or thing is linked or associated with something else.",
+        "example": "Establishing a connection with your audience can enhance your presentation.",
+        "exampleVi": "Thiết lập một mối liên hệ với khán giả của bạn có thể nâng cao bài thuyết trình của bạn.",
+        "collocations": "make a connection, strong connection, emotional connection",
+        "wordFamily": "connect, connected",
+        "id": 11394,
+        "audio": "connection.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "connection.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "trust",
+        "pronunciation": "/trʌst/",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự tin tưởng",
+        "definition": "Firm belief in the reliability, truth, or ability of someone or something.",
+        "example": "Trust among team members is vital for effective collaboration.",
+        "exampleVi": "Sự tin tưởng giữa các thành viên trong nhóm là rất quan trọng cho sự hợp tác hiệu quả.",
+        "collocations": "build trust, mutual trust, trust issues",
+        "wordFamily": "trustworthy, trusted",
+        "id": 11395,
+        "audio": "trust.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "trust.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "support",
+        "pronunciation": "/səˈpɔːrt/",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự hỗ trợ",
+        "definition": "Assistance or help provided to someone.",
+        "example": "The company offers support to employees during challenging times.",
+        "exampleVi": "Công ty cung cấp sự hỗ trợ cho nhân viên trong những thời điểm khó khăn.",
+        "collocations": "provide support, emotional support, support system",
+        "wordFamily": "supportive, supported",
+        "id": 11396,
+        "audio": "support.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "support.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "community",
+        "pronunciation": "/kəˈmjuː.nɪ.ti/",
+        "partOfSpeech": "noun",
+        "vietnamese": "cộng đồng",
+        "definition": "A group of people living in the same place or having a particular characteristic in common.",
+        "example": "Engaging with the local community can enhance a company's reputation.",
+        "exampleVi": "Tham gia với cộng đồng địa phương có thể nâng cao danh tiếng của công ty.",
+        "collocations": "local community, community service, sense of community",
+        "wordFamily": "communal, communally",
+        "id": 11397,
+        "audio": "community.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "community.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "kin",
+        "pronunciation": "/kɪn/",
+        "partOfSpeech": "noun",
+        "vietnamese": "họ hàng",
+        "definition": "A person's relatives or family members.",
+        "example": "During the holidays, many people travel to visit their kin and strengthen family ties.",
+        "exampleVi": "Trong kỳ nghỉ, nhiều người đi du lịch để thăm họ hàng và củng cố mối quan hệ gia đình.",
+        "collocations": "close kin, distant kin, kin network",
+        "wordFamily": "kinship, kinsman, kinswoman",
+        "id": 11398,
+        "audio": "kin.mp3",
+        "topic": "Family & Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "kin.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11399,
+        "word": "foster",
+        "pronunciation": "/ˈfɒstə/",
+        "audio": "foster.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nuôi dưỡng",
+        "definition": "A foster parent.",
+        "example": "Some fosters end up adopting.",
+        "exampleVi": "Một số người nuôi cuối cùng đã nhận nuôi.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "foster process, key foster",
+        "wordFamily": "foster (noun)",
+        "image": "foster.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11400,
+        "word": "legacy",
+        "pronunciation": "/ˈleɪɡəsi/",
+        "audio": "legacy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "di sản",
+        "definition": "Money or property bequeathed to someone in a will.",
+        "example": "We need to understand the concept of legacy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm di sản.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "legacy process, key legacy",
+        "wordFamily": "legacy (noun)",
+        "image": "legacy.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11401,
+        "word": "upbringing",
+        "pronunciation": "/upbringing/",
+        "audio": "upbringing.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giáo dục",
+        "definition": "The traits acquired during one's childhood training",
+        "example": "We need to understand the concept of upbringing.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giáo dục.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "upbringing process, key upbringing",
+        "wordFamily": "upbringing (noun)",
+        "image": "upbringing.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11402,
+        "word": "guardian",
+        "pronunciation": "/ˈɡɑːdɪən/",
+        "audio": "guardian.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người giám hộ",
+        "definition": "Someone who guards, watches over, or protects.",
+        "example": "We need to understand the concept of guardian.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người giám hộ.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "guardian process, key guardian",
+        "wordFamily": "guardian (noun)",
+        "image": "guardian.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11403,
+        "word": "offspring",
+        "pronunciation": "/ˈɒfspɹɪŋ/",
+        "audio": "offspring.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "con cái",
+        "definition": "A person's daughter(s) and/or son(s); a person's children.",
+        "example": "We need to understand the concept of offspring.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm con cái.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "offspring process, key offspring",
+        "wordFamily": "offspring (noun)",
+        "image": "offspring.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11404,
+        "word": "dependent",
+        "pronunciation": "/dɪˈpɛndənt/",
+        "audio": "dependent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người phụ thuộc",
+        "definition": "One who relies on another for support",
+        "example": "With two children and an ailing mother, she had three dependents in all.",
+        "exampleVi": "Với hai đứa con và một người mẹ ốm yếu, bà có tất cả ba người phụ thuộc.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dependent process, key dependent",
+        "wordFamily": "dependent (noun)",
+        "image": "dependent.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11405,
+        "word": "adoption",
+        "pronunciation": "/adoption/",
+        "audio": "adoption.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhận con nuôi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word adoption.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhận con nuôi.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "adoption process, key adoption",
+        "wordFamily": "adoption (noun)",
+        "image": "adoption.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11406,
+        "word": "godchild",
+        "pronunciation": "/godchild/",
+        "audio": "godchild.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "con đỡ đầu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word godchild.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ Godchild.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "godchild process, key godchild",
+        "wordFamily": "godchild (noun)",
+        "image": "godchild.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11407,
+        "word": "inlaws",
+        "pronunciation": "/inlaws/",
+        "audio": "inlaws.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bố mẹ chồng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word inlaws.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ inlaws.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "inlaws process, key inlaws",
+        "wordFamily": "inlaws (noun)",
+        "image": "inlaws.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11408,
+        "word": "inheritance",
+        "pronunciation": "/inheritance/",
+        "audio": "inheritance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thừa kế",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word inheritance.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kế thừa.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "inheritance process, key inheritance",
+        "wordFamily": "inheritance (noun)",
+        "image": "inheritance.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11409,
+        "word": "separation",
+        "pronunciation": "/separation/",
+        "audio": "separation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "separation",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word separation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng sự tách từ.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "separation process, key separation",
+        "wordFamily": "separation (noun)",
+        "image": "separation.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11410,
+        "word": "stepchild",
+        "pronunciation": "/stepchild/",
+        "audio": "stepchild.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "stepchild",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word stepchild.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ stepchild.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stepchild process, key stepchild",
+        "wordFamily": "stepchild (noun)",
+        "image": "stepchild.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11411,
+        "word": "godparent",
+        "pronunciation": "/godparent/",
+        "audio": "godparent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "godparent",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word godparent.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ Godparent.",
+        "topic": "Family Relationships",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "godparent process, key godparent",
+        "wordFamily": "godparent (noun)",
+        "image": "godparent.webp",
+        "tags": [
+            "family",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

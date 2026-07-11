@@ -1,0 +1,2092 @@
+[
+    {
+        "id": 12266,
+        "word": "manufacture",
+        "pronunciation": "/ˌmænjʊˈfæktʃə/",
+        "audio": "manufacture.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sản xuất",
+        "definition": "The action or process of making goods systematically or on a large scale.",
+        "example": "We need to understand the concept of manufacture.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sản xuất.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "manufacture process, key manufacture",
+        "wordFamily": "manufacture (noun)",
+        "image": "manufacture.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12267,
+        "word": "manufacturing",
+        "pronunciation": "/ˌmænjʊˈfækt͡ʃəɹɪŋ/",
+        "audio": "manufacturing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chế tạo",
+        "definition": "To make things, usually on a large scale, with tools and either physical labor or machinery.",
+        "example": "We need to understand the concept of manufacturing.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sản xuất.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "manufacturing process, key manufacturing",
+        "wordFamily": "manufacturing (verb)",
+        "image": "manufacturing.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12268,
+        "word": "produce",
+        "pronunciation": "/pɹəˈdjuːs/",
+        "audio": "produce.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "sản xuất",
+        "definition": "To yield, make or manufacture; to generate.",
+        "example": "We need to understand the concept of produce.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sản phẩm.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "produce process, key produce",
+        "wordFamily": "produce (verb)",
+        "image": "produce.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12269,
+        "word": "production",
+        "pronunciation": "/pɹəˈdʌkʃən/",
+        "audio": "production.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sản xuất",
+        "definition": "The act of producing, making or creating something.",
+        "example": "The widget making machine is being used for production now.",
+        "exampleVi": "Máy làm phụ kiện hiện đang được sử dụng để sản xuất.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "production process, key production",
+        "wordFamily": "production (noun)",
+        "image": "production.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12270,
+        "word": "factory",
+        "pronunciation": "/ˈfæktəɹi/",
+        "audio": "factory.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà máy",
+        "definition": "A trading establishment, especially set up by merchants working in a foreign country.",
+        "example": "We need to understand the concept of factory.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà máy.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "factory process, key factory",
+        "wordFamily": "factory (noun)",
+        "image": "factory.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12271,
+        "word": "plant",
+        "pronunciation": "/plænt/",
+        "audio": "plant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thực vật",
+        "definition": "An organism that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a tree.",
+        "example": "The garden had a couple of trees, and a cluster of colourful plants around the border.",
+        "exampleVi": "Khu vườn có một vài cây và một cụm cây đầy màu sắc xung quanh biên giới.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "plant process, key plant",
+        "wordFamily": "plant (noun)",
+        "image": "plant.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12272,
+        "word": "mill",
+        "pronunciation": "/mɪl/",
+        "audio": "mill.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cối xay",
+        "definition": "A grinding apparatus for substances such as grains, seeds, etc.",
+        "example": "Pepper has a stronger flavor when it is ground straight from a mill.",
+        "exampleVi": "Hạt tiêu có hương vị đậm đà hơn khi được xay thẳng từ máy xay.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mill process, key mill",
+        "wordFamily": "mill (noun)",
+        "image": "mill.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12273,
+        "word": "industry",
+        "pronunciation": "/ˈɪndəstɹi/",
+        "audio": "industry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngành công nghiệp",
+        "definition": "The tendency to work persistently. Diligence.",
+        "example": "Over the years, their industry and business sense made them wealthy.",
+        "exampleVi": "Qua nhiều năm, kỹ năng công nghiệp và ý thức kinh doanh đã giúp họ trở nên giàu có.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "industry process, key industry",
+        "wordFamily": "industry (noun)",
+        "image": "industry.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12274,
+        "word": "industrial",
+        "pronunciation": "/ɪnˈdʌstɹɪəl/",
+        "audio": "industrial.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công nghiệp",
+        "definition": "(19th-mid 20th century) An employee in industry.",
+        "example": "We need to understand the concept of industrial.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công nghiệp.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "industrial process, key industrial",
+        "wordFamily": "industrial (noun)",
+        "image": "industrial.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12275,
+        "word": "product",
+        "pronunciation": "/ˈpɹɒd.əkt/",
+        "audio": "product.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sản phẩm",
+        "definition": "A commodity offered for sale.",
+        "example": "That store offers a variety of products.  We've got to sell a lot of product by the end of the month.",
+        "exampleVi": "Cửa hàng đó cung cấp nhiều loại sản phẩm.  Chúng ta phải bán được nhiều sản phẩm vào cuối tháng.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "product process, key product",
+        "wordFamily": "product (noun)",
+        "image": "product.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12276,
+        "word": "material",
+        "pronunciation": "/məˈtɪəɹɪəl/",
+        "audio": "material.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vật liệu",
+        "definition": "Matter which may be shaped or manipulated, particularly in making something.",
+        "example": "Asphalt, composed of oil and sand, is a widely used material for roads.",
+        "exampleVi": "Nhựa đường, bao gồm dầu và cát, là vật liệu được sử dụng rộng rãi cho đường giao thông.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "material process, key material",
+        "wordFamily": "material (noun)",
+        "image": "material.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12277,
+        "word": "raw",
+        "pronunciation": "/ɹɔː/",
+        "audio": "raw.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thô",
+        "definition": "(sugar refining, sugar trade) An unprocessed sugar; a batch of such.",
+        "example": "We need to understand the concept of raw.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thô.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "raw process, key raw",
+        "wordFamily": "raw (noun)",
+        "image": "raw.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12278,
+        "word": "supply",
+        "pronunciation": "/səˈplaɪ/",
+        "audio": "supply.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cung cấp",
+        "definition": "The act of supplying.",
+        "example": "supply and demand",
+        "exampleVi": "cung và cầu",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "supply process, key supply",
+        "wordFamily": "supply (noun)",
+        "image": "supply.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12279,
+        "word": "assembly",
+        "pronunciation": "/əˈsɛmb.lɪ/",
+        "audio": "assembly.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc họp",
+        "definition": "A set of pieces that work together in unison as a mechanism or device.",
+        "example": "In order to change the bearing, you must first remove the gearbox assembly.",
+        "exampleVi": "Để thay ổ trục, trước tiên bạn phải tháo cụm hộp số.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "assembly process, key assembly",
+        "wordFamily": "assembly (noun)",
+        "image": "assembly.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12280,
+        "word": "line",
+        "pronunciation": "/laɪn/",
+        "audio": "line.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường kẻ",
+        "definition": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+        "example": "The arrow descended in a curved line.",
+        "exampleVi": "Mũi tên lao xuống theo một đường cong.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "line process, key line",
+        "wordFamily": "line (noun)",
+        "image": "line.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12281,
+        "word": "machinery",
+        "pronunciation": "/məˈʃiːnəɹi/",
+        "audio": "machinery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "máy móc",
+        "definition": "The machines constituting a production apparatus, in a plant etc., collectively.",
+        "example": "We need to understand the concept of machinery.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về máy móc.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "machinery process, key machinery",
+        "wordFamily": "machinery (noun)",
+        "image": "machinery.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12282,
+        "word": "equipment",
+        "pronunciation": "/ɪˈkwɪpmənt/",
+        "audio": "equipment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiết bị",
+        "definition": "The act of equipping, or the state of being equipped, as for a voyage or expedition.",
+        "example": "We need to understand the concept of equipment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thiết bị.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "equipment process, key equipment",
+        "wordFamily": "equipment (noun)",
+        "image": "equipment.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12283,
+        "word": "tool",
+        "pronunciation": "/tuːl/",
+        "audio": "tool.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dụng cụ",
+        "definition": "A mechanical device intended to make a task easier.",
+        "example": "Hand me that tool, would you?   I don't have the right tools to start fiddling around with the engine.",
+        "exampleVi": "Đưa cho tôi dụng cụ đó được không?   Tôi không có công cụ phù hợp để bắt đầu loay hoay với động cơ.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tool process, key tool",
+        "wordFamily": "tool (noun)",
+        "image": "tool.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12284,
+        "word": "worker",
+        "pronunciation": "/ˈwɜː.kə/",
+        "audio": "worker.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công nhân",
+        "definition": "A person who performs labor for a living, especially manual labor.",
+        "example": "We need to understand the concept of worker.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm công nhân.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "worker process, key worker",
+        "wordFamily": "worker (noun)",
+        "image": "worker.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12285,
+        "word": "labor",
+        "pronunciation": "/ˈleɪ.bɚ/",
+        "audio": "labor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân công",
+        "definition": "Effort expended on a particular task; toil, work.",
+        "example": "We need to understand the concept of labor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lao động.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "labor process, key labor",
+        "wordFamily": "labor (noun)",
+        "image": "labor.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12286,
+        "word": "output",
+        "pronunciation": "/output/",
+        "audio": "output.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đầu ra",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word output.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng đầu ra từ.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "output process, key output",
+        "wordFamily": "output (noun)",
+        "image": "output.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12287,
+        "word": "capacity",
+        "pronunciation": "/capacity/",
+        "audio": "capacity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dung tích",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word capacity.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ năng lực.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "capacity process, key capacity",
+        "wordFamily": "capacity (noun)",
+        "image": "capacity.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12288,
+        "word": "efficiency",
+        "pronunciation": "/efficiency/",
+        "audio": "efficiency.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hiệu quả",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word efficiency.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hiệu quả.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "efficiency process, key efficiency",
+        "wordFamily": "efficiency (noun)",
+        "image": "efficiency.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12289,
+        "word": "quality",
+        "pronunciation": "/quality/",
+        "audio": "quality.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất lượng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word quality.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chất lượng.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "quality process, key quality",
+        "wordFamily": "quality (noun)",
+        "image": "quality.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12290,
+        "word": "control",
+        "pronunciation": "/control/",
+        "audio": "control.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điều khiển",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word control.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điều khiển.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "control process, key control",
+        "wordFamily": "control (noun)",
+        "image": "control.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12291,
+        "word": "safety",
+        "pronunciation": "/safety/",
+        "audio": "safety.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự an toàn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word safety.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ an toàn.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "safety process, key safety",
+        "wordFamily": "safety (noun)",
+        "image": "safety.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12292,
+        "word": "standard",
+        "pronunciation": "/standard/",
+        "audio": "standard.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêu chuẩn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word standard.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tiêu chuẩn.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "standard process, key standard",
+        "wordFamily": "standard (noun)",
+        "image": "standard.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12293,
+        "word": "maintenance",
+        "pronunciation": "/maintenance/",
+        "audio": "maintenance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "BẢO TRÌ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word maintenance.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bảo trì.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "maintenance process, key maintenance",
+        "wordFamily": "maintenance (noun)",
+        "image": "maintenance.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12294,
+        "word": "operation",
+        "pronunciation": "/operation/",
+        "audio": "operation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoạt động",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word operation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng thao tác từ.",
+        "topic": "Manufacturing",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "operation process, key operation",
+        "wordFamily": "operation (noun)",
+        "image": "operation.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12295,
+        "word": "device",
+        "pronunciation": "/dəˈvaɪs/",
+        "audio": "device.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiết bị",
+        "definition": "Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.",
+        "example": "There are a number of household devices in a kitchen such as a dishwasher, a garbage disposal, or an electric can opener.",
+        "exampleVi": "Trong nhà bếp có một số thiết bị gia dụng như máy rửa chén, máy xử lý rác hoặc dụng cụ mở hộp điện.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "device process, key device",
+        "wordFamily": "device (noun)",
+        "image": "device.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12296,
+        "word": "component",
+        "pronunciation": "/kʌmˈpoʊnənt/",
+        "audio": "component.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thành phần",
+        "definition": "A smaller, self-contained part of a larger entity. Often refers to a manufactured object that is part of a larger device.",
+        "example": "A CPU is a component of a computer.",
+        "exampleVi": "CPU là một thành phần của máy tính.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "component process, key component",
+        "wordFamily": "component (noun)",
+        "image": "component.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12297,
+        "word": "part",
+        "pronunciation": "/pɐːt/",
+        "audio": "part.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "một phần",
+        "definition": "A portion; a component.",
+        "example": "We need to understand the concept of part.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bộ phận.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "part process, key part",
+        "wordFamily": "part (noun)",
+        "image": "part.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12298,
+        "word": "apparatus",
+        "pronunciation": "/æpəˈɹɑːtəs/",
+        "audio": "apparatus.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bộ máy",
+        "definition": "The entirety of means whereby a specific production is made existent or task accomplished.",
+        "example": "We need to understand the concept of apparatus.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bộ máy.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "apparatus process, key apparatus",
+        "wordFamily": "apparatus (noun)",
+        "image": "apparatus.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12299,
+        "word": "instrument",
+        "pronunciation": "/ˈɪnstɹəmənt/",
+        "audio": "instrument.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "công cụ",
+        "definition": "A device used to produce music.",
+        "example": "The violinist was a master of her instrument.",
+        "exampleVi": "Nghệ sĩ violin là bậc thầy về nhạc cụ của mình.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "instrument process, key instrument",
+        "wordFamily": "instrument (noun)",
+        "image": "instrument.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12300,
+        "word": "inspection",
+        "pronunciation": "/ɪnˈspɛkʃən/",
+        "audio": "inspection.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kiểm tra",
+        "definition": "The act of examining something, often closely.",
+        "example": "Upon closer inspection, the animal turned out to be a dolphin, not a shark!",
+        "exampleVi": "Khi kiểm tra kỹ hơn, con vật hóa ra là cá heo chứ không phải cá mập!",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "inspection process, key inspection",
+        "wordFamily": "inspection (noun)",
+        "image": "inspection.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12301,
+        "word": "productivity",
+        "pronunciation": "/ˌpɹɒdʌkˈtɪvəti/",
+        "audio": "productivity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "năng suất",
+        "definition": "The state of being productive, fertile or efficient",
+        "example": "We need to understand the concept of productivity.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm năng suất.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "productivity process, key productivity",
+        "wordFamily": "productivity (noun)",
+        "image": "productivity.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12302,
+        "word": "fabrication",
+        "pronunciation": "/fæbɹɪˈkeɪʃən/",
+        "audio": "fabrication.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chế tạo",
+        "definition": "The act of fabricating, framing, or constructing; construction; manufacture",
+        "example": "the fabrication of a bridge, a church, or a government",
+        "exampleVi": "việc chế tạo một cây cầu, một nhà thờ hoặc một chính phủ",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fabrication process, key fabrication",
+        "wordFamily": "fabrication (noun)",
+        "image": "fabrication.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12303,
+        "word": "workshop",
+        "pronunciation": "/ˈwɜːk.ʃɒp/",
+        "audio": "workshop.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xưởng",
+        "definition": "A room, especially one which is not particularly large, used for manufacturing or other light industrial work.",
+        "example": "We need to understand the concept of workshop.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hội thảo.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "workshop process, key workshop",
+        "wordFamily": "workshop (noun)",
+        "image": "workshop.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12304,
+        "word": "goods",
+        "pronunciation": "/ɡʊdz/",
+        "audio": "goods.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hàng hóa",
+        "definition": "The forces or behaviours that are the enemy of evil. Usually consists of helping others and general benevolence.",
+        "example": "We need to understand the concept of goods.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hàng hóa.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "goods process, key goods",
+        "wordFamily": "goods (noun)",
+        "image": "goods.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12305,
+        "word": "processing",
+        "pronunciation": "/ˈpɹəʊsɛsɪŋ/",
+        "audio": "processing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chế biến",
+        "definition": "To perform a particular process on a thing.",
+        "example": "We need to understand the concept of processing.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm xử lý.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "processing process, key processing",
+        "wordFamily": "processing (noun)",
+        "image": "processing.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12306,
+        "word": "facility",
+        "pronunciation": "/fəˈsɪlɪti/",
+        "audio": "facility.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cơ sở vật chất",
+        "definition": "The fact of being easy, or easily done; absence of difficulty, simplicity.",
+        "example": "We need to understand the concept of facility.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cơ sở vật chất.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "facility process, key facility",
+        "wordFamily": "facility (noun)",
+        "image": "facility.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12307,
+        "word": "sewing",
+        "pronunciation": "/ˈsəʊɪŋ/",
+        "audio": "sewing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "may",
+        "definition": "To use a needle to pass thread repeatedly through (pieces of fabric) in order to join them together.",
+        "example": "Balls were first made of grass or leaves held together by strings, and later of pieces of animal skin sewn together and stuffed with feathers or hay.",
+        "exampleVi": "Những quả bóng đầu tiên được làm bằng cỏ hoặc lá được buộc lại với nhau bằng dây, sau đó là những mảnh da động vật được khâu lại với nhau và nhồi lông vũ hoặc cỏ khô.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "sewing process, key sewing",
+        "wordFamily": "sewing (noun)",
+        "image": "sewing.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12308,
+        "word": "tooling",
+        "pronunciation": "/tooling/",
+        "audio": "tooling.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "dụng cụ",
+        "definition": "To work on or shape with tools, e.g., hand-tooled leather.",
+        "example": "We need to understand the concept of tooling.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dụng cụ.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tooling process, key tooling",
+        "wordFamily": "tooling (noun)",
+        "image": "tooling.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12309,
+        "word": "molding",
+        "pronunciation": "/ˈməʊl.dɪŋ/",
+        "audio": "molding.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đúc",
+        "definition": "To shape in or on a mold; to form into a particular shape; to give shape to.",
+        "example": "We need to understand the concept of molding.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khuôn đúc.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "molding process, key molding",
+        "wordFamily": "molding (noun)",
+        "image": "molding.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12310,
+        "word": "stamping",
+        "pronunciation": "/stamping/",
+        "audio": "stamping.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "dập",
+        "definition": "To step quickly and heavily, once or repeatedly.",
+        "example": "The toddler screamed and stamped, but still got no candy.",
+        "exampleVi": "Bé gào thét, giậm chân nhưng vẫn không nhận được kẹo.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stamping process, key stamping",
+        "wordFamily": "stamping (noun)",
+        "image": "stamping.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12311,
+        "word": "machining",
+        "pronunciation": "/machining/",
+        "audio": "machining.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "gia công",
+        "definition": "To make by machinery.",
+        "example": "We need to understand the concept of machining.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gia công.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "machining process, key machining",
+        "wordFamily": "machining (noun)",
+        "image": "machining.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12312,
+        "word": "extraction",
+        "pronunciation": "/ɪkˈstɹækʃən/",
+        "audio": "extraction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khai thác",
+        "definition": "An act of extracting or the condition of being extracted.",
+        "example": "We need to understand the concept of extraction.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khai thác.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "extraction process, key extraction",
+        "wordFamily": "extraction (noun)",
+        "image": "extraction.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12313,
+        "word": "spinning",
+        "pronunciation": "/ˈspɪnɪŋ/",
+        "audio": "spinning.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kéo sợi",
+        "definition": "To rotate, revolve, gyrate (usually quickly); to partially or completely rotate to face another direction.",
+        "example": "I spun myself around a few times.",
+        "exampleVi": "Tôi xoay người vài vòng.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "spinning process, key spinning",
+        "wordFamily": "spinning (noun)",
+        "image": "spinning.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12314,
+        "word": "casting",
+        "pronunciation": "/ˈkastɪŋ/",
+        "audio": "casting.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đúc",
+        "definition": "(physical) To move, or be moved, away.",
+        "example": "We need to understand the concept of casting.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm casting.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "casting process, key casting",
+        "wordFamily": "casting (noun)",
+        "image": "casting.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12315,
+        "word": "weaving",
+        "pronunciation": "/ˈwiːvɪŋ/",
+        "audio": "weaving.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "dệt",
+        "definition": "To form something by passing lengths or strands of material over and under one another.",
+        "example": "This loom weaves yarn into sweaters.",
+        "exampleVi": "Máy dệt này dệt sợi thành áo len.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "weaving process, key weaving",
+        "wordFamily": "weaving (noun)",
+        "image": "weaving.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12316,
+        "word": "mining",
+        "pronunciation": "/ˈmaɪnɪŋ/",
+        "audio": "mining.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "khai thác mỏ",
+        "definition": "To remove (ore) from the ground.",
+        "example": "We need to understand the concept of mining.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khai thác.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mining process, key mining",
+        "wordFamily": "mining (noun)",
+        "image": "mining.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12317,
+        "word": "smelting",
+        "pronunciation": "/smelting/",
+        "audio": "smelting.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "luyện kim",
+        "definition": "To fuse or melt two things into one, especially in order to extract metal from ore; to meld",
+        "example": "We need to understand the concept of smelting.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm luyện kim.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "smelting process, key smelting",
+        "wordFamily": "smelting (noun)",
+        "image": "smelting.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12318,
+        "word": "forging",
+        "pronunciation": "/forging/",
+        "audio": "forging.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "rèn",
+        "definition": "To shape a metal by heating and hammering.",
+        "example": "We need to understand the concept of forging.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rèn.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "forging process, key forging",
+        "wordFamily": "forging (noun)",
+        "image": "forging.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12319,
+        "word": "knitting",
+        "pronunciation": "/ˈnɪtɪŋ/",
+        "audio": "knitting.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đan",
+        "definition": "To turn thread or yarn into a piece of fabric by forming loops that are pulled through each other. This can be done by hand with needles or by machine.",
+        "example": "The first generation knitted to order; the second still knits for its own use; the next leaves knitting to industrial manufacturers.",
+        "exampleVi": "Thế hệ đầu tiên dệt kim theo đơn đặt hàng; chiếc thứ hai vẫn đan để sử dụng riêng; lá tiếp theo đan cho các nhà sản xuất công nghiệp.",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "knitting process, key knitting",
+        "wordFamily": "knitting (noun)",
+        "image": "knitting.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12320,
+        "word": "refining",
+        "pronunciation": "/refining/",
+        "audio": "refining.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tinh chế",
+        "definition": "To purify; reduce to a fine, unmixed, or pure state; to free from impurities.",
+        "example": "to refine gold",
+        "exampleVi": "luyện vàng",
+        "topic": "Manufacturing",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "refining process, key refining",
+        "wordFamily": "refining (noun)",
+        "image": "refining.webp",
+        "tags": [
+            "manufacturing",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

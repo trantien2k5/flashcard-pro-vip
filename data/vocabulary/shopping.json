@@ -1,0 +1,3004 @@
+[
+    {
+        "id": 12852,
+        "word": "store",
+        "pronunciation": "/stɔː/",
+        "audio": "store.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cửa hàng",
+        "definition": "A place where items may be accumulated or routinely kept.",
+        "example": "This building used to be a store for old tires.",
+        "exampleVi": "Tòa nhà này từng là cửa hàng bán lốp xe cũ.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "store process, key store",
+        "wordFamily": "store (noun)",
+        "image": "store.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12853,
+        "word": "shop",
+        "pronunciation": "/ʃɒp/",
+        "audio": "shop.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cửa hàng",
+        "definition": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
+        "example": "We need to understand the concept of shop.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cửa hàng.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shop process, key shop",
+        "wordFamily": "shop (noun)",
+        "image": "shop.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12854,
+        "word": "mall",
+        "pronunciation": "/mɔːl/",
+        "audio": "mall.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trung tâm mua sắm",
+        "definition": "A pedestrianised street, especially a shopping precinct.",
+        "example": "We need to understand the concept of mall.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trung tâm mua sắm.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mall process, key mall",
+        "wordFamily": "mall (noun)",
+        "image": "mall.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12855,
+        "word": "market",
+        "pronunciation": "/ˈmɑːkɪt/",
+        "audio": "market.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chợ",
+        "definition": "A gathering of people for the purchase and sale of merchandise at a set time, often periodic.",
+        "example": "The privilege to hold a weekly market was invaluable for any feudal era burgh.",
+        "exampleVi": "Đặc quyền được tổ chức phiên chợ hàng tuần là vô giá đối với bất kỳ thành phố nào ở thời phong kiến.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "market process, key market",
+        "wordFamily": "market (noun)",
+        "image": "market.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12856,
+        "word": "price",
+        "pronunciation": "/pɹaɪs/",
+        "audio": "price.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá ",
+        "definition": "The cost required to gain possession of something.",
+        "example": "We need to understand the concept of price.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giá cả.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "price process, key price",
+        "wordFamily": "price (noun)",
+        "image": "price.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12857,
+        "word": "sale",
+        "pronunciation": "/seɪl/",
+        "audio": "sale.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "doanh thu",
+        "definition": "A hall.",
+        "example": "We need to understand the concept of sale.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bán hàng.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sale process, key sale",
+        "wordFamily": "sale (noun)",
+        "image": "sale.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12858,
+        "word": "discount",
+        "pronunciation": "/dɪsˈkaʊnt/",
+        "audio": "discount.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giảm giá",
+        "definition": "A reduction in price.",
+        "example": "This store offers discounts on all its wares. That store specializes in discount wares, too.",
+        "exampleVi": "Cửa hàng này cung cấp giảm giá cho tất cả các sản phẩm của mình. Cửa hàng đó cũng chuyên về đồ giảm giá.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "discount process, key discount",
+        "wordFamily": "discount (noun)",
+        "image": "discount.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12859,
+        "word": "receipt",
+        "pronunciation": "/ɹɪˈsiːt/",
+        "audio": "receipt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biên lai",
+        "definition": "The act of receiving, or the fact of having been received.",
+        "example": "A balance payable on receipt of the goods.",
+        "exampleVi": "Số dư thanh toán khi nhận hàng.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "receipt process, key receipt",
+        "wordFamily": "receipt (noun)",
+        "image": "receipt.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12860,
+        "word": "cash",
+        "pronunciation": "/kæʃ/",
+        "audio": "cash.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiền mặt",
+        "definition": "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+        "example": "After you bounced those checks last time, they want to be paid in cash.",
+        "exampleVi": "Sau khi bạn trả lại những tấm séc đó lần trước, họ muốn được thanh toán bằng tiền mặt.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cash process, key cash",
+        "wordFamily": "cash (noun)",
+        "image": "cash.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12861,
+        "word": "card",
+        "pronunciation": "/kaːd/",
+        "audio": "card.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thẻ",
+        "definition": "A playing card.",
+        "example": "We need to understand the concept of card.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thẻ.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "card process, key card",
+        "wordFamily": "card (noun)",
+        "image": "card.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12862,
+        "word": "checkout",
+        "pronunciation": "/checkout/",
+        "audio": "checkout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thanh toán",
+        "definition": "The process of checking out of a hotel, or the latest time to vacate a room in one.",
+        "example": "We need to understand the concept of checkout.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thanh toán.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "checkout process, key checkout",
+        "wordFamily": "checkout (noun)",
+        "image": "checkout.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12863,
+        "word": "bag",
+        "pronunciation": "/ˈbæːɡ/",
+        "audio": "bag.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái túi",
+        "definition": "A flexible container made of cloth, paper, plastic, etc.",
+        "example": "We need to understand the concept of bag.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về túi.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bag process, key bag",
+        "wordFamily": "bag (noun)",
+        "image": "bag.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12864,
+        "word": "cart",
+        "pronunciation": "/kɑːt/",
+        "audio": "cart.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xe đẩy",
+        "definition": "A small, open, wheeled vehicle, drawn or pushed by a person or animal, more often used for transporting goods than passengers.",
+        "example": "The grocer delivered his goods by cart.",
+        "exampleVi": "Người bán tạp hóa giao hàng bằng xe đẩy.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cart process, key cart",
+        "wordFamily": "cart (noun)",
+        "image": "cart.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12865,
+        "word": "shelf",
+        "pronunciation": "/ʃɛlf/",
+        "audio": "shelf.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cái kệ",
+        "definition": "A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk etc., and used to support, store or display objects.",
+        "example": "We need to understand the concept of shelf.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về kệ.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shelf process, key shelf",
+        "wordFamily": "shelf (noun)",
+        "image": "shelf.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12866,
+        "word": "brand",
+        "pronunciation": "/bɹand/",
+        "audio": "brand.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thương hiệu",
+        "definition": "A conflagration; a flame.",
+        "example": "We need to understand the concept of brand.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thương hiệu.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "brand process, key brand",
+        "wordFamily": "brand (noun)",
+        "image": "brand.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12867,
+        "word": "quality",
+        "pronunciation": "/ˈkwɒlɪti/",
+        "audio": "quality.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất lượng",
+        "definition": "Level of excellence.",
+        "example": "Quality of life is usually determined by health, education, and income.",
+        "exampleVi": "Chất lượng cuộc sống thường được quyết định bởi sức khỏe, giáo dục và thu nhập.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "quality process, key quality",
+        "wordFamily": "quality (noun)",
+        "image": "quality.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12868,
+        "word": "customer",
+        "pronunciation": "/ˈkʌstəmə/",
+        "audio": "customer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A patron, a client; one who purchases or receives a product or service from a business or merchant, or intends to do so.",
+        "example": "Every person who passes by is a potential customer.",
+        "exampleVi": "Mỗi người đi ngang qua đều là khách hàng tiềm năng.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "customer process, key customer",
+        "wordFamily": "customer (noun)",
+        "image": "customer.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12869,
+        "word": "purchase",
+        "pronunciation": "/ˈpɜːtʃəs/",
+        "audio": "purchase.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mua",
+        "definition": "The acquisition of title to, or property in, anything for a price; buying for money or its equivalent.",
+        "example": "They offer a free hamburger with the purchase of a drink.",
+        "exampleVi": "Họ cung cấp một chiếc bánh hamburger miễn phí khi mua đồ uống.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "purchase process, key purchase",
+        "wordFamily": "purchase (noun)",
+        "image": "purchase.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12870,
+        "word": "spend",
+        "pronunciation": "/spɛnd/",
+        "audio": "spend.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêu",
+        "definition": "Amount of money spent (during a period); expenditure.",
+        "example": "I’m sorry, boss, but the advertising spend exceeded the budget again this month.",
+        "exampleVi": "Tôi xin lỗi sếp, nhưng tháng này chi tiêu cho quảng cáo lại vượt quá ngân sách.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "spend process, key spend",
+        "wordFamily": "spend (noun)",
+        "image": "spend.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12871,
+        "word": "refund",
+        "pronunciation": "/refund/",
+        "audio": "refund.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đền bù",
+        "definition": "An amount of money returned.",
+        "example": "If the camera is faulty, you can return it to the store where you bought it for a full refund.",
+        "exampleVi": "Nếu máy ảnh bị lỗi, bạn có thể trả lại cho cửa hàng nơi bạn đã mua để được hoàn lại toàn bộ số tiền.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "refund process, key refund",
+        "wordFamily": "refund (noun)",
+        "image": "refund.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12872,
+        "word": "coupon",
+        "pronunciation": "/coupon/",
+        "audio": "coupon.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phiếu giảm giá",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word coupon.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phiếu giảm giá.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "coupon process, key coupon",
+        "wordFamily": "coupon (noun)",
+        "image": "coupon.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12873,
+        "word": "bargain",
+        "pronunciation": "/bargain/",
+        "audio": "bargain.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mặc cả",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word bargain.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ mặc cả.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "bargain process, key bargain",
+        "wordFamily": "bargain (noun)",
+        "image": "bargain.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12874,
+        "word": "counter",
+        "pronunciation": "/counter/",
+        "audio": "counter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quầy tính tiền",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word counter.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng bộ đếm từ.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "counter process, key counter",
+        "wordFamily": "counter (noun)",
+        "image": "counter.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12875,
+        "word": "cost",
+        "pronunciation": "/cost/",
+        "audio": "cost.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trị giá",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cost.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chi phí.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cost process, key cost",
+        "wordFamily": "cost (noun)",
+        "image": "cost.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12876,
+        "word": "payment",
+        "pronunciation": "/payment/",
+        "audio": "payment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự chi trả",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word payment.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thanh toán.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "payment process, key payment",
+        "wordFamily": "payment (noun)",
+        "image": "payment.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12877,
+        "word": "transaction",
+        "pronunciation": "/transaction/",
+        "audio": "transaction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao dịch",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word transaction.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giao dịch.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "transaction process, key transaction",
+        "wordFamily": "transaction (noun)",
+        "image": "transaction.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12878,
+        "word": "tax",
+        "pronunciation": "/tax/",
+        "audio": "tax.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuế",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word tax.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tax.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tax process, key tax",
+        "wordFamily": "tax (noun)",
+        "image": "tax.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12879,
+        "word": "online",
+        "pronunciation": "/online/",
+        "audio": "online.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trực tuyến",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word online.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trực tuyến.",
+        "topic": "Shopping",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "online process, key online",
+        "wordFamily": "online (noun)",
+        "image": "online.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12880,
+        "word": "credit",
+        "pronunciation": "/ˈkɹɛdɪt/",
+        "audio": "credit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tín dụng",
+        "definition": "Reliance on the truth of something said or done; faith; trust.",
+        "example": "We need to understand the concept of credit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tín dụng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "credit process, key credit",
+        "wordFamily": "credit (noun)",
+        "image": "credit.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12881,
+        "word": "shopper",
+        "pronunciation": "/ˈʃɔp.ə/",
+        "audio": "shopper.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người mua sắm",
+        "definition": "A person who shops.",
+        "example": "We need to understand the concept of shopper.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người mua hàng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shopper process, key shopper",
+        "wordFamily": "shopper (noun)",
+        "image": "shopper.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12882,
+        "word": "consumer",
+        "pronunciation": "/kənˈsjuːmə/",
+        "audio": "consumer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người tiêu dùng",
+        "definition": "One who, or that which, consumes.",
+        "example": "We need to understand the concept of consumer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người tiêu dùng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consumer process, key consumer",
+        "wordFamily": "consumer (noun)",
+        "image": "consumer.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12883,
+        "word": "shopping",
+        "pronunciation": "/ˈʃɒpɪŋ/",
+        "audio": "shopping.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "mua sắm",
+        "definition": "To visit stores or shops to browse or explore merchandise, especially with the intention of buying such merchandise.",
+        "example": "He’s shopping for clothes.",
+        "exampleVi": "Anh ấy đang đi mua quần áo.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shopping process, key shopping",
+        "wordFamily": "shopping (noun)",
+        "image": "shopping.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12884,
+        "word": "invoice",
+        "pronunciation": "/ˈɪnˌvɔɪs/",
+        "audio": "invoice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hóa đơn",
+        "definition": "A bill; a commercial document issued by a seller to a buyer indicating the products, quantities and agreed prices for products or services that the seller has already provided the buyer with. An invoice indicates that, unless paid in advance, payment is due by the buyer to the seller, according to the agreed terms.",
+        "example": "We need to understand the concept of invoice.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hóa đơn.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "invoice process, key invoice",
+        "wordFamily": "invoice (noun)",
+        "image": "invoice.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12885,
+        "word": "item",
+        "pronunciation": "[ˈaɪ̯ɾm̩]",
+        "audio": "item.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mặt hàng",
+        "definition": "A distinct physical object.",
+        "example": "Tweezers are great for manipulating small items.",
+        "exampleVi": "Nhíp rất tốt để thao tác các vật dụng nhỏ.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "item process, key item",
+        "wordFamily": "item (noun)",
+        "image": "item.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12886,
+        "word": "value",
+        "pronunciation": "/ˈvæljuː/",
+        "audio": "value.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá trị",
+        "definition": "The quality (positive or negative) that renders something desirable or valuable.",
+        "example": "The Shakespearean Shylock is of dubious value in the modern world.",
+        "exampleVi": "Shakespearean Shylock có giá trị đáng ngờ trong thế giới hiện đại.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "value process, key value",
+        "wordFamily": "value (noun)",
+        "image": "value.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12887,
+        "word": "merchandise",
+        "pronunciation": "/ˈmɜːtʃənˌdaɪs/",
+        "audio": "merchandise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hàng hóa",
+        "definition": "Commodities offered for sale.",
+        "example": "good business depends on having good merchandise",
+        "exampleVi": "kinh doanh tốt phụ thuộc vào việc có hàng hóa tốt",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "merchandise process, key merchandise",
+        "wordFamily": "merchandise (noun)",
+        "image": "merchandise.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12888,
+        "word": "product",
+        "pronunciation": "/ˈpɹɒd.əkt/",
+        "audio": "product.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sản phẩm",
+        "definition": "A commodity offered for sale.",
+        "example": "That store offers a variety of products.  We've got to sell a lot of product by the end of the month.",
+        "exampleVi": "Cửa hàng đó cung cấp nhiều loại sản phẩm.  Chúng ta phải bán được nhiều sản phẩm vào cuối tháng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "product process, key product",
+        "wordFamily": "product (noun)",
+        "image": "product.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12889,
+        "word": "debit",
+        "pronunciation": "/ˈdɛb.ɪt/",
+        "audio": "debit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ghi nợ",
+        "definition": "In bookkeeping, an entry in the left hand column of an account.",
+        "example": "A cash sale is recorded as debit on the cash account and as credit on the sales account.",
+        "exampleVi": "Việc bán hàng bằng tiền mặt được ghi nhận là ghi nợ trên tài khoản tiền mặt và ghi có trên tài khoản bán hàng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "debit process, key debit",
+        "wordFamily": "debit (noun)",
+        "image": "debit.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12890,
+        "word": "buyer",
+        "pronunciation": "/ˈbaɪ.ə(ɹ)/",
+        "audio": "buyer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người mua",
+        "definition": "A person who makes one or more purchases.",
+        "example": "Every person who steps through the door is a potential buyer, so acknowledge their presence.",
+        "exampleVi": "Mỗi người bước qua cửa đều là người mua tiềm năng, vì vậy hãy thừa nhận sự hiện diện của họ.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "buyer process, key buyer",
+        "wordFamily": "buyer (noun)",
+        "image": "buyer.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12891,
+        "word": "supermarket",
+        "pronunciation": "/ˌsuːpəˈmɑːkɪt/",
+        "audio": "supermarket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "siêu thị",
+        "definition": "A large self-service store that sells groceries and, usually, medications, household goods and/or clothing.",
+        "example": "I went to the supermarket to buy some food.",
+        "exampleVi": "Tôi đi siêu thị mua một ít đồ ăn.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "supermarket process, key supermarket",
+        "wordFamily": "supermarket (noun)",
+        "image": "supermarket.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12892,
+        "word": "article",
+        "pronunciation": "/ˈɑːtɪkəl/",
+        "audio": "article.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài viết",
+        "definition": "A piece of nonfictional writing such as a story, report, opinion piece, or entry in a newspaper, magazine, journal, dictionary, encyclopedia, etc.",
+        "example": "We need to understand the concept of article.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bài viết.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "article process, key article",
+        "wordFamily": "article (noun)",
+        "image": "article.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12893,
+        "word": "goods",
+        "pronunciation": "/ɡʊdz/",
+        "audio": "goods.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hàng hóa",
+        "definition": "The forces or behaviours that are the enemy of evil. Usually consists of helping others and general benevolence.",
+        "example": "We need to understand the concept of goods.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hàng hóa.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "goods process, key goods",
+        "wordFamily": "goods (noun)",
+        "image": "goods.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12894,
+        "word": "boutique",
+        "pronunciation": "/buːˈtiːk/",
+        "audio": "boutique.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cửa hàng",
+        "definition": "A small shop, especially one that sells fashionable clothes, jewelry and the like.",
+        "example": "We need to understand the concept of boutique.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cửa hàng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "boutique process, key boutique",
+        "wordFamily": "boutique (noun)",
+        "image": "boutique.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12895,
+        "word": "outlet",
+        "pronunciation": "/ˈaʊtlɛt/",
+        "audio": "outlet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cửa hàng",
+        "definition": "A vent or similar passage to allow the escape of something.",
+        "example": "We need to understand the concept of outlet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lối thoát.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "outlet process, key outlet",
+        "wordFamily": "outlet (noun)",
+        "image": "outlet.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12896,
+        "word": "register",
+        "pronunciation": "/ˈɹɛdʒ.ɪs.tə/",
+        "audio": "register.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đăng ký",
+        "definition": "A machine that tabulates the amount of sales transactions, makes a permanent and cumulative record of them, and has a drawer in which cash can be kept.",
+        "example": "We need to understand the concept of register.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đăng ký.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "register process, key register",
+        "wordFamily": "register (noun)",
+        "image": "register.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12897,
+        "word": "inventory",
+        "pronunciation": "/ɪnˈvɛn.tə.ɹi/",
+        "audio": "inventory.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoảng không quảng cáo",
+        "definition": "(operations) The stock of an item on hand at a particular location or business.",
+        "example": "Due to an undersized inventory at the Boston outlet, customers had to travel to Providence to find the item.",
+        "exampleVi": "Do lượng hàng tồn kho tại cửa hàng ở Boston không đủ, khách hàng phải đến Providence để tìm món hàng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "inventory process, key inventory",
+        "wordFamily": "inventory (noun)",
+        "image": "inventory.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12898,
+        "word": "aisle",
+        "pronunciation": "/aɪ̯l/",
+        "audio": "aisle.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lối đi",
+        "definition": "A wing of a building, notably in a church separated from the nave proper by piers.",
+        "example": "We need to understand the concept of aisle.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lối đi.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "aisle process, key aisle",
+        "wordFamily": "aisle (noun)",
+        "image": "aisle.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12899,
+        "word": "exchange",
+        "pronunciation": "/ɛksˈtʃeɪndʒ/",
+        "audio": "exchange.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trao đổi",
+        "definition": "An act of exchanging or trading.",
+        "example": "All in all, it was an even exchange.",
+        "exampleVi": "Nhìn chung, đó là một cuộc trao đổi công bằng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "exchange process, key exchange",
+        "wordFamily": "exchange (noun)",
+        "image": "exchange.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12900,
+        "word": "policy",
+        "pronunciation": "/ˈpɒləsi/",
+        "audio": "policy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chính sách",
+        "definition": "A principle of behaviour, conduct etc. thought to be desirable or necessary, especially as formally expressed by a government or other authoritative body.",
+        "example": "The Communist Party has a policy of returning power to the workers.",
+        "exampleVi": "Đảng Cộng sản có chủ trương trả lại quyền lực cho công nhân.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "policy process, key policy",
+        "wordFamily": "policy (noun)",
+        "image": "policy.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12901,
+        "word": "warranty",
+        "pronunciation": "/ˈwɒ.ɹən.ti/",
+        "audio": "warranty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo hành",
+        "definition": "A guarantee that a certain outcome or obligation will be fulfilled; security.",
+        "example": "We need to understand the concept of warranty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bảo hành.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "warranty process, key warranty",
+        "wordFamily": "warranty (noun)",
+        "image": "warranty.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12902,
+        "word": "voucher",
+        "pronunciation": "/ˈvaʊtʃə(ɹ)/",
+        "audio": "voucher.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chứng từ",
+        "definition": "A piece of paper that entitles the holder to a discount, or that can be exchanged for goods and services.",
+        "example": "We need to understand the concept of voucher.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm voucher.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "voucher process, key voucher",
+        "wordFamily": "voucher (noun)",
+        "image": "voucher.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12903,
+        "word": "stock",
+        "pronunciation": "/stɒk/",
+        "audio": "stock.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kho hàng",
+        "definition": "A store or supply.",
+        "example": "We need to understand the concept of stock.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về chứng khoán.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stock process, key stock",
+        "wordFamily": "stock (noun)",
+        "image": "stock.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12904,
+        "word": "basket",
+        "pronunciation": "/ˈbaːskət/",
+        "audio": "basket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giỏ",
+        "definition": "A lightweight container, generally round, open at the top, and tapering toward the bottom.",
+        "example": "A basket of fake fruit adorned the table.",
+        "exampleVi": "Một giỏ trái cây giả trang trí trên bàn.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "basket process, key basket",
+        "wordFamily": "basket (noun)",
+        "image": "basket.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12905,
+        "word": "wholesaler",
+        "pronunciation": "/wholesaler/",
+        "audio": "wholesaler.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bán buôn",
+        "definition": "A person or company that buys merchandise from manufacturers, importers, or distributors and resells the merchandise to retail businesses and to business and institutional end users.",
+        "example": "We need to understand the concept of wholesaler.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người bán buôn.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wholesaler process, key wholesaler",
+        "wordFamily": "wholesaler (noun)",
+        "image": "wholesaler.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12906,
+        "word": "items",
+        "pronunciation": "/ˈaɪtəmz/",
+        "audio": "items.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "các mặt hàng",
+        "definition": "A distinct physical object.",
+        "example": "Tweezers are great for manipulating small items.",
+        "exampleVi": "Nhíp rất tốt để thao tác các vật dụng nhỏ.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "items process, key items",
+        "wordFamily": "items (noun)",
+        "image": "items.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12907,
+        "word": "clearance",
+        "pronunciation": "/clearance/",
+        "audio": "clearance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải phóng mặt bằng",
+        "definition": "The act of clearing or something (such as a space) cleared",
+        "example": "We need to understand the concept of clearance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giải phóng mặt bằng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "clearance process, key clearance",
+        "wordFamily": "clearance (noun)",
+        "image": "clearance.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12908,
+        "word": "brands",
+        "pronunciation": "/brands/",
+        "audio": "brands.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thương hiệu",
+        "definition": "A conflagration; a flame.",
+        "example": "We need to understand the concept of brands.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thương hiệu.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "brands process, key brands",
+        "wordFamily": "brands (noun)",
+        "image": "brands.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12909,
+        "word": "retailer",
+        "pronunciation": "/retailer/",
+        "audio": "retailer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà bán lẻ",
+        "definition": "A retail sales company or salesman.",
+        "example": "We need to understand the concept of retailer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà bán lẻ.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "retailer process, key retailer",
+        "wordFamily": "retailer (noun)",
+        "image": "retailer.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12910,
+        "word": "label",
+        "pronunciation": "/ˈleɪbəl/",
+        "audio": "label.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhãn",
+        "definition": "A small ticket or sign giving information about something to which it is attached or intended to be attached.",
+        "example": "Although the label priced this poster at three pounds, I got it for two.",
+        "exampleVi": "Mặc dù nhãn định giá tấm áp phích này là 3 bảng nhưng tôi đã mua nó với giá 2 bảng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "label process, key label",
+        "wordFamily": "label (noun)",
+        "image": "label.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12911,
+        "word": "barcode",
+        "pronunciation": "/ˈbɑː(ɹ)kəʊd/",
+        "audio": "barcode.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mã vạch",
+        "definition": "Any set of machine-readable parallel bars or concentric circles, varying in width, spacing, or height, encoding information according to a symbology",
+        "example": "We need to understand the concept of barcode.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mã vạch.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "barcode process, key barcode",
+        "wordFamily": "barcode (noun)",
+        "image": "barcode.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12912,
+        "word": "promotions",
+        "pronunciation": "/promotions/",
+        "audio": "promotions.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khuyến mãi",
+        "definition": "An advancement in rank or position.",
+        "example": "I'll have to give myself a promotion!",
+        "exampleVi": "Tôi sẽ phải tự thăng chức cho mình!",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "promotions process, key promotions",
+        "wordFamily": "promotions (noun)",
+        "image": "promotions.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12913,
+        "word": "deals",
+        "pronunciation": "/diːlz/",
+        "audio": "deals.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giao dịch",
+        "definition": "A division, a portion, a share.",
+        "example": "We gave three deals of grain in tribute to the king.",
+        "exampleVi": "Chúng tôi đã dâng ba lạng thóc để cống nạp cho nhà vua.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "deals process, key deals",
+        "wordFamily": "deals (noun)",
+        "image": "deals.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12914,
+        "word": "catalog",
+        "pronunciation": "/catalog/",
+        "audio": "catalog.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "danh mục",
+        "definition": "A systematic list of names, books, pictures etc.",
+        "example": "We need to understand the concept of catalog.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm catalog.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "catalog process, key catalog",
+        "wordFamily": "catalog (noun)",
+        "image": "catalog.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12915,
+        "word": "consignment",
+        "pronunciation": "/consignment/",
+        "audio": "consignment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lô hàng",
+        "definition": "A collection of goods to be sent, in transit or having been sent",
+        "example": "We need to understand the concept of consignment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lô hàng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consignment process, key consignment",
+        "wordFamily": "consignment (noun)",
+        "image": "consignment.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12916,
+        "word": "retail",
+        "pronunciation": "/ˈɹiˌteɪl/",
+        "audio": "retail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bán lẻ",
+        "definition": "The sale of goods directly to the consumer, encompassing the storefronts, mail-order, websites, etc., and the corporate mechanisms, branding, advertising, etc. that support them.",
+        "example": "She works in retail.",
+        "exampleVi": "Cô ấy làm việc trong lĩnh vực bán lẻ.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "retail process, key retail",
+        "wordFamily": "retail (noun)",
+        "image": "retail.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12917,
+        "word": "markup",
+        "pronunciation": "/ˈmɑː(ɹ)k.ʌp/",
+        "audio": "markup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đánh dấu",
+        "definition": "The notation that is used to indicate the meaning of the elements in an electronic document, or to dictate how text should be displayed.",
+        "example": "We need to understand the concept of markup.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đánh dấu.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "markup process, key markup",
+        "wordFamily": "markup (noun)",
+        "image": "markup.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12918,
+        "word": "wholesale",
+        "pronunciation": "/ˈhoʊlseɪl/",
+        "audio": "wholesale.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bán buôn",
+        "definition": "The sale of products, often in large quantities, to retailers or other merchants.",
+        "example": "We need to understand the concept of wholesale.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bán buôn.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "wholesale process, key wholesale",
+        "wordFamily": "wholesale (noun)",
+        "image": "wholesale.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12919,
+        "word": "storefront",
+        "pronunciation": "/storefront/",
+        "audio": "storefront.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mặt tiền cửa hàng",
+        "definition": "The side of a store (or other shop) which faces the street; usually contains display windows.",
+        "example": "We need to understand the concept of storefront.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mặt tiền cửa hàng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "storefront process, key storefront",
+        "wordFamily": "storefront (noun)",
+        "image": "storefront.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12920,
+        "word": "shopkeeper",
+        "pronunciation": "/shopkeeper/",
+        "audio": "shopkeeper.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người bán hàng",
+        "definition": "A trader who sells goods in a shop, or by retail, in distinction from one who sells by wholesale, or sells door to door.",
+        "example": "We need to understand the concept of shopkeeper.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người bán hàng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shopkeeper process, key shopkeeper",
+        "wordFamily": "shopkeeper (noun)",
+        "image": "shopkeeper.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12921,
+        "word": "distributor",
+        "pronunciation": "/distributor/",
+        "audio": "distributor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà phân phối",
+        "definition": "One who or that which distributes.",
+        "example": "We need to understand the concept of distributor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhà phân phối.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "distributor process, key distributor",
+        "wordFamily": "distributor (noun)",
+        "image": "distributor.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12922,
+        "word": "layaway",
+        "pronunciation": "/layaway/",
+        "audio": "layaway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "layaway",
+        "definition": "Things which have had a deposit placed on them and which the owner (generally a store) has agreed to hold for the customer and accept full payment at a later time.",
+        "example": "We need to understand the concept of layaway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm layaway.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "layaway process, key layaway",
+        "wordFamily": "layaway (noun)",
+        "image": "layaway.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12923,
+        "word": "markdown",
+        "pronunciation": "/markdown/",
+        "audio": "markdown.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giảm giá",
+        "definition": "A reduction in price in order to stimulate sales.",
+        "example": "We need to understand the concept of markdown.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giảm giá.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "markdown process, key markdown",
+        "wordFamily": "markdown (noun)",
+        "image": "markdown.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12924,
+        "word": "haggle",
+        "pronunciation": "/ˈhæɡəl/",
+        "audio": "haggle.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "mặc cả",
+        "definition": "To argue for a better deal, especially over prices with a seller.",
+        "example": "I haggled for a better price because the original price was too high.",
+        "exampleVi": "Tôi mặc cả để được giá tốt hơn vì giá gốc quá cao.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "haggle process, key haggle",
+        "wordFamily": "haggle (noun)",
+        "image": "haggle.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12925,
+        "word": "commercialize",
+        "pronunciation": "/commercialize/",
+        "audio": "commercialize.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thương mại hóa",
+        "definition": "To apply business methodology to something in order to profit",
+        "example": "We need to understand the concept of commercialize.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thương mại hóa.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "commercialize process, key commercialize",
+        "wordFamily": "commercialize (noun)",
+        "image": "commercialize.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12926,
+        "word": "barter",
+        "pronunciation": "/ˈbɑːtə(ɹ)/",
+        "audio": "barter.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trao đổi hàng hóa",
+        "definition": "An exchange of goods or services without the use of money.",
+        "example": "We had no money so we had to live by barter.",
+        "exampleVi": "Chúng tôi không có tiền nên phải sống bằng nghề trao đổi hàng hóa.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "barter process, key barter",
+        "wordFamily": "barter (noun)",
+        "image": "barter.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12927,
+        "word": "shoppe",
+        "pronunciation": "/shoppe/",
+        "audio": "shoppe.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "shoppe",
+        "definition": "(sometimes capitalized) A fanciful spelling of shop, chiefly used in the names of businesses to give an air of old-fashionedness.",
+        "example": "It's called “Ye Olde Grog Shoppe”, but really it's the new liquor shop and it opened just last month.",
+        "exampleVi": "Nó có tên là “Ye Olde Grog Shoppe”, nhưng thực ra đây là cửa hàng rượu mới và mới khai trương vào tháng trước.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "shoppe process, key shoppe",
+        "wordFamily": "shoppe (noun)",
+        "image": "shoppe.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12928,
+        "word": "window-shopping",
+        "pronunciation": "/window-shopping/",
+        "audio": "window-shopping.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "mua sắm qua cửa sổ",
+        "definition": "To engage in window-shopping; to browse the windows of shops with no intention of buying anything.",
+        "example": "We need to understand the concept of window-shopping.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mua sắm qua cửa sổ.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "window-shopping process, key window-shopping",
+        "wordFamily": "window-shopping (noun)",
+        "image": "window-shopping.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12929,
+        "word": "bazaar",
+        "pronunciation": "/bəˈzaː/",
+        "audio": "bazaar.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chợ",
+        "definition": "A marketplace, particularly in the Middle East and South Asia, and often covered with shops and stalls.",
+        "example": "We need to understand the concept of bazaar.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chợ.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bazaar process, key bazaar",
+        "wordFamily": "bazaar (noun)",
+        "image": "bazaar.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12930,
+        "word": "merchandising",
+        "pronunciation": "/merchandising/",
+        "audio": "merchandising.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "buôn bán",
+        "definition": "To engage in trade; to carry on commerce.",
+        "example": "We need to understand the concept of merchandising.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bán hàng.",
+        "topic": "Shopping",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "merchandising process, key merchandising",
+        "wordFamily": "merchandising (noun)",
+        "image": "merchandising.webp",
+        "tags": [
+            "shopping",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

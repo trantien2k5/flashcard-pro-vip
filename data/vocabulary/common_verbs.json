@@ -1,0 +1,3834 @@
+[
+    {
+        "id": 10562,
+        "word": "accept",
+        "pronunciation": "/əkˈsept/",
+        "audio": "accept.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chấp nhận, đón nhận",
+        "definition": "to consent to receive something offered; to agree to",
+        "example": "The company decided to accept the terms of the merger.",
+        "exampleVi": "Công ty đã quyết định chấp nhận các điều khoản của vụ sáp nhập.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "accept an offer, accept responsibility, accept terms",
+        "wordFamily": "acceptable (adjective), acceptance (noun)",
+        "image": "accept.webp",
+        "tags": [
+            "common",
+            "verb",
+            "agreement"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10563,
+        "word": "achieve",
+        "pronunciation": "/əˈtʃiːv/",
+        "audio": "achieve.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đạt được, hoàn thành",
+        "definition": "to successfully bring about or reach a desired objective",
+        "example": "We hope to achieve our annual sales goals by December.",
+        "exampleVi": "Chúng tôi hy vọng đạt được các mục tiêu doanh số bán hàng hàng năm trước tháng 12.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "achieve a goal, achieve success, achieve results",
+        "wordFamily": "achievement (noun), achievable (adjective)",
+        "image": "achieve.webp",
+        "tags": [
+            "business",
+            "verb",
+            "success"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10564,
+        "word": "acquire",
+        "pronunciation": "/əˈkwaɪə(r)/",
+        "audio": "acquire.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thâu tóm, giành được, có được",
+        "definition": "to buy or obtain an asset or object; to learn a skill",
+        "example": "The conglomerate plans to acquire a smaller software firm.",
+        "exampleVi": "Tập đoàn có kế hoạch mua lại một công ty phần mềm nhỏ hơn.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "acquire a company, acquire a habit, acquire knowledge",
+        "wordFamily": "acquisition (noun), acquisitive (adjective)",
+        "image": "acquire.webp",
+        "tags": [
+            "business",
+            "verb",
+            "finance"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10565,
+        "word": "adapt",
+        "pronunciation": "/əˈdæpt/",
+        "audio": "adapt.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thích ứng, sửa đổi cho phù hợp",
+        "definition": "to make suitable for a new use or purpose; to adjust to new conditions",
+        "example": "Employees must quickly adapt to the new digital workflow.",
+        "exampleVi": "Nhân viên phải nhanh chóng thích ứng với quy trình làm việc kỹ thuật số mới.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "adapt to change, adapt quickly, adapt a design",
+        "wordFamily": "adaptation (noun), adaptable (adjective), adaptability (noun)",
+        "image": "adapt.webp",
+        "tags": [
+            "change",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10566,
+        "word": "adjust",
+        "pronunciation": "/əˈdʒʌst/",
+        "audio": "adjust.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "điều chỉnh",
+        "definition": "to alter or move something slightly in order to achieve the desired result",
+        "example": "Please adjust the thermostat if the office is too cold.",
+        "exampleVi": "Vui lòng điều chỉnh bộ điều nhiệt nếu văn phòng quá lạnh.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "adjust a schedule, adjust prices, adjust to conditions",
+        "wordFamily": "adjustment (noun), adjustable (adjective)",
+        "image": "adjust.webp",
+        "tags": [
+            "maintenance",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10567,
+        "word": "administer",
+        "pronunciation": "/ədˈmɪnɪstə(r)/",
+        "audio": "administer.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "quản trị, thực thi",
+        "definition": "to manage and be responsible for the running of a business or system",
+        "example": "She was hired to administer the employee benefits program.",
+        "exampleVi": "Cô ấy được thuê để quản lý chương trình phúc lợi cho nhân viên.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "administer a program, administer a test, administer funds",
+        "wordFamily": "administration (noun), administrative (adjective), administrator (noun)",
+        "image": "administer.webp",
+        "tags": [
+            "management",
+            "verb",
+            "office"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10568,
+        "word": "advertise",
+        "pronunciation": "/ˈædvətaɪz/",
+        "audio": "advertise.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "quảng cáo",
+        "definition": "to describe or draw attention to a product, service, or event in order to promote sales",
+        "example": "We plan to advertise our new product line in major newspapers.",
+        "exampleVi": "Chúng tôi dự định quảng cáo dòng sản phẩm mới của mình trên các tờ báo lớn.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "advertise a product, advertise online, advertise a position",
+        "wordFamily": "advertisement (noun), advertiser (noun), advertising (noun/adjective)",
+        "image": "advertise.webp",
+        "tags": [
+            "marketing",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10569,
+        "word": "advise",
+        "pronunciation": "/ədˈvaɪz/",
+        "audio": "advise.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tư vấn, khuyên nhủ",
+        "definition": "to offer suggestions about the best course of action to someone",
+        "example": "The consultant was called to advise the board on financial strategies.",
+        "exampleVi": "Nhà tư vấn được mời để cố vấn cho hội đồng quản trị về chiến lược tài chính.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "advise clients, advise caution, advise against",
+        "wordFamily": "advice (noun), adviser/advisor (noun), advisable (adjective)",
+        "image": "advise.webp",
+        "tags": [
+            "communication",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10570,
+        "word": "agree",
+        "pronunciation": "/əˈɡriː/",
+        "audio": "agree.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đồng ý, thỏa thuận",
+        "definition": "to have the same opinion about something; to concur",
+        "example": "They finally managed to agree on the contract price.",
+        "exampleVi": "Cuối cùng họ cũng đã thống nhất được giá hợp đồng.",
+        "topic": "Common Verbs",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "agree to terms, agree on a price, agree with a decision",
+        "wordFamily": "agreement (noun), agreeable (adjective)",
+        "image": "agree.webp",
+        "tags": [
+            "common",
+            "verb",
+            "agreement"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10571,
+        "word": "allocate",
+        "pronunciation": "/ˈæləkeɪt/",
+        "audio": "allocate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phân bổ, cấp cho",
+        "definition": "to distribute resources or duties for a particular purpose",
+        "example": "The manager decided to allocate more funds to research and development.",
+        "exampleVi": "Người quản lý đã quyết định phân bổ thêm tiền cho việc nghiên cứu và phát triển.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "allocate resources, allocate a budget, allocate tasks",
+        "wordFamily": "allocation (noun), allocated (adjective)",
+        "image": "allocate.webp",
+        "tags": [
+            "finance",
+            "verb",
+            "management"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10572,
+        "word": "analyze",
+        "pronunciation": "/ˈænəlaɪz/",
+        "audio": "analyze.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phân tích",
+        "definition": "to examine methodically and in detail the constitution or structure of something",
+        "example": "We need to analyze the market data before making a decision.",
+        "exampleVi": "Chúng ta cần phân tích dữ liệu thị trường trước khi đưa ra quyết định.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "analyze data, analyze results, analyze market trends",
+        "wordFamily": "analysis (noun), analyst (noun), analytical (adjective)",
+        "image": "analyze.webp",
+        "tags": [
+            "research",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10573,
+        "word": "announce",
+        "pronunciation": "/əˈnaʊns/",
+        "audio": "announce.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thông báo, tuyên bố",
+        "definition": "to make a formal public statement about a fact, occurrence, or intention",
+        "example": "The executive director is going to announce her retirement tomorrow.",
+        "exampleVi": "Giám đốc điều hành sẽ thông báo về việc nghỉ hưu của mình vào ngày mai.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "announce a decision, announce plans, announce a merger",
+        "wordFamily": "announcement (noun), announcer (noun)",
+        "image": "announce.webp",
+        "tags": [
+            "communication",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10574,
+        "word": "apply",
+        "pronunciation": "/əˈplaɪ/",
+        "audio": "apply.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "nộp đơn ứng tuyển, áp dụng",
+        "definition": "to make a formal application or request; to put into operation or use",
+        "example": "Candidates should apply for the job vacancy online.",
+        "exampleVi": "Các ứng viên nên nộp đơn ứng tuyển cho vị trí công việc còn trống trực tuyến.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "apply for a job, apply a rule, apply pressure",
+        "wordFamily": "application (noun), applicant (noun), applicable (adjective)",
+        "image": "apply.webp",
+        "tags": [
+            "hiring",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10575,
+        "word": "appoint",
+        "pronunciation": "/əˈpɔɪnt/",
+        "audio": "appoint.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bổ nhiệm, chỉ định",
+        "definition": "to assign a job or role to someone formally",
+        "example": "The committee voted to appoint Mr. Jenkins as the new chairman.",
+        "exampleVi": "Ủy ban đã bỏ phiếu bổ nhiệm ông Jenkins làm chủ tịch mới.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "appoint a manager, appoint a time, appoint a successor",
+        "wordFamily": "appointment (noun), appointee (noun)",
+        "image": "appoint.webp",
+        "tags": [
+            "management",
+            "verb",
+            "hiring"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10576,
+        "word": "approve",
+        "pronunciation": "/əˈpruːv/",
+        "audio": "approve.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phê duyệt, tán thành",
+        "definition": "to officially agree to or accept as satisfactory",
+        "example": "The supervisor has agreed to approve your vacation request.",
+        "exampleVi": "Người giám sát đã đồng ý phê duyệt yêu cầu nghỉ phép của bạn.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "approve a budget, approve a request, approve a plan",
+        "wordFamily": "approval (noun), approved (adjective)",
+        "image": "approve.webp",
+        "tags": [
+            "policy",
+            "verb",
+            "office"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10577,
+        "word": "arrange",
+        "pronunciation": "/əˈreɪndʒ/",
+        "audio": "arrange.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "sắp xếp, thu xếp",
+        "definition": "to plan or organize something in advance; to put in a neat order",
+        "example": "We need to arrange a meeting with the prospective clients.",
+        "exampleVi": "Chúng tôi cần sắp xếp một cuộc họp với các khách hàng triển vọng.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "arrange a meeting, arrange flowers, arrange transport",
+        "wordFamily": "arrangement (noun)",
+        "image": "arrange.webp",
+        "tags": [
+            "office",
+            "verb",
+            "organization"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10578,
+        "word": "assemble",
+        "pronunciation": "/əˈsembl/",
+        "audio": "assemble.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lắp ráp, tập hợp",
+        "definition": "to fit together the separate parts of an object; to gather together in one place",
+        "example": "Please follow these instructions to assemble the office chair.",
+        "exampleVi": "Vui lòng làm theo các hướng dẫn này để lắp ráp chiếc ghế văn phòng.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "assemble parts, assemble a team, assemble in the lobby",
+        "wordFamily": "assembly (noun), assembler (noun)",
+        "image": "assemble.webp",
+        "tags": [
+            "manufacturing",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10579,
+        "word": "assess",
+        "pronunciation": "/əˈses/",
+        "audio": "assess.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đánh giá, định giá",
+        "definition": "to evaluate or estimate the nature, ability, or quality of",
+        "example": "We must assess the risks involved in this new venture.",
+        "exampleVi": "Chúng ta phải đánh giá những rủi ro liên quan đến liên doanh mới này.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "assess damage, assess value, assess performance",
+        "wordFamily": "assessment (noun), assessor (noun)",
+        "image": "assess.webp",
+        "tags": [
+            "analysis",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10580,
+        "word": "assign",
+        "pronunciation": "/əˈsaɪn/",
+        "audio": "assign.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phân công, giao nhiệm vụ",
+        "definition": "to allocate a job or duty to someone; to designate",
+        "example": "The manager will assign tasks to each team member tomorrow.",
+        "exampleVi": "Người quản lý sẽ giao nhiệm vụ cho từng thành viên trong nhóm vào ngày mai.",
+        "topic": "Common Verbs",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "assign work, assign responsibility, assign blame",
+        "wordFamily": "assignment (noun), assignee (noun)",
+        "image": "assign.webp",
+        "tags": [
+            "management",
+            "verb",
+            "office"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10581,
+        "word": "assist",
+        "pronunciation": "/əˈsɪst/",
+        "audio": "assist.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hỗ trợ, giúp đỡ",
+        "definition": "to help someone, typically by doing a share of the work",
+        "example": "We are looking for an assistant manager to assist the director.",
+        "exampleVi": "Chúng tôi đang tìm kiếm một trợ lý quản lý để hỗ trợ giám đốc.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "assist clients, assist in research, assist with tasks",
+        "wordFamily": "assistance (noun), assistant (noun/adjective)",
+        "image": "assist.webp",
+        "tags": [
+            "common",
+            "verb",
+            "support"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10582,
+        "word": "assume",
+        "pronunciation": "/əˈsjuːm/",
+        "audio": "assume.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đảm nhận, giả định",
+        "definition": "to take on responsibility or control; to suppose to be the case without proof",
+        "example": "She will assume the role of sales manager starting next Monday.",
+        "exampleVi": "Cô ấy sẽ đảm nhận vai trò quản lý bán hàng bắt đầu từ thứ Hai tuần tới.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "assume responsibility, assume control, assume a position",
+        "wordFamily": "assumption (noun), assumed (adjective)",
+        "image": "assume.webp",
+        "tags": [
+            "management",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10583,
+        "word": "attach",
+        "pronunciation": "/əˈtætʃ/",
+        "audio": "attach.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đính kèm, gắn vào",
+        "definition": "to join or fasten something to something else; to append a document to an email",
+        "example": "Please attach a copy of your receipt to the expense claim.",
+        "exampleVi": "Vui lòng đính kèm bản sao hóa đơn của bạn vào phiếu yêu cầu thanh toán chi phí.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "attach a file, attach a document, attach importance",
+        "wordFamily": "attachment (noun), attached (adjective)",
+        "image": "attach.webp",
+        "tags": [
+            "office",
+            "verb",
+            "communication"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10584,
+        "word": "attend",
+        "pronunciation": "/əˈtend/",
+        "audio": "attend.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tham dự, chú ý",
+        "definition": "to be present at an event, meeting, or function",
+        "example": "All department heads are required to attend the safety meeting.",
+        "exampleVi": "Tất cả các trưởng bộ phận đều được yêu cầu tham dự cuộc họp an toàn.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "attend a meeting, attend a seminar, attend class",
+        "wordFamily": "attendance (noun), attendant (noun), attendee (noun)",
+        "image": "attend.webp",
+        "tags": [
+            "meeting",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10585,
+        "word": "attract",
+        "pronunciation": "/əˈtrækt/",
+        "audio": "attract.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thu hút, lôi cuốn",
+        "definition": "to cause someone to have a liking or interest in something; to pull towards",
+        "example": "We hope our new advertisement will attract more young customers.",
+        "exampleVi": "Chúng tôi hy vọng quảng cáo mới của mình sẽ thu hút nhiều khách hàng trẻ tuổi hơn.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "attract attention, attract customers, attract investment",
+        "wordFamily": "attraction (noun), attractive (adjective)",
+        "image": "attract.webp",
+        "tags": [
+            "marketing",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10586,
+        "word": "audit",
+        "pronunciation": "/ˈɔːdɪt/",
+        "audio": "audit.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kiểm toán, kiểm tra sổ sách",
+        "definition": "to conduct an official financial inspection of an organization's accounts",
+        "example": "A professional firm was hired to audit our accounts.",
+        "exampleVi": "Một công ty chuyên nghiệp đã được thuê để kiểm toán tài khoản của chúng tôi.",
+        "topic": "Common Verbs",
+        "level": "C1",
+        "difficulty": 4,
+        "collocations": "audit accounts, financial audit, internal audit",
+        "wordFamily": "auditor (noun), audited (adjective)",
+        "image": "audit.webp",
+        "tags": [
+            "accounting",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10587,
+        "word": "authorize",
+        "pronunciation": "/ˈɔːθəraɪz/",
+        "audio": "authorize.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "ủy quyền, cho phép",
+        "definition": "to give official permission for or approval to an undertaking or agent",
+        "example": "Only the manager can authorize overtime work.",
+        "exampleVi": "Chỉ có người quản lý mới có thể cho phép làm việc ngoài giờ.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "authorize payment, authorize access, authorize expenses",
+        "wordFamily": "authority (noun), authorization (noun), authorized (adjective)",
+        "image": "authorize.webp",
+        "tags": [
+            "policy",
+            "verb",
+            "management"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10588,
+        "word": "avoid",
+        "pronunciation": "/əˈvɔɪd/",
+        "audio": "avoid.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tránh, né tránh",
+        "definition": "to keep away from or stop oneself from doing something",
+        "example": "Please double-check the figures to avoid making errors.",
+        "exampleVi": "Vui lòng kiểm tra kỹ lại các con số để tránh xảy ra sai sót.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "avoid delay, avoid mistakes, avoid traffic",
+        "wordFamily": "avoidable (adjective), avoidance (noun)",
+        "image": "avoid.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10589,
+        "word": "balance",
+        "pronunciation": "/ˈbæləns/",
+        "audio": "balance.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "cân bằng, quyết toán (sổ sách)",
+        "definition": "to keep or put in a steady position; to compare credit and debit details",
+        "example": "We need to balance the budget before the end of the fiscal year.",
+        "exampleVi": "Chúng ta cần cân đối ngân sách trước khi kết thúc năm tài chính.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "balance the budget, balance a checkbook, balance work and life",
+        "wordFamily": "balance (noun), balanced (adjective)",
+        "image": "balance.webp",
+        "tags": [
+            "finance",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10590,
+        "word": "bill",
+        "pronunciation": "/bɪl/",
+        "audio": "bill.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "gửi hóa đơn thanh toán",
+        "definition": "to send a statement of charges to a customer",
+        "example": "We will bill you for the repair services next month.",
+        "exampleVi": "Chúng tôi sẽ gửi hóa đơn tính phí dịch vụ sửa chữa cho bạn vào tháng tới.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "bill a customer, bill directly, bill monthly",
+        "wordFamily": "bill (noun), billing (noun)",
+        "image": "bill.webp",
+        "tags": [
+            "finance",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10591,
+        "word": "board",
+        "pronunciation": "/bɔːd/",
+        "audio": "board.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lên tàu, lên máy bay",
+        "definition": "to get on or into a ship, aircraft, train, or other vehicle",
+        "example": "Passengers should prepare to board the train at platform 4.",
+        "exampleVi": "Hành khách nên chuẩn bị lên tàu tại sân ga số 4.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "board a plane, boarding pass, board a train",
+        "wordFamily": "board (noun), boarding (noun)",
+        "image": "board.webp",
+        "tags": [
+            "travel",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10592,
+        "word": "borrow",
+        "pronunciation": "/ˈbɒrəʊ/",
+        "audio": "borrow.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "vay, mượn",
+        "definition": "to take and use something that belongs to someone else with the intention of returning it",
+        "example": "You can borrow the projector for your presentation tomorrow.",
+        "exampleVi": "Bạn có thể mượn máy chiếu cho buổi thuyết trình của bạn vào ngày mai.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "borrow money, borrow books, borrow equipment",
+        "wordFamily": "borrower (noun), borrowing (noun)",
+        "image": "borrow.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10593,
+        "word": "budget",
+        "pronunciation": "/ˈbʌdʒɪt/",
+        "audio": "budget.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lập ngân sách, hoạch định chi phí",
+        "definition": "to allow or provide a particular amount of money in a budget",
+        "example": "We need to budget carefully for our business expansion.",
+        "exampleVi": "Chúng ta cần lập ngân sách cẩn thận cho việc mở rộng kinh doanh.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "budget carefully, budget for expenses, budget analysis",
+        "wordFamily": "budget (noun/adjective)",
+        "image": "budget.webp",
+        "tags": [
+            "finance",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10594,
+        "word": "build",
+        "pronunciation": "/bɪld/",
+        "audio": "build.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xây dựng, kiến tạo",
+        "definition": "to construct something by putting parts or materials together",
+        "example": "The firm plans to build a new research facility in Detroit.",
+        "exampleVi": "Công ty có kế hoạch xây dựng một cơ sở nghiên cứu mới ở Detroit.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "build relationships, build a brand, build a house",
+        "wordFamily": "building (noun), builder (noun)",
+        "image": "build.webp",
+        "tags": [
+            "construction",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10595,
+        "word": "calculate",
+        "pronunciation": "/ˈkælkjuleɪt/",
+        "audio": "calculate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tính toán",
+        "definition": "to determine mathematically; to estimate",
+        "example": "The accountant will calculate the total tax deductions for this quarter.",
+        "exampleVi": "Kế toán sẽ tính toán tổng số tiền được giảm trừ thuế cho quý này.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "calculate costs, calculate risks, calculate interest",
+        "wordFamily": "calculation (noun), calculator (noun), calculating (adjective)",
+        "image": "calculate.webp",
+        "tags": [
+            "finance",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10596,
+        "word": "cancel",
+        "pronunciation": "/ˈkænsl/",
+        "audio": "cancel.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hủy bỏ",
+        "definition": "to decide that a planned event or order will not take place",
+        "example": "We had to cancel the meeting due to bad weather conditions.",
+        "exampleVi": "Chúng tôi đã phải hủy cuộc họp do điều kiện thời tiết xấu.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "cancel a meeting, cancel a subscription, cancel an order",
+        "wordFamily": "cancellation (noun), canceled (adjective)",
+        "image": "cancel.webp",
+        "tags": [
+            "common",
+            "verb",
+            "office"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10597,
+        "word": "charge",
+        "pronunciation": "/tʃɑːdʒ/",
+        "audio": "charge.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tính phí, sạc (điện)",
+        "definition": "to demand an amount as a price for a service rendered or goods supplied",
+        "example": "The hotel does not charge for high-speed internet access.",
+        "exampleVi": "Khách sạn không tính phí truy cập internet tốc độ cao.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "charge a fee, charge a price, free of charge",
+        "wordFamily": "charge (noun), charger (noun)",
+        "image": "charge.webp",
+        "tags": [
+            "finance",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10598,
+        "word": "check",
+        "pronunciation": "/tʃek/",
+        "audio": "check.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kiểm tra",
+        "definition": "to examine something in order to determine its accuracy, quality, or condition",
+        "example": "Please check the invoices for errors before sending them out.",
+        "exampleVi": "Vui lòng kiểm tra các hóa đơn để tìm lỗi trước khi gửi đi.",
+        "topic": "Common Verbs",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "check for errors, check details, double-check",
+        "wordFamily": "check (noun)",
+        "image": "check.webp",
+        "tags": [
+            "common",
+            "verb",
+            "office"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10599,
+        "word": "choose",
+        "pronunciation": "/tʃuːz/",
+        "audio": "choose.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lựa chọn",
+        "definition": "to select from a number of alternatives",
+        "example": "We need to choose a venue for the annual conference.",
+        "exampleVi": "Chúng tôi cần chọn một địa điểm cho hội nghị thường niên.",
+        "topic": "Common Verbs",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "choose between, choose wisely, choose a career",
+        "wordFamily": "choice (noun), chosen (adjective)",
+        "image": "choose.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10600,
+        "word": "clarify",
+        "pronunciation": "/ˈklærəfaɪ/",
+        "audio": "clarify.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "làm rõ, làm sáng tỏ",
+        "definition": "to make a statement or situation less confused and more comprehensible",
+        "example": "Could you please clarify the details of the refund policy?",
+        "exampleVi": "Bạn có thể vui lòng làm rõ các chi tiết của chính sách hoàn tiền được không?",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "clarify a point, clarify a policy, clarify instructions",
+        "wordFamily": "clarification (noun), clarity (noun)",
+        "image": "clarify.webp",
+        "tags": [
+            "communication",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10601,
+        "word": "classify",
+        "pronunciation": "/ˈklæsɪfaɪ/",
+        "audio": "classify.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phân loại",
+        "definition": "to arrange a group of people or things in classes or categories according to shared qualities",
+        "example": "We classify incoming support tickets by level of urgency.",
+        "exampleVi": "Chúng tôi phân loại các phiếu hỗ trợ gửi đến theo mức độ khẩn cấp.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "classify data, classify documents, classify items",
+        "wordFamily": "classification (noun), classified (adjective)",
+        "image": "classify.webp",
+        "tags": [
+            "office",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10602,
+        "word": "close",
+        "pronunciation": "/kləʊz/",
+        "audio": "close.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đóng cửa, chốt (hợp đồng)",
+        "definition": "to cover an opening; to complete a business transaction successfully",
+        "example": "We hope to close the sales deal before the end of the week.",
+        "exampleVi": "Chúng tôi hy vọng sẽ chốt được hợp đồng bán hàng trước cuối tuần.",
+        "topic": "Common Verbs",
+        "level": "A1/B1",
+        "difficulty": 1,
+        "collocations": "close a deal, close an account, close a shop",
+        "wordFamily": "closure (noun), closed (adjective)",
+        "image": "close.webp",
+        "tags": [
+            "business",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10603,
+        "word": "collaborate",
+        "pronunciation": "/kəˈlæbəreɪt/",
+        "audio": "collaborate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hợp tác, cộng tác",
+        "definition": "to work jointly on an activity or project, especially to produce or create something",
+        "example": "Our team will collaborate with the design department on this project.",
+        "exampleVi": "Nhóm của chúng tôi sẽ hợp tác với bộ phận thiết kế trong dự án này.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "collaborate on a project, collaborate with partners, collaborate closely",
+        "wordFamily": "collaboration (noun), collaborative (adjective), collaborator (noun)",
+        "image": "collaborate.webp",
+        "tags": [
+            "business",
+            "verb",
+            "collaboration"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10604,
+        "word": "collect",
+        "pronunciation": "/kəˈlekt/",
+        "audio": "collect.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thu thập, thu nhận",
+        "definition": "to gather together elements or details from different sources",
+        "example": "We need to collect customer feedback to improve our services.",
+        "exampleVi": "Chúng tôi cần thu thập phản hồi của khách hàng để cải thiện dịch vụ của mình.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "collect data, collect feedback, collect payment",
+        "wordFamily": "collection (noun), collective (adjective), collector (noun)",
+        "image": "collect.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10605,
+        "word": "combine",
+        "pronunciation": "/kəmˈbaɪn/",
+        "audio": "combine.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kết hợp",
+        "definition": "to join or merge to form a single unit or whole",
+        "example": "We can combine these two databases to streamline operations.",
+        "exampleVi": "Chúng ta có thể kết hợp hai cơ sở dữ liệu này để hợp lý hóa hoạt động.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "combine forces, combine efforts, combine resources",
+        "wordFamily": "combination (noun), combined (adjective)",
+        "image": "combine.webp",
+        "tags": [
+            "strategy",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10606,
+        "word": "communicate",
+        "pronunciation": "/kəˈmjuːnɪkeɪt/",
+        "audio": "communicate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giao tiếp, truyền tải",
+        "definition": "to share or exchange information, news, or ideas",
+        "example": "Managers must communicate clearly with their remote staff members.",
+        "exampleVi": "Người quản lý phải giao tiếp rõ ràng với nhân viên làm việc từ xa của họ.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "communicate effectively, communicate details, communicate by email",
+        "wordFamily": "communication (noun), communicative (adjective)",
+        "image": "communicate.webp",
+        "tags": [
+            "communication",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10607,
+        "word": "compare",
+        "pronunciation": "/kəmˈpeə(r)/",
+        "audio": "compare.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "so sánh",
+        "definition": "to estimate, measure, or note the similarity or dissimilarity between",
+        "example": "We need to compare the quotes from three different logistics vendors.",
+        "exampleVi": "Chúng tôi cần so sánh báo giá từ ba nhà cung cấp dịch vụ logistics khác nhau.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 2,
+        "collocations": "compare prices, compare results, compare models",
+        "wordFamily": "comparison (noun), comparable (adjective), comparative (adjective)",
+        "image": "compare.webp",
+        "tags": [
+            "research",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10608,
+        "word": "compete",
+        "pronunciation": "/kəmˈpiːt/",
+        "audio": "compete.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "cạnh tranh",
+        "definition": "to strive to gain or win something by defeating or establishing superiority over others",
+        "example": "Smaller stores must find unique ways to compete with online giants.",
+        "exampleVi": "Các cửa hàng nhỏ hơn phải tìm những cách độc đáo để cạnh tranh với các ông lớn trực tuyến.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "compete with rivals, compete in a market, compete for resources",
+        "wordFamily": "competition (noun), competitive (adjective), competitor (noun)",
+        "image": "compete.webp",
+        "tags": [
+            "business",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10609,
+        "word": "compile",
+        "pronunciation": "/kəmˈpaɪl/",
+        "audio": "compile.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "biên soạn, tập hợp tài liệu",
+        "definition": "to collect and put together information from various sources to create a book or list",
+        "example": "The administrative assistant was asked to compile the quarterly progress report.",
+        "exampleVi": "Trợ lý hành chính được yêu cầu biên soạn báo cáo tiến độ hàng quý.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compile a report, compile a list, compile database data",
+        "wordFamily": "compilation (noun), compiler (noun)",
+        "image": "compile.webp",
+        "tags": [
+            "office",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10610,
+        "word": "complain",
+        "pronunciation": "/kəmˈpleɪn/",
+        "audio": "complain.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "khiếu nại, phàn nàn",
+        "definition": "to express dissatisfaction or annoyance about something",
+        "example": "Customers often complain when deliveries are delayed.",
+        "exampleVi": "Khách hàng thường phàn nàn khi các chuyến giao hàng bị trì hoãn.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "complain about service, complain to management, file a complaint",
+        "wordFamily": "complaint (noun)",
+        "image": "complain.webp",
+        "tags": [
+            "customer-service",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10611,
+        "word": "complete",
+        "pronunciation": "/kəmˈpliːt/",
+        "audio": "complete.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hoàn thành",
+        "definition": "to finish making or doing something; to make whole or perfect",
+        "example": "Please complete the feedback form before leaving the seminar.",
+        "exampleVi": "Vui lòng hoàn thành biểu mẫu phản hồi trước khi rời hội thảo.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "complete a task, complete a form, complete a project",
+        "wordFamily": "completion (noun), complete (adjective), completely (adverb)",
+        "image": "complete.webp",
+        "tags": [
+            "common",
+            "verb",
+            "office"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10612,
+        "word": "comply",
+        "pronunciation": "/kəmˈplaɪ/",
+        "audio": "comply.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tuân thủ",
+        "definition": "to act in accordance with a wish or command; to meet legal standards",
+        "example": "All factories must comply with environmental regulations.",
+        "exampleVi": "Tất cả các nhà máy phải tuân thủ các quy định về môi trường.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "comply with regulations, comply with standards, comply with rules",
+        "wordFamily": "compliance (noun), compliant (adjective)",
+        "image": "comply.webp",
+        "tags": [
+            "legal",
+            "verb",
+            "policy"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10613,
+        "word": "compromise",
+        "pronunciation": "/ˈkɒmprəmaɪz/",
+        "audio": "compromise.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thỏa hiệp, làm tổn hại",
+        "definition": "to settle a dispute by mutual concession; to bring into disrepute or danger",
+        "example": "The two parties were willing to compromise to seal the contract.",
+        "exampleVi": "Hai bên đã sẵn sàng thỏa hiệp để ký kết hợp đồng.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compromise on price, reach a compromise, compromise safety",
+        "wordFamily": "compromise (noun)",
+        "image": "compromise.webp",
+        "tags": [
+            "agreement",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10614,
+        "word": "compute",
+        "pronunciation": "/kəmˈpjuːt/",
+        "audio": "compute.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tính toán bằng máy tính",
+        "definition": "to calculate or reckon a figure, amount, or location",
+        "example": "The system needs to compute the total tax based on regional rates.",
+        "exampleVi": "Hệ thống cần tính toán tổng thuế dựa trên mức thuế khu vực.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compute values, compute results, compute figures",
+        "wordFamily": "computation (noun), computer (noun), computational (adjective)",
+        "image": "compute.webp",
+        "tags": [
+            "technology",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10615,
+        "word": "concentrate",
+        "pronunciation": "/ˈkɒnsntreɪt/",
+        "audio": "concentrate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tập trung",
+        "definition": "to focus all one's attention or mental effort on a particular object or activity",
+        "example": "It is difficult to concentrate in a noisy office environment.",
+        "exampleVi": "Thật khó để tập trung trong một môi trường văn phòng ồn ào.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "concentrate on tasks, concentrate attention, concentrate efforts",
+        "wordFamily": "concentration (noun), concentrated (adjective)",
+        "image": "concentrate.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10616,
+        "word": "concern",
+        "pronunciation": "/kənˈsɜːn/",
+        "audio": "concern.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "liên quan, làm lo lắng",
+        "definition": "to relate to; to be about; to make someone anxious or worried",
+        "example": "The safety issue does not concern the finance department.",
+        "exampleVi": "Vấn đề an toàn không liên quan đến bộ phận tài chính.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "concern about safety, concern with details, to whom it may concern",
+        "wordFamily": "concern (noun), concerned (adjective), concerning (preposition)",
+        "image": "concern.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10617,
+        "word": "conclude",
+        "pronunciation": "/kənˈkluːd/",
+        "audio": "conclude.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kết luận, kết thúc, ký kết (thỏa thuận)",
+        "definition": "to bring something to an end; to arrive at a judgment or opinion by reasoning",
+        "example": "We hope to conclude the negotiations before the end of the week.",
+        "exampleVi": "Chúng tôi hy vọng sẽ kết thúc các cuộc đàm phán trước cuối tuần.",
+        "topic": "Common Verbs",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "conclude negotiations, conclude a meeting, conclude that",
+        "wordFamily": "conclusion (noun), conclusive (adjective), conclusively (adverb)",
+        "image": "conclude.webp",
+        "tags": [
+            "business",
+            "verb",
+            "agreement"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10618,
+        "word": "conduct",
+        "pronunciation": "/kənˈdʌkt/",
+        "audio": "conduct.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tiến hành, điều khiển",
+        "definition": "to organize and carry out a structured activity or survey",
+        "example": "The marketing agency will conduct a customer satisfaction survey.",
+        "exampleVi": "Đại lý tiếp thị sẽ tiến hành khảo sát sự hài lòng của khách hàng.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "conduct a survey, conduct research, conduct an interview",
+        "wordFamily": "conduct (noun), conductor (noun)",
+        "image": "conduct.webp",
+        "tags": [
+            "research",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10619,
+        "word": "confirm",
+        "pronunciation": "/kənˈfɜːm/",
+        "audio": "confirm.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xác nhận",
+        "definition": "to establish the truth or correctness of something; to verify a reservation",
+        "example": "Please email us to confirm your hotel reservation details.",
+        "exampleVi": "Vui lòng gửi email cho chúng tôi để xác nhận chi tiết đặt phòng khách sạn của bạn.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "confirm a reservation, confirm receipt, confirm details",
+        "wordFamily": "confirmation (noun), confirmed (adjective)",
+        "image": "confirm.webp",
+        "tags": [
+            "communication",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10620,
+        "word": "connect",
+        "pronunciation": "/kəˈnekt/",
+        "audio": "connect.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kết nối",
+        "definition": "to bring together or into contact so that a real link is established",
+        "example": "Use this cable to connect your computer to the office network.",
+        "exampleVi": "Sử dụng cáp này để kết nối máy tính của bạn với mạng văn phòng.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "connect to the internet, connect devices, connect with clients",
+        "wordFamily": "connection (noun), connected (adjective), connector (noun)",
+        "image": "connect.webp",
+        "tags": [
+            "technology",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10621,
+        "word": "consider",
+        "pronunciation": "/kənˈsɪdə(r)/",
+        "audio": "consider.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "cân nhắc, xem xét",
+        "definition": "to think carefully about something, typically before making a decision",
+        "example": "We will consider your application for the assistant manager position.",
+        "exampleVi": "Chúng tôi sẽ xem xét đơn ứng tuyển của bạn cho vị trí trợ lý quản lý.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "consider options, consider application, seriously consider",
+        "wordFamily": "consideration (noun), considerable (adjective), considerate (adjective)",
+        "image": "consider.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10622,
+        "word": "consign",
+        "pronunciation": "/kənˈsaɪn/",
+        "audio": "consign.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "ký gửi hàng hóa",
+        "definition": "to deliver something to someone's custody, typically in order for it to be sold",
+        "example": "The manufacturer agreed to consign the products to our warehouse.",
+        "exampleVi": "Nhà sản xuất đồng ý ký gửi sản phẩm vào kho của chúng tôi.",
+        "topic": "Common Verbs",
+        "level": "C1",
+        "difficulty": 4,
+        "collocations": "consign goods, consign to warehouse, consign sales",
+        "wordFamily": "consignment (noun), consignee (noun), consignor (noun)",
+        "image": "consign.webp",
+        "tags": [
+            "logistics",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10623,
+        "word": "consist",
+        "pronunciation": "/kənˈsɪst/",
+        "audio": "consist.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "bao gồm",
+        "definition": "to be composed or made up of elements",
+        "example": "The orientation program will consist of three distinct sessions.",
+        "exampleVi": "Chương trình định hướng sẽ bao gồm ba phần riêng biệt.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "consist of elements, consist mainly of, consist entirely of",
+        "wordFamily": "consistency (noun), consistent (adjective)",
+        "image": "consist.webp",
+        "tags": [
+            "grammar",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10624,
+        "word": "consolidate",
+        "pronunciation": "/kənˈsɒlɪdeɪt/",
+        "audio": "consolidate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "củng cố, hợp nhất",
+        "definition": "to combine a number of financial accounts or businesses into a single unified whole",
+        "example": "We decided to consolidate our three office locations into one central branch.",
+        "exampleVi": "Chúng tôi quyết định hợp nhất ba địa điểm văn phòng thành một chi nhánh trung tâm.",
+        "topic": "Common Verbs",
+        "level": "C1",
+        "difficulty": 4,
+        "collocations": "consolidate debt, consolidate offices, consolidate gains",
+        "wordFamily": "consolidation (noun), consolidated (adjective)",
+        "image": "consolidate.webp",
+        "tags": [
+            "business",
+            "verb",
+            "finance"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10625,
+        "word": "construct",
+        "pronunciation": "/kənˈstrʌkt/",
+        "audio": "construct.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xây dựng",
+        "definition": "to build or erect something large, such as a road, bridge, or building",
+        "example": "The developers plan to construct a parking lot next to the hotel.",
+        "exampleVi": "Các nhà phát triển có kế hoạch xây dựng một bãi đậu xe bên cạnh khách sạn.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "construct a building, construct a database, construct a bridge",
+        "wordFamily": "construction (noun), constructive (adjective), constructor (noun)",
+        "image": "construct.webp",
+        "tags": [
+            "construction",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10626,
+        "word": "consult",
+        "pronunciation": "/kənˈsʌlt/",
+        "audio": "consult.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tham vấn, tham khảo ý kiến",
+        "definition": "to seek information or advice from an expert or resource",
+        "example": "You should consult a legal expert before signing this partnership agreement.",
+        "exampleVi": "Bạn nên tham khảo ý kiến của chuyên gia pháp lý trước khi ký hợp đồng đối tác này.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "consult an expert, consult a lawyer, consult a database",
+        "wordFamily": "consultant (noun), consultation (noun), consulting (noun/adjective)",
+        "image": "consult.webp",
+        "tags": [
+            "communication",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10627,
+        "word": "consume",
+        "pronunciation": "/kənˈsjuːm/",
+        "audio": "consume.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tiêu thụ, tiêu dùng",
+        "definition": "to use up a resource such as fuel, time, or energy",
+        "example": "The manufacturing plant plans to consume less electricity this winter.",
+        "exampleVi": "Nhà máy sản xuất có kế hoạch tiêu thụ ít điện hơn trong mùa đông này.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "consume resources, consume energy, consume time",
+        "wordFamily": "consumer (noun), consumption (noun), consumerism (noun)",
+        "image": "consume.webp",
+        "tags": [
+            "economics",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10628,
+        "word": "contact",
+        "pronunciation": "/ˈkɒntækt/",
+        "audio": "contact.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "liên hệ, liên lạc",
+        "definition": "to communicate with someone, typically to give or receive details",
+        "example": "Customers can contact our helpdesk department twenty-four hours a day.",
+        "exampleVi": "Khách hàng có thể liên hệ với bộ phận hỗ trợ của chúng tôi hai mươi tư giờ một ngày.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "contact customer service, contact by phone, contact immediately",
+        "wordFamily": "contact (noun)",
+        "image": "contact.webp",
+        "tags": [
+            "communication",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10629,
+        "word": "contain",
+        "pronunciation": "/kənˈteɪn/",
+        "audio": "contain.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chứa đựng, bao gồm",
+        "definition": "to have or hold someone or something within",
+        "example": "The package should contain a power adapter and an instruction manual.",
+        "exampleVi": "Hộp sản phẩm phải chứa một bộ đổi nguồn và một sách hướng dẫn sử dụng.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "contain elements, contain information, contain errors",
+        "wordFamily": "container (noun)",
+        "image": "contain.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10630,
+        "word": "contribute",
+        "pronunciation": "/kənˈtrɪbjuːt/",
+        "audio": "contribute.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "đóng góp, góp phần",
+        "definition": "to give something, especially money or ideas, in order to help achieve or provide something",
+        "example": "Everyone is encouraged to contribute ideas at the design meeting.",
+        "exampleVi": "Mọi người đều được khuyến khích đóng góp ý tưởng tại cuộc họp thiết kế.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "contribute funds, contribute to success, contribute ideas",
+        "wordFamily": "contribution (noun), contributor (noun)",
+        "image": "contribute.webp",
+        "tags": [
+            "business",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10631,
+        "word": "control",
+        "pronunciation": "/kənˈtrəʊl/",
+        "audio": "control.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kiểm soát, điều khiển",
+        "definition": "to determine the behavior or supervise the running of",
+        "example": "The supervisor will control the quality of the raw materials.",
+        "exampleVi": "Người giám sát sẽ kiểm soát chất lượng của nguyên liệu thô.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "control quality, control costs, control temperature",
+        "wordFamily": "control (noun), controller (noun), controllable (adjective)",
+        "image": "control.webp",
+        "tags": [
+            "management",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10632,
+        "word": "coordinate",
+        "pronunciation": "/kəʊˈɔːdɪneɪt/",
+        "audio": "coordinate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phối hợp, điều phối",
+        "definition": "to bring the different elements of a complex activity or organization into a efficient relationship",
+        "example": "We need someone to coordinate the international marketing campaign.",
+        "exampleVi": "Chúng tôi cần ai đó điều phối chiến dịch tiếp thị quốc tế.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "coordinate activities, coordinate efforts, coordinate schedules",
+        "wordFamily": "coordination (noun), coordinator (noun)",
+        "image": "coordinate.webp",
+        "tags": [
+            "management",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10633,
+        "word": "copy",
+        "pronunciation": "/ˈkɒpi/",
+        "audio": "copy.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "sao chép, photocopy",
+        "definition": "to make a similar or identical version of; to reproduce",
+        "example": "Please copy these handouts for all workshop attendees.",
+        "exampleVi": "Vui lòng sao chép các tài liệu này cho tất cả những người tham dự hội thảo.",
+        "topic": "Common Verbs",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "copy files, copy documents, make a copy",
+        "wordFamily": "copy (noun), copier (noun)",
+        "image": "copy.webp",
+        "tags": [
+            "office",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10634,
+        "word": "correct",
+        "pronunciation": "/kəˈrekt/",
+        "audio": "correct.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "sửa chữa, điều chỉnh cho đúng",
+        "definition": "to put right an error or fault",
+        "example": "Please correct the figures in the database before generating the invoice.",
+        "exampleVi": "Vui lòng sửa các số liệu trong cơ sở dữ liệu trước khi tạo hóa đơn.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "correct errors, correct mistakes, correct a course",
+        "wordFamily": "correction (noun), correct (adjective), corrective (adjective)",
+        "image": "correct.webp",
+        "tags": [
+            "office",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10635,
+        "word": "cost",
+        "pronunciation": "/kɒst/",
+        "audio": "cost.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "trị giá, tốn phí",
+        "definition": "to require the payment of a specified sum of money before it can be acquired or done",
+        "example": "The renovation project will cost more than initially estimated.",
+        "exampleVi": "Dự án cải tạo sẽ tốn nhiều chi phí hơn so với ước tính ban đầu.",
+        "topic": "Common Verbs",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "cost money, cost a fortune, cost-effective",
+        "wordFamily": "cost (noun), costly (adjective)",
+        "image": "cost.webp",
+        "tags": [
+            "finance",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10636,
+        "word": "create",
+        "pronunciation": "/kriˈeɪt/",
+        "audio": "create.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tạo ra, sáng tạo",
+        "definition": "to bring something into existence",
+        "example": "The expansion project is expected to create fifty new jobs in the region.",
+        "exampleVi": "Dự án mở rộng dự kiến sẽ tạo ra năm mươi việc làm mới trong khu vực.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "create jobs, create a design, create opportunities",
+        "wordFamily": "creation (noun), creative (adjective), creativity (noun)",
+        "image": "create.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10637,
+        "word": "decide",
+        "pronunciation": "/dɪˈsaɪd/",
+        "audio": "decide.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "quyết định",
+        "definition": "to make a choice from a number of alternatives",
+        "example": "The board members will decide on the budget cuts tomorrow.",
+        "exampleVi": "Các thành viên hội đồng quản trị sẽ quyết định về việc cắt giảm ngân sách vào ngày mai.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "decide to do, decide on a plan, decide between",
+        "wordFamily": "decision (noun), decisive (adjective), decisively (adverb)",
+        "image": "decide.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10638,
+        "word": "decrease",
+        "pronunciation": "/dɪˈkriːs/",
+        "audio": "decrease.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giảm đi, suy giảm",
+        "definition": "to make or become smaller or fewer in size, amount, intensity, or degree",
+        "example": "The company managed to decrease shipping costs by optimization.",
+        "exampleVi": "Công ty đã giảm được chi phí vận chuyển thông qua việc tối ưu hóa.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "decrease production, decrease costs, decrease dramatically",
+        "wordFamily": "decrease (noun), decreased (adjective)",
+        "image": "decrease.webp",
+        "tags": [
+            "business",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10639,
+        "word": "define",
+        "pronunciation": "/dɪˈfaɪn/",
+        "audio": "define.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "định nghĩa, xác định rõ",
+        "definition": "to state or describe exactly the nature, scope, or meaning of",
+        "example": "We need to define the project scope before we start coding.",
+        "exampleVi": "Chúng tôi cần xác định rõ phạm vi dự án trước khi bắt đầu viết code.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "define terms, define roles, define scope",
+        "wordFamily": "definition (noun), definite (adjective), defined (adjective)",
+        "image": "define.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10640,
+        "word": "delay",
+        "pronunciation": "/dɪˈleɪ/",
+        "audio": "delay.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "trì hoãn, chậm trễ",
+        "definition": "to make someone or something late; to postpone",
+        "example": "Bad weather conditions may delay the flight schedule.",
+        "exampleVi": "Điều kiện thời tiết xấu có thể làm chậm trễ lịch trình chuyến bay.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "delay action, delay payment, delay a flight",
+        "wordFamily": "delay (noun), delayed (adjective)",
+        "image": "delay.webp",
+        "tags": [
+            "travel",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10641,
+        "word": "deliver",
+        "pronunciation": "/dɪˈlɪvə(r)/",
+        "audio": "deliver.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giao hàng, phát biểu (bài diễn văn)",
+        "definition": "to bring and hand over a letter, package, or ordered goods to the recipient",
+        "example": "The courier will deliver the package to your office tomorrow afternoon.",
+        "exampleVi": "Nhân viên chuyển phát nhanh sẽ giao gói hàng đến văn phòng của bạn vào chiều mai.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "deliver goods, deliver a speech, deliver a message",
+        "wordFamily": "delivery (noun), deliverable (noun/adjective)",
+        "image": "deliver.webp",
+        "tags": [
+            "logistics",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10642,
+        "word": "demonstrate",
+        "pronunciation": "/ˈdemənstreɪt/",
+        "audio": "demonstrate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chứng minh, biểu diễn hướng dẫn",
+        "definition": "to clearly show the existence or truth of something; to explain how to use a product",
+        "example": "The engineer will demonstrate how to operate the new equipment.",
+        "exampleVi": "Kỹ sư sẽ hướng dẫn cách vận hành thiết bị mới.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "demonstrate a product, demonstrate skills, demonstrate a method",
+        "wordFamily": "demonstration (noun), demonstrative (adjective)",
+        "image": "demonstrate.webp",
+        "tags": [
+            "office",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10643,
+        "word": "depart",
+        "pronunciation": "/dɪˈpɑːt/",
+        "audio": "depart.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "khởi hành, rời đi",
+        "definition": "to leave, especially on a journey",
+        "example": "The train is scheduled to depart from platform 2 at 10 AM.",
+        "exampleVi": "Tàu dự kiến khởi hành từ sân ga số 2 lúc 10 giờ sáng.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "depart from, prepare to depart, depart early",
+        "wordFamily": "departure (noun), departed (adjective)",
+        "image": "depart.webp",
+        "tags": [
+            "travel",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10644,
+        "word": "deposit",
+        "pronunciation": "/dɪˈpɒzɪt/",
+        "audio": "deposit.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "gửi tiền vào ngân hàng, đặt cọc",
+        "definition": "to put money into a bank account; to pay a sum as a first installment or security",
+        "example": "You need to deposit at least ten percent of the purchase price.",
+        "exampleVi": "Bạn cần đặt cọc ít nhất mười phần trăm giá mua.",
+        "topic": "Common Verbs",
+        "level": "B1/B2",
+        "difficulty": 2,
+        "collocations": "deposit money, deposit a check, pay a deposit",
+        "wordFamily": "deposit (noun), depositor (noun)",
+        "image": "deposit.webp",
+        "tags": [
+            "banking",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10645,
+        "word": "design",
+        "pronunciation": "/dɪˈzaɪn/",
+        "audio": "design.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thiết kế",
+        "definition": "to decide upon the look and functioning of a building, garment, or other object by making a detailed drawing of it",
+        "example": "She was hired to design the layout of our new marketing brochures.",
+        "exampleVi": "Cô ấy được thuê để thiết kế bố cục của các tài liệu tiếp thị mới của chúng tôi.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "design a website, design a logo, design system",
+        "wordFamily": "design (noun), designer (noun), designing (noun)",
+        "image": "design.webp",
+        "tags": [
+            "marketing",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10646,
+        "word": "develop",
+        "pronunciation": "/dɪˈveləp/",
+        "audio": "develop.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phát triển",
+        "definition": "to grow or cause to grow and become more mature, advanced, or elaborate",
+        "example": "Our research team is trying to develop a new vaccine.",
+        "exampleVi": "Đội ngũ nghiên cứu của chúng tôi đang cố gắng phát triển một loại vắc-xin mới.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 1,
+        "collocations": "develop a product, develop skills, develop a strategy",
+        "wordFamily": "development (noun), developer (noun), developing (adjective)",
+        "image": "develop.webp",
+        "tags": [
+            "common",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10647,
+        "word": "direct",
+        "pronunciation": "/daɪˈrekt/",
+        "audio": "direct.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chỉ dẫn, điều hành, gửi trực tiếp",
+        "definition": "to control the operations of; to aim something in a particular direction",
+        "example": "Please direct any billing questions to the accounts department.",
+        "exampleVi": "Vui lòng gửi bất kỳ câu hỏi nào về thanh toán trực tiếp đến bộ phận tài vụ.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "direct questions, direct traffic, direct a film",
+        "wordFamily": "director (noun), direction (noun), directly (adverb)",
+        "image": "direct.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10648,
+        "word": "disagree",
+        "pronunciation": "/ˌdɪsəˈɡriː/",
+        "audio": "disagree.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "không đồng ý",
+        "definition": "to have or express a different opinion",
+        "example": "While I respect your view, I disagree with your conclusion.",
+        "exampleVi": "Mặc dù tôi tôn trọng quan điểm của bạn, tôi không đồng ý với kết luận của bạn.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "disagree with, disagree politely, strongly disagree",
+        "wordFamily": "disagreement (noun), disagreeable (adjective)",
+        "image": "disagree.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10649,
+        "word": "discount",
+        "pronunciation": "/ˈdɪskaʊnt/",
+        "audio": "discount.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giảm giá, chiết khấu",
+        "definition": "to reduce the price of something",
+        "example": "We plan to discount all autumn clothing lines by twenty percent.",
+        "exampleVi": "Chúng tôi dự định giảm giá hai mươi phần trăm cho tất cả các dòng quần áo mùa thu.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "discount prices, heavily discounted, cash discount",
+        "wordFamily": "discount (noun)",
+        "image": "discount.webp",
+        "tags": [
+            "shopping",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10650,
+        "word": "discuss",
+        "pronunciation": "/dɪˈskʌs/",
+        "audio": "discuss.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thảo luận",
+        "definition": "to talk about something with another person or group of people in order to reach a decision",
+        "example": "We need to meet to discuss the budget allocations.",
+        "exampleVi": "Chúng ta cần họp để thảo luận về việc phân bổ ngân sách.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "discuss details, discuss plans, discuss options",
+        "wordFamily": "discussion (noun)",
+        "image": "discuss.webp",
+        "tags": [
+            "meeting",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10651,
+        "word": "dismiss",
+        "pronunciation": "/dɪsˈmɪs/",
+        "audio": "dismiss.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "sa thải, giải tán, bác bỏ",
+        "definition": "to order or allow to leave; to send away from employment",
+        "example": "The manager decided to dismiss the employee for chronic lateness.",
+        "exampleVi": "Người quản lý đã quyết định sa thải nhân viên vì đi muộn thường xuyên.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dismiss an employee, dismiss charges, dismiss an idea",
+        "wordFamily": "dismissal (noun), dismissed (adjective)",
+        "image": "dismiss.webp",
+        "tags": [
+            "human-resources",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10652,
+        "word": "display",
+        "pronunciation": "/dɪˈspleɪ/",
+        "audio": "display.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "hiển thị, trưng bày",
+        "definition": "to show or exhibit; to present details on a computer screen",
+        "example": "The monitor will display the sales chart in real-time.",
+        "exampleVi": "Màn hình sẽ hiển thị biểu đồ doanh số theo thời gian thực.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "display items, display data, display on screen",
+        "wordFamily": "display (noun)",
+        "image": "display.webp",
+        "tags": [
+            "technology",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10653,
+        "word": "distribute",
+        "pronunciation": "/dɪˈstrɪbjuːt/",
+        "audio": "distribute.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "phân phối, phát",
+        "definition": "to give shares of something; to deal out",
+        "example": "We need to distribute the brochures to all seminar attendees.",
+        "exampleVi": "Chúng tôi cần phát tài liệu quảng cáo đến tất cả những người tham dự hội thảo.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "distribute leaflets, distribute products, distribute resources",
+        "wordFamily": "distribution (noun), distributor (noun), distributive (adjective)",
+        "image": "distribute.webp",
+        "tags": [
+            "logistics",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10654,
+        "word": "divide",
+        "pronunciation": "/dɪˈvaɪd/",
+        "audio": "divide.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chia nhỏ, phân chia",
+        "definition": "to separate into parts or portions",
+        "example": "We can divide the project tasks among our team members.",
+        "exampleVi": "Chúng tôi có thể phân chia các nhiệm vụ của dự án giữa các thành viên trong nhóm của mình.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 1,
+        "collocations": "divide into parts, divide work, divide equally",
+        "wordFamily": "division (noun), divisible (adjective)",
+        "image": "divide.webp",
+        "tags": [
+            "management",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10655,
+        "word": "double",
+        "pronunciation": "/ˈdʌbl/",
+        "audio": "double.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "gấp đôi",
+        "definition": "to become twice as much or as many; to increase twofold",
+        "example": "We aim to double our production capacity by next summer.",
+        "exampleVi": "Chúng tôi đặt mục tiêu nâng gấp đôi công suất sản xuất của mình vào mùa hè tới.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "double in size, double sales, double capacity",
+        "wordFamily": "double (noun/adjective/adverb)",
+        "image": "double.webp",
+        "tags": [
+            "business",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10656,
+        "word": "download",
+        "pronunciation": "/ˌdaʊnˈləʊd/",
+        "audio": "download.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tải xuống",
+        "definition": "to copy data from one computer system to another, typically over the internet",
+        "example": "Users can download the full catalog from our corporate website.",
+        "exampleVi": "Người dùng có thể tải danh mục đầy đủ từ trang web công ty của chúng tôi.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "download files, download software, download a catalog",
+        "wordFamily": "download (noun)",
+        "image": "download.webp",
+        "tags": [
+            "technology",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10657,
+        "word": "draft",
+        "pronunciation": "/drɑːft/",
+        "audio": "draft.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "soạn thảo bản nháp",
+        "definition": "to prepare a preliminary version of a document",
+        "example": "The legal counsel will draft the purchase contract this afternoon.",
+        "exampleVi": "Cố vấn pháp lý sẽ soạn thảo hợp đồng mua bán vào chiều nay.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "draft a contract, draft a proposal, draft an email",
+        "wordFamily": "draft (noun), draftsman (noun)",
+        "image": "draft.webp",
+        "tags": [
+            "office",
+            "verb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10658,
+        "word": "draw",
+        "pronunciation": "/drɔː/",
+        "audio": "draw.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thu hút, vẽ, rút ra",
+        "definition": "to attract or pull towards; to produce a picture by making lines",
+        "example": "We hope the promotional campaign will draw more customers to the store.",
+        "exampleVi": "Chúng tôi hy vọng chiến dịch quảng cáo sẽ thu hút nhiều khách hàng hơn đến cửa hàng.",
+        "topic": "Common Verbs",
+        "level": "A2",
+        "difficulty": 2,
+        "collocations": "draw attention, draw a crowd, draw a conclusion",
+        "wordFamily": "drawing (noun)",
+        "image": "draw.webp",
+        "tags": [
+            "common",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10659,
+        "word": "earn",
+        "pronunciation": "/ɜːn/",
+        "audio": "earn.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "kiếm tiền, giành được sự tin tưởng",
+        "definition": "to obtain money in return for labor or services; to gain as a result of effort",
+        "example": "He worked hard to earn the trust of the management team.",
+        "exampleVi": "Anh ấy đã làm việc chăm chỉ để giành được sự tin tưởng của đội ngũ quản lý.",
+        "topic": "Common Verbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "earn money, earn trust, earn interest",
+        "wordFamily": "earnings (noun), earner (noun)",
+        "image": "earn.webp",
+        "tags": [
+            "jobs",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10660,
+        "word": "edit",
+        "pronunciation": "/ˈedɪt/",
+        "audio": "edit.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "chỉnh sửa, biên tập",
+        "definition": "to prepare written material for publication by correcting, condensing, or modifying it",
+        "example": "Please edit this draft report before we submit it to the client.",
+        "exampleVi": "Vui lòng chỉnh sửa báo cáo dự thảo này trước khi chúng tôi gửi nó cho khách hàng.",
+        "topic": "Common Verbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "edit a report, edit text, video editing",
+        "wordFamily": "edition (noun), editor (noun), editorial (noun/adjective)",
+        "image": "edit.webp",
+        "tags": [
+            "office",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10661,
+        "word": "eliminate",
+        "pronunciation": "/ɪˈlɪmɪneɪt/",
+        "audio": "eliminate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "loại bỏ",
+        "definition": "to completely remove or get rid of something undesirable",
+        "example": "The factory wants to eliminate waste materials in the production process.",
+        "exampleVi": "Nhà máy muốn loại bỏ các nguyên liệu lãng phí trong quy trình sản xuất.",
+        "topic": "Common Verbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "eliminate waste, eliminate errors, eliminate rivals",
+        "wordFamily": "elimination (noun)",
+        "image": "eliminate.webp",
+        "tags": [
+            "manufacturing",
+            "verb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

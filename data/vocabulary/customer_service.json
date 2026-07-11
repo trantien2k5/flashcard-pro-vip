@@ -1,0 +1,2700 @@
+[
+    {
+        "id": 10790,
+        "word": "customer",
+        "pronunciation": "/ˈkʌstəmə/",
+        "audio": "customer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách hàng",
+        "definition": "A patron, a client; one who purchases or receives a product or service from a business or merchant, or intends to do so.",
+        "example": "Every person who passes by is a potential customer.",
+        "exampleVi": "Mỗi người đi ngang qua đều là khách hàng tiềm năng.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "customer process, key customer",
+        "wordFamily": "customer (noun)",
+        "image": "customer.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10791,
+        "word": "service",
+        "pronunciation": "/ˈsɜːvɪs/",
+        "audio": "service.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dịch vụ",
+        "definition": "An act of being of assistance to someone.",
+        "example": "I say I did him a service by ending our relationship – now he can freely pursue his career.",
+        "exampleVi": "Tôi nói rằng tôi đã giúp ích cho anh ấy bằng cách chấm dứt mối quan hệ của chúng tôi - giờ anh ấy có thể tự do theo đuổi sự nghiệp của mình.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "service process, key service",
+        "wordFamily": "service (noun)",
+        "image": "service.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10792,
+        "word": "support",
+        "pronunciation": "/səˈpɔːt/",
+        "audio": "support.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ủng hộ",
+        "definition": "(sometimes attributive) Something which supports.",
+        "example": "Don't move that beam! It's a support for the whole platform.",
+        "exampleVi": "Đừng di chuyển chùm tia đó! Đó là sự hỗ trợ cho toàn bộ nền tảng.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "support process, key support",
+        "wordFamily": "support (noun)",
+        "image": "support.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10793,
+        "word": "help",
+        "pronunciation": "/hɛlp/",
+        "audio": "help.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giúp đỡ",
+        "definition": "Action given to provide assistance; aid.",
+        "example": "I need some help with my homework.",
+        "exampleVi": "Tôi cần sự giúp đỡ với bài tập về nhà của tôi.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "help process, key help",
+        "wordFamily": "help (noun)",
+        "image": "help.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10794,
+        "word": "agent",
+        "pronunciation": "/ˈeɪ.dʒənt/",
+        "audio": "agent.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đại lý",
+        "definition": "One who exerts power, or has the power to act",
+        "example": "We need to understand the concept of agent.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đại lý.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "agent process, key agent",
+        "wordFamily": "agent (noun)",
+        "image": "agent.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10795,
+        "word": "representative",
+        "pronunciation": "/ˌɹɛpɹɪˈzɛnt(ət)ɪv/",
+        "audio": "representative.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tiêu biểu",
+        "definition": "A delegate.",
+        "example": "We need to understand the concept of representative.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đại diện.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "representative process, key representative",
+        "wordFamily": "representative (noun)",
+        "image": "representative.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10796,
+        "word": "care",
+        "pronunciation": "/kɛə/",
+        "audio": "care.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quan tâm",
+        "definition": "Grief, sorrow.",
+        "example": "We need to understand the concept of care.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chăm sóc.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "care process, key care",
+        "wordFamily": "care (noun)",
+        "image": "care.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10797,
+        "word": "satisfaction",
+        "pronunciation": "/sætɪsˈfækʃən/",
+        "audio": "satisfaction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự hài lòng",
+        "definition": "A fulfilment of a need or desire.",
+        "example": "He enjoyed the dish with great satisfaction. He'll order it again the next time he arrives.",
+        "exampleVi": "Anh ấy rất hài lòng khi thưởng thức món ăn. Anh ấy sẽ đặt hàng lại vào lần tới khi anh ấy đến.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "satisfaction process, key satisfaction",
+        "wordFamily": "satisfaction (noun)",
+        "image": "satisfaction.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10798,
+        "word": "complaint",
+        "pronunciation": "/kəmˈpleɪnt/",
+        "audio": "complaint.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lời phàn nàn",
+        "definition": "The act of complaining.",
+        "example": "We need to understand the concept of complaint.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phàn nàn.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "complaint process, key complaint",
+        "wordFamily": "complaint (noun)",
+        "image": "complaint.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10799,
+        "word": "feedback",
+        "pronunciation": "/ˈfiːdˌbæk/",
+        "audio": "feedback.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhận xét",
+        "definition": "Critical assessment of a process or activity or of their results.",
+        "example": "After you hand in your essays, I will give both grades and feedback.",
+        "exampleVi": "Sau khi bạn nộp bài luận, tôi sẽ cho điểm và phản hồi.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "feedback process, key feedback",
+        "wordFamily": "feedback (noun)",
+        "image": "feedback.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10800,
+        "word": "resolve",
+        "pronunciation": "/ɹiːˈzɒlv/",
+        "audio": "resolve.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải quyết",
+        "definition": "Determination; will power.",
+        "example": "It took all my resolve to go through with the surgery.",
+        "exampleVi": "Tôi đã phải dùng hết quyết tâm để vượt qua cuộc phẫu thuật.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "resolve process, key resolve",
+        "wordFamily": "resolve (noun)",
+        "image": "resolve.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10801,
+        "word": "problem",
+        "pronunciation": "/ˈpɹɒbləm/",
+        "audio": "problem.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vấn đề",
+        "definition": "A difficulty that has to be resolved or dealt with.",
+        "example": "She's leaving because she faced numerous problems to do with racism.",
+        "exampleVi": "Cô ấy rời đi vì phải đối mặt với nhiều vấn đề liên quan đến phân biệt chủng tộc.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "problem process, key problem",
+        "wordFamily": "problem (noun)",
+        "image": "problem.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10802,
+        "word": "issue",
+        "pronunciation": "/ˈɪsjuː/",
+        "audio": "issue.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vấn đề",
+        "definition": "The action or an instance of flowing or coming out, an outflow, particularly:",
+        "example": "We need to understand the concept of issue.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vấn đề.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "issue process, key issue",
+        "wordFamily": "issue (noun)",
+        "image": "issue.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10803,
+        "word": "refund",
+        "pronunciation": "/refund/",
+        "audio": "refund.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đền bù",
+        "definition": "An amount of money returned.",
+        "example": "If the camera is faulty, you can return it to the store where you bought it for a full refund.",
+        "exampleVi": "Nếu máy ảnh bị lỗi, bạn có thể trả lại cho cửa hàng nơi bạn đã mua để được hoàn lại toàn bộ số tiền.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "refund process, key refund",
+        "wordFamily": "refund (noun)",
+        "image": "refund.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10804,
+        "word": "return",
+        "pronunciation": "/ɹɪˈtɜːn/",
+        "audio": "return.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trở lại",
+        "definition": "The act of returning.",
+        "example": "I expect the house to be spotless upon my return.",
+        "exampleVi": "Tôi hy vọng ngôi nhà sẽ không tì vết khi tôi trở về.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "return process, key return",
+        "wordFamily": "return (noun)",
+        "image": "return.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10805,
+        "word": "exchange",
+        "pronunciation": "/ɛksˈtʃeɪndʒ/",
+        "audio": "exchange.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trao đổi",
+        "definition": "An act of exchanging or trading.",
+        "example": "All in all, it was an even exchange.",
+        "exampleVi": "Nhìn chung, đó là một cuộc trao đổi công bằng.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "exchange process, key exchange",
+        "wordFamily": "exchange (noun)",
+        "image": "exchange.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10806,
+        "word": "warranty",
+        "pronunciation": "/ˈwɒ.ɹən.ti/",
+        "audio": "warranty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo hành",
+        "definition": "A guarantee that a certain outcome or obligation will be fulfilled; security.",
+        "example": "We need to understand the concept of warranty.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bảo hành.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "warranty process, key warranty",
+        "wordFamily": "warranty (noun)",
+        "image": "warranty.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10807,
+        "word": "delivery",
+        "pronunciation": "/dɪˈlɪv(ə)ɹi/",
+        "audio": "delivery.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận chuyển",
+        "definition": "The act of conveying something.",
+        "example": "The delivery was completed by four.",
+        "exampleVi": "Việc giao hàng đã được hoàn thành bởi bốn.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "delivery process, key delivery",
+        "wordFamily": "delivery (noun)",
+        "image": "delivery.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10808,
+        "word": "shipping",
+        "pronunciation": "/ˈʃɪpɪŋ/",
+        "audio": "shipping.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận chuyển",
+        "definition": "The transportation of goods.",
+        "example": "We need to understand the concept of shipping.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vận chuyển.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shipping process, key shipping",
+        "wordFamily": "shipping (noun)",
+        "image": "shipping.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10809,
+        "word": "track",
+        "pronunciation": "/tɹæk/",
+        "audio": "track.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "theo dõi",
+        "definition": "A mark left by something that has passed along.",
+        "example": "Can you see any tracks in the snow?",
+        "exampleVi": "Bạn có thấy dấu vết nào trên tuyết không?",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "track process, key track",
+        "wordFamily": "track (noun)",
+        "image": "track.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10810,
+        "word": "loyal",
+        "pronunciation": "/loyal/",
+        "audio": "loyal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trung thành",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word loyal.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trung thành.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "loyal process, key loyal",
+        "wordFamily": "loyal (noun)",
+        "image": "loyal.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10811,
+        "word": "relationship",
+        "pronunciation": "/relationship/",
+        "audio": "relationship.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mối quan hệ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word relationship.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ quan hệ.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "relationship process, key relationship",
+        "wordFamily": "relationship (noun)",
+        "image": "relationship.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10812,
+        "word": "solution",
+        "pronunciation": "/solution/",
+        "audio": "solution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải pháp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word solution.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giải pháp.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "solution process, key solution",
+        "wordFamily": "solution (noun)",
+        "image": "solution.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10813,
+        "word": "assistance",
+        "pronunciation": "/assistance/",
+        "audio": "assistance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hỗ trợ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word assistance.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hỗ trợ.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "assistance process, key assistance",
+        "wordFamily": "assistance (noun)",
+        "image": "assistance.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10814,
+        "word": "hotline",
+        "pronunciation": "/hotline/",
+        "audio": "hotline.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường dây nóng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word hotline.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đường dây nóng.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hotline process, key hotline",
+        "wordFamily": "hotline (noun)",
+        "image": "hotline.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10815,
+        "word": "response",
+        "pronunciation": "/response/",
+        "audio": "response.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phản ứng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word response.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ phản hồi.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "response process, key response",
+        "wordFamily": "response (noun)",
+        "image": "response.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10816,
+        "word": "polite",
+        "pronunciation": "/polite/",
+        "audio": "polite.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch sự",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word polite.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lịch sự.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "polite process, key polite",
+        "wordFamily": "polite (noun)",
+        "image": "polite.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10817,
+        "word": "patience",
+        "pronunciation": "/patience/",
+        "audio": "patience.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính kiên nhẫn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word patience.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kiên nhẫn.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "patience process, key patience",
+        "wordFamily": "patience (noun)",
+        "image": "patience.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10818,
+        "word": "inquiry",
+        "pronunciation": "/inquiry/",
+        "audio": "inquiry.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc điều tra",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word inquiry.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ điều tra.",
+        "topic": "Customer Service",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "inquiry process, key inquiry",
+        "wordFamily": "inquiry (noun)",
+        "image": "inquiry.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10819,
+        "word": "resolution",
+        "pronunciation": "/resolution/",
+        "audio": "resolution.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải pháp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word resolution.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng độ phân giải từ.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "resolution process, key resolution",
+        "wordFamily": "resolution (noun)",
+        "image": "resolution.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10820,
+        "word": "loyalty",
+        "pronunciation": "/loyalty/",
+        "audio": "loyalty.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lòng trung thành",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word loyalty.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ trung thành.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "loyalty process, key loyalty",
+        "wordFamily": "loyalty (noun)",
+        "image": "loyalty.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10821,
+        "word": "clientele",
+        "pronunciation": "/clientele/",
+        "audio": "clientele.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhóm khách hàng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word clientele.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ clientele.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "clientele process, key clientele",
+        "wordFamily": "clientele (noun)",
+        "image": "clientele.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10822,
+        "word": "replacement",
+        "pronunciation": "/replacement/",
+        "audio": "replacement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thay thế",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word replacement.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thay thế.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "replacement process, key replacement",
+        "wordFamily": "replacement (noun)",
+        "image": "replacement.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10823,
+        "word": "empathy",
+        "pronunciation": "/empathy/",
+        "audio": "empathy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đồng cảm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word empathy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đồng cảm.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "empathy process, key empathy",
+        "wordFamily": "empathy (noun)",
+        "image": "empathy.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10824,
+        "word": "patronage",
+        "pronunciation": "/patronage/",
+        "audio": "patronage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảo trợ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word patronage.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bảo trợ.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "patronage process, key patronage",
+        "wordFamily": "patronage (noun)",
+        "image": "patronage.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10825,
+        "word": "guarantee",
+        "pronunciation": "/guarantee/",
+        "audio": "guarantee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đảm bảo",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word guarantee.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đảm bảo.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "guarantee process, key guarantee",
+        "wordFamily": "guarantee (noun)",
+        "image": "guarantee.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10826,
+        "word": "courtesy",
+        "pronunciation": "/courtesy/",
+        "audio": "courtesy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch sự",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word courtesy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lịch sự.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "courtesy process, key courtesy",
+        "wordFamily": "courtesy (noun)",
+        "image": "courtesy.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10827,
+        "word": "compensation",
+        "pronunciation": "/compensation/",
+        "audio": "compensation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bồi thường",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word compensation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bồi thường.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compensation process, key compensation",
+        "wordFamily": "compensation (noun)",
+        "image": "compensation.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10828,
+        "word": "politeness",
+        "pronunciation": "/politeness/",
+        "audio": "politeness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch sự",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word politeness.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lịch sự.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "politeness process, key politeness",
+        "wordFamily": "politeness (noun)",
+        "image": "politeness.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10829,
+        "word": "helpline",
+        "pronunciation": "/helpline/",
+        "audio": "helpline.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường dây trợ giúp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word helpline.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đường dây trợ giúp.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "helpline process, key helpline",
+        "wordFamily": "helpline (noun)",
+        "image": "helpline.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10830,
+        "word": "survey",
+        "pronunciation": "/survey/",
+        "audio": "survey.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khảo sát",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word survey.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khảo sát.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "survey process, key survey",
+        "wordFamily": "survey (noun)",
+        "image": "survey.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10831,
+        "word": "advocate",
+        "pronunciation": "/advocate/",
+        "audio": "advocate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người ủng hộ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word advocate.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ ủng hộ.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "advocate process, key advocate",
+        "wordFamily": "advocate (noun)",
+        "image": "advocate.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10832,
+        "word": "referral",
+        "pronunciation": "/referral/",
+        "audio": "referral.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giới thiệu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word referral.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giới thiệu.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "referral process, key referral",
+        "wordFamily": "referral (noun)",
+        "image": "referral.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10833,
+        "word": "retention",
+        "pronunciation": "/retention/",
+        "audio": "retention.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "duy trì",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word retention.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng việc lưu giữ từ.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "retention process, key retention",
+        "wordFamily": "retention (noun)",
+        "image": "retention.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10834,
+        "word": "questionnaire",
+        "pronunciation": "/ˌk(w)estjəˈnɛə/",
+        "audio": "questionnaire.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bảng câu hỏi",
+        "definition": "A form containing a list of questions; a means of gathering information for a survey",
+        "example": "We need to understand the concept of questionnaire.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm câu hỏi.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "questionnaire process, key questionnaire",
+        "wordFamily": "questionnaire (noun)",
+        "image": "questionnaire.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10835,
+        "word": "evaluation",
+        "pronunciation": "/evaluation/",
+        "audio": "evaluation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đánh giá",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word evaluation.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đánh giá.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "evaluation process, key evaluation",
+        "wordFamily": "evaluation (noun)",
+        "image": "evaluation.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10836,
+        "word": "rating",
+        "pronunciation": "/ˈɹeɪtɪŋ/",
+        "audio": "rating.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xếp hạng",
+        "definition": "To assign or be assigned a particular rank or level.",
+        "example": "She is rated fourth in the country.",
+        "exampleVi": "Cô được xếp hạng thứ tư trong cả nước.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rating process, key rating",
+        "wordFamily": "rating (noun)",
+        "image": "rating.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10837,
+        "word": "followup",
+        "pronunciation": "/followup/",
+        "audio": "followup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "theo dõi",
+        "definition": "A subsidiary action taken in response to an event.",
+        "example": "We need to understand the concept of followup.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm theo dõi.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "followup process, key followup",
+        "wordFamily": "followup (noun)",
+        "image": "followup.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10838,
+        "word": "testimonial",
+        "pronunciation": "/testimonial/",
+        "audio": "testimonial.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lời chứng thực",
+        "definition": "A statement, especially one given under oath; testimony",
+        "example": "We need to understand the concept of testimonial.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chứng thực.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "testimonial process, key testimonial",
+        "wordFamily": "testimonial (noun)",
+        "image": "testimonial.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10839,
+        "word": "rapport",
+        "pronunciation": "/ɹæˈpoʊɹ/",
+        "audio": "rapport.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mối quan hệ",
+        "definition": "A relationship of mutual trust and respect. A close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well.",
+        "example": "He always tried to maintain a rapport with his customers.",
+        "exampleVi": "Anh ấy luôn cố gắng duy trì mối quan hệ với khách hàng của mình.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rapport process, key rapport",
+        "wordFamily": "rapport (noun)",
+        "image": "rapport.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10840,
+        "word": "interaction",
+        "pronunciation": "/ˌɪntəɹˈækʃən/",
+        "audio": "interaction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tương tác",
+        "definition": "The situation or occurrence in which two or more objects or events act upon one another to produce a new effect; the effect resulting from such a situation or occurrence.",
+        "example": "Be aware of interactions between different medications.",
+        "exampleVi": "Hãy nhận biết sự tương tác giữa các loại thuốc khác nhau.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "interaction process, key interaction",
+        "wordFamily": "interaction (noun)",
+        "image": "interaction.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10841,
+        "word": "review",
+        "pronunciation": "/ɹɪˈvjuː/",
+        "audio": "review.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đánh giá",
+        "definition": "A second or subsequent reading of a text or artifact in an attempt to gain new insights.",
+        "example": "I need to make a review of the book before I can understand it.",
+        "exampleVi": "Tôi cần phải xem lại cuốn sách trước khi tôi có thể hiểu nó.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "review process, key review",
+        "wordFamily": "review (noun)",
+        "image": "review.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10842,
+        "word": "assurance",
+        "pronunciation": "/əˈʃɔːɹəns/",
+        "audio": "assurance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đảm bảo",
+        "definition": "The act of assuring; a declaration tending to inspire full confidence; that which is designed to give confidence.",
+        "example": "We need to understand the concept of assurance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đảm bảo.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "assurance process, key assurance",
+        "wordFamily": "assurance (noun)",
+        "image": "assurance.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10843,
+        "word": "escalation",
+        "pronunciation": "/escalation/",
+        "audio": "escalation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "leo thang",
+        "definition": "An increase or rise, especially one to counteract a perceived discrepancy",
+        "example": "We need to understand the concept of escalation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm leo thang.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "escalation process, key escalation",
+        "wordFamily": "escalation (noun)",
+        "image": "escalation.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10844,
+        "word": "responsiveness",
+        "pronunciation": "/ɹɪˈspɒnsɪvnɪs/",
+        "audio": "responsiveness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khả năng đáp ứng",
+        "definition": "The quality or state of being responsive.",
+        "example": "We need to understand the concept of responsiveness.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm phản hồi.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "responsiveness process, key responsiveness",
+        "wordFamily": "responsiveness (noun)",
+        "image": "responsiveness.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10845,
+        "word": "professionalism",
+        "pronunciation": "/professionalism/",
+        "audio": "professionalism.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tính chuyên nghiệp",
+        "definition": "The status, methods, character or standards expected of a professional or of a professional organization, such as reliability, discretion, evenhandedness, and fair play.",
+        "example": "We need to understand the concept of professionalism.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về tính chuyên nghiệp.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "professionalism process, key professionalism",
+        "wordFamily": "professionalism (noun)",
+        "image": "professionalism.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10846,
+        "word": "ticket",
+        "pronunciation": "/ˈtɪkɪt/",
+        "audio": "ticket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vé",
+        "definition": "A pass entitling the holder to admission to a show, concert, etc.",
+        "example": "We need to understand the concept of ticket.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về vé.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ticket process, key ticket",
+        "wordFamily": "ticket (noun)",
+        "image": "ticket.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10847,
+        "word": "settlement",
+        "pronunciation": "/ˈset.l.mənt/",
+        "audio": "settlement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải quyết",
+        "definition": "The act of settling.",
+        "example": "We need to understand the concept of settlement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hòa giải.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "settlement process, key settlement",
+        "wordFamily": "settlement (noun)",
+        "image": "settlement.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10848,
+        "word": "compromise",
+        "pronunciation": "/ˈkɒmpɹəˌmaɪz/",
+        "audio": "compromise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thỏa hiệp",
+        "definition": "The settlement of differences by arbitration or by consent reached by mutual concessions.",
+        "example": "We need to understand the concept of compromise.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thỏa hiệp.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compromise process, key compromise",
+        "wordFamily": "compromise (noun)",
+        "image": "compromise.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10849,
+        "word": "arbitration",
+        "pronunciation": "/ˌɑː.bɪˈtɹeɪ.ʃən/",
+        "audio": "arbitration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trọng tài",
+        "definition": "The act or process of arbitrating.",
+        "example": "We need to understand the concept of arbitration.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trọng tài.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "arbitration process, key arbitration",
+        "wordFamily": "arbitration (noun)",
+        "image": "arbitration.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10850,
+        "word": "mediation",
+        "pronunciation": "/midiˈeɪʃən/",
+        "audio": "mediation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hòa giải",
+        "definition": "Negotiation to resolve differences conducted by some impartial party.",
+        "example": "We need to understand the concept of mediation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hòa giải.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mediation process, key mediation",
+        "wordFamily": "mediation (noun)",
+        "image": "mediation.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10851,
+        "word": "assessment",
+        "pronunciation": "/assessment/",
+        "audio": "assessment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đánh giá",
+        "definition": "The act of assessing or an amount (of tax, levy or duty etc) assessed.",
+        "example": "We need to understand the concept of assessment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đánh giá.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "assessment process, key assessment",
+        "wordFamily": "assessment (noun)",
+        "image": "assessment.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10852,
+        "word": "advocacy",
+        "pronunciation": "/ˈæd.və.kə.si/",
+        "audio": "advocacy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận động",
+        "definition": "The profession of an advocate",
+        "example": "We need to understand the concept of advocacy.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vận động.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "advocacy process, key advocacy",
+        "wordFamily": "advocacy (noun)",
+        "image": "advocacy.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10853,
+        "word": "relations",
+        "pronunciation": "/ɹɪˈleɪʃənz/",
+        "audio": "relations.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quan hệ",
+        "definition": "The manner in which two things may be associated.",
+        "example": "The relation between diet and health is complex.",
+        "exampleVi": "Mối quan hệ giữa chế độ ăn uống và sức khỏe rất phức tạp.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "relations process, key relations",
+        "wordFamily": "relations (noun)",
+        "image": "relations.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10854,
+        "word": "indemnity",
+        "pronunciation": "/ɪnˈdɛmnɪti/",
+        "audio": "indemnity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bồi thường",
+        "definition": "Security from damage, loss, or penalty.",
+        "example": "We need to understand the concept of indemnity.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bồi thường.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "indemnity process, key indemnity",
+        "wordFamily": "indemnity (noun)",
+        "image": "indemnity.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10855,
+        "word": "dispute",
+        "pronunciation": "/ˈdɪs.pjuːt/",
+        "audio": "dispute.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tranh chấp",
+        "definition": "An argument or disagreement, a failure to agree.",
+        "example": "We need to understand the concept of dispute.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tranh chấp.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "dispute process, key dispute",
+        "wordFamily": "dispute (noun)",
+        "image": "dispute.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10856,
+        "word": "grievance",
+        "pronunciation": "/ˈɡɹi.vəns/",
+        "audio": "grievance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khiếu nại",
+        "definition": "Something which causes grief.",
+        "example": "We need to understand the concept of grievance.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm than phiền.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "grievance process, key grievance",
+        "wordFamily": "grievance (noun)",
+        "image": "grievance.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10857,
+        "word": "liaison",
+        "pronunciation": "/liaison/",
+        "audio": "liaison.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "liên lạc",
+        "definition": "Communication between two parties or groups.",
+        "example": "We need to understand the concept of liaison.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm liên lạc.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "liaison process, key liaison",
+        "wordFamily": "liaison (noun)",
+        "image": "liaison.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10858,
+        "word": "reimbursement",
+        "pronunciation": "/ˌɹiː.ɪmˈbɜːs.mənt/",
+        "audio": "reimbursement.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hoàn trả",
+        "definition": "The act of compensating someone for an expense.",
+        "example": "We need to understand the concept of reimbursement.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hoàn trả.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "reimbursement process, key reimbursement",
+        "wordFamily": "reimbursement (noun)",
+        "image": "reimbursement.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10859,
+        "word": "rebate",
+        "pronunciation": "/ɹəˈbeɪt/",
+        "audio": "rebate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giảm giá",
+        "definition": "A deduction from an amount that is paid; an abatement.",
+        "example": "We need to understand the concept of rebate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giảm giá.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "rebate process, key rebate",
+        "wordFamily": "rebate (noun)",
+        "image": "rebate.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10860,
+        "word": "ombudsman",
+        "pronunciation": "/ɔmˈbʊdzmən/",
+        "audio": "ombudsman.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thanh tra viên",
+        "definition": "An appointed official whose duty is to investigate complaints, generally on behalf of individuals such as consumers or taxpayers, against institutions such as companies and government departments.",
+        "example": "We need to understand the concept of ombudsman.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thanh tra.",
+        "topic": "Customer Service",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ombudsman process, key ombudsman",
+        "wordFamily": "ombudsman (noun)",
+        "image": "ombudsman.webp",
+        "tags": [
+            "customer",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

@@ -1,0 +1,1940 @@
+[
+    {
+        "id": 10945,
+        "word": "direction",
+        "pronunciation": "/d(a)ɪˈɹɛk.ʃən/",
+        "audio": "direction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phương hướng",
+        "definition": "A theoretical line (physically or mentally) followed from a point of origin or towards a destination. May be relative (e.g. up, left, outbound, dorsal), geographical (e.g. north), rotational (e.g. clockwise), or with respect to an object or location (e.g. toward Boston).",
+        "example": "Keep going in the same direction.",
+        "exampleVi": "Hãy tiếp tục đi theo cùng một hướng.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "direction process, key direction",
+        "wordFamily": "direction (noun)",
+        "image": "direction.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10946,
+        "word": "map",
+        "pronunciation": "/mæp/",
+        "audio": "map.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bản đồ",
+        "definition": "A visual representation of an area, whether real or imaginary.",
+        "example": "We need to understand the concept of map.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm bản đồ.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "map process, key map",
+        "wordFamily": "map (noun)",
+        "image": "map.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10947,
+        "word": "route",
+        "pronunciation": "/ɹʉːt/",
+        "audio": "route.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tuyến đường",
+        "definition": "A course or way which is traveled or passed.",
+        "example": "The route was used so much that it formed a rut.",
+        "exampleVi": "Tuyến đường được sử dụng nhiều đến mức hình thành một lối mòn.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "route process, key route",
+        "wordFamily": "route (noun)",
+        "image": "route.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10948,
+        "word": "way",
+        "pronunciation": "/weɪ/",
+        "audio": "way.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường",
+        "definition": "(heading) To do with a place or places.",
+        "example": "We need to understand the concept of way.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về con đường.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "way process, key way",
+        "wordFamily": "way (noun)",
+        "image": "way.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10949,
+        "word": "street",
+        "pronunciation": "/stɹiːt/",
+        "audio": "street.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường phố",
+        "definition": "A paved part of road, usually in a village or a town.",
+        "example": "Walk down the street until you see a hotel on the right.",
+        "exampleVi": "Đi xuống phố cho đến khi bạn nhìn thấy một khách sạn ở bên phải.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "street process, key street",
+        "wordFamily": "street (noun)",
+        "image": "street.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10950,
+        "word": "road",
+        "pronunciation": "/ɹəʊd/",
+        "audio": "road.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường",
+        "definition": "A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one surfaced with asphalt or concrete and designed to accommodate many vehicles travelling in both directions. In the UK both senses are heard: a country road is the same as a country lane.",
+        "example": "We need to understand the concept of road.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đường.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "road process, key road",
+        "wordFamily": "road (noun)",
+        "image": "road.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10951,
+        "word": "avenue",
+        "pronunciation": "/ˈæv.əˌnjuː/",
+        "audio": "avenue.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đại lộ",
+        "definition": "A broad street, especially one bordered by trees.",
+        "example": "We need to understand the concept of avenue.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đại lộ.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "avenue process, key avenue",
+        "wordFamily": "avenue (noun)",
+        "image": "avenue.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10952,
+        "word": "path",
+        "pronunciation": "[pʰäːθ]",
+        "audio": "path.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "con đường",
+        "definition": "A trail for the use of, or worn by, pedestrians.",
+        "example": "We need to understand the concept of path.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về con đường.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "path process, key path",
+        "wordFamily": "path (noun)",
+        "image": "path.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10953,
+        "word": "turn",
+        "pronunciation": "/tɜːn/",
+        "audio": "turn.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xoay",
+        "definition": "(heading) to make a non-linear physical movement.",
+        "example": "We need to understand the concept of turn.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về lượt.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "turn process, key turn",
+        "wordFamily": "turn (verb)",
+        "image": "turn.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10954,
+        "word": "left",
+        "pronunciation": "/lɛft/",
+        "audio": "left.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bên trái",
+        "definition": "The left side or direction.",
+        "example": "We need to understand the concept of left.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bên trái.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "left process, key left",
+        "wordFamily": "left (noun)",
+        "image": "left.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10955,
+        "word": "right",
+        "pronunciation": "/ˈɹaɪt/",
+        "audio": "right.mp3",
+        "partOfSpeech": "adjective",
+        "vietnamese": "Phải",
+        "definition": "Straight, not bent.",
+        "example": "a right line",
+        "exampleVi": "một dòng bên phải",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "right process, key right",
+        "wordFamily": "right (adjective)",
+        "image": "right.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10956,
+        "word": "straight",
+        "pronunciation": "/stɹeɪt/",
+        "audio": "straight.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thẳng",
+        "definition": "Something that is not crooked or bent such as a part of a road or track.",
+        "example": "We need to understand the concept of straight.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường thẳng.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "straight process, key straight",
+        "wordFamily": "straight (noun)",
+        "image": "straight.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10957,
+        "word": "forward",
+        "pronunciation": "/ˈfoːwəd/",
+        "audio": "forward.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phía trước",
+        "definition": "One of the eight players (comprising two props, one hooker, two locks, two flankers and one number eight, collectively known as the pack) whose primary task is to gain and maintain possession of the ball (compare back).",
+        "example": "We need to understand the concept of forward.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phía trước.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "forward process, key forward",
+        "wordFamily": "forward (noun)",
+        "image": "forward.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10958,
+        "word": "back",
+        "pronunciation": "/bæk/",
+        "audio": "back.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mặt sau",
+        "definition": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly.",
+        "example": "Could you please scratch my back?",
+        "exampleVi": "Bạn có thể vui lòng gãi lưng cho tôi được không?",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "back process, key back",
+        "wordFamily": "back (noun)",
+        "image": "back.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10959,
+        "word": "backward",
+        "pronunciation": "/ˈbæk.wə(ɹ)d/",
+        "audio": "backward.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lạc hậu",
+        "definition": "The state behind or past.",
+        "example": "We need to understand the concept of backward.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm lạc hậu.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "backward process, key backward",
+        "wordFamily": "backward (noun)",
+        "image": "backward.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10960,
+        "word": "north",
+        "pronunciation": "/noːθ/",
+        "audio": "north.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phía bắc",
+        "definition": "One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map, abbreviated as N.",
+        "example": "Minnesota is in the north of the USA.",
+        "exampleVi": "Minnesota nằm ở phía bắc nước Mỹ.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "north process, key north",
+        "wordFamily": "north (noun)",
+        "image": "north.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10961,
+        "word": "south",
+        "pronunciation": "/sæoθ/",
+        "audio": "south.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phía nam",
+        "definition": "One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map, abbreviated as S.",
+        "example": "We need to understand the concept of south.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về miền nam.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "south process, key south",
+        "wordFamily": "south (noun)",
+        "image": "south.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10962,
+        "word": "east",
+        "pronunciation": "/iːst/",
+        "audio": "east.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phía đông",
+        "definition": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
+        "example": "We need to understand the concept of east.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về phương đông.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "east process, key east",
+        "wordFamily": "east (noun)",
+        "image": "east.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10963,
+        "word": "west",
+        "pronunciation": "/wɛst/",
+        "audio": "west.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hướng Tây",
+        "definition": "One of the four principal compass points, specifically 270°, conventionally directed to the left on maps; the direction of the setting sun at an equinox, abbreviated as W.",
+        "example": "We need to understand the concept of west.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm của phương Tây.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "west process, key west",
+        "wordFamily": "west (noun)",
+        "image": "west.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10964,
+        "word": "corner",
+        "pronunciation": "/ˈkɔːnə(ɹ)/",
+        "audio": "corner.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "góc",
+        "definition": "The point where two converging lines meet; an angle, either external or internal.",
+        "example": "The corners of the wire mesh were reinforced with little blobs of solder.",
+        "exampleVi": "Các góc của lưới thép được gia cố bằng những đốm hàn nhỏ.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "corner process, key corner",
+        "wordFamily": "corner (noun)",
+        "image": "corner.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10965,
+        "word": "intersection",
+        "pronunciation": "/intersection/",
+        "audio": "intersection.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngã tư",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word intersection.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giao nhau.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "intersection process, key intersection",
+        "wordFamily": "intersection (noun)",
+        "image": "intersection.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10966,
+        "word": "roundabout",
+        "pronunciation": "/roundabout/",
+        "audio": "roundabout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bùng binh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word roundabout.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ roundabout.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "roundabout process, key roundabout",
+        "wordFamily": "roundabout (noun)",
+        "image": "roundabout.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10967,
+        "word": "signpost",
+        "pronunciation": "/signpost/",
+        "audio": "signpost.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "biển chỉ dẫn",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word signpost.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ biển chỉ dẫn.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "signpost process, key signpost",
+        "wordFamily": "signpost (noun)",
+        "image": "signpost.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10968,
+        "word": "gps",
+        "pronunciation": "/gps/",
+        "audio": "gps.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gps",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word gps.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ gps.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "gps process, key gps",
+        "wordFamily": "gps (noun)",
+        "image": "gps.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10969,
+        "word": "location",
+        "pronunciation": "/location/",
+        "audio": "location.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vị trí",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word location.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vị trí.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "location process, key location",
+        "wordFamily": "location (noun)",
+        "image": "location.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10970,
+        "word": "position",
+        "pronunciation": "/position/",
+        "audio": "position.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chức vụ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word position.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vị trí.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "position process, key position",
+        "wordFamily": "position (noun)",
+        "image": "position.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10971,
+        "word": "distance",
+        "pronunciation": "/distance/",
+        "audio": "distance.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khoảng cách",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word distance.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ khoảng cách.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "distance process, key distance",
+        "wordFamily": "distance (noun)",
+        "image": "distance.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10972,
+        "word": "mile",
+        "pronunciation": "/mile/",
+        "audio": "mile.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dặm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word mile.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ dặm.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "mile process, key mile",
+        "wordFamily": "mile (noun)",
+        "image": "mile.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10973,
+        "word": "kilometer",
+        "pronunciation": "/kilometer/",
+        "audio": "kilometer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cây số",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word kilometer.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ km.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "kilometer process, key kilometer",
+        "wordFamily": "kilometer (noun)",
+        "image": "kilometer.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10974,
+        "word": "block",
+        "pronunciation": "/block/",
+        "audio": "block.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khối",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word block.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng khối từ.",
+        "topic": "Directions",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "block process, key block",
+        "wordFamily": "block (noun)",
+        "image": "block.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10975,
+        "word": "locate",
+        "pronunciation": "/ləʊˈkeɪt/",
+        "audio": "locate.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "xác định vị trí",
+        "definition": "To place; to set in a particular spot or position.",
+        "example": "We need to understand the concept of locate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm định vị.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "locate process, key locate",
+        "wordFamily": "locate (noun)",
+        "image": "locate.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10976,
+        "word": "junction",
+        "pronunciation": "/ˈdʒʌŋkʃən/",
+        "audio": "junction.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngã ba",
+        "definition": "The act of joining, or the state of being joined.",
+        "example": "We need to understand the concept of junction.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm mối nối.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "junction process, key junction",
+        "wordFamily": "junction (noun)",
+        "image": "junction.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10977,
+        "word": "navigation",
+        "pronunciation": "/nævɪˈɡeɪʃən/",
+        "audio": "navigation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điều hướng",
+        "definition": "The theory, practice and technology of charting a course for a ship, aircraft or spaceship or (colloquially) road vehicle.",
+        "example": "We need to understand the concept of navigation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm điều hướng.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "navigation process, key navigation",
+        "wordFamily": "navigation (noun)",
+        "image": "navigation.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10978,
+        "word": "track",
+        "pronunciation": "/tɹæk/",
+        "audio": "track.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "theo dõi",
+        "definition": "A mark left by something that has passed along.",
+        "example": "Can you see any tracks in the snow?",
+        "exampleVi": "Bạn có thấy dấu vết nào trên tuyết không?",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "track process, key track",
+        "wordFamily": "track (noun)",
+        "image": "track.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10979,
+        "word": "itinerary",
+        "pronunciation": "/aɪˈtɪnəɹi/",
+        "audio": "itinerary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành trình",
+        "definition": "A written schedule of activities for a vacation or road trip.",
+        "example": "We need to understand the concept of itinerary.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hành trình.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "itinerary process, key itinerary",
+        "wordFamily": "itinerary (noun)",
+        "image": "itinerary.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10980,
+        "word": "compass",
+        "pronunciation": "/ˈkʌm.pəs/",
+        "audio": "compass.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "la bàn",
+        "definition": "A magnetic or electronic device used to determine the cardinal directions (usually magnetic or true north).",
+        "example": "We need to understand the concept of compass.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm la bàn.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "compass process, key compass",
+        "wordFamily": "compass (noun)",
+        "image": "compass.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10981,
+        "word": "trail",
+        "pronunciation": "/tɹeɪl/",
+        "audio": "trail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường mòn",
+        "definition": "The track or indication marking the route followed by something that has passed, such as the footprints of animal on land or the contrail of an airplane in the sky.",
+        "example": "We need to understand the concept of trail.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường mòn.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trail process, key trail",
+        "wordFamily": "trail (noun)",
+        "image": "trail.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10982,
+        "word": "orient",
+        "pronunciation": "/ˈɔː.ɹɪ.ənt/",
+        "audio": "orient.mp3",
+        "partOfSpeech": "proper noun",
+        "vietnamese": "định hướng",
+        "definition": "Usually preceded by the: a region or a part of the world to the east of a certain place; countries of Asia, the East (especially East Asia).",
+        "example": "We need to understand the concept of orient.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm định hướng.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "orient process, key orient",
+        "wordFamily": "orient (noun)",
+        "image": "orient.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10983,
+        "word": "landmark",
+        "pronunciation": "/ˈlændmɑɹk/",
+        "audio": "landmark.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mốc",
+        "definition": "An object that marks the boundary of a piece of land (usually a stone, or a tree).",
+        "example": "We need to understand the concept of landmark.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cột mốc.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "landmark process, key landmark",
+        "wordFamily": "landmark (noun)",
+        "image": "landmark.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10984,
+        "word": "fork",
+        "pronunciation": "/fɔːk/",
+        "audio": "fork.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ngã ba",
+        "definition": "A pronged tool having a long straight handle, used for digging, lifting, throwing etc.",
+        "example": "We need to understand the concept of fork.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về ngã ba.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fork process, key fork",
+        "wordFamily": "fork (noun)",
+        "image": "fork.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10985,
+        "word": "expressway",
+        "pronunciation": "/expressway/",
+        "audio": "expressway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường cao tốc",
+        "definition": "A divided highway where intersections and direct access to adjacent properties have been eliminated.",
+        "example": "We need to understand the concept of expressway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường cao tốc.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "expressway process, key expressway",
+        "wordFamily": "expressway (noun)",
+        "image": "expressway.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10986,
+        "word": "highway",
+        "pronunciation": "/ˈhaɪweɪ/",
+        "audio": "highway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường cao tốc",
+        "definition": "A motor vehicle for transporting large numbers of people along roads.",
+        "example": "We need to understand the concept of highway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường cao tốc.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "highway process, key highway",
+        "wordFamily": "highway (noun)",
+        "image": "highway.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10987,
+        "word": "destination",
+        "pronunciation": "/dɛstɪˈneɪʃən/",
+        "audio": "destination.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điểm đến",
+        "definition": "The act of destining or appointing.",
+        "example": "We need to understand the concept of destination.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đích đến.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "destination process, key destination",
+        "wordFamily": "destination (noun)",
+        "image": "destination.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10988,
+        "word": "freeway",
+        "pronunciation": "/ˈfɹiː.wei/",
+        "audio": "freeway.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường cao tốc",
+        "definition": "A road designed for safe, high-speed operation of motor vehicles through the elimination of at-grade intersections, usually divided and having at least two lanes in each direction; a dual carriageway with no at-grade crossings, a motorway.",
+        "example": "We need to understand the concept of freeway.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường cao tốc.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "freeway process, key freeway",
+        "wordFamily": "freeway (noun)",
+        "image": "freeway.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10989,
+        "word": "turnpike",
+        "pronunciation": "/ˈtɜː(ɹ)npaɪk/",
+        "audio": "turnpike.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lối rẽ",
+        "definition": "A frame consisting of two bars crossing each other at right angles and turning on a post or pin, to hinder the passage of animals, but admitting a person to pass between the arms; a turnstile.",
+        "example": "We need to understand the concept of turnpike.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thu phí.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "turnpike process, key turnpike",
+        "wordFamily": "turnpike (noun)",
+        "image": "turnpike.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10990,
+        "word": "proximity",
+        "pronunciation": "/pɹɑkˈsɪ.mɪ.ti/",
+        "audio": "proximity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự gần gũi",
+        "definition": "Closeness; the state of being near as in space, time, or relationship.",
+        "example": "The proximity of the heat source allowed it to be detected by the sensor.",
+        "exampleVi": "Khoảng cách gần của nguồn nhiệt cho phép cảm biến phát hiện ra nó.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "proximity process, key proximity",
+        "wordFamily": "proximity (noun)",
+        "image": "proximity.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10991,
+        "word": "toll",
+        "pronunciation": "/toʊl/",
+        "audio": "toll.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "số điện thoại",
+        "definition": "Loss or damage incurred through a disaster.",
+        "example": "The war has taken its toll on the people.",
+        "exampleVi": "Chiến tranh đã gây thiệt hại nặng nề cho người dân.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "toll process, key toll",
+        "wordFamily": "toll (noun)",
+        "image": "toll.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10992,
+        "word": "fare",
+        "pronunciation": "/fɛə(ɹ)/",
+        "audio": "fare.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá vé",
+        "definition": "A going; journey; travel; voyage; course; passage.",
+        "example": "We need to understand the concept of fare.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giá vé.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fare process, key fare",
+        "wordFamily": "fare (noun)",
+        "image": "fare.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10993,
+        "word": "vicinity",
+        "pronunciation": "/vəˈsɪnəti/",
+        "audio": "vicinity.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vùng lân cận",
+        "definition": "Proximity; the state of being near.",
+        "example": "There was a crackling sound in the vicinity of my right ear.",
+        "exampleVi": "Có một âm thanh tanh tách vang lên bên tai phải của tôi.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vicinity process, key vicinity",
+        "wordFamily": "vicinity (noun)",
+        "image": "vicinity.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10994,
+        "word": "mileage",
+        "pronunciation": "/ˈmaɪlədʒ/",
+        "audio": "mileage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "số dặm",
+        "definition": "The total distance travelled in miles or in air miles.",
+        "example": "We need to understand the concept of mileage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về số km.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mileage process, key mileage",
+        "wordFamily": "mileage (noun)",
+        "image": "mileage.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10995,
+        "word": "detour",
+        "pronunciation": "/ˈdiː.tɔː(ɹ)/",
+        "audio": "detour.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đường vòng",
+        "definition": "A diversion or deviation from one's original route.",
+        "example": "We need to understand the concept of detour.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đường vòng.",
+        "topic": "Directions",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "detour process, key detour",
+        "wordFamily": "detour (noun)",
+        "image": "detour.webp",
+        "tags": [
+            "directions",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

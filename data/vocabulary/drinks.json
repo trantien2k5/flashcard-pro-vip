@@ -1,0 +1,1522 @@
+[
+    {
+        "id": 10996,
+        "word": "water",
+        "pronunciation": "/ˈwoːtə/",
+        "audio": "water.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Nước",
+        "definition": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+        "example": "By the action of electricity, the water was resolved into its two parts, oxygen and hydrogen.",
+        "exampleVi": "Nhờ tác động của điện, nước được phân giải thành hai phần là oxy và hydro.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "water process, key water",
+        "wordFamily": "water (noun)",
+        "image": "water.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10997,
+        "word": "tea",
+        "pronunciation": "/tiː/",
+        "audio": "tea.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trà",
+        "definition": "A drug smoked or ingested for euphoric effect, cannabis.",
+        "example": "After smoking a bowl of that fine marijuana, they ate some brownies.",
+        "exampleVi": "Sau khi hút một bát cần sa hảo hạng, họ ăn một ít bánh hạnh nhân.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tea process, key tea",
+        "wordFamily": "tea (noun)",
+        "image": "tea.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10998,
+        "word": "coffee",
+        "pronunciation": "/ˈkɑ.fi/",
+        "audio": "coffee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cà phê",
+        "definition": "A beverage made by infusing the beans of the coffee plant in hot water.",
+        "example": "We need to understand the concept of coffee.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cà phê.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "coffee process, key coffee",
+        "wordFamily": "coffee (noun)",
+        "image": "coffee.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10999,
+        "word": "juice",
+        "pronunciation": "/d͡ʒuːs/",
+        "audio": "juice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nước ép",
+        "definition": "A liquid from a plant, especially fruit.",
+        "example": "Squeeze the orange and some juice will come out.",
+        "exampleVi": "Vắt cam và một ít nước sẽ chảy ra.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "juice process, key juice",
+        "wordFamily": "juice (noun)",
+        "image": "juice.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11000,
+        "word": "soda",
+        "pronunciation": "/ˈsəʊdə/",
+        "audio": "soda.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nước ngọt",
+        "definition": "Sodium bicarbonate (usually baking soda).",
+        "example": "We need to understand the concept of soda.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm soda.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "soda process, key soda",
+        "wordFamily": "soda (noun)",
+        "image": "soda.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11001,
+        "word": "beer",
+        "pronunciation": "/bɛə/",
+        "audio": "beer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bia",
+        "definition": "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+        "example": "Beer is brewed all over the world.",
+        "exampleVi": "Bia được ủ trên khắp thế giới.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "beer process, key beer",
+        "wordFamily": "beer (noun)",
+        "image": "beer.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11002,
+        "word": "wine",
+        "pronunciation": "/waɪn/",
+        "audio": "wine.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rượu ",
+        "definition": "An alcoholic beverage made by fermenting the juice of grapes.",
+        "example": "She ordered some wine for the meal.",
+        "exampleVi": "Cô gọi một ít rượu cho bữa ăn.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "wine process, key wine",
+        "wordFamily": "wine (noun)",
+        "image": "wine.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11003,
+        "word": "milk",
+        "pronunciation": "[mɛlk]",
+        "audio": "milk.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sữa",
+        "definition": "A white liquid produced by the mammary glands of female mammals to nourish their young. From certain animals, especially cows, it is also called dairy milk and is a common food for humans as a beverage or used to produce various dairy products such as butter, cheese, and yogurt.",
+        "example": "We need to understand the concept of milk.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sữa.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "milk process, key milk",
+        "wordFamily": "milk (noun)",
+        "image": "milk.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11004,
+        "word": "smoothie",
+        "pronunciation": "/smoothie/",
+        "audio": "smoothie.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sinh tố",
+        "definition": "A smooth-talking person.",
+        "example": "We need to understand the concept of smoothie.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm sinh tố.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "smoothie process, key smoothie",
+        "wordFamily": "smoothie (noun)",
+        "image": "smoothie.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11005,
+        "word": "lemonade",
+        "pronunciation": "/ˌlɛmənˈeɪd/",
+        "audio": "lemonade.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nước chanh",
+        "definition": "A flavoured beverage consisting of water, lemon, and sweetener, sometimes ice, served mainly as a refreshment.",
+        "example": "We need to understand the concept of lemonade.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nước chanh.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lemonade process, key lemonade",
+        "wordFamily": "lemonade (noun)",
+        "image": "lemonade.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11006,
+        "word": "cocktail",
+        "pronunciation": "/ˈkɒkteɪl/",
+        "audio": "cocktail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cocktail",
+        "definition": "A mixed alcoholic beverage.",
+        "example": "We need to understand the concept of cocktail.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cocktail.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cocktail process, key cocktail",
+        "wordFamily": "cocktail (noun)",
+        "image": "cocktail.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11007,
+        "word": "cider",
+        "pronunciation": "/ˈsaɪ̯.də/",
+        "audio": "cider.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rượu táo",
+        "definition": "An alcoholic, often sparkling (carbonated) beverage made from fermented apples; hard cider; apple cider",
+        "example": "We need to understand the concept of cider.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về rượu táo.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cider process, key cider",
+        "wordFamily": "cider (noun)",
+        "image": "cider.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11008,
+        "word": "cocoa",
+        "pronunciation": "/ˈkəʊ.kəʊ/",
+        "audio": "cocoa.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ca cao",
+        "definition": "The dried and partially fermented fatty seeds of the cacao tree from which chocolate is made.",
+        "example": "We need to understand the concept of cocoa.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cacao.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cocoa process, key cocoa",
+        "wordFamily": "cocoa (noun)",
+        "image": "cocoa.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11009,
+        "word": "yogurt",
+        "pronunciation": "/ˈjəʉɡət/",
+        "audio": "yogurt.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "da ua",
+        "definition": "A milk-based product stiffened by a bacterium-aided curdling process, and sometimes mixed with fruit or other flavoring.",
+        "example": "We need to understand the concept of yogurt.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sữa chua.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "yogurt process, key yogurt",
+        "wordFamily": "yogurt (noun)",
+        "image": "yogurt.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11010,
+        "word": "shake",
+        "pronunciation": "/ˈʃeɪk/",
+        "audio": "shake.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lắc",
+        "definition": "The act of shaking or being shaken; tremulous or back-and-forth motion.",
+        "example": "She replied in the negative, with a shake of her head.",
+        "exampleVi": "Cô ấy trả lời phủ định, kèm theo một cái lắc đầu.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "shake process, key shake",
+        "wordFamily": "shake (noun)",
+        "image": "shake.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11011,
+        "word": "espresso",
+        "pronunciation": "/ɛˈspɹɛsəʊ/",
+        "audio": "espresso.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cà phê espresso",
+        "definition": "A concentrated coffee beverage brewed by forcing hot water under high pressure through finely ground coffee.",
+        "example": "We need to understand the concept of espresso.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về espresso.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "espresso process, key espresso",
+        "wordFamily": "espresso (noun)",
+        "image": "espresso.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11012,
+        "word": "latte",
+        "pronunciation": "/ˈlæ.teɪ/",
+        "audio": "latte.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "pha cà phê",
+        "definition": "A drink of coffee made from espresso and steamed milk, generally topped with foam.",
+        "example": "We need to understand the concept of latte.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về latte.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "latte process, key latte",
+        "wordFamily": "latte (noun)",
+        "image": "latte.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11013,
+        "word": "cappuccino",
+        "pronunciation": "/ˌkæpəˈtʃiːnəʊ/",
+        "audio": "cappuccino.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cà phê cappuccino",
+        "definition": "An Italian coffee-based beverage made from espresso and milk that has been steamed and/or frothed.",
+        "example": "We need to understand the concept of cappuccino.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về cappuccino.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cappuccino process, key cappuccino",
+        "wordFamily": "cappuccino (noun)",
+        "image": "cappuccino.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11014,
+        "word": "syrup",
+        "pronunciation": "/ˈsɪ.ɹəp/",
+        "audio": "syrup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "xi-rô",
+        "definition": "Any thick liquid that has a high sugar content and which is added to or poured over food as a flavouring.",
+        "example": "maple syrup",
+        "exampleVi": "xi-rô cây phong",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "syrup process, key syrup",
+        "wordFamily": "syrup (noun)",
+        "image": "syrup.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11015,
+        "word": "tonic",
+        "pronunciation": "/ˈtɒnɪk/",
+        "audio": "tonic.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuốc bổ",
+        "definition": "A substance with medicinal properties intended to restore or invigorate.",
+        "example": "We used to brew a tonic from a particular kind of root.",
+        "exampleVi": "Chúng tôi thường pha chế một loại thuốc bổ từ một loại rễ cụ thể.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tonic process, key tonic",
+        "wordFamily": "tonic (noun)",
+        "image": "tonic.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11016,
+        "word": "liquor",
+        "pronunciation": "/ˈlɪk.ə(ɹ)/",
+        "audio": "liquor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rượu",
+        "definition": "A liquid, a fluid.",
+        "example": "We need to understand the concept of liquor.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về rượu.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "liquor process, key liquor",
+        "wordFamily": "liquor (noun)",
+        "image": "liquor.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11017,
+        "word": "champagne",
+        "pronunciation": "/ʃæmˈpeɪn/",
+        "audio": "champagne.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rượu sâm panh",
+        "definition": "A sparkling white wine made from a blend of grapes, especially Chardonnay and pinot, produced in Champagne, France, by the méthode champenoise.",
+        "example": "We need to understand the concept of champagne.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về rượu sâm panh.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "champagne process, key champagne",
+        "wordFamily": "champagne (noun)",
+        "image": "champagne.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11018,
+        "word": "spirits",
+        "pronunciation": "/ˈspɪɹɪts/",
+        "audio": "spirits.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tinh thần",
+        "definition": "The soul of a person or other creature. What moves through experience into self-definition as souls purpose.",
+        "example": "We need to understand the concept of spirits.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về linh hồn.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "spirits process, key spirits",
+        "wordFamily": "spirits (noun)",
+        "image": "spirits.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11019,
+        "word": "beverage",
+        "pronunciation": "/ˈbevəɹɪdʒ/",
+        "audio": "beverage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đồ uống",
+        "definition": "A liquid to consume; a drink, such as tea, coffee, liquor, beer, milk, juice, or soft drinks, usually excluding water.",
+        "example": "We need to understand the concept of beverage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đồ uống.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "beverage process, key beverage",
+        "wordFamily": "beverage (noun)",
+        "image": "beverage.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11020,
+        "word": "softdrink",
+        "pronunciation": "/softdrink/",
+        "audio": "softdrink.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nước giải khát",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word softdrink.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ softdrink.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "softdrink process, key softdrink",
+        "wordFamily": "softdrink (noun)",
+        "image": "softdrink.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11021,
+        "word": "fluid",
+        "pronunciation": "/ˈfluːɪd/",
+        "audio": "fluid.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dịch",
+        "definition": "Any substance which can flow with relative ease, tends to assume the shape of its container, and obeys Bernoulli's principle; a liquid, gas or plasma.",
+        "example": "We need to understand the concept of fluid.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chất lỏng.",
+        "topic": "Drinks",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fluid process, key fluid",
+        "wordFamily": "fluid (noun)",
+        "image": "fluid.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11022,
+        "word": "ale",
+        "pronunciation": "/eɪl/",
+        "audio": "ale.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ale",
+        "definition": "A beer made without hops.",
+        "example": "We need to understand the concept of ale.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về rượu bia.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "ale process, key ale",
+        "wordFamily": "ale (noun)",
+        "image": "ale.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11023,
+        "word": "refreshment",
+        "pronunciation": "/ɹɪˈfɹeʃ.mənt/",
+        "audio": "refreshment.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải khát",
+        "definition": "The action of refreshing; a means of restoring strength, energy or vigour.",
+        "example": "We need to understand the concept of refreshment.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về sự sảng khoái.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "refreshment process, key refreshment",
+        "wordFamily": "refreshment (noun)",
+        "image": "refreshment.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11024,
+        "word": "infusion",
+        "pronunciation": "/ɪnˈfjuːʒən/",
+        "audio": "infusion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "truyền dịch",
+        "definition": "A product consisting of a liquid which has had other ingredients steeped in it to extract useful qualities.",
+        "example": "An extract of rooibos and chamomile makes a refreshing infusion.",
+        "exampleVi": "Chiết xuất rooibos và hoa cúc tạo nên một hỗn hợp sảng khoái.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "infusion process, key infusion",
+        "wordFamily": "infusion (noun)",
+        "image": "infusion.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11025,
+        "word": "milkshake",
+        "pronunciation": "[ˈmɪɫk.ʃeɪk]",
+        "audio": "milkshake.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sữa lắc",
+        "definition": "A thick beverage consisting of milk and ice cream mixed together, often with fruit, chocolate, or other flavoring.",
+        "example": "We need to understand the concept of milkshake.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sữa lắc.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "milkshake process, key milkshake",
+        "wordFamily": "milkshake (noun)",
+        "image": "milkshake.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11026,
+        "word": "decaf",
+        "pronunciation": "/ˈdiːkæf/",
+        "audio": "decaf.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "decaf",
+        "definition": "A decaffeinated coffee, tea, or soft drink.",
+        "example": "We need to understand the concept of decaf.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về decaf.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "decaf process, key decaf",
+        "wordFamily": "decaf (noun)",
+        "image": "decaf.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11027,
+        "word": "brew",
+        "pronunciation": "/bɹuː/",
+        "audio": "brew.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "pha bia",
+        "definition": "The mixture formed by brewing; that which is brewed; a brewage, such as a cup of tea or a brewed beer.",
+        "example": "We need to understand the concept of brew.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về bia.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "brew process, key brew",
+        "wordFamily": "brew (noun)",
+        "image": "brew.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11028,
+        "word": "punch",
+        "pronunciation": "/pʌntʃ/",
+        "audio": "punch.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cú đấm",
+        "definition": "A hit or strike with one's fist.",
+        "example": "We need to understand the concept of punch.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cú đấm.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "punch process, key punch",
+        "wordFamily": "punch (noun)",
+        "image": "punch.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11029,
+        "word": "seltzer",
+        "pronunciation": "/ˈsɛltsɚ/",
+        "audio": "seltzer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nước lọc",
+        "definition": "Carbonated water",
+        "example": "We need to understand the concept of seltzer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về seltzer.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "seltzer process, key seltzer",
+        "wordFamily": "seltzer (noun)",
+        "image": "seltzer.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11030,
+        "word": "mocha",
+        "pronunciation": "/ˈmɒkə/",
+        "audio": "mocha.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mocha",
+        "definition": "A coffee drink with chocolate syrup added, or a serving thereof; a caffè mocha.",
+        "example": "We need to understand the concept of mocha.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mocha.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mocha process, key mocha",
+        "wordFamily": "mocha (noun)",
+        "image": "mocha.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11031,
+        "word": "macchiato",
+        "pronunciation": "/macchiato/",
+        "audio": "macchiato.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "macchiato",
+        "definition": "Espresso topped with steamed milk.",
+        "example": "We need to understand the concept of macchiato.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm macchiato.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "macchiato process, key macchiato",
+        "wordFamily": "macchiato (noun)",
+        "image": "macchiato.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11032,
+        "word": "mocktail",
+        "pronunciation": "/mocktail/",
+        "audio": "mocktail.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "mocktail",
+        "definition": "A non-alcoholic cocktail.",
+        "example": "We need to understand the concept of mocktail.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về mocktail.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "mocktail process, key mocktail",
+        "wordFamily": "mocktail (noun)",
+        "image": "mocktail.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11033,
+        "word": "liquid",
+        "pronunciation": "/ˈlɪkwɪd/",
+        "audio": "liquid.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chất lỏng",
+        "definition": "A substance that is flowing, and keeping no shape, such as water; a substance of which the molecules, while not tending to separate from one another like those of a gas, readily change their relative position, and which therefore retains no definite shape, except that determined by the containing receptacle; an inelastic fluid.",
+        "example": "A liquid can freeze to become a solid or evaporate into a gas.",
+        "exampleVi": "Một chất lỏng có thể đóng băng để trở thành chất rắn hoặc bay hơi thành chất khí.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "liquid process, key liquid",
+        "wordFamily": "liquid (noun)",
+        "image": "liquid.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11034,
+        "word": "stout",
+        "pronunciation": "/stʌʊt/",
+        "audio": "stout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bia đen",
+        "definition": "A dark and strong malt brew made with toasted grain.",
+        "example": "Stout is darker, stronger and sweeter than porter beer.",
+        "exampleVi": "Stout có màu sẫm hơn, mạnh hơn và ngọt hơn bia porter.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stout process, key stout",
+        "wordFamily": "stout (noun)",
+        "image": "stout.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 11035,
+        "word": "liqueur",
+        "pronunciation": "/lɪˈkjɔː/",
+        "audio": "liqueur.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "rượu mùi",
+        "definition": "A flavoured alcoholic beverage that is usually very sweet and contains a high percentage of alcohol. Cordials are a type of liqueur manufactured using the infusion process as opposed to the essence and distillation processes.",
+        "example": "We need to understand the concept of liqueur.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm rượu mùi.",
+        "topic": "Drinks",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "liqueur process, key liqueur",
+        "wordFamily": "liqueur (noun)",
+        "image": "liqueur.webp",
+        "tags": [
+            "drinks",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

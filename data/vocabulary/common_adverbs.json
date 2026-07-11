@@ -1,0 +1,2073 @@
+[
+    {
+        "id": 10508,
+        "word": "quickly",
+        "pronunciation": "/ˈkwɪkli/",
+        "audio": "quickly.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "nhanh chóng",
+        "definition": "at a fast speed; rapidly",
+        "example": "We need to resolve this client issue quickly.",
+        "exampleVi": "Chúng ta cần giải quyết vấn đề của khách hàng này một cách nhanh chóng.",
+        "topic": "Common Adverbs",
+        "level": "A1/A2",
+        "difficulty": 1,
+        "collocations": "respond quickly, act quickly, move quickly",
+        "wordFamily": "quick (adjective), quickness (noun)",
+        "image": "quickly.webp",
+        "tags": [
+            "common",
+            "adverb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10509,
+        "word": "efficiently",
+        "pronunciation": "/ɪˈfɪʃntli/",
+        "audio": "efficiently.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "hiệu quả, hiệu suất cao",
+        "definition": "in a way that achieves maximum productivity with minimum wasted effort",
+        "example": "The new software allows us to process orders more efficiently.",
+        "exampleVi": "Phần mềm mới cho phép chúng tôi xử lý các đơn hàng hiệu quả hơn.",
+        "topic": "Common Adverbs",
+        "level": "B1/B2",
+        "difficulty": 3,
+        "collocations": "work efficiently, run efficiently, organize efficiently",
+        "wordFamily": "efficient (adjective), efficiency (noun)",
+        "image": "efficiently.webp",
+        "tags": [
+            "business",
+            "adverb",
+            "office"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10510,
+        "word": "successfully",
+        "pronunciation": "/səkˈsesfəli/",
+        "audio": "successfully.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "thành công",
+        "definition": "in a way that achieves a desired aim or result",
+        "example": "She successfully negotiated the contract with the supplier.",
+        "exampleVi": "Cô ấy đã đàm phán thành công hợp đồng với nhà cung cấp.",
+        "topic": "Common Adverbs",
+        "level": "A2/B1",
+        "difficulty": 2,
+        "collocations": "complete successfully, implement successfully, negotiate successfully",
+        "wordFamily": "success (noun), succeed (verb), successful (adjective)",
+        "image": "successfully.webp",
+        "tags": [
+            "business",
+            "adverb",
+            "achievement"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10511,
+        "word": "recently",
+        "pronunciation": "/ˈriːsntli/",
+        "audio": "recently.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "gần đây",
+        "definition": "not long ago",
+        "example": "The marketing department recently launched a new campaign.",
+        "exampleVi": "Bộ phận tiếp thị gần đây đã triển khai một chiến dịch mới.",
+        "topic": "Common Adverbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "until recently, most recently, recently published",
+        "wordFamily": "recent (adjective)",
+        "image": "recently.webp",
+        "tags": [
+            "time",
+            "adverb",
+            "grammar"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10512,
+        "word": "currently",
+        "pronunciation": "/ˈkʌrəntli/",
+        "audio": "currently.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "hiện tại, hiện thời",
+        "definition": "at the present time",
+        "example": "Mr. Harrison is currently out of the office on business.",
+        "exampleVi": "Ông Harrison hiện đang đi công tác ngoài văn phòng.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "currently available, currently working, currently seeking",
+        "wordFamily": "current (adjective/noun)",
+        "image": "currently.webp",
+        "tags": [
+            "time",
+            "adverb",
+            "essential"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10513,
+        "word": "immediately",
+        "pronunciation": "/ɪˈmiːdiətli/",
+        "audio": "immediately.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "ngay lập tức",
+        "definition": "at once; instantly",
+        "example": "Please submit your travel expense reports immediately.",
+        "exampleVi": "Vui lòng nộp báo cáo chi phí đi lại của bạn ngay lập tức.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "effective immediately, follow immediately, respond immediately",
+        "wordFamily": "immediate (adjective)",
+        "image": "immediately.webp",
+        "tags": [
+            "urgency",
+            "adverb",
+            "office"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10514,
+        "word": "directly",
+        "pronunciation": "/daɪˈrektli/",
+        "audio": "directly.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "trực tiếp",
+        "definition": "without changing direction or size; straight",
+        "example": "You can report directly to the human resources manager.",
+        "exampleVi": "Bạn có thể báo cáo trực tiếp với trưởng phòng nhân sự.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "report directly, deal directly, contact directly",
+        "wordFamily": "direct (adjective/verb), direction (noun)",
+        "image": "directly.webp",
+        "tags": [
+            "business",
+            "adverb",
+            "communication"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10515,
+        "word": "easily",
+        "pronunciation": "/ˈiːzəli/",
+        "audio": "easily.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "dễ dàng",
+        "definition": "without difficulty or effort",
+        "example": "Customers can easily navigate our new e-commerce website.",
+        "exampleVi": "Khách hàng có thể dễ dàng điều hướng trang web thương mại điện tử mới của chúng tôi.",
+        "topic": "Common Adverbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "easily accessible, easily recognized, easily modified",
+        "wordFamily": "easy (adjective), ease (noun/verb)",
+        "image": "easily.webp",
+        "tags": [
+            "common",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10516,
+        "word": "clearly",
+        "pronunciation": "/ˈklɪəli/",
+        "audio": "clearly.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "rõ ràng",
+        "definition": "in a way that is easy to see, hear, or understand",
+        "example": "The guidelines were clearly explained in the email.",
+        "exampleVi": "Các hướng dẫn đã được giải thích rõ ràng trong email.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "clearly state, clearly show, clearly understand",
+        "wordFamily": "clear (adjective/verb)",
+        "image": "clearly.webp",
+        "tags": [
+            "communication",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10517,
+        "word": "closely",
+        "pronunciation": "/ˈkləʊsli/",
+        "audio": "closely.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "chặt chẽ, kỹ lưỡng",
+        "definition": "in a collaborative way or with great attention to detail",
+        "example": "We work closely with our partners to ensure quality control.",
+        "exampleVi": "Chúng tôi làm việc chặt chẽ với các đối tác để đảm bảo kiểm soát chất lượng.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "work closely, monitor closely, examine closely",
+        "wordFamily": "close (adjective/verb), closeness (noun)",
+        "image": "closely.webp",
+        "tags": [
+            "business",
+            "adverb",
+            "collaboration"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10518,
+        "word": "approximately",
+        "pronunciation": "/əˈprɒksɪmətli/",
+        "audio": "approximately.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "khoảng chừng, xấp xỉ",
+        "definition": "used to show that something is almost, but not completely, accurate",
+        "example": "The renovation project will cost approximately fifty thousand dollars.",
+        "exampleVi": "Dự án cải tạo sẽ tốn khoảng năm mươi nghìn đô la.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "approximately equal, approximately double, take approximately",
+        "wordFamily": "approximate (adjective/verb), approximation (noun)",
+        "image": "approximately.webp",
+        "tags": [
+            "numbers",
+            "adverb",
+            "finance"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10519,
+        "word": "nearly",
+        "pronunciation": "/ˈnɪəli/",
+        "audio": "nearly.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "gần như, suýt",
+        "definition": "almost; not quite",
+        "example": "We have nearly completed the database migration.",
+        "exampleVi": "Chúng tôi gần như đã hoàn thành việc di chuyển cơ sở dữ liệu.",
+        "topic": "Common Adverbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "nearly double, nearly finished, nearly impossible",
+        "wordFamily": "near (adjective/preposition/verb)",
+        "image": "nearly.webp",
+        "tags": [
+            "common",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10520,
+        "word": "highly",
+        "pronunciation": "/ˈhaɪli/",
+        "audio": "highly.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "rất, ở mức độ cao",
+        "definition": "to a high degree; extremely",
+        "example": "Our technical support team is highly trained and experienced.",
+        "exampleVi": "Đội ngũ hỗ trợ kỹ thuật của chúng tôi được đào tạo bài bản và giàu kinh nghiệm.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "highly recommended, highly skilled, highly successful",
+        "wordFamily": "high (adjective/noun)",
+        "image": "highly.webp",
+        "tags": [
+            "degree",
+            "adverb",
+            "professional"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10521,
+        "word": "relatively",
+        "pronunciation": "/ˈrelətɪvli/",
+        "audio": "relatively.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "tương đối",
+        "definition": "in relation, comparison, or proportion to something else",
+        "example": "The cost of the new printer is relatively low compared to other models.",
+        "exampleVi": "Giá của chiếc máy in mới tương đối thấp so với các mẫu khác.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "relatively small, relatively easy, relatively quiet",
+        "wordFamily": "relative (adjective/noun), relation (noun)",
+        "image": "relatively.webp",
+        "tags": [
+            "comparison",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10522,
+        "word": "significantly",
+        "pronunciation": "/sɪɡˈnɪfɪkəntli/",
+        "audio": "significantly.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "đáng kể",
+        "definition": "in a sufficiently great or important way as to be worthy of attention",
+        "example": "Profits have increased significantly since the reorganization.",
+        "exampleVi": "Lợi nhuận đã tăng đáng kể kể từ khi tái cấu trúc.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "increase significantly, reduce significantly, contribute significantly",
+        "wordFamily": "significant (adjective), significance (noun), signify (verb)",
+        "image": "significantly.webp",
+        "tags": [
+            "business",
+            "adverb",
+            "data"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10523,
+        "word": "substantially",
+        "pronunciation": "/səbˈstænʃəli/",
+        "audio": "substantially.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "đáng kể, về mặt thực chất",
+        "definition": "to a great or significant extent",
+        "example": "The cost of raw materials has risen substantially over the last quarter.",
+        "exampleVi": "Chi phí nguyên liệu thô đã tăng đáng kể trong quý vừa qua.",
+        "topic": "Common Adverbs",
+        "level": "C1",
+        "difficulty": 4,
+        "collocations": "increase substantially, improve substantially, differ substantially",
+        "wordFamily": "substantial (adjective), substance (noun)",
+        "image": "substantially.webp",
+        "tags": [
+            "business",
+            "adverb",
+            "finance"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10524,
+        "word": "considerably",
+        "pronunciation": "/kənˈsɪdərəbli/",
+        "audio": "considerably.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "đáng kể, nhiều",
+        "definition": "by a notably large amount or to a great extent",
+        "example": "The hotel was considerably more expensive than we had anticipated.",
+        "exampleVi": "Khách sạn đắt hơn đáng kể so với chúng tôi dự đoán.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "vary considerably, reduce considerably, expand considerably",
+        "wordFamily": "considerable (adjective), consider (verb), consideration (noun)",
+        "image": "considerably.webp",
+        "tags": [
+            "degree",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10525,
+        "word": "virtually",
+        "pronunciation": "/ˈvɜːtʃuəli/",
+        "audio": "virtually.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "hầu như, gần như",
+        "definition": "nearly, almost completely",
+        "example": "Virtually all staff members attended the annual safety seminar.",
+        "exampleVi": "Hầu như tất cả nhân viên đều tham dự hội thảo an toàn hàng năm.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "virtually identical, virtually impossible, virtually empty",
+        "wordFamily": "virtual (adjective)",
+        "image": "virtually.webp",
+        "tags": [
+            "common",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10526,
+        "word": "temporarily",
+        "pronunciation": "/ˈtemprərəli/",
+        "audio": "temporarily.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "tạm thời",
+        "definition": "for a limited period of time; not permanently",
+        "example": "The laboratory will be temporarily closed for scheduled maintenance.",
+        "exampleVi": "Phòng thí nghiệm sẽ tạm thời đóng cửa để bảo trì định kỳ.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "temporarily closed, temporarily suspended, temporarily out of stock",
+        "wordFamily": "temporary (adjective)",
+        "image": "temporarily.webp",
+        "tags": [
+            "time",
+            "adverb",
+            "office"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10527,
+        "word": "permanently",
+        "pronunciation": "/ˈpɜːmənəntli/",
+        "audio": "permanently.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "lâu dài, vĩnh viễn",
+        "definition": "in a way that lasts or remains unchanged indefinitely",
+        "example": "He decided to relocate permanently to the Tokyo branch office.",
+        "exampleVi": "Ông quyết định chuyển hẳn sang làm việc lâu dài tại chi nhánh Tokyo.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "permanently closed, permanently stored, damaged permanently",
+        "wordFamily": "permanent (adjective)",
+        "image": "permanently.webp",
+        "tags": [
+            "time",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10528,
+        "word": "initially",
+        "pronunciation": "/ɪˈnɪʃəli/",
+        "audio": "initially.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "ban đầu",
+        "definition": "at the beginning; at first",
+        "example": "The marketing project was initially planned to start in April.",
+        "exampleVi": "Dự án tiếp thị ban đầu được lên kế hoạch bắt đầu vào tháng Tư.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "initially planned, initially proposed, initially reluctant",
+        "wordFamily": "initial (adjective/noun), initiate (verb), initiative (noun)",
+        "image": "initially.webp",
+        "tags": [
+            "time",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10529,
+        "word": "finally",
+        "pronunciation": "/ˈfaɪnəli/",
+        "audio": "finally.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "cuối cùng",
+        "definition": "after a long time, typically in accordance with a plan or expectation",
+        "example": "After weeks of delay, the shipment has finally arrived at the harbor.",
+        "exampleVi": "Sau nhiều tuần trì hoãn, lô hàng cuối cùng đã đến cảng.",
+        "topic": "Common Adverbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "finally agree, finally achieve, finally select",
+        "wordFamily": "final (adjective/noun), finalize (verb)",
+        "image": "finally.webp",
+        "tags": [
+            "time",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10530,
+        "word": "eventually",
+        "pronunciation": "/ɪˈventʃuəli/",
+        "audio": "eventually.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "cuối cùng thì, rốt cuộc",
+        "definition": "in the end, especially after a long delay, dispute, or series of problems",
+        "example": "Although the transition was difficult, we eventually adapted to the new system.",
+        "exampleVi": "Mặc dù quá trình chuyển đổi khó khăn, cuối cùng chúng tôi cũng đã thích ứng với hệ thống mới.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "eventually lead to, eventually resolve, eventually succeed",
+        "wordFamily": "eventual (adjective)",
+        "image": "eventually.webp",
+        "tags": [
+            "time",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10531,
+        "word": "urgently",
+        "pronunciation": "/ˈɜːdʒəntli/",
+        "audio": "urgently.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "khẩn cấp, gấp",
+        "definition": "in a way which requires immediate action or attention",
+        "example": "We urgently need to hire a freelance graphic designer for this project.",
+        "exampleVi": "Chúng tôi cần tuyển gấp một nhà thiết kế đồ họa tự do cho dự án này.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "urgently request, urgently need, treat urgently",
+        "wordFamily": "urgent (adjective), urgency (noun)",
+        "image": "urgently.webp",
+        "tags": [
+            "urgency",
+            "adverb",
+            "hiring"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10532,
+        "word": "formally",
+        "pronunciation": "/ˈfɔːməli/",
+        "audio": "formally.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "chính thức, trang trọng",
+        "definition": "in accordance with conventional rules, forms, or etiquette",
+        "example": "The merger will be formally announced at the press conference tomorrow.",
+        "exampleVi": "Thương vụ sáp nhập sẽ được công bố chính thức tại buổi họp báo ngày mai.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "formally invite, formally announce, formally dress",
+        "wordFamily": "formal (adjective), formality (noun), formalize (verb)",
+        "image": "formally.webp",
+        "tags": [
+            "business",
+            "adverb",
+            "announcement"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10533,
+        "word": "strictly",
+        "pronunciation": "/ˈstrɪktli/",
+        "audio": "strictly.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "nghiêm ngặt, hoàn toàn",
+        "definition": "in a demanding or precise way that must be obeyed",
+        "example": "All confidential documents must be kept strictly private.",
+        "exampleVi": "Tất cả các tài liệu mật phải được giữ kín một cách nghiêm ngặt.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "strictly confidential, strictly forbidden, strictly enforced",
+        "wordFamily": "strict (adjective), strictness (noun)",
+        "image": "strictly.webp",
+        "tags": [
+            "policy",
+            "adverb",
+            "security"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10534,
+        "word": "precisely",
+        "pronunciation": "/prɪˈsaɪsli/",
+        "audio": "precisely.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "chính xác, tỉ mỉ",
+        "definition": "in a exact and accurate way",
+        "example": "The instructions describe precisely how to install the software.",
+        "exampleVi": "Các hướng dẫn mô tả chính xác cách cài đặt phần mềm.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "state precisely, define precisely, target precisely",
+        "wordFamily": "precise (adjective), precision (noun)",
+        "image": "precisely.webp",
+        "tags": [
+            "detail",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10535,
+        "word": "thoroughly",
+        "pronunciation": "/ˈθʌrəli/",
+        "audio": "thoroughly.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "kỹ lưỡng, triệt để",
+        "definition": "in a detailed and complete way; very much",
+        "example": "The quality inspector thoroughly examined the products for defects.",
+        "exampleVi": "Nhân viên kiểm định chất lượng đã kiểm tra kỹ lưỡng các sản phẩm xem có lỗi hay không.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "check thoroughly, investigate thoroughly, clean thoroughly",
+        "wordFamily": "thorough (adjective), thoroughness (noun)",
+        "image": "thoroughly.webp",
+        "tags": [
+            "quality",
+            "adverb",
+            "examination"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10536,
+        "word": "properly",
+        "pronunciation": "/ˈprɒpəli/",
+        "audio": "properly.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "đúng cách, thích hợp",
+        "definition": "correctly or satisfactorily",
+        "example": "Please make sure that the security system is properly activated.",
+        "exampleVi": "Vui lòng đảm bảo rằng hệ thống bảo mật được kích hoạt đúng cách.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "function properly, install properly, train properly",
+        "wordFamily": "proper (adjective)",
+        "image": "properly.webp",
+        "tags": [
+            "common",
+            "adverb",
+            "policy"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10537,
+        "word": "definitely",
+        "pronunciation": "/ˈdefɪnətli/",
+        "audio": "definitely.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "chắc chắn, rõ ràng",
+        "definition": "without doubt; in a clear and definite manner",
+        "example": "We will definitely launch the new product before the holiday season.",
+        "exampleVi": "Chúng tôi chắc chắn sẽ tung ra sản phẩm mới trước mùa lễ hội.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "definitely recommend, definitely succeed, definitely agree",
+        "wordFamily": "definite (adjective), definition (noun), define (verb)",
+        "image": "definitely.webp",
+        "tags": [
+            "degree",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10538,
+        "word": "absolutely",
+        "pronunciation": "/ˈæbsəluːtli/",
+        "audio": "absolutely.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "hoàn toàn, tuyệt đối",
+        "definition": "with no qualification, restriction, or limitation",
+        "example": "Complete confidentiality is absolutely necessary for this legal matter.",
+        "exampleVi": "Sự bảo mật hoàn toàn là tuyệt đối cần thiết cho vấn đề pháp lý này.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "absolutely necessary, absolutely free, absolutely essential",
+        "wordFamily": "absolute (adjective)",
+        "image": "absolutely.webp",
+        "tags": [
+            "degree",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10539,
+        "word": "lately",
+        "pronunciation": "/ˈleɪtli/",
+        "audio": "lately.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "gần đây",
+        "definition": "recently; not long ago",
+        "example": "He has been working late at the office very often lately.",
+        "exampleVi": "Gần đây anh ấy thường xuyên làm việc muộn tại văn phòng.",
+        "topic": "Common Adverbs",
+        "level": "A2/B1",
+        "difficulty": 1,
+        "collocations": "only lately, until lately, seen lately",
+        "wordFamily": "late (adjective/adverb)",
+        "image": "lately.webp",
+        "tags": [
+            "time",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10540,
+        "word": "closely",
+        "pronunciation": "/ˈkləʊsli/",
+        "audio": "closely.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "kỹ lưỡng, gần gũi",
+        "definition": "in a close relation or with strong attention to details",
+        "example": "Please monitor the sales figures closely this week.",
+        "exampleVi": "Vui lòng theo dõi sát sao số liệu doanh số bán hàng trong tuần này.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "monitor closely, examine closely, follow closely",
+        "wordFamily": "close (adjective/verb), closeness (noun)",
+        "image": "closely.webp",
+        "tags": [
+            "common",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10541,
+        "word": "extremely",
+        "pronunciation": "/ɪkˈstriːmli/",
+        "audio": "extremely.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "cực kỳ, vô cùng",
+        "definition": "to a very great degree",
+        "example": "The weather conditions were extremely severe during the winter storm.",
+        "exampleVi": "Các điều kiện thời tiết cực kỳ khắc nghiệt trong suốt cơn bão mùa đông.",
+        "topic": "Common Adverbs",
+        "level": "B1",
+        "difficulty": 2,
+        "collocations": "extremely helpful, extremely difficult, extremely important",
+        "wordFamily": "extreme (adjective/noun)",
+        "image": "extremely.webp",
+        "tags": [
+            "degree",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10542,
+        "word": "mutually",
+        "pronunciation": "/ˈmjuːtʃuəli/",
+        "audio": "mutually.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "lẫn nhau, hai bên cùng",
+        "definition": "with mutual relation; in a shared way",
+        "example": "We hope to reach a mutually beneficial agreement.",
+        "exampleVi": "Chúng tôi hy vọng sẽ đạt được một thỏa thuận có lợi cho cả hai bên.",
+        "topic": "Common Adverbs",
+        "level": "C1",
+        "difficulty": 4,
+        "collocations": "mutually beneficial, mutually exclusive, mutually agreeable",
+        "wordFamily": "mutual (adjective)",
+        "image": "mutually.webp",
+        "tags": [
+            "business",
+            "adverb",
+            "agreement"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10543,
+        "word": "practically",
+        "pronunciation": "/ˈpræktɪkli/",
+        "audio": "practically.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "hầu như, thực tế là",
+        "definition": "virtually; almost; in a practical manner",
+        "example": "Practically all of the tickets for the seminar have been sold.",
+        "exampleVi": "Hầu như tất cả vé cho buổi hội thảo đã được bán hết.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "practically impossible, practically identical, practically complete",
+        "wordFamily": "practical (adjective), practice (noun/verb)",
+        "image": "practically.webp",
+        "tags": [
+            "degree",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10544,
+        "word": "permanently",
+        "pronunciation": "/ˈpɜːmənəntli/",
+        "audio": "permanently.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "vĩnh viễn, lâu dài",
+        "definition": "in a way that lasts or remains unchanged indefinitely",
+        "example": "The files have been permanently deleted from the hard drive.",
+        "exampleVi": "Các tập tin đã bị xóa vĩnh viễn khỏi ổ cứng.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "permanently disabled, permanently delete, settle permanently",
+        "wordFamily": "permanent (adjective)",
+        "image": "permanently.webp",
+        "tags": [
+            "time",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10545,
+        "word": "informally",
+        "pronunciation": "/ɪnˈfɔːmɪli/",
+        "audio": "informally.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "phi chính thức, thân mật",
+        "definition": "in a relaxed, unofficial, or colloquial way",
+        "example": "We discussed the project informally over lunch.",
+        "exampleVi": "Chúng tôi thảo luận thân mật về dự án trong bữa ăn trưa.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "discuss informally, meet informally, dress informally",
+        "wordFamily": "informal (adjective), informality (noun)",
+        "image": "informally.webp",
+        "tags": [
+            "communication",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10546,
+        "word": "precisely",
+        "pronunciation": "/prɪˈsaɪsli/",
+        "audio": "precisely.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "chính xác",
+        "definition": "exactly and accurately",
+        "example": "The board meeting will start at precisely 9:00 AM.",
+        "exampleVi": "Cuộc họp hội đồng quản trị sẽ bắt đầu vào đúng 9:00 sáng.",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 2,
+        "collocations": "start precisely, measure precisely, define precisely",
+        "wordFamily": "precise (adjective), precision (noun)",
+        "image": "precisely.webp",
+        "tags": [
+            "time",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 10547,
+        "word": "carefully",
+        "pronunciation": "/ˈkeəfəli/",
+        "audio": "carefully.mp3",
+        "partOfSpeech": "adverb",
+        "vietnamese": "cẩn thận, kỹ lưỡng",
+        "definition": "in a way that avoids harm or errors; with close attention",
+        "example": "Please read the terms of the contract carefully before signing.",
+        "exampleVi": "Vui lòng đọc kỹ các điều khoản của hợp đồng trước khi ký.",
+        "topic": "Common Adverbs",
+        "level": "A2",
+        "difficulty": 1,
+        "collocations": "read carefully, check carefully, plan carefully",
+        "wordFamily": "careful (adjective), care (noun/verb)",
+        "image": "carefully.webp",
+        "tags": [
+            "common",
+            "adverb"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "frequently",
+        "pronunciation": "/ˈfriː.kwənt.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "thường xuyên",
+        "definition": "occurring often or repeatedly",
+        "example": "The team meets frequently to discuss project updates.",
+        "exampleVi": "Nhóm họp thường xuyên để thảo luận về cập nhật dự án.",
+        "collocations": "meet frequently, frequently asked questions",
+        "wordFamily": "frequency, frequent",
+        "id": 10548,
+        "audio": "frequently.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "frequently.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "occasionally",
+        "pronunciation": "/əˈkeɪ.ʒən.əl.i/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "thỉnh thoảng",
+        "definition": "at infrequent or irregular intervals; now and then",
+        "example": "We occasionally hold workshops to enhance employee skills.",
+        "exampleVi": "Chúng tôi thỉnh thoảng tổ chức các buổi hội thảo để nâng cao kỹ năng cho nhân viên.",
+        "collocations": "occasionally visit, occasionally see",
+        "wordFamily": "occasion, occasional",
+        "id": 10549,
+        "audio": "occasionally.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "occasionally.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "simply",
+        "pronunciation": "/ˈsɪm.pli/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "đơn giản",
+        "definition": "in a straightforward or uncomplicated manner",
+        "example": "The instructions are simply written for better understanding.",
+        "exampleVi": "Hướng dẫn được viết đơn giản để dễ hiểu hơn.",
+        "collocations": "simply put, simply stated",
+        "wordFamily": "simple, simplicity",
+        "id": 10550,
+        "audio": "simply.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "simply.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "gradually",
+        "pronunciation": "/ˈɡrædʒ.u.ə.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "dần dần",
+        "definition": "in a gradual manner; slowly over a period of time",
+        "example": "The company is gradually expanding its operations overseas.",
+        "exampleVi": "Công ty đang dần dần mở rộng hoạt động ra nước ngoài.",
+        "collocations": "gradually increase, gradually improve",
+        "wordFamily": "gradual, gradually",
+        "id": 10551,
+        "audio": "gradually.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "gradually.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "particularly",
+        "pronunciation": "/pərˈtɪk.jə.lər.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "đặc biệt",
+        "definition": "to a higher degree than is usual or average",
+        "example": "She is particularly skilled in negotiation techniques.",
+        "exampleVi": "Cô ấy đặc biệt có kỹ năng trong các kỹ thuật đàm phán.",
+        "collocations": "particularly important, particularly interested",
+        "wordFamily": "particular, particularly",
+        "id": 10552,
+        "audio": "particularly.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "particularly.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "naturally",
+        "pronunciation": "/ˈnætʃ.ər.əl.i/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "một cách tự nhiên",
+        "definition": "in a natural manner; without artificiality",
+        "example": "She naturally excelled in her role as a team leader.",
+        "exampleVi": "Cô ấy một cách tự nhiên xuất sắc trong vai trò lãnh đạo nhóm.",
+        "collocations": "naturally talented, naturally occurring",
+        "wordFamily": "nature, natural",
+        "id": 10553,
+        "audio": "naturally.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "naturally.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "effectively",
+        "pronunciation": "/ɪˈfɛk.tɪv.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "một cách hiệu quả",
+        "definition": "in a manner that produces a desired result",
+        "example": "The new strategy was implemented effectively across all departments.",
+        "exampleVi": "Chiến lược mới đã được thực hiện một cách hiệu quả trên tất cả các phòng ban.",
+        "collocations": "effectively manage, effectively communicate",
+        "wordFamily": "effective, effectiveness",
+        "id": 10554,
+        "audio": "effectively.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "effectively.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "suddenly",
+        "pronunciation": "/ˈsʌd.ən.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "đột ngột",
+        "definition": "quickly and unexpectedly",
+        "example": "The meeting was suddenly canceled due to unforeseen circumstances.",
+        "exampleVi": "Cuộc họp đã bị hủy đột ngột do những tình huống không lường trước được.",
+        "collocations": "suddenly change, suddenly appear",
+        "wordFamily": "sudden, suddenly",
+        "id": 10555,
+        "audio": "suddenly.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "suddenly.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "primarily",
+        "pronunciation": "/praɪˈmer.ə.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "chủ yếu",
+        "definition": "for the most part; mainly",
+        "example": "The project is primarily focused on improving customer satisfaction.",
+        "exampleVi": "Dự án chủ yếu tập trung vào việc nâng cao sự hài lòng của khách hàng.",
+        "collocations": "primarily aimed, primarily responsible",
+        "wordFamily": "primary, primarily",
+        "id": 10556,
+        "audio": "primarily.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "primarily.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "smoothly",
+        "pronunciation": "/smuːð.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "mượt mà",
+        "definition": "in a smooth manner; without problems or difficulties",
+        "example": "The transition to the new system went smoothly.",
+        "exampleVi": "Việc chuyển đổi sang hệ thống mới diễn ra mượt mà.",
+        "collocations": "run smoothly, smoothly transition",
+        "wordFamily": "smooth, smoothness",
+        "id": 10557,
+        "audio": "smoothly.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "smoothly.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "readily",
+        "pronunciation": "/ˈrɛd.ɪ.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "dễ dàng",
+        "definition": "without hesitation or reluctance; willingly",
+        "example": "She readily accepted the offer to lead the project.",
+        "exampleVi": "Cô ấy dễ dàng chấp nhận lời mời lãnh đạo dự án.",
+        "collocations": "readily available, readily accept",
+        "wordFamily": "ready, readiness",
+        "id": 10558,
+        "audio": "readily.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "readily.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "consistently",
+        "pronunciation": "/kənˈsɪs.tənt.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "một cách nhất quán",
+        "definition": "in a way that does not change; regularly",
+        "example": "The company has consistently delivered high-quality products.",
+        "exampleVi": "Công ty đã nhất quán cung cấp các sản phẩm chất lượng cao.",
+        "collocations": "consistently improve, consistently perform",
+        "wordFamily": "consistent, consistency",
+        "id": 10559,
+        "audio": "consistently.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "consistently.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "regularly",
+        "pronunciation": "/ˈrɛɡ.jə.lər.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "đều đặn",
+        "definition": "at uniform intervals; consistently",
+        "example": "The manager reviews the reports regularly to ensure quality.",
+        "exampleVi": "Người quản lý xem xét các báo cáo đều đặn để đảm bảo chất lượng.",
+        "collocations": "regularly scheduled, regularly updated, regularly attend",
+        "wordFamily": "regular (adjective), regularity (noun)",
+        "id": 10560,
+        "audio": "regularly.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "regularly.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "word": "similarly",
+        "pronunciation": "/ˈsɪm.ɪ.lər.li/",
+        "partOfSpeech": "adverb",
+        "vietnamese": "tương tự",
+        "definition": "in a similar way; likewise",
+        "example": "The marketing strategy was effective; similarly, the sales increased.",
+        "exampleVi": "Chiến lược tiếp thị đã hiệu quả; tương tự, doanh số đã tăng.",
+        "collocations": "similarly important, similarly structured, similarly priced",
+        "wordFamily": "similar (adjective), similarity (noun)",
+        "id": 10561,
+        "audio": "similarly.mp3",
+        "topic": "Common Adverbs",
+        "level": "B2",
+        "difficulty": 3,
+        "image": "similarly.webp",
+        "tags": [
+            "common",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

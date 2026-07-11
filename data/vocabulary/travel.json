@@ -1,0 +1,2282 @@
+[
+    {
+        "id": 13182,
+        "word": "travel",
+        "pronunciation": "/ˈtɹævəl/",
+        "audio": "travel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "du lịch",
+        "definition": "The act of traveling; passage from place to place.",
+        "example": "space travel",
+        "exampleVi": "du hành vũ trụ",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "travel process, key travel",
+        "wordFamily": "travel (noun)",
+        "image": "travel.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13183,
+        "word": "trip",
+        "pronunciation": "/tɹɪp/",
+        "audio": "trip.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến đi",
+        "definition": "A journey; an excursion or jaunt",
+        "example": "We made a trip to the beach.",
+        "exampleVi": "Chúng tôi đã thực hiện một chuyến đi đến bãi biển.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "trip process, key trip",
+        "wordFamily": "trip (noun)",
+        "image": "trip.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13184,
+        "word": "journey",
+        "pronunciation": "/ˈd͡ʒɜːni/",
+        "audio": "journey.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành trình",
+        "definition": "A set amount of travelling, seen as a single unit; a discrete trip, a voyage.",
+        "example": "We need to understand the concept of journey.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hành trình.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "journey process, key journey",
+        "wordFamily": "journey (noun)",
+        "image": "journey.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13185,
+        "word": "tour",
+        "pronunciation": "/tɔː(ɹ)/",
+        "audio": "tour.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến du lịch",
+        "definition": "A journey through a particular building, estate, country, etc.",
+        "example": "On our last holiday to Spain we took a tour of the wine-growing regions.",
+        "exampleVi": "Vào kỳ nghỉ cuối cùng ở Tây Ban Nha, chúng tôi đã đi tham quan các vùng trồng nho.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tour process, key tour",
+        "wordFamily": "tour (noun)",
+        "image": "tour.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13186,
+        "word": "tourist",
+        "pronunciation": "/ˈtʊəɹɪst/",
+        "audio": "tourist.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "du khách",
+        "definition": "Someone who travels for pleasure rather than for business.",
+        "example": "We need to understand the concept of tourist.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm khách du lịch.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tourist process, key tourist",
+        "wordFamily": "tourist (noun)",
+        "image": "tourist.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13187,
+        "word": "passenger",
+        "pronunciation": "/ˈpæsənd͡ʒə/",
+        "audio": "passenger.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành khách",
+        "definition": "One who rides or travels in a vehicle, but who does not operate it and is not a member of the crew.",
+        "example": "Somebody in a team who does not do their fair share of the work.",
+        "exampleVi": "Ai đó trong nhóm không thực hiện phần công việc của mình một cách công bằng.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "passenger process, key passenger",
+        "wordFamily": "passenger (noun)",
+        "image": "passenger.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13188,
+        "word": "ticket",
+        "pronunciation": "/ˈtɪkɪt/",
+        "audio": "ticket.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vé",
+        "definition": "A pass entitling the holder to admission to a show, concert, etc.",
+        "example": "We need to understand the concept of ticket.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về vé.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "ticket process, key ticket",
+        "wordFamily": "ticket (noun)",
+        "image": "ticket.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13189,
+        "word": "passport",
+        "pronunciation": "/ˈpɑːspɔːt/",
+        "audio": "passport.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hộ chiếu",
+        "definition": "An official document normally used for international journeys, which proves the identity and nationality of the person for whom it was issued.",
+        "example": "You will have to bring your passport to prove who you are.",
+        "exampleVi": "Bạn sẽ phải mang theo hộ chiếu để chứng minh bạn là ai.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "passport process, key passport",
+        "wordFamily": "passport (noun)",
+        "image": "passport.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13190,
+        "word": "visa",
+        "pronunciation": "/ˈviː.sə/",
+        "audio": "visa.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "visa",
+        "definition": "A permit to enter and leave a country, normally issued by the authorities of the country to be visited.",
+        "example": "We need to understand the concept of visa.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thị thực.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "visa process, key visa",
+        "wordFamily": "visa (noun)",
+        "image": "visa.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13191,
+        "word": "luggage",
+        "pronunciation": "/ˈlʌɡɪd͡ʒ/",
+        "audio": "luggage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành lý",
+        "definition": "The bags and other containers that hold a traveller's belongings.",
+        "example": "We need to understand the concept of luggage.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hành lý.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "luggage process, key luggage",
+        "wordFamily": "luggage (noun)",
+        "image": "luggage.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13192,
+        "word": "baggage",
+        "pronunciation": "/ˈbæɡɪdʒ/",
+        "audio": "baggage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành lý",
+        "definition": "(usually uncountable) Luggage; traveling equipment",
+        "example": "Please put your baggage in the trunk.",
+        "exampleVi": "Vui lòng để hành lý của bạn vào cốp xe.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "baggage process, key baggage",
+        "wordFamily": "baggage (noun)",
+        "image": "baggage.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13193,
+        "word": "suitcase",
+        "pronunciation": "/ˈsutkeɪs/",
+        "audio": "suitcase.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "va li",
+        "definition": "A large (usually rectangular) piece of luggage used for carrying clothes, and sometimes suits, when travelling.",
+        "example": "We need to understand the concept of suitcase.",
+        "exampleVi": "Chúng ta cần hiểu rõ khái niệm vali.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "suitcase process, key suitcase",
+        "wordFamily": "suitcase (noun)",
+        "image": "suitcase.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13194,
+        "word": "pack",
+        "pronunciation": "/pæk/",
+        "audio": "pack.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đóng gói",
+        "definition": "A bundle made up and prepared to be carried; especially, a bundle to be carried on the back, but also a load for an animal, a bale.",
+        "example": "The horses carried the packs across the plain.",
+        "exampleVi": "Những con ngựa chở các gói hàng qua đồng bằng.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "pack process, key pack",
+        "wordFamily": "pack (noun)",
+        "image": "pack.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13195,
+        "word": "unpack",
+        "pronunciation": "/ʌnˈpæk/",
+        "audio": "unpack.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "giải nén",
+        "definition": "To remove from a package or container, particularly with respect to items that had previously been arranged closely and securely in a pack.",
+        "example": "They didn't have time to unpack their bags before going out to dinner.",
+        "exampleVi": "Họ không có thời gian để dỡ hành lý trước khi ra ngoài ăn tối.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "unpack process, key unpack",
+        "wordFamily": "unpack (verb)",
+        "image": "unpack.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13196,
+        "word": "hotel",
+        "pronunciation": "/(h)əʊˈtɛl/",
+        "audio": "hotel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "khách sạn",
+        "definition": "A large town house or mansion; a grand private residence, especially in France.",
+        "example": "We need to understand the concept of hotel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về khách sạn.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hotel process, key hotel",
+        "wordFamily": "hotel (noun)",
+        "image": "hotel.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13197,
+        "word": "hostel",
+        "pronunciation": "/ˈhɒstəl/",
+        "audio": "hostel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "ký túc xá",
+        "definition": "A commercial overnight lodging place, with dormitory accommodation and shared facilities, especially a youth hostel",
+        "example": "We need to understand the concept of hostel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm ký túc xá.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "hostel process, key hostel",
+        "wordFamily": "hostel (noun)",
+        "image": "hostel.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13198,
+        "word": "book",
+        "pronunciation": "/buːk/",
+        "audio": "book.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sách",
+        "definition": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "example": "He was frustrated because he couldn't find anything about dinosaurs in the book.",
+        "exampleVi": "Anh ấy thất vọng vì không thể tìm thấy bất cứ điều gì về khủng long trong cuốn sách.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "book process, key book",
+        "wordFamily": "book (noun)",
+        "image": "book.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13199,
+        "word": "reserve",
+        "pronunciation": "/ɹɪˈzɜːv/",
+        "audio": "reserve.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "dự trữ",
+        "definition": "(behaviour) Restriction.",
+        "example": "We need to understand the concept of reserve.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm dự trữ.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reserve process, key reserve",
+        "wordFamily": "reserve (noun)",
+        "image": "reserve.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13200,
+        "word": "reservation",
+        "pronunciation": "/ˌɹɛzəˈveɪʃən/",
+        "audio": "reservation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự đặt chỗ",
+        "definition": "The act of reserving, withholding or keeping back.",
+        "example": "The committee authorised the reservation of funds.",
+        "exampleVi": "Ủy ban đã cho phép dự trữ tiền.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "reservation process, key reservation",
+        "wordFamily": "reservation (noun)",
+        "image": "reservation.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13201,
+        "word": "cancel",
+        "pronunciation": "/ˈkænsl̩/",
+        "audio": "cancel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "Hủy bỏ",
+        "definition": "A cancellation (US); (nonstandard in some kinds of English).",
+        "example": "We need to understand the concept of cancel.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hủy bỏ.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "cancel process, key cancel",
+        "wordFamily": "cancel (noun)",
+        "image": "cancel.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13202,
+        "word": "itinerary",
+        "pronunciation": "/aɪˈtɪnəɹi/",
+        "audio": "itinerary.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành trình",
+        "definition": "A written schedule of activities for a vacation or road trip.",
+        "example": "We need to understand the concept of itinerary.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hành trình.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "itinerary process, key itinerary",
+        "wordFamily": "itinerary (noun)",
+        "image": "itinerary.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13203,
+        "word": "destination",
+        "pronunciation": "/dɛstɪˈneɪʃən/",
+        "audio": "destination.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điểm đến",
+        "definition": "The act of destining or appointing.",
+        "example": "We need to understand the concept of destination.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đích đến.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "destination process, key destination",
+        "wordFamily": "destination (noun)",
+        "image": "destination.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13204,
+        "word": "departure",
+        "pronunciation": "/dɪˈpɑː(ɹ)tjə(ɹ)/",
+        "audio": "departure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự khởi hành",
+        "definition": "The act of departing or something that has departed.",
+        "example": "The departure was scheduled for noon.",
+        "exampleVi": "Chuyến khởi hành đã được ấn định vào buổi trưa.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "departure process, key departure",
+        "wordFamily": "departure (noun)",
+        "image": "departure.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13205,
+        "word": "arrival",
+        "pronunciation": "/əˈɹaɪ.vəl/",
+        "audio": "arrival.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đến",
+        "definition": "The act of arriving or something that has arrived.",
+        "example": "The early arrival of the bride created a stir.",
+        "exampleVi": "Sự xuất hiện sớm của cô dâu đã gây xôn xao dư luận.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "arrival process, key arrival",
+        "wordFamily": "arrival (noun)",
+        "image": "arrival.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13206,
+        "word": "check-in",
+        "pronunciation": "/check-in/",
+        "audio": "check-in.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đăng ký vào",
+        "definition": "The act of checking in at a hotel, airport, etc.",
+        "example": "We need to understand the concept of check-in.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm đăng ký.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "check-in process, key check-in",
+        "wordFamily": "check-in (noun)",
+        "image": "check-in.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13207,
+        "word": "check-out",
+        "pronunciation": "/check-out/",
+        "audio": "check-out.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trả phòng",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word check-out.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ kiểm tra.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "check-out process, key check-out",
+        "wordFamily": "check-out (noun)",
+        "image": "check-out.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13208,
+        "word": "sightseeing",
+        "pronunciation": "/sightseeing/",
+        "audio": "sightseeing.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "tham quan",
+        "definition": "To go sightseeing; to visit places of interest in a city, town or geographical area.",
+        "example": "We need to understand the concept of sightseeing.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tham quan.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sightseeing process, key sightseeing",
+        "wordFamily": "sightseeing (noun)",
+        "image": "sightseeing.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13209,
+        "word": "guide",
+        "pronunciation": "/ɡaɪd/",
+        "audio": "guide.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hướng dẫn",
+        "definition": "Someone who guides, especially someone hired to show people around a place or an institution and offer information and explanation.",
+        "example": "The guide led us around the museum and explained the exhibits.",
+        "exampleVi": "Người hướng dẫn dẫn chúng tôi đi vòng quanh bảo tàng và giải thích về các cuộc triển lãm.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "guide process, key guide",
+        "wordFamily": "guide (noun)",
+        "image": "guide.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13210,
+        "word": "souvenir",
+        "pronunciation": "/ˌsuːvəˈnɪə(ɹ)/",
+        "audio": "souvenir.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quà lưu niệm",
+        "definition": "An item of sentimental value, to remember an event or location.",
+        "example": "We need to understand the concept of souvenir.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm quà lưu niệm.",
+        "topic": "Travel",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "souvenir process, key souvenir",
+        "wordFamily": "souvenir (noun)",
+        "image": "souvenir.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13211,
+        "word": "bag",
+        "pronunciation": "/bag/",
+        "audio": "bag.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "túi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word bag.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bag.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bag process, key bag",
+        "wordFamily": "bag (noun)",
+        "image": "bag.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13212,
+        "word": "flight",
+        "pronunciation": "/flight/",
+        "audio": "flight.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến bay",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word flight.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chuyến bay.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "flight process, key flight",
+        "wordFamily": "flight (noun)",
+        "image": "flight.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13213,
+        "word": "schedule",
+        "pronunciation": "/schedule/",
+        "audio": "schedule.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "lịch trình",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word schedule.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ lịch trình.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "schedule process, key schedule",
+        "wordFamily": "schedule (noun)",
+        "image": "schedule.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13214,
+        "word": "voyage",
+        "pronunciation": "/voyage/",
+        "audio": "voyage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến đi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word voyage.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chuyến đi.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "voyage process, key voyage",
+        "wordFamily": "voyage (noun)",
+        "image": "voyage.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13215,
+        "word": "excursion",
+        "pronunciation": "/excursion/",
+        "audio": "excursion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến tham quan",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word excursion.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chuyến tham quan.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "excursion process, key excursion",
+        "wordFamily": "excursion (noun)",
+        "image": "excursion.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13216,
+        "word": "safari",
+        "pronunciation": "/safari/",
+        "audio": "safari.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "safari",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word safari.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ safari.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "safari process, key safari",
+        "wordFamily": "safari (noun)",
+        "image": "safari.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13217,
+        "word": "immigration",
+        "pronunciation": "/immigration/",
+        "audio": "immigration.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhập cư",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word immigration.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ nhập cư.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "immigration process, key immigration",
+        "wordFamily": "immigration (noun)",
+        "image": "immigration.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13218,
+        "word": "booking",
+        "pronunciation": "/booking/",
+        "audio": "booking.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đặt chỗ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word booking.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ đặt phòng.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "booking process, key booking",
+        "wordFamily": "booking (noun)",
+        "image": "booking.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13219,
+        "word": "cruise",
+        "pronunciation": "/cruise/",
+        "audio": "cruise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hành trình",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cruise.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hành trình.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cruise process, key cruise",
+        "wordFamily": "cruise (noun)",
+        "image": "cruise.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13220,
+        "word": "tourism",
+        "pronunciation": "/tourism/",
+        "audio": "tourism.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "du lịch",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word tourism.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ du lịch.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tourism process, key tourism",
+        "wordFamily": "tourism (noun)",
+        "image": "tourism.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13221,
+        "word": "outing",
+        "pronunciation": "/outing/",
+        "audio": "outing.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến đi chơi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word outing.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ outing.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "outing process, key outing",
+        "wordFamily": "outing (noun)",
+        "image": "outing.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13222,
+        "word": "motel",
+        "pronunciation": "/motel/",
+        "audio": "motel.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà nghỉ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word motel.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ Motel.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "motel process, key motel",
+        "wordFamily": "motel (noun)",
+        "image": "motel.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13223,
+        "word": "expedition",
+        "pronunciation": "/expedition/",
+        "audio": "expedition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc thám hiểm",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word expedition.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thám hiểm.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "expedition process, key expedition",
+        "wordFamily": "expedition (noun)",
+        "image": "expedition.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13224,
+        "word": "customs",
+        "pronunciation": "/customs/",
+        "audio": "customs.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hải quan",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word customs.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ hải quan.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "customs process, key customs",
+        "wordFamily": "customs (noun)",
+        "image": "customs.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13225,
+        "word": "timetable",
+        "pronunciation": "/timetable/",
+        "audio": "timetable.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thời gian biểu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word timetable.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thời gian biểu.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "timetable process, key timetable",
+        "wordFamily": "timetable (noun)",
+        "image": "timetable.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13226,
+        "word": "accommodation",
+        "pronunciation": "/ə.ˌkɒm.ə.ˈdeɪ.ʃən/",
+        "audio": "accommodation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chỗ ở",
+        "definition": "(usually a mass noun) Lodging in a dwelling or similar living quarters afforded to travellers in hotels or on cruise ships, or prisoners, etc.",
+        "example": "We need to understand the concept of accommodation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chỗ ở.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "accommodation process, key accommodation",
+        "wordFamily": "accommodation (noun)",
+        "image": "accommodation.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13227,
+        "word": "terminal",
+        "pronunciation": "/ˈtɚmɪnəl/",
+        "audio": "terminal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thiết bị đầu cuối",
+        "definition": "A building in an airport where passengers transfer from ground transportation to the facilities that allow them to board airplanes.",
+        "example": "We need to understand the concept of terminal.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về thiết bị đầu cuối.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "terminal process, key terminal",
+        "wordFamily": "terminal (noun)",
+        "image": "terminal.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13228,
+        "word": "gate",
+        "pronunciation": "/ɡeɪt/",
+        "audio": "gate.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cổng",
+        "definition": "A doorlike structure outside a house.",
+        "example": "We need to understand the concept of gate.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm cổng.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gate process, key gate",
+        "wordFamily": "gate (noun)",
+        "image": "gate.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13229,
+        "word": "boarding",
+        "pronunciation": "/boarding/",
+        "audio": "boarding.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "lên máy bay",
+        "definition": "To step or climb onto or otherwise enter a ship, aircraft, train or other conveyance.",
+        "example": "It is time to board the aircraft.",
+        "exampleVi": "Đã đến lúc lên máy bay.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "boarding process, key boarding",
+        "wordFamily": "boarding (noun)",
+        "image": "boarding.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13230,
+        "word": "concierge",
+        "pronunciation": "/ˌkɒn.siˈɛə̯ʒ/",
+        "audio": "concierge.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhân viên trợ giúp",
+        "definition": "One who attends to the wishes of hotel guests.",
+        "example": "We need to understand the concept of concierge.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhân viên hướng dẫn.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "concierge process, key concierge",
+        "wordFamily": "concierge (noun)",
+        "image": "concierge.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13231,
+        "word": "concourse",
+        "pronunciation": "/ˈkɒŋkɔː(ɹ)s/",
+        "audio": "concourse.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "buổi hòa nhạc",
+        "definition": "A large open space in or in front of a building where people can gather, particularly one joining various paths, as in a rail station or airport terminal, or providing access to and linking the platforms in a railway terminus.",
+        "example": "We need to understand the concept of concourse.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hội trường.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "concourse process, key concourse",
+        "wordFamily": "concourse (noun)",
+        "image": "concourse.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13232,
+        "word": "layover",
+        "pronunciation": "/layover/",
+        "audio": "layover.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quá cảnh",
+        "definition": "A break between stages of a journey.",
+        "example": "We had a layover while waiting to change planes, so we stretched our legs.",
+        "exampleVi": "Chúng tôi phải tạm dừng trong khi chờ đổi máy bay nên phải duỗi chân.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "layover process, key layover",
+        "wordFamily": "layover (noun)",
+        "image": "layover.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13233,
+        "word": "passage",
+        "pronunciation": "/ˈpæsɪd͡ʒ/",
+        "audio": "passage.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đoạn văn",
+        "definition": "A paragraph or section of text or music with particular meaning.",
+        "example": "She struggled to play the difficult passages.",
+        "exampleVi": "Cô gặp khó khăn khi chơi những đoạn khó.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "passage process, key passage",
+        "wordFamily": "passage (noun)",
+        "image": "passage.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13234,
+        "word": "transfer",
+        "pronunciation": "/ˈtɹænzfɜː/",
+        "audio": "transfer.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyển nhượng",
+        "definition": "The act of conveying or removing something from one place, person or thing to another.",
+        "example": "We need to understand the concept of transfer.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chuyển giao.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transfer process, key transfer",
+        "wordFamily": "transfer (noun)",
+        "image": "transfer.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13235,
+        "word": "fare",
+        "pronunciation": "/fɛə(ɹ)/",
+        "audio": "fare.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giá vé",
+        "definition": "A going; journey; travel; voyage; course; passage.",
+        "example": "We need to understand the concept of fare.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giá vé.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "fare process, key fare",
+        "wordFamily": "fare (noun)",
+        "image": "fare.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13236,
+        "word": "toll",
+        "pronunciation": "/toʊl/",
+        "audio": "toll.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "phí cầu đường",
+        "definition": "Loss or damage incurred through a disaster.",
+        "example": "The war has taken its toll on the people.",
+        "exampleVi": "Chiến tranh đã gây thiệt hại nặng nề cho người dân.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "toll process, key toll",
+        "wordFamily": "toll (noun)",
+        "image": "toll.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13237,
+        "word": "transit",
+        "pronunciation": "/ˈtɹæn.sɪt/",
+        "audio": "transit.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quá cảnh",
+        "definition": "The act of passing over, across, or through something.",
+        "example": "We need to understand the concept of transit.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về quá cảnh.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "transit process, key transit",
+        "wordFamily": "transit (noun)",
+        "image": "transit.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13238,
+        "word": "tariff",
+        "pronunciation": "/ˈtæɹəf/",
+        "audio": "tariff.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thuế quan",
+        "definition": "A system of government-imposed duties levied on imported or exported goods; a list of such duties, or the duties themselves.",
+        "example": "We need to understand the concept of tariff.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thuế quan.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tariff process, key tariff",
+        "wordFamily": "tariff (noun)",
+        "image": "tariff.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13239,
+        "word": "connection",
+        "pronunciation": "/kəˈnɛkʃən/",
+        "audio": "connection.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kết nối",
+        "definition": "The act of connecting.",
+        "example": "We need to understand the concept of connection.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm kết nối.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "connection process, key connection",
+        "wordFamily": "connection (noun)",
+        "image": "connection.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13240,
+        "word": "stopover",
+        "pronunciation": "/stopover/",
+        "audio": "stopover.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điểm dừng chân",
+        "definition": "A short interruption in a journey or the place visited during such an interruption.",
+        "example": "We need to understand the concept of stopover.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm điểm dừng.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "stopover process, key stopover",
+        "wordFamily": "stopover (noun)",
+        "image": "stopover.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 13241,
+        "word": "trek",
+        "pronunciation": "/tɹɛk/",
+        "audio": "trek.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chuyến đi",
+        "definition": "A journey by ox wagon.",
+        "example": "We need to understand the concept of trek.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trek.",
+        "topic": "Travel",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "trek process, key trek",
+        "wordFamily": "trek (noun)",
+        "image": "trek.webp",
+        "tags": [
+            "travel",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]

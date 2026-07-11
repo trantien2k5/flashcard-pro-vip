@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOEIC Vocab Spark - Học từ vựng thông minh</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <!-- Lucide Icons CDN -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="dark-theme">
+    <div class="app-container">
+        <!-- Left Sidebar (Desktop) / Layout container -->
+        <aside class="app-sidebar">
+            <div class="logo-area">
+                <div class="logo-icon">
+                    <i data-lucide="sparkles"></i>
+                </div>
+                <h1>TOEIC Vocab <span>Spark</span></h1>
+            </div>
+            <nav class="app-nav">
+                <button class="nav-btn active" data-tab="home">
+                    <i data-lucide="home"></i>
+                    <span>Home</span>
+                </button>
+                <button class="nav-btn" data-tab="topics">
+                    <i data-lucide="book-open"></i>
+                    <span>Topics</span>
+                </button>
+                <button class="nav-btn" data-tab="review">
+                    <i data-lucide="refresh-cw"></i>
+                    <span>Review</span>
+                    <span class="badge" id="review-badge" style="display: none;">0</span>
+                </button>
+                <button class="nav-btn" data-tab="settings">
+                    <i data-lucide="settings"></i>
+                    <span>Settings</span>
+                </button>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="app-main">
+            <!-- TAB: HOME (TRANG CHỦ) -->
+            <section id="tab-home" class="tab-content active">
+                <div class="welcome-banner">
+                    <div class="welcome-text">
+                        <h2>Học từ vựng TOEIC thông minh 🚀</h2>
+                        <p>Chào mừng bạn đến với TOEIC Vocab Spark. Hãy học tập và ôn tập hàng ngày để tối ưu hóa trí nhớ dài hạn.</p>
+                    </div>
+                    <div class="global-stats-summary">
+                        <div class="stat-item">
+                            <span class="stat-num" id="stats-total-learned">0</span>
+                            <span class="stat-label">Đã học</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-num" id="stats-total-mastered">0</span>
+                            <span class="stat-label">Thành thạo</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dashboard Grid -->
+                <div class="dashboard-grid">
+                    <div class="dashboard-card study-card">
+                        <div class="d-card-header">
+                            <div class="d-card-icon study-icon">
+                                <i data-lucide="book-open"></i>
+                            </div>
+                            <h3>Học Từ Mới</h3>
+                        </div>
+                        <p>Khám phá hơn 50 chủ đề từ vựng TOEIC đa dạng, học qua Flashcard 3D sinh động hoặc luyện trắc nghiệm nhanh.</p>
+                        <button class="d-card-btn btn-go-topics" id="btn-home-learn">
+                            <span>Khám phá chủ đề</span>
+                            <i data-lucide="arrow-right"></i>
+                        </button>
+                    </div>
+
+                    <div class="dashboard-card review-card">
+                        <div class="d-card-header">
+                            <div class="d-card-icon review-icon">
+                                <i data-lucide="refresh-cw"></i>
+                            </div>
+                            <h3>Ôn Tập Hàng Ngày</h3>
+                        </div>
+                        <p>Thuật toán giãn cách FSRS tự động sắp xếp các từ cần ôn tập. Giúp bạn nhớ từ lâu bền nhất với ít nỗ lực nhất.</p>
+                        <div class="d-card-status">
+                            <span class="status-indicator-badge" id="home-review-due-status">0 từ đến hạn</span>
+                        </div>
+                        <button class="d-card-btn btn-go-review" id="btn-home-review">
+                            <span>Bắt đầu ôn ngay</span>
+                            <i data-lucide="arrow-right"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Info Banner FSRS -->
+                <div class="info-banner-fsrs">
+                    <div class="info-fsrs-icon">
+                        <i data-lucide="brain-circuit"></i>
+                    </div>
+                    <div class="info-fsrs-text">
+                        <h4>Khoa học đằng sau TOEIC Vocab Spark</h4>
+                        <p>Ứng dụng tích hợp thuật toán <strong>FSRS (Free Spaced Repetition Scheduler)</strong> mới nhất - mô phỏng đường cong quên lãng của não bộ để lên lịch ôn tập tối ưu cho từng từ vựng riêng biệt.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB: TOPICS (CHỦ ĐỀ) -->
+            <section id="tab-topics" class="tab-content">
+                <!-- Topic search and filter -->
+                <div class="search-filter-bar">
+                    <div class="search-box">
+                        <i data-lucide="search"></i>
+                        <input type="text" id="search-topics" placeholder="Tìm kiếm chủ đề...">
+                    </div>
+                </div>
+
+                <!-- Topics Grid -->
+                <div class="topics-grid" id="topics-grid-container">
+                    <!-- Dynamic rendering -->
+                    <div class="loading-state">
+                        <div class="spinner"></div>
+                        <p>Đang tải danh sách chủ đề...</p>
+                    </div>
+                </div>
+
+                <!-- Topic Detail View (Hidden by default) -->
+                <div id="topic-detail-view" class="topic-detail-view hidden">
+                    <div class="view-header">
+                        <button class="back-btn" id="btn-back-to-topics">
+                            <i data-lucide="arrow-left"></i>
+                            <span>Quay lại</span>
+                        </button>
+                        <h3 id="detail-topic-title">Tên chủ đề</h3>
+                        
+                        <div class="study-mode-selector hidden">
+                            <button class="mode-btn active" id="btn-mode-flashcard">
+                                <i data-lucide="copy"></i>
+                                <span>Flashcard 3D</span>
+                            </button>
+                            <button class="mode-btn" id="btn-mode-quiz">
+                                <i data-lucide="check-square"></i>
+                                <span>Trắc nghiệm</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Flashcard Mode View -->
+                    <div id="flashcard-mode-container" class="mode-container">
+                        <div class="progress-bar-wrapper">
+                            <div class="progress-info">
+                                <span id="flashcard-progress-text">1 / 10 từ</span>
+                                <span id="flashcard-progress-percent">10%</span>
+                            </div>
+                            <div class="progress-track">
+                                <div class="progress-fill" id="flashcard-progress-fill" style="width: 10%;"></div>
+                            </div>
+                        </div>
+
+                        <!-- Card stage -->
+                        <div class="flashcard-stage">
+                            <div class="flashcard-wrapper">
+                                <div class="flashcard" id="study-flashcard">
+                                    <!-- Front side -->
+                                    <div class="card-face card-front">
+                                        <div class="card-tag" id="card-front-pos">partOfSpeech</div>
+                                        <div class="card-word" id="card-front-word">Word</div>
+                                        <div class="card-pronunciation-wrapper">
+                                            <span id="card-front-pronunciation">/pronunciation/</span>
+                                            <button class="audio-btn" id="btn-play-audio" title="Phát âm">
+                                                <i data-lucide="volume-2"></i>
+                                            </button>
+                                        </div>
+                                        <div class="card-hint">
+                                            <i data-lucide="help-circle"></i>
+                                            <span>Bấm vào thẻ hoặc nút dưới để lật</span>
+                                        </div>
+                                    </div>
+                                    <!-- Back side -->
+                                    <div class="card-face card-back">
+                                        <div class="card-back-header">
+                                            <span class="card-tag" id="card-back-pos">partOfSpeech</span>
+                                            <button class="audio-btn" id="btn-play-audio-back" title="Phát âm">
+                                                <i data-lucide="volume-2"></i>
+                                            </button>
+                                        </div>
+                                        <div class="card-translation" id="card-back-translation">Nghĩa tiếng Việt</div>
+                                        <div class="card-info-group">
+                                            <div class="info-item">
+                                                <strong>Định nghĩa:</strong>
+                                                <p id="card-back-definition">Definition of the word.</p>
+                                            </div>
+                                            <div class="info-item">
+                                                <strong>Ví dụ:</strong>
+                                                <p id="card-back-example" class="english-example">Example sentence in English.</p>
+                                                <p id="card-back-example-vi" class="vietnamese-example">Ví dụ dịch nghĩa tiếng Việt.</p>
+                                            </div>
+                                            <div class="info-item row-info" id="card-back-collocations-container">
+                                                <strong>Cụm từ đi kèm:</strong>
+                                                <span id="card-back-collocations" class="colloc-badge">collocation 1, collocation 2</span>
+                                            </div>
+                                        </div>
+                                        <div class="card-hint">
+                                            <i data-lucide="corner-down-left"></i>
+                                            <span>Bấm để lật lại mặt trước</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Card action bar underneath -->
+                        <div class="flashcard-action-bar">
+                            <div class="fsrs-buttons hidden" id="fsrs-buttons-panel">
+                                <button class="fsrs-btn fsrs-again" data-rating="1">
+                                    <span class="fsrs-label">Học lại</span>
+                                    <span class="fsrs-time">&lt;10m</span>
+                                </button>
+                                <button class="fsrs-btn fsrs-hard" data-rating="2">
+                                    <span class="fsrs-label">Khó</span>
+                                    <span class="fsrs-time">1d</span>
+                                </button>
+                                <button class="fsrs-btn fsrs-good" data-rating="3">
+                                    <span class="fsrs-label">Tốt</span>
+                                    <span class="fsrs-time">3d</span>
+                                </button>
+                                <button class="fsrs-btn fsrs-easy" data-rating="4">
+                                    <span class="fsrs-label">Dễ</span>
+                                    <span class="fsrs-time">7d</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Quiz Mode View -->
+                    <div id="quiz-mode-container" class="mode-container hidden">
+                        <div class="quiz-progress-bar-wrapper">
+                            <div class="progress-info">
+                                <span id="quiz-progress-text">Câu hỏi 1 / 10</span>
+                                <span id="quiz-score-text">Đúng: 0 - Sai: 0</span>
+                            </div>
+                            <div class="progress-track">
+                                <div class="progress-fill" id="quiz-progress-fill" style="width: 10%;"></div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Question Card -->
+                        <div class="quiz-card">
+                            <div class="quiz-question-header">
+                                <span class="quiz-badge">Trắc nghiệm</span>
+                                <button class="audio-btn" id="btn-play-quiz-audio" title="Nghe từ">
+                                    <i data-lucide="volume-2"></i>
+                                </button>
+                            </div>
+                            <div class="quiz-question" id="quiz-question-word">Word</div>
+                            <div class="quiz-pronunciation" id="quiz-question-pronunciation">/pronunciation/</div>
+                            <div class="quiz-question-prompt">Chọn nghĩa tiếng Việt đúng cho từ trên:</div>
+                            
+                            <!-- Quiz Options -->
+                            <div class="quiz-options" id="quiz-options-container">
+                                <!-- Dynamic options -->
+                                <button class="option-btn">Đáp án A</button>
+                                <button class="option-btn">Đáp án B</button>
+                                <button class="option-btn">Đáp án C</button>
+                                <button class="option-btn">Đáp án D</button>
+                            </div>
+
+                            <!-- Quiz Answer Feedback -->
+                            <div class="quiz-feedback hidden" id="quiz-feedback-box">
+                                <div class="feedback-icon" id="quiz-feedback-icon">
+                                    <i data-lucide="check-circle-2"></i>
+                                </div>
+                                <div class="feedback-text" id="quiz-feedback-text">Chính xác!</div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Controls -->
+                        <div class="quiz-controls">
+                            <button class="action-btn hidden" id="btn-next-quiz">
+                                <span>Câu tiếp theo</span>
+                                <i data-lucide="arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB: REVIEW -->
+            <section id="tab-review" class="tab-content">
+                <div class="review-header-row">
+                    <h3>Review Dashboard</h3>
+                    <button class="notebook-action-btn" id="btn-toggle-notebook" title="Vocabulary Notebook">
+                        <i data-lucide="book-marked"></i>
+                        <span>Vocabulary Notebook</span>
+                    </button>
+                </div>
+
+                <div class="review-dashboard">
+                    <div class="review-stats">
+                        <div class="stat-card">
+                            <div class="stat-icon due-icon">
+                                <i data-lucide="clock"></i>
+                            </div>
+                            <div class="stat-details">
+                                <h4 id="review-due-count">0</h4>
+                                <p>Từ đến hạn ôn tập hôm nay</p>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-icon total-icon">
+                                <i data-lucide="award"></i>
+                            </div>
+                            <div class="stat-details">
+                                <h4 id="review-total-learned">0</h4>
+                                <p>Tổng số từ đã học</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Start Review Button Section -->
+                    <div class="review-action-section" id="review-empty-state">
+                        <div class="empty-state-visual">
+                            <i data-lucide="check-circle-2"></i>
+                        </div>
+                        <h3>Tuyệt vời! Không có từ nào cần ôn tập hôm nay.</h3>
+                    </div>
+
+                    <div class="review-action-section hidden" id="review-active-state">
+                        <h3>Bạn có từ vựng đến hạn ôn tập!</h3>
+                        <p>Ôn tập giúp chuyển ký ức ngắn hạn thành dài hạn dựa theo thuật toán giãn cách thời gian.</p>
+                            <button class="start-review-btn" id="btn-start-review-session">
+                                <i data-lucide="play"></i>
+                                <span>Bắt đầu ôn tập ngay</span>
+                            </button>
+                    </div>
+                </div>
+
+                <!-- Review Session Overlay (Hidden by default) -->
+                <div id="review-session-overlay" class="review-session-overlay hidden">
+                    <div class="review-overlay-content">
+                        <div class="overlay-header">
+                            <h3>Phiên Ôn Tập Từ Vựng</h3>
+                            <button class="close-overlay-btn" id="btn-close-review-session">
+                                <i data-lucide="x"></i>
+                            </button>
+                        </div>
+
+                        <div class="progress-bar-wrapper">
+                            <div class="progress-info">
+                                <span id="review-progress-text">1 / 5 từ</span>
+                                <span id="review-progress-percent">20%</span>
+                            </div>
+                            <div class="progress-track">
+                                <div class="progress-fill" id="review-progress-fill" style="width: 20%;"></div>
+                            </div>
+                        </div>
+
+                        <div class="review-stage">
+                            <div class="flashcard-wrapper">
+                                <div class="flashcard" id="review-flashcard">
+                                    <!-- Front side -->
+                                    <div class="card-face card-front">
+                                        <div class="card-tag" id="review-card-front-pos">partOfSpeech</div>
+                                        <div class="card-word" id="review-card-front-word">Word</div>
+                                        <div class="card-pronunciation-wrapper">
+                                            <span id="review-card-front-pronunciation">/pronunciation/</span>
+                                            <button class="audio-btn" id="btn-play-review-audio" title="Phát âm">
+                                                <i data-lucide="volume-2"></i>
+                                            </button>
+                                        </div>
+                                        <div class="card-hint">
+                                            <i data-lucide="help-circle"></i>
+                                            <span>Bấm vào thẻ hoặc nút dưới để lật</span>
+                                        </div>
+                                    </div>
+                                    <!-- Back side -->
+                                    <div class="card-face card-back">
+                                        <div class="card-back-header">
+                                            <span class="card-tag" id="review-card-back-pos">partOfSpeech</span>
+                                            <button class="audio-btn" id="btn-play-review-audio-back" title="Phát âm">
+                                                <i data-lucide="volume-2"></i>
+                                            </button>
+                                        </div>
+                                        <div class="card-translation" id="review-card-back-translation">Nghĩa tiếng Việt</div>
+                                        <div class="card-info-group">
+                                            <div class="info-item">
+                                                <strong>Định nghĩa:</strong>
+                                                <p id="review-card-back-definition">Definition.</p>
+                                            </div>
+                                            <div class="info-item">
+                                                <strong>Ví dụ:</strong>
+                                                <p id="review-card-back-example" class="english-example">Example sentence.</p>
+                                                <p id="review-card-back-example-vi" class="vietnamese-example">Ví dụ dịch nghĩa.</p>
+                                            </div>
+                                        </div>
+                                        <div class="card-hint">
+                                            <i data-lucide="corner-down-left"></i>
+                                            <span>Bấm để lật lại mặt trước</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="flashcard-action-bar">
+                            <div class="fsrs-buttons hidden" id="review-fsrs-buttons-panel">
+                                <button class="fsrs-btn fsrs-again" data-review-rating="1">
+                                    <span class="fsrs-label">Học lại</span>
+                                    <span class="fsrs-time">&lt;10m</span>
+                                </button>
+                                <button class="fsrs-btn fsrs-hard" data-review-rating="2">
+                                    <span class="fsrs-label">Khó</span>
+                                    <span class="fsrs-time">1d</span>
+                                </button>
+                                <button class="fsrs-btn fsrs-good" data-review-rating="3">
+                                    <span class="fsrs-label">Tốt</span>
+                                    <span class="fsrs-time">3d</span>
+                                </button>
+                                <button class="fsrs-btn fsrs-easy" data-review-rating="4">
+                                    <span class="fsrs-label">Dễ</span>
+                                    <span class="fsrs-time">7d</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB: SETTINGS -->
+            <section id="tab-settings" class="tab-content">
+                <div class="settings-container">
+                    <!-- Main Settings Menu -->
+                    <div id="settings-main-view" class="settings-view-active">
+                        <div class="settings-page-header">
+                            <h2>Cài đặt</h2>
+                            <p>Tùy chỉnh trải nghiệm học tập, ôn tập và giao diện theo ý bạn.</p>
+                        </div>
+                        <div class="settings-menu-grid">
+                            <div class="settings-menu-card" data-settings-target="study">
+                                <div class="menu-icon-wrapper study-icon">
+                                    <i data-lucide="book-open"></i>
+                                </div>
+                                <div class="settings-menu-card-body">
+                                    <h3>Học tập</h3>
+                                    <p>Từ mới mỗi ngày, phát âm, phiên âm & mục tiêu học tập.</p>
+                                </div>
+                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                            </div>
+
+                            <div class="settings-menu-card" data-settings-target="review">
+                                <div class="menu-icon-wrapper review-icon">
+                                    <i data-lucide="brain"></i>
+                                </div>
+                                <div class="settings-menu-card-body">
+                                    <h3>Ôn tập (FSRS)</h3>
+                                    <p>Giới hạn ôn tập, ưu tiên từ yếu & mục tiêu ôn tập/ngày.</p>
+                                </div>
+                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                            </div>
+
+                            <div class="settings-menu-card" data-settings-target="sound">
+                                <div class="menu-icon-wrapper sound-icon">
+                                    <i data-lucide="volume-2"></i>
+                                </div>
+                                <div class="settings-menu-card-body">
+                                    <h3>Âm thanh</h3>
+                                    <p>Tùy chỉnh giọng đọc, tốc độ & âm lượng phát âm.</p>
+                                </div>
+                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                            </div>
+
+                            <div class="settings-menu-card" data-settings-target="theme">
+                                <div class="menu-icon-wrapper theme-icon">
+                                    <i data-lucide="palette"></i>
+                                </div>
+                                <div class="settings-menu-card-body">
+                                    <h3>Giao diện</h3>
+                                    <p>Chế độ sáng/tối và tùy chỉnh giao diện ứng dụng.</p>
+                                </div>
+                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                            </div>
+
+                            <div class="settings-menu-card" data-settings-target="data">
+                                <div class="menu-icon-wrapper data-icon">
+                                    <i data-lucide="database"></i>
+                                </div>
+                                <div class="settings-menu-card-body">
+                                    <h3>Dữ liệu</h3>
+                                    <p>Sao lưu, khôi phục và quản lý dữ liệu học tập.</p>
+                                </div>
+                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                            </div>
+
+                            <div class="settings-menu-card" data-settings-target="info">
+                                <div class="menu-icon-wrapper info-icon">
+                                    <i data-lucide="info"></i>
+                                </div>
+                                <div class="settings-menu-card-body">
+                                    <h3>Thông tin</h3>
+                                    <p>Phiên bản ứng dụng & thông tin nhóm phát triển.</p>
+                                </div>
+                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Details Panels -->
+                    <div id="settings-details-view" class="hidden">
+                        <!-- Panel 1: Học tập -->
+                        <div class="settings-detail-panel hidden" id="settings-panel-study">
+                            <div class="settings-detail-header">
+                                <button class="btn-settings-back" aria-label="Quay lại">
+                                    <i data-lucide="chevron-left"></i>
+                                </button>
+                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">📚</span>Học tập</h2>
+                            </div>
+                            <div class="settings-group">
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Số từ mới mỗi ngày</h4>
+                                        <p>Giới hạn số lượng từ mới học hàng ngày.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <input type="number" id="settings-new-words-day" min="5" max="100" class="settings-input-num">
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Số câu trắc nghiệm/phiên</h4>
+                                        <p>Số lượng câu hỏi trong mỗi phiên làm trắc nghiệm.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <input type="number" id="settings-quiz-reps" min="5" max="50" class="settings-input-num">
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Tự động phát âm</h4>
+                                        <p>Tự động phát âm tiếng Anh khi chuyển thẻ flashcard mới.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <label class="switch-control">
+                                            <input type="checkbox" id="settings-auto-speak">
+                                            <span class="slider-switch"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Hiển thị phiên âm (IPA)</h4>
+                                        <p>Hiển thị ký hiệu phiên âm quốc tế IPA trên flashcard.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <label class="switch-control">
+                                            <input type="checkbox" id="settings-show-ipa">
+                                            <span class="slider-switch"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Hiển thị câu ví dụ</h4>
+                                        <p>Hiển thị câu ví dụ và dịch nghĩa trên thẻ flashcard.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <label class="switch-control">
+                                            <input type="checkbox" id="settings-show-example">
+                                            <span class="slider-switch"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Lật thẻ tự động</h4>
+                                        <p>Tự động hiển thị mặt sau sau khi phát âm xong.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <label class="switch-control">
+                                            <input type="checkbox" id="settings-auto-flip">
+                                            <span class="slider-switch"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <!-- Tích hợp Mục tiêu học tập -->
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Mục tiêu từ mới/ngày</h4>
+                                        <p>Số lượng từ mới mục tiêu cần học trong ngày.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <input type="number" id="settings-goal-new-words" min="1" max="100" class="settings-input-num">
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Mục tiêu chuỗi streak</h4>
+                                        <p>Chuỗi số ngày học liên tục mong muốn đạt được.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <input type="number" id="settings-goal-streak" min="3" max="365" class="settings-input-num">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Panel 2: Ôn tập -->
+                        <div class="settings-detail-panel hidden" id="settings-panel-review">
+                            <div class="settings-detail-header">
+                                <button class="btn-settings-back" aria-label="Quay lại">
+                                    <i data-lucide="chevron-left"></i>
+                                </button>
+                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">🧠</span>Ôn tập (FSRS)</h2>
+                            </div>
+                            <div class="settings-group">
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Giới hạn số thẻ ôn/ngày</h4>
+                                        <p>Số lượng từ tối đa cần ôn tập hàng ngày.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <input type="number" id="settings-review-limit" min="10" max="500" class="settings-input-num">
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Ưu tiên từ yếu trước</h4>
+                                        <p>Ưu tiên xếp lịch ôn tập các từ có độ ổn định kém lên trước.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <label class="switch-control">
+                                            <input type="checkbox" id="settings-prioritize-weak">
+                                            <span class="slider-switch"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <!-- Tích hợp Mục tiêu ôn tập -->
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Mục tiêu ôn tập/ngày</h4>
+                                        <p>Số lượng từ ôn tập mục tiêu cần hoàn thành trong ngày.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <input type="number" id="settings-goal-reviews" min="1" max="500" class="settings-input-num">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Panel 3: Âm thanh -->
+                        <div class="settings-detail-panel hidden" id="settings-panel-sound">
+                            <div class="settings-detail-header">
+                                <button class="btn-settings-back" aria-label="Quay lại">
+                                    <i data-lucide="chevron-left"></i>
+                                </button>
+                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">🔊</span>Âm thanh</h2>
+                            </div>
+                            <div class="settings-group">
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Tốc độ đọc giọng nói</h4>
+                                        <p>Điều chỉnh tốc độ phát âm từ vựng và câu ví dụ.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <div class="slider-wrapper">
+                                            <input type="range" id="settings-speech-rate" min="0.5" max="1.5" step="0.1" value="1.0">
+                                            <span id="speech-rate-val">1.0x</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Giọng phát âm chính</h4>
+                                        <p>Lựa chọn accent phát âm tiếng Anh US hoặc UK.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <select id="settings-speech-voice" class="settings-select">
+                                            <option value="us">Tiếng Anh - Mỹ (US)</option>
+                                            <option value="uk">Tiếng Anh - Anh (UK)</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Panel 4: Giao diện -->
+                        <div class="settings-detail-panel hidden" id="settings-panel-theme">
+                            <div class="settings-detail-header">
+                                <button class="btn-settings-back" aria-label="Quay lại">
+                                    <i data-lucide="chevron-left"></i>
+                                </button>
+                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">🎨</span>Giao diện</h2>
+                            </div>
+                            <div class="settings-group">
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Chủ đề màu sắc</h4>
+                                        <p>Thay đổi giao diện màu sắc của ứng dụng.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <div class="theme-switch-wrapper">
+                                            <button class="theme-btn active" id="btn-theme-dark" data-theme="dark">
+                                                <i data-lucide="moon"></i>
+                                                <span>Tối (Dark)</span>
+                                            </button>
+                                            <button class="theme-btn" id="btn-theme-light" data-theme="light">
+                                                <i data-lucide="sun"></i>
+                                                <span>Sáng (Light)</span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Panel 5: Dữ liệu -->
+                        <div class="settings-detail-panel hidden" id="settings-panel-data">
+                            <div class="settings-detail-header">
+                                <button class="btn-settings-back" aria-label="Quay lại">
+                                    <i data-lucide="chevron-left"></i>
+                                </button>
+                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">💾</span>Dữ liệu</h2>
+                            </div>
+                            <div class="settings-group">
+                                <div class="setting-row block-row">
+                                    <div class="setting-info">
+                                        <h4>Sao lưu & Khôi phục dữ liệu học</h4>
+                                        <p>Xuất tiến trình của bạn thành tệp tin JSON hoặc nhập tệp tiến trình đã sao lưu trước đó.</p>
+                                    </div>
+                                    <div class="setting-control buttons-row">
+                                        <button class="action-btn secondary" id="btn-export-data">
+                                            <i data-lucide="download"></i>
+                                            <span>Xuất dữ liệu học</span>
+                                        </button>
+                                        <button class="action-btn secondary" id="btn-import-trigger">
+                                            <i data-lucide="upload"></i>
+                                            <span>Nhập dữ liệu học</span>
+                                        </button>
+                                        <input type="file" id="import-file-input" style="display: none;" accept=".json">
+                                    </div>
+                                </div>
+
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Đặt lại toàn bộ tiến độ</h4>
+                                        <p class="warning-text">Hành động này sẽ xóa vĩnh viễn toàn bộ lịch sử học, điểm trắc nghiệm và tiến độ ôn tập FSRS của bạn.</p>
+                                    </div>
+                                    <div class="setting-control">
+                                        <button class="action-btn danger" id="btn-reset-data">
+                                            <i data-lucide="trash-2"></i>
+                                            <span>Đặt lại từ đầu</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Panel 6: Thông tin -->
+                        <div class="settings-detail-panel hidden" id="settings-panel-info">
+                            <div class="settings-detail-header">
+                                <button class="btn-settings-back" aria-label="Quay lại">
+                                    <i data-lucide="chevron-left"></i>
+                                </button>
+                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">ℹ️</span>Thông tin</h2>
+                            </div>
+                            <div class="settings-group">
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Phiên bản ứng dụng</h4>
+                                    </div>
+                                    <div class="setting-control info-val">
+                                        <span>1.0.0</span>
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Thuật toán ôn tập</h4>
+                                    </div>
+                                    <div class="setting-control info-val">
+                                        <span>FSRS-6 (Spaced Repetition)</span>
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Dung lượng dữ liệu tiến độ</h4>
+                                    </div>
+                                    <div class="setting-control info-val">
+                                        <span id="info-data-size">0 bytes</span>
+                                    </div>
+                                </div>
+                                <div class="setting-row">
+                                    <div class="setting-info">
+                                        <h4>Tổng số từ vựng TOEIC</h4>
+                                    </div>
+                                    <div class="setting-control info-val">
+                                        <span id="info-total-words">0 từ</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- VIEW: NOTEBOOK (FULLSCREEN) -->
+            <section id="notebook-view" class="notebook-view hidden">
+                <div class="notebook-view-header">
+                    <button class="back-btn" id="btn-notebook-back">
+                        <i data-lucide="arrow-left"></i>
+                        <span>Quay lại</span>
+                    </button>
+                    <h3>Notebook & Thư viện từ vựng</h3>
+                    
+                    <!-- Sub-tabs inside Notebook -->
+                    <div class="notebook-tab-selectors">
+                        <button class="notebook-tab-btn active" data-notebook-tab="by-topic">
+                            <i data-lucide="folder-open"></i>
+                            <span>Theo chủ đề</span>
+                        </button>
+                        <button class="notebook-tab-btn" data-notebook-tab="by-schedule">
+                            <i data-lucide="calendar-days"></i>
+                            <span>Lịch ôn tập</span>
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="notebook-view-body">
+                    <!-- SUB-VIEW: BY TOPIC -->
+                    <div class="notebook-sub-content active" id="notebook-content-by-topic">
+                        <!-- Screen 1: Topics List -->
+                        <div id="notebook-topic-list-screen">
+                            <div class="notebook-filters-row">
+                                <div class="search-box">
+                                    <i data-lucide="search"></i>
+                                    <input type="text" id="notebook-topic-search-list" placeholder="Tìm kiếm chủ đề...">
+                                </div>
+                            </div>
+                            <div class="notebook-topics-grid" id="notebook-topics-grid-container">
+                                <!-- Dynamic topic grid cards -->
+                            </div>
+                        </div>
+                        
+                        <!-- Screen 2: Topic Details (Words List) -->
+                        <div id="notebook-topic-detail-screen" class="hidden">
+                            <div class="notebook-topic-detail-header">
+                                <button class="back-btn-sub" id="btn-notebook-topic-detail-back">
+                                    <i data-lucide="arrow-left"></i>
+                                    <span>Danh sách chủ đề</span>
+                                </button>
+                                <div class="notebook-topic-detail-info">
+                                    <span id="notebook-active-topic-icon" class="topic-detail-icon">📚</span>
+                                    <div>
+                                        <h4 id="notebook-active-topic-name">Topic Name</h4>
+                                        <p id="notebook-active-topic-desc" class="topic-detail-desc">Topic Description</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="notebook-filters-row" style="margin-top: 20px;">
+                                <div class="search-box">
+                                    <i data-lucide="search"></i>
+                                    <input type="text" id="notebook-word-search" placeholder="Tìm kiếm từ hoặc nghĩa...">
+                                </div>
+                                <div class="filter-controls">
+                                    <div class="filter-group">
+                                        <label for="notebook-word-status-filter">Trạng thái:</label>
+                                        <select id="notebook-word-status-filter">
+                                            <option value="all">Tất cả từ</option>
+                                            <option value="learned">Đã học</option>
+                                            <option value="unlearned">Chưa học</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="notebook-topic-words-list" id="notebook-topic-words-list-container">
+                                <!-- Dynamic words rendering -->
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- SUB-VIEW: BY SCHEDULE -->
+                    <div class="notebook-sub-content hidden" id="notebook-content-by-schedule">
+                        <!-- Filters for Schedule View -->
+                        <div class="notebook-filters-row">
+                            <div class="search-box">
+                                <i data-lucide="search"></i>
+                                <input type="text" id="notebook-sched-search" placeholder="Tìm từ hoặc nghĩa...">
+                            </div>
+                            <div class="filter-controls">
+                                <div class="filter-group">
+                                    <label for="notebook-sched-time-filter">Mốc thời gian:</label>
+                                    <select id="notebook-sched-time-filter">
+                                        <option value="all">Tất cả lịch ôn</option>
+                                        <option value="due">Cần ôn ngay / Quá hạn</option>
+                                        <option value="tomorrow">Ngày mai</option>
+                                        <option value="week">Trong 7 ngày tới</option>
+                                        <option value="later">Dài hạn (> 7 ngày)</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Schedule timeline cards -->
+                        <div class="notebook-schedule-timeline" id="notebook-sched-timeline-container">
+                            <!-- Grouped by timeline -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>

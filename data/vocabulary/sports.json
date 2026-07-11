@@ -1,0 +1,1864 @@
+[
+    {
+        "id": 12931,
+        "word": "sport",
+        "pronunciation": "/spɔːt/",
+        "audio": "sport.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thể thao",
+        "definition": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.",
+        "example": "We need to understand the concept of sport.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm thể thao.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "sport process, key sport",
+        "wordFamily": "sport (noun)",
+        "image": "sport.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12932,
+        "word": "game",
+        "pronunciation": "/ɡeɪm/",
+        "audio": "game.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trò chơi",
+        "definition": "A playful or competitive activity.",
+        "example": "We need to understand the concept of game.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm trò chơi.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "game process, key game",
+        "wordFamily": "game (noun)",
+        "image": "game.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12933,
+        "word": "play",
+        "pronunciation": "/pleɪ/",
+        "audio": "play.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chơi",
+        "definition": "Activity for amusement only, especially among the young.",
+        "example": "Children learn through play.",
+        "exampleVi": "Trẻ học thông qua vui chơi.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "play process, key play",
+        "wordFamily": "play (noun)",
+        "image": "play.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12934,
+        "word": "player",
+        "pronunciation": "/ˈpleɪə(ɹ)/",
+        "audio": "player.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "người chơi",
+        "definition": "One that plays",
+        "example": "We need to understand the concept of player.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người chơi.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "player process, key player",
+        "wordFamily": "player (noun)",
+        "image": "player.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12935,
+        "word": "team",
+        "pronunciation": "/tiːm/",
+        "audio": "team.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đội",
+        "definition": "A set of draught animals, such as two horses in front of a carriage.",
+        "example": "We need to understand the concept of team.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về đội.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "team process, key team",
+        "wordFamily": "team (noun)",
+        "image": "team.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12936,
+        "word": "coach",
+        "pronunciation": "/kəʊtʃ/",
+        "audio": "coach.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "huấn luyện viên",
+        "definition": "A wheeled vehicle, generally drawn by horse power.",
+        "example": "We need to understand the concept of coach.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm huấn luyện viên.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "coach process, key coach",
+        "wordFamily": "coach (noun)",
+        "image": "coach.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12937,
+        "word": "manager",
+        "pronunciation": "/ˈmæn.ɪ.dʒə/",
+        "audio": "manager.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giám đốc",
+        "definition": "A person whose job is to manage something, such as a business, a restaurant, or a sports team.",
+        "example": "We need to understand the concept of manager.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm người quản lý.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "manager process, key manager",
+        "wordFamily": "manager (noun)",
+        "image": "manager.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12938,
+        "word": "referee",
+        "pronunciation": "/ˌɹɛf.əˈɹiː/",
+        "audio": "referee.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trọng tài",
+        "definition": "An umpire or judge; an official who makes sure the rules are followed during a game.",
+        "example": "The referee kicked Jim out of the game for fighting.",
+        "exampleVi": "Trọng tài đã đuổi Jim ra khỏi trận đấu vì đánh nhau.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "referee process, key referee",
+        "wordFamily": "referee (noun)",
+        "image": "referee.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12939,
+        "word": "rules",
+        "pronunciation": "/ˈɹuːlz/",
+        "audio": "rules.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "quy tắc",
+        "definition": "A regulation, law, guideline.",
+        "example": "All participants must adhere to the rules.",
+        "exampleVi": "Tất cả những người tham gia phải tuân thủ các quy tắc.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "rules process, key rules",
+        "wordFamily": "rules (noun)",
+        "image": "rules.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12940,
+        "word": "match",
+        "pronunciation": "/mæt͡ʃ/",
+        "audio": "match.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc thi đấu",
+        "definition": "A competitive sporting event such as a boxing meet, a baseball game, or a cricket match.",
+        "example": "My local team are playing in a match against their arch-rivals today.",
+        "exampleVi": "Hôm nay đội bóng địa phương của tôi đang thi đấu với đối thủ truyền kiếp của họ.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "match process, key match",
+        "wordFamily": "match (noun)",
+        "image": "match.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12941,
+        "word": "score",
+        "pronunciation": "/skɔː/",
+        "audio": "score.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điểm",
+        "definition": "The total number of goals, points, runs, etc. earned by a participant in a game.",
+        "example": "The player with the highest score is the winner.",
+        "exampleVi": "Người chơi có số điểm cao nhất là người chiến thắng.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "score process, key score",
+        "wordFamily": "score (noun)",
+        "image": "score.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12942,
+        "word": "point",
+        "pronunciation": "/pɔɪnt/",
+        "audio": "point.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điểm",
+        "definition": "A discrete division of something.",
+        "example": "We need to understand the concept of point.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm điểm.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "point process, key point",
+        "wordFamily": "point (noun)",
+        "image": "point.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12943,
+        "word": "win",
+        "pronunciation": "/wɪn/",
+        "audio": "win.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thắng",
+        "definition": "To conquer, defeat.",
+        "example": "We need to understand the concept of win.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm chiến thắng.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "win process, key win",
+        "wordFamily": "win (verb)",
+        "image": "win.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12944,
+        "word": "lose",
+        "pronunciation": "/luːz/",
+        "audio": "lose.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thua",
+        "definition": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+        "example": "He lost his hearing in the explosion.",
+        "exampleVi": "Anh ta bị mất thính giác trong vụ nổ.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "lose process, key lose",
+        "wordFamily": "lose (verb)",
+        "image": "lose.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12945,
+        "word": "draw",
+        "pronunciation": "/dɹɔː/",
+        "audio": "draw.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vẽ tranh",
+        "definition": "The result of a contest that neither side has won; a tie.",
+        "example": "The game ended in a draw.",
+        "exampleVi": "Trận đấu kết thúc với tỷ số hòa.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "draw process, key draw",
+        "wordFamily": "draw (noun)",
+        "image": "draw.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12946,
+        "word": "champion",
+        "pronunciation": "/ˈtʃæmpiən/",
+        "audio": "champion.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "nhà vô địch",
+        "definition": "An ongoing winner in a game or contest.",
+        "example": "The defending champion is expected to defeat his challenger.",
+        "exampleVi": "Nhà đương kim vô địch được kỳ vọng sẽ đánh bại kẻ thách đấu mình.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "champion process, key champion",
+        "wordFamily": "champion (noun)",
+        "image": "champion.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12947,
+        "word": "championship",
+        "pronunciation": "/ˈtʃæmpi.ənʃɪp/",
+        "audio": "championship.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chức vô địch",
+        "definition": "A competition to determine a champion, especially the final of a series of competitions.",
+        "example": "We need to understand the concept of championship.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm vô địch.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "championship process, key championship",
+        "wordFamily": "championship (noun)",
+        "image": "championship.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12948,
+        "word": "stadium",
+        "pronunciation": "/ˈsteɪ.di.əm/",
+        "audio": "stadium.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sân vận động",
+        "definition": "A venue where sporting events are held.",
+        "example": "We need to understand the concept of stadium.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm sân vận động.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "stadium process, key stadium",
+        "wordFamily": "stadium (noun)",
+        "image": "stadium.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12949,
+        "word": "field",
+        "pronunciation": "/fiːld/",
+        "audio": "field.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cánh đồng",
+        "definition": "A land area free of woodland, cities, and towns; open country.",
+        "example": "There are several species of wild flowers growing in this field.",
+        "exampleVi": "Có một số loài hoa dại mọc trên cánh đồng này.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "field process, key field",
+        "wordFamily": "field (noun)",
+        "image": "field.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12950,
+        "word": "court",
+        "pronunciation": "/kɔːt/",
+        "audio": "court.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tòa án",
+        "definition": "An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.",
+        "example": "The girls were playing in the court.",
+        "exampleVi": "Các cô gái đang chơi ở sân.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "court process, key court",
+        "wordFamily": "court (noun)",
+        "image": "court.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12951,
+        "word": "athlete",
+        "pronunciation": "/athlete/",
+        "audio": "athlete.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "vận động viên",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word athlete.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ vận động viên.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "athlete process, key athlete",
+        "wordFamily": "athlete (noun)",
+        "image": "athlete.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12952,
+        "word": "fitness",
+        "pronunciation": "/fitness/",
+        "audio": "fitness.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sự thích hợp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word fitness.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thể dục.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "fitness process, key fitness",
+        "wordFamily": "fitness (noun)",
+        "image": "fitness.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12953,
+        "word": "exercise",
+        "pronunciation": "/exercise/",
+        "audio": "exercise.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "bài tập",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word exercise.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ bài tập.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "exercise process, key exercise",
+        "wordFamily": "exercise (noun)",
+        "image": "exercise.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12954,
+        "word": "practice",
+        "pronunciation": "/practice/",
+        "audio": "practice.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "luyện tập",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word practice.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thực hành.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "practice process, key practice",
+        "wordFamily": "practice (noun)",
+        "image": "practice.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12955,
+        "word": "competition",
+        "pronunciation": "/competition/",
+        "audio": "competition.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc thi",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word competition.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cạnh tranh.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "competition process, key competition",
+        "wordFamily": "competition (noun)",
+        "image": "competition.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12956,
+        "word": "tournament",
+        "pronunciation": "/tournament/",
+        "audio": "tournament.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải đấu",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word tournament.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ giải đấu.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "tournament process, key tournament",
+        "wordFamily": "tournament (noun)",
+        "image": "tournament.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12957,
+        "word": "medal",
+        "pronunciation": "/medal/",
+        "audio": "medal.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "huy chương",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word medal.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ huy chương.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "medal process, key medal",
+        "wordFamily": "medal (noun)",
+        "image": "medal.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12958,
+        "word": "trophy",
+        "pronunciation": "/trophy/",
+        "audio": "trophy.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiếc cúp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word trophy.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cúp.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "trophy process, key trophy",
+        "wordFamily": "trophy (noun)",
+        "image": "trophy.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12959,
+        "word": "race",
+        "pronunciation": "/race/",
+        "audio": "race.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "loài ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word race.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ chủng tộc.",
+        "topic": "Sports",
+        "level": "B1",
+        "difficulty": 3,
+        "collocations": "race process, key race",
+        "wordFamily": "race (noun)",
+        "image": "race.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12960,
+        "word": "health",
+        "pronunciation": "/hɛlθ/",
+        "audio": "health.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "sức khỏe",
+        "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness.",
+        "example": "Her mental health is really affected by stressful environments.",
+        "exampleVi": "Sức khỏe tinh thần của cô thực sự bị ảnh hưởng bởi môi trường căng thẳng.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "health process, key health",
+        "wordFamily": "health (noun)",
+        "image": "health.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12961,
+        "word": "leisure",
+        "pronunciation": "/ˈliːʒə(ɹ)/",
+        "audio": "leisure.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải trí",
+        "definition": "Freedom provided by the cessation of activities.",
+        "example": "We need to understand the concept of leisure.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm nhàn rỗi.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "leisure process, key leisure",
+        "wordFamily": "leisure (noun)",
+        "image": "leisure.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12962,
+        "word": "loss",
+        "pronunciation": "/lɑs/",
+        "audio": "loss.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thua",
+        "definition": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
+        "example": "In other areas, glacier loss creates serious risk of a dry period across the Third Pole, Wang said.",
+        "exampleVi": "Wang cho biết ở các khu vực khác, việc mất sông băng tạo ra nguy cơ nghiêm trọng về thời kỳ khô hạn trên khắp Cực thứ ba.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "loss process, key loss",
+        "wordFamily": "loss (noun)",
+        "image": "loss.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12963,
+        "word": "recreation",
+        "pronunciation": "/ɹɛkɹiˈeɪʃən/",
+        "audio": "recreation.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải trí",
+        "definition": "Any activity, such as play, that amuses, diverts or stimulates.",
+        "example": "We need to understand the concept of recreation.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm giải trí.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "recreation process, key recreation",
+        "wordFamily": "recreation (noun)",
+        "image": "recreation.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12964,
+        "word": "gymnastics",
+        "pronunciation": "/gymnastics/",
+        "audio": "gymnastics.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thể dục dụng cụ",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word gymnastics.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thể dục.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "gymnastics process, key gymnastics",
+        "wordFamily": "gymnastics (noun)",
+        "image": "gymnastics.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12965,
+        "word": "record",
+        "pronunciation": "/ˈɹɛkɔːd/",
+        "audio": "record.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "kỷ lục",
+        "definition": "A disk, usually made of a polymer, used to record sound for playback on a phonograph.",
+        "example": "We need to understand the concept of record.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm hồ sơ.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "record process, key record",
+        "wordFamily": "record (noun)",
+        "image": "record.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12966,
+        "word": "prize",
+        "pronunciation": "/pɹaɪz/",
+        "audio": "prize.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải thưởng",
+        "definition": "That which is taken from another; something captured; a thing seized by force, stratagem, or superior power.",
+        "example": "We need to understand the concept of prize.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giải thưởng.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "prize process, key prize",
+        "wordFamily": "prize (noun)",
+        "image": "prize.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12967,
+        "word": "tie",
+        "pronunciation": "/tie/",
+        "audio": "tie.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "hòa",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word tie.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ tie.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "tie process, key tie",
+        "wordFamily": "tie (noun)",
+        "image": "tie.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12968,
+        "word": "award",
+        "pronunciation": "/əˈwɔːd/",
+        "audio": "award.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải thưởng",
+        "definition": "A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted.",
+        "example": "We need to understand the concept of award.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về giải thưởng.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "award process, key award",
+        "wordFamily": "award (noun)",
+        "image": "award.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12969,
+        "word": "defeat",
+        "pronunciation": "/dɪˈfiːt/",
+        "audio": "defeat.mp3",
+        "partOfSpeech": "verb",
+        "vietnamese": "thất bại",
+        "definition": "To overcome in battle or contest.",
+        "example": "Wellington defeated Napoleon at Waterloo.",
+        "exampleVi": "Wellington đánh bại Napoléon tại Waterloo.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "defeat process, key defeat",
+        "wordFamily": "defeat (noun)",
+        "image": "defeat.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12970,
+        "word": "workout",
+        "pronunciation": "/ˈwəːk.aʊt/",
+        "audio": "workout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "tập luyện",
+        "definition": "An exercise session; a period of physical exercise.",
+        "example": "We need to understand the concept of workout.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm tập luyện.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "workout process, key workout",
+        "wordFamily": "workout (noun)",
+        "image": "workout.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12971,
+        "word": "cup",
+        "pronunciation": "/cup/",
+        "audio": "cup.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cúp",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word cup.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ cốc.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "cup process, key cup",
+        "wordFamily": "cup (noun)",
+        "image": "cup.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12972,
+        "word": "victory",
+        "pronunciation": "/ˈvɪkt(ə)ɹi/",
+        "audio": "victory.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "chiến thắng",
+        "definition": "An instance of having won a competition or battle or succeeded in an effort.",
+        "example": "It was a great victory on the battlefield.",
+        "exampleVi": "Đó là một chiến thắng vĩ đại trên chiến trường.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "victory process, key victory",
+        "wordFamily": "victory (noun)",
+        "image": "victory.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12973,
+        "word": "contestant",
+        "pronunciation": "/contestant/",
+        "audio": "contestant.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "thí sinh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word contestant.",
+        "exampleVi": "Đây là một câu ví dụ sử dụng từ thí sinh.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "contestant process, key contestant",
+        "wordFamily": "contestant (noun)",
+        "image": "contestant.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12974,
+        "word": "competitor",
+        "pronunciation": "/competitor/",
+        "audio": "competitor.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "đối thủ cạnh tranh",
+        "definition": "a word related to this topic",
+        "example": "This is an example sentence using the word competitor.",
+        "exampleVi": "This is an example sentence using the word competitor.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "competitor process, key competitor",
+        "wordFamily": "competitor (noun)",
+        "image": "competitor.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12975,
+        "word": "athletics",
+        "pronunciation": "/æθˈlɛtɪks/",
+        "audio": "athletics.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "điền kinh",
+        "definition": "(especially Britain) A group of sporting activities including track and field, road running, cross country and racewalking.",
+        "example": "We need to understand the concept of athletics.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm về điền kinh.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "athletics process, key athletics",
+        "wordFamily": "athletics (noun)",
+        "image": "athletics.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12976,
+        "word": "contest",
+        "pronunciation": "/ˈkɒn.tɛst/",
+        "audio": "contest.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "cuộc thi",
+        "definition": "Controversy; debate.",
+        "example": "no contest",
+        "exampleVi": "không có cuộc thi",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "contest process, key contest",
+        "wordFamily": "contest (noun)",
+        "image": "contest.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12977,
+        "word": "league",
+        "pronunciation": "/liːɡ/",
+        "audio": "league.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "giải đấu",
+        "definition": "A group or association of cooperating members.",
+        "example": "the League of Nations",
+        "exampleVi": "Liên đoàn các quốc gia",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "league process, key league",
+        "wordFamily": "league (noun)",
+        "image": "league.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12978,
+        "word": "meet",
+        "pronunciation": "/miːt/",
+        "audio": "meet.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "gặp nhau",
+        "definition": "A sports competition, especially for track and field (a track meet) or swimming (a swim meet).",
+        "example": "We need to understand the concept of meet.",
+        "exampleVi": "Chúng ta cần hiểu khái niệm gặp gỡ.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "meet process, key meet",
+        "wordFamily": "meet (noun)",
+        "image": "meet.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    },
+    {
+        "id": 12979,
+        "word": "bout",
+        "pronunciation": "/bʌʊt/",
+        "audio": "bout.mp3",
+        "partOfSpeech": "noun",
+        "vietnamese": "trận đấu",
+        "definition": "A period of something, usually painful or unpleasant.",
+        "example": "a bout of drought.",
+        "exampleVi": "một đợt hạn hán.",
+        "topic": "Sports",
+        "level": "B2",
+        "difficulty": 3,
+        "collocations": "bout process, key bout",
+        "wordFamily": "bout (noun)",
+        "image": "bout.webp",
+        "tags": [
+            "sports",
+            "toeic"
+        ],
+        "fsrs": {
+            "due": null,
+            "stability": 0.0,
+            "difficultyFSRS": 0.0,
+            "reps": 0,
+            "lapses": 0,
+            "lastReview": null,
+            "state": "New"
+        },
+        "statistics": {
+            "correct": 0,
+            "wrong": 0,
+            "accuracy": 0.0,
+            "studyTime": 0,
+            "lastSeen": null,
+            "mastered": false
+        }
+    }
+]
