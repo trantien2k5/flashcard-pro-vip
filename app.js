@@ -4,7 +4,7 @@
 
 // Bump this on every code change (shown in Settings > Thông tin) so the user can
 // tell at a glance whether a new update has actually loaded.
-const APP_VERSION = '1.2.3 (11/07/2026)';
+const APP_VERSION = '1.3.0 (11/07/2026)';
 
 // --- Global Error Capturing & Recovery (Try-Catch Toàn cục) ---
 window.addEventListener('error', (event) => {
@@ -35,6 +35,10 @@ let studyProgress = {}; // Stores FSRS and Stats progress by word ID: { [wordId]
 let topicRecency = {}; // Stores last-studied timestamp by topic ID: { [topicId]: number }, used to sort recently studied topics to the top
 let activeTab = 'home';
 let currentMode = 'flashcard'; // 'flashcard' or 'quiz'
+
+// Learn Session State (Topics tab: new-word flashcard learning)
+let learnSessionStats = { again: 0, hard: 0, good: 0, easy: 0 };
+let learnSessionStartTime = null;
 
 // Quiz Session State
 let quizWords = [];
@@ -107,7 +111,18 @@ const elements = {
     cardBackCollocationsContainer: document.getElementById('card-back-collocations-container'),
     cardBackCollocations: document.getElementById('card-back-collocations'),
     fsrsButtonsPanel: document.getElementById('fsrs-buttons-panel'),
-    
+
+    // Learn Session Complete Screen
+    learnSessionComplete: document.getElementById('learn-session-complete'),
+    sessionCompleteSummary: document.getElementById('session-complete-summary'),
+    sessionStatTime: document.getElementById('session-stat-time'),
+    sessionStatAgain: document.getElementById('session-stat-again'),
+    sessionStatHard: document.getElementById('session-stat-hard'),
+    sessionStatGood: document.getElementById('session-stat-good'),
+    sessionStatEasy: document.getElementById('session-stat-easy'),
+    btnSessionContinue: document.getElementById('btn-session-continue'),
+    btnSessionHome: document.getElementById('btn-session-home'),
+
     // Quiz Mode
     quizModeContainer: document.getElementById('quiz-mode-container'),
     quizProgressText: document.getElementById('quiz-progress-text'),
@@ -614,43 +629,44 @@ async function loadVocabularyForTopic(topicId) {
         }
     }
     
-    currentTopicId = topicId;
-    // Map words, injecting progress stats from localStorage
-    // Map words, injecting progress stats, split into studied vs new, and cap new words by settingsNewWordsDay
-    const learnedWords = [];
+    // Learn (Topics tab) is a dedicated "new words only" flow, kept separate from
+    // Review (due words, scheduled by FSRS) which lives in its own tab. Map words,
+    // keep only never-seen ones, shuffle so order isn't just JSON file order, and
+    // cap the batch to one session's worth (Settings > Học tập > Số từ mới mỗi phiên).
     const newWords = [];
-    
     wordsData.forEach(word => {
         const progress = studyProgress[word.id];
-        const mappedWord = {
+        if (progress && progress.statistics.lastSeen) return; // already learned - belongs to Review, not here
+        newWords.push({
             ...word,
             fsrs: progress ? progress.fsrs : { ...word.fsrs },
             statistics: progress ? progress.statistics : { ...word.statistics }
-        };
-        
-        if (progress && progress.statistics.lastSeen) {
-            learnedWords.push(mappedWord);
-        } else {
-            newWords.push(mappedWord);
-        }
+        });
     });
-    
-    // Cap new words based on settings
-    const cappedNewWords = newWords.slice(0, appSettings.newWordsPerDay);
 
-    // Priority queue: words due for review today come first (earliest due first),
-    // then brand-new/unrated words, then already-learned words not yet due.
-    const now = new Date();
-    const isDue = (w) => w.fsrs && w.fsrs.due && new Date(w.fsrs.due) <= now;
+    if (newWords.length === 0) {
+        showToast('Bạn đã học hết từ mới trong chủ đề này! Vào tab Ôn tập để ôn lại.', 'success');
+        goBackToTopics();
+        return;
+    }
 
-    const dueWords = learnedWords.filter(isDue).sort((a, b) => new Date(a.fsrs.due) - new Date(b.fsrs.due));
-    const notDueWords = learnedWords.filter(w => !isDue(w));
+    // Fisher-Yates shuffle
+    for (let i = newWords.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [newWords[i], newWords[j]] = [newWords[j], newWords[i]];
+    }
 
-    currentWords = [...dueWords, ...cappedNewWords, ...notDueWords];
-
+    currentTopicId = topicId;
+    currentWords = newWords.slice(0, appSettings.newWordsPerDay);
     currentWordIndex = 0;
     currentMode = 'flashcard';
-    
+
+    // Reset this session's stats
+    learnSessionStats = { again: 0, hard: 0, good: 0, easy: 0 };
+    learnSessionStartTime = Date.now();
+    if (elements.learnSessionComplete) elements.learnSessionComplete.classList.add('hidden');
+    if (elements.flashcardModeContainer) elements.flashcardModeContainer.classList.remove('hidden');
+
     // Reset buttons
     elements.btnModeFlashcard.classList.add('active');
     elements.btnModeQuiz.classList.remove('active');
@@ -858,17 +874,23 @@ function handleFlashcardRating(rating) {
     }
     studyProgress[word.id].topicId = currentTopicId;
     calculateFSRS(word.id, rating);
-    
+
     // Update current word's FSRS status so UI updates if flipped back
     const wordProgress = studyProgress[word.id];
     word.fsrs = wordProgress.fsrs;
     word.statistics = wordProgress.statistics;
-    
+
+    // Track this session's rating breakdown for the completion screen
+    if (rating === 1) learnSessionStats.again++;
+    else if (rating === 2) learnSessionStats.hard++;
+    else if (rating === 3) learnSessionStats.good++;
+    else if (rating === 4) learnSessionStats.easy++;
+
     showToast(`Đã ghi nhận mức độ: ${getRatingLabel(rating)}`, 'success');
-    
+
     // Auto flip card to front for the next word
     elements.studyFlashcard.classList.remove('flipped');
-    
+
     // Delay slightly to allow transition before showing next word
     setTimeout(() => {
         nextCard();
@@ -881,10 +903,37 @@ function nextCard() {
         currentWordIndex++;
         showWordFlashcard();
     } else {
-        showToast('Chúc mừng! Bạn đã hoàn thành tất cả từ vựng trong chủ đề này.', 'success');
-        currentWordIndex = 0; // wrap around
-        showWordFlashcard();
+        finishLearnSession();
     }
+}
+
+// Shows the session-complete screen with a rating breakdown instead of looping
+// the flashcards forever - keeps "learn" sessions bounded and gives the user a
+// natural stopping point (per-topic bite-sized sessions rather than endless study).
+function finishLearnSession() {
+    if (elements.flashcardModeContainer) elements.flashcardModeContainer.classList.add('hidden');
+    if (elements.quizModeContainer) elements.quizModeContainer.classList.add('hidden');
+    if (elements.learnSessionComplete) elements.learnSessionComplete.classList.remove('hidden');
+
+    const wordCount = currentWords.length;
+    if (elements.sessionCompleteSummary) {
+        elements.sessionCompleteSummary.innerText = `Bạn đã học ${wordCount} từ mới`;
+    }
+
+    const elapsedMs = learnSessionStartTime ? Date.now() - learnSessionStartTime : 0;
+    const totalSeconds = Math.round(elapsedMs / 1000);
+    const minutes = Math.floor(totalSeconds / 60);
+    const seconds = totalSeconds % 60;
+    if (elements.sessionStatTime) {
+        elements.sessionStatTime.innerText = `${minutes}:${String(seconds).padStart(2, '0')}`;
+    }
+
+    if (elements.sessionStatAgain) elements.sessionStatAgain.innerText = learnSessionStats.again;
+    if (elements.sessionStatHard) elements.sessionStatHard.innerText = learnSessionStats.hard;
+    if (elements.sessionStatGood) elements.sessionStatGood.innerText = learnSessionStats.good;
+    if (elements.sessionStatEasy) elements.sessionStatEasy.innerText = learnSessionStats.easy;
+
+    if (typeof lucide !== 'undefined') lucide.createIcons();
 }
 
 function getRatingLabel(rating) {
@@ -1511,7 +1560,22 @@ function setupEventListeners() {
     if (elements.btnBackToTopics) {
         elements.btnBackToTopics.addEventListener('click', goBackToTopics);
     }
-    
+
+    // Learn session complete screen: continue with the next batch, or head home
+    if (elements.btnSessionContinue) {
+        elements.btnSessionContinue.addEventListener('click', () => {
+            if (currentTopicId) loadVocabularyForTopic(currentTopicId);
+        });
+    }
+    if (elements.btnSessionHome) {
+        elements.btnSessionHome.addEventListener('click', () => {
+            goBackToTopics();
+            const homeNavBtn = document.querySelector('.nav-btn[data-tab="home"]');
+            if (homeNavBtn) homeNavBtn.click();
+        });
+    }
+
+
     // Flashcard Flip Interaction
     if (elements.studyFlashcard) {
         elements.studyFlashcard.addEventListener('click', (e) => {

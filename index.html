@@ -251,6 +251,51 @@
                         </div>
                     </div>
 
+                    <!-- Learn Session Complete Screen -->
+                    <div id="learn-session-complete" class="mode-container hidden">
+                        <div class="session-complete-card">
+                            <div class="session-complete-icon">
+                                <i data-lucide="party-popper"></i>
+                            </div>
+                            <h3>Hoàn thành phiên học!</h3>
+                            <p id="session-complete-summary">Bạn đã học 10 từ mới</p>
+
+                            <div class="session-complete-stats">
+                                <div class="session-stat-item">
+                                    <span class="session-stat-num" id="session-stat-time">0:00</span>
+                                    <span class="session-stat-label">Thời gian</span>
+                                </div>
+                                <div class="session-stat-item stat-again">
+                                    <span class="session-stat-num" id="session-stat-again">0</span>
+                                    <span class="session-stat-label">Học lại</span>
+                                </div>
+                                <div class="session-stat-item stat-hard">
+                                    <span class="session-stat-num" id="session-stat-hard">0</span>
+                                    <span class="session-stat-label">Khó</span>
+                                </div>
+                                <div class="session-stat-item stat-good">
+                                    <span class="session-stat-num" id="session-stat-good">0</span>
+                                    <span class="session-stat-label">Tốt</span>
+                                </div>
+                                <div class="session-stat-item stat-easy">
+                                    <span class="session-stat-num" id="session-stat-easy">0</span>
+                                    <span class="session-stat-label">Dễ</span>
+                                </div>
+                            </div>
+
+                            <div class="session-complete-actions">
+                                <button class="d-card-btn" id="btn-session-continue">
+                                    <span>Học tiếp</span>
+                                    <i data-lucide="arrow-right"></i>
+                                </button>
+                                <button class="back-btn" id="btn-session-home">
+                                    <i data-lucide="home"></i>
+                                    <span>Về trang chủ</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
                     <!-- Quiz Mode View -->
                     <div id="quiz-mode-container" class="mode-container hidden">
                         <div class="quiz-progress-bar-wrapper">
@@ -534,11 +579,16 @@
                         <div class="settings-group">
                             <div class="setting-row">
                                 <div class="setting-info">
-                                    <h4>Số từ mới mỗi ngày</h4>
-                                    <p>Giới hạn số lượng từ mới học hàng ngày.</p>
+                                    <h4>Số từ mới mỗi phiên học</h4>
+                                    <p>Số từ mới trong một phiên Flashcard, trước khi hiện màn hình hoàn thành.</p>
                                 </div>
                                 <div class="setting-control">
-                                    <input type="number" id="settings-new-words-day" min="5" max="100" class="settings-input-num">
+                                    <select id="settings-new-words-day" class="settings-select">
+                                        <option value="5">5 từ</option>
+                                        <option value="10">10 từ</option>
+                                        <option value="15">15 từ</option>
+                                        <option value="20">20 từ</option>
+                                    </select>
                                 </div>
                             </div>
                             <div class="setting-row">
