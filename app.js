@@ -28,6 +28,7 @@ let currentTopicId = null;
 let currentWords = [];
 let currentWordIndex = 0;
 let studyProgress = {}; // Stores FSRS and Stats progress by word ID: { [wordId]: { fsrs, statistics } }
+let topicRecency = {}; // Stores last-studied timestamp by topic ID: { [topicId]: number }, used to sort recently studied topics to the top
 let activeTab = 'home';
 let currentMode = 'flashcard'; // 'flashcard' or 'quiz'
 
@@ -358,6 +359,24 @@ function loadProgress() {
     } else {
         studyProgress = {};
     }
+
+    const savedRecency = localStorage.getItem('toeic_vocab_topic_recency');
+    if (savedRecency) {
+        try {
+            topicRecency = JSON.parse(savedRecency);
+        } catch (e) {
+            console.error('Lỗi phân tích thứ tự chủ đề học gần đây:', e);
+            topicRecency = {};
+        }
+    } else {
+        topicRecency = {};
+    }
+}
+
+// Mark a topic as just-studied so it sorts to the top of the Topics grid.
+function markTopicAsRecentlyStudied(topicId) {
+    topicRecency[topicId] = Date.now();
+    localStorage.setItem('toeic_vocab_topic_recency', JSON.stringify(topicRecency));
 }
 
 function saveProgress() {
@@ -506,7 +525,9 @@ async function loadVocabularyForTopic(topicId) {
     if (topicObj) {
         elements.detailTopicTitle.innerText = topicObj.name;
     }
-    
+
+    markTopicAsRecentlyStudied(topicId);
+
     let wordsData = [];
     try {
         const vocabRes = await fetch(`./data/vocabulary/${topicId}.json`);
@@ -580,11 +601,15 @@ function renderTopicsList() {
     const searchQuery = elements.searchTopics ? elements.searchTopics.value.toLowerCase().trim() : '';
     elements.topicsGrid.innerHTML = '';
     
-    const filteredTopics = topics.filter(topic => 
-        topic.name.toLowerCase().includes(searchQuery) || 
+    const filteredTopics = topics.filter(topic =>
+        topic.name.toLowerCase().includes(searchQuery) ||
         topic.desc.toLowerCase().includes(searchQuery)
     );
-    
+
+    // Recently studied topics float to the top (most recent first); topics
+    // never studied keep their original order and stay below them.
+    filteredTopics.sort((a, b) => (topicRecency[b.id] || 0) - (topicRecency[a.id] || 0));
+
     if (filteredTopics.length === 0) {
         elements.topicsGrid.innerHTML = `
             <div class="loading-state">
