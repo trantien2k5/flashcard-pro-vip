@@ -4,7 +4,7 @@
 
 // Bump this on every code change (shown in Settings > Thông tin) so the user can
 // tell at a glance whether a new update has actually loaded.
-const APP_VERSION = '1.2.2 (11/07/2026)';
+const APP_VERSION = '1.2.3 (11/07/2026)';
 
 // --- Global Error Capturing & Recovery (Try-Catch Toàn cục) ---
 window.addEventListener('error', (event) => {
@@ -766,15 +766,20 @@ function renderTopicsList() {
 function goBackToTopics() {
     elements.topicDetailView.classList.add('hidden');
     elements.topicsGrid.classList.remove('hidden');
-    
+
     // Show search bar
     const searchBar = document.querySelector('.search-filter-bar');
     if (searchBar) searchBar.classList.remove('hidden');
-    
+
+    // Clear the search box so leftover filter text doesn't stick around after returning
+    if (elements.searchTopics) {
+        elements.searchTopics.value = '';
+    }
+
     // Disable Fullscreen Focused Study Mode
     const appContainer = document.querySelector('.app-container');
     if (appContainer) appContainer.classList.remove('fullscreen-study-mode');
-    
+
     currentTopicId = null;
     currentWords = [];
     renderTopicsList();
