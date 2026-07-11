@@ -12,12 +12,6 @@
     "lang": "vi",
     "icons": [
         {
-            "src": "./icons/icon.svg",
-            "sizes": "any",
-            "type": "image/svg+xml",
-            "purpose": "any maskable"
-        },
-        {
             "src": "./icons/icon.png",
             "sizes": "512x512",
             "type": "image/png",
