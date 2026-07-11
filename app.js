@@ -385,88 +385,145 @@ function saveProgress() {
     updateReviewDashboard();
 }
 
-// --- FSRS Algorithm Implementation ---
-/**
- * Simple FSRS scheduler
- * rating: 1 = Again, 2 = Hard, 3 = Good, 4 = Easy
- */
+// --- FSRS-6 Algorithm Implementation ---
+// Ported from the official reference implementation (open-spaced-repetition/py-fsrs),
+// using the published default parameter set (trained on hundreds of millions of
+// real reviews). rating: 1 = Again, 2 = Hard, 3 = Good, 4 = Easy.
+const FSRS_WEIGHTS = [
+    0.212, 1.2931, 2.3065, 8.2956, 6.4133, 0.8334, 3.0194, 0.001, 1.8722, 0.1666,
+    0.796, 1.4835, 0.0614, 0.2629, 1.6483, 0.6014, 1.8729, 0.5425, 0.0912, 0.0658, 0.1542
+];
+const FSRS_DECAY = -FSRS_WEIGHTS[20];
+const FSRS_FACTOR = Math.pow(0.9, 1 / FSRS_DECAY) - 1; // desired retention = 90%
+const FSRS_MIN_DIFFICULTY = 1.0;
+const FSRS_MAX_DIFFICULTY = 10.0;
+const FSRS_MIN_STABILITY = 0.001;
+
+function fsrsClampDifficulty(d) {
+    return Math.min(FSRS_MAX_DIFFICULTY, Math.max(FSRS_MIN_DIFFICULTY, d));
+}
+
+function fsrsClampStability(s) {
+    return Math.max(FSRS_MIN_STABILITY, s);
+}
+
+// S0(rating): initial stability (days) the very first time a word is rated.
+function fsrsInitialStability(rating) {
+    return fsrsClampStability(FSRS_WEIGHTS[rating - 1]);
+}
+
+// D0(rating): initial difficulty the very first time a word is rated.
+function fsrsInitialDifficulty(rating) {
+    const d = FSRS_WEIGHTS[4] - Math.exp(FSRS_WEIGHTS[5] * (rating - 1)) + 1;
+    return fsrsClampDifficulty(d);
+}
+
+// Next difficulty after a review, with linear damping + mean reversion toward D0(Easy).
+function fsrsNextDifficulty(difficulty, rating) {
+    const easyD0 = fsrsInitialDifficulty(4);
+    const deltaD = -(FSRS_WEIGHTS[6] * (rating - 3));
+    const damped = difficulty + ((10.0 - difficulty) * deltaD) / 9.0;
+    const reverted = FSRS_WEIGHTS[7] * easyD0 + (1 - FSRS_WEIGHTS[7]) * damped;
+    return fsrsClampDifficulty(reverted);
+}
+
+// R(t, S): probability of recall after `elapsedDays` since a review with stability S.
+function fsrsRetrievability(elapsedDays, stability) {
+    return Math.pow(1 + (FSRS_FACTOR * elapsedDays) / stability, FSRS_DECAY);
+}
+
+// New stability after a successful review (rating Hard/Good/Easy) on a day-scale review.
+function fsrsNextRecallStability(difficulty, stability, retrievability, rating) {
+    const hardPenalty = rating === 2 ? FSRS_WEIGHTS[15] : 1;
+    const easyBonus = rating === 4 ? FSRS_WEIGHTS[16] : 1;
+    const growth =
+        Math.exp(FSRS_WEIGHTS[8]) *
+        (11 - difficulty) *
+        Math.pow(stability, -FSRS_WEIGHTS[9]) *
+        (Math.exp((1 - retrievability) * FSRS_WEIGHTS[10]) - 1) *
+        hardPenalty *
+        easyBonus;
+    return fsrsClampStability(stability * (1 + growth));
+}
+
+// New stability after forgetting (rating Again) on a day-scale review.
+function fsrsNextForgetStability(difficulty, stability, retrievability) {
+    const longTerm =
+        FSRS_WEIGHTS[11] *
+        Math.pow(difficulty, -FSRS_WEIGHTS[12]) *
+        (Math.pow(stability + 1, FSRS_WEIGHTS[13]) - 1) *
+        Math.exp((1 - retrievability) * FSRS_WEIGHTS[14]);
+    const shortTerm = stability / Math.exp(FSRS_WEIGHTS[17] * FSRS_WEIGHTS[18]);
+    return fsrsClampStability(Math.min(longTerm, shortTerm));
+}
+
+// Stability update for a same-day repeat review (elapsed < 1 day since last review).
+function fsrsShortTermStability(stability, rating) {
+    let increase = Math.exp(FSRS_WEIGHTS[17] * (rating - 3 + FSRS_WEIGHTS[18])) * Math.pow(stability, -FSRS_WEIGHTS[19]);
+    if (rating >= 3) increase = Math.max(increase, 1.0);
+    return fsrsClampStability(stability * increase);
+}
+
 function calculateFSRS(wordId, rating) {
     const now = new Date();
-    
+
     // Get existing FSRS or initialize empty FSRS object
     const wordProgress = studyProgress[wordId] || {
-        fsrs: { due: null, stability: 0.0, difficultyFSRS: 3.0, reps: 0, lapses: 0, lastReview: null, state: 'New' },
+        fsrs: { due: null, stability: 0.0, difficultyFSRS: 0.0, reps: 0, lapses: 0, lastReview: null, state: 'New' },
         statistics: { correct: 0, wrong: 0, accuracy: 0.0, studyTime: 0, lastSeen: null, mastered: false }
     };
-    
-    let { due, stability, difficultyFSRS, reps, lapses, lastReview, state } = wordProgress.fsrs;
+
+    let { stability, difficultyFSRS, reps, lapses, lastReview, state } = wordProgress.fsrs;
     let { correct, wrong, accuracy, studyTime, lastSeen, mastered } = wordProgress.statistics;
-    
+
     // Update basic stats
     lastSeen = now.toISOString();
-    
     if (rating === 1) {
-        // Again
         lapses += 1;
         reps = 0;
         wrong += 1;
-        
-        // Reset or collapse stability
-        stability = 10 / 1440; // 10 minutes (expressed in days)
-        difficultyFSRS = Math.min(10.0, difficultyFSRS + 1.0);
-        state = 'Learning';
-        due = new Date(now.getTime() + 10 * 60 * 1000).toISOString(); // 10 minutes from now
     } else {
-        // Correct responses
         correct += 1;
         reps += 1;
-        
-        if (state === 'New' || state === 'Learning') {
-            state = 'Review';
-        }
-        
-        // Update Difficulty (lower value means easier word)
-        let diffDelta = 0;
-        if (rating === 2) diffDelta = 0.5; // Hard
-        if (rating === 3) diffDelta = 0;   // Good
-        if (rating === 4) diffDelta = -0.5; // Easy
-        
-        difficultyFSRS = Math.max(1.0, Math.min(10.0, difficultyFSRS + diffDelta));
-        
-        // Update Stability (retention interval in days)
-        if (reps === 1) {
-            // Initial stability based on rating
-            if (rating === 2) stability = 1.0; // 1 day
-            if (rating === 3) stability = 3.0; // 3 days
-            if (rating === 4) stability = 7.0; // 7 days
-        } else {
-            // Multiplier depends on rating and difficulty
-            let factor = 1.0;
-            const diffFactor = (11.0 - difficultyFSRS) / 10.0; // easier words scale faster
-            
-            if (rating === 2) factor = 1.2 * diffFactor; // Hard
-            if (rating === 3) factor = 2.4 * diffFactor; // Good
-            if (rating === 4) factor = 4.5 * diffFactor; // Easy
-            
-            stability = Math.max(1.0, stability * factor);
-        }
-        
-        // Set new due date (stability is in days)
-        const dueTime = now.getTime() + stability * 24 * 60 * 60 * 1000;
-        due = new Date(dueTime).toISOString();
     }
-    
+
+    if (state === 'New') {
+        // First time this word is ever rated: use the FSRS initial S0/D0 curves.
+        difficultyFSRS = fsrsInitialDifficulty(rating);
+        stability = fsrsInitialStability(rating);
+    } else {
+        const oldDifficulty = difficultyFSRS;
+        const elapsedDays = lastReview ? Math.max(0, (now - new Date(lastReview)) / 86400000) : 0;
+
+        if (elapsedDays < 1) {
+            // Reviewing the same word again within the same day: short-term formula.
+            stability = fsrsShortTermStability(stability, rating);
+        } else {
+            const retrievability = fsrsRetrievability(elapsedDays, stability);
+            stability = rating === 1
+                ? fsrsNextForgetStability(oldDifficulty, stability, retrievability)
+                : fsrsNextRecallStability(oldDifficulty, stability, retrievability, rating);
+        }
+
+        difficultyFSRS = fsrsNextDifficulty(oldDifficulty, rating);
+    }
+
+    state = rating === 1 ? 'Learning' : 'Review';
+
+    // Due date: now + stability days (stability is FSRS's unit - days until ~90% recall probability).
+    const due = new Date(now.getTime() + stability * 24 * 60 * 60 * 1000).toISOString();
+
     // Calculate total accuracy
     const totalSeen = correct + wrong;
     accuracy = totalSeen > 0 ? (correct / totalSeen) * 100 : 0.0;
-    
+
     // Mastered conditions: stability >= 14 days or reps >= 3 with good accuracy
     mastered = (stability >= 14.0) || (reps >= 3 && accuracy >= 80.0);
-    
+
     // Update word progress structure
     wordProgress.fsrs = { due, stability, difficultyFSRS, reps, lapses, lastReview: now.toISOString(), state };
     wordProgress.statistics = { correct, wrong, accuracy, studyTime, lastSeen, mastered };
-    
+
     // Save back to progress database
     studyProgress[wordId] = wordProgress;
     saveProgress();
@@ -780,7 +837,7 @@ function handleFlashcardRating(rating) {
     // Update progress using FSRS (saving topicId in progress)
     if (!studyProgress[word.id]) {
         studyProgress[word.id] = {
-            fsrs: { due: null, stability: 0.0, difficultyFSRS: 3.0, reps: 0, lapses: 0, lastReview: null, state: 'New' },
+            fsrs: { due: null, stability: 0.0, difficultyFSRS: 0.0, reps: 0, lapses: 0, lastReview: null, state: 'New' },
             statistics: { correct: 0, wrong: 0, accuracy: 0.0, studyTime: 0, lastSeen: null, mastered: false }
         };
     }
@@ -909,7 +966,7 @@ function handleQuizAnswer(selectedBtn, selectedText, correctWord) {
     // Since Quiz measures retention, correct quiz counts as "Good" (rating = 3), incorrect counts as "Again" (rating = 1)
     if (!studyProgress[correctWord.id]) {
         studyProgress[correctWord.id] = {
-            fsrs: { due: null, stability: 0.0, difficultyFSRS: 3.0, reps: 0, lapses: 0, lastReview: null, state: 'New' },
+            fsrs: { due: null, stability: 0.0, difficultyFSRS: 0.0, reps: 0, lapses: 0, lastReview: null, state: 'New' },
             statistics: { correct: 0, wrong: 0, accuracy: 0.0, studyTime: 0, lastSeen: null, mastered: false }
         };
     }
