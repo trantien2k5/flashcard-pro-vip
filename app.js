@@ -4,7 +4,7 @@
 
 // Bump this on every code change (shown in Settings > Thông tin) so the user can
 // tell at a glance whether a new update has actually loaded.
-const APP_VERSION = '1.1.0 (11/07/2026)';
+const APP_VERSION = '1.2.0 (11/07/2026)';
 
 // --- Global Error Capturing & Recovery (Try-Catch Toàn cục) ---
 window.addEventListener('error', (event) => {
