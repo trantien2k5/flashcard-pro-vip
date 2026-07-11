@@ -204,6 +204,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (typeof lucide !== 'undefined') {
             lucide.createIcons();
         }
+
+        registerServiceWorker();
     } catch (error) {
         console.error("Lỗi nghiêm trọng khi khởi tạo ứng dụng:", error);
         const container = document.getElementById('toast-container');
@@ -214,6 +216,51 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     }
 });
+
+// --- PWA: offline install + auto-update ---
+// Content itself is always fetched network-first by the service worker, so the
+// only thing this needs to do is (a) get a new SW installed & activated fast,
+// and (b) reload the page exactly once so the user actually gets the new shell.
+function registerServiceWorker() {
+    if (!('serviceWorker' in navigator)) return;
+
+    let hasReloadedForUpdate = false;
+
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+        if (hasReloadedForUpdate) return;
+        hasReloadedForUpdate = true;
+        window.location.reload();
+    });
+
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./service-worker.js').then((registration) => {
+            // Check for a newer service-worker.js as soon as the tab regains focus,
+            // instead of waiting for the browser's own (much slower) update checks.
+            document.addEventListener('visibilitychange', () => {
+                if (document.visibilityState === 'visible') {
+                    registration.update().catch(() => {});
+                }
+            });
+
+            registration.addEventListener('updatefound', () => {
+                const newWorker = registration.installing;
+                if (!newWorker) return;
+                newWorker.addEventListener('statechange', () => {
+                    if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                        // A new version finished installing while an old one is still
+                        // controlling this tab - activate it immediately.
+                        newWorker.postMessage('SKIP_WAITING');
+                        if (typeof showToast === 'function') {
+                            showToast('Đã cập nhật phiên bản mới, đang tải lại...', 'success');
+                        }
+                    }
+                });
+            });
+        }).catch((err) => {
+            console.error('Đăng ký Service Worker thất bại:', err);
+        });
+    });
+}
 
 // --- Settings & LocalStorage Core ---
 function loadSettings() {
