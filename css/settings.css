@@ -22,14 +22,18 @@
     color: var(--text-secondary);
 }
 
-/* Settings Menu Grid */
+/* Settings Menu Grid - auto-fit so it's 1 column on mobile and multiple on wider screens, no manual breakpoint needed */
 .settings-menu-grid {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 14px;
 }
 
 .settings-menu-card {
+    /* Cards are real <button> elements now - reset native button chrome */
+    font-family: inherit;
+    text-align: left;
+    width: 100%;
     background-color: var(--bg-card);
     border: 1px solid var(--border-color);
     border-radius: var(--radius-md);
@@ -119,68 +123,119 @@
     color: var(--primary);
 }
 
-/* Settings Detail Panel */
-@keyframes slideInLeft {
+/* Settings Modal - native <dialog>, centered card on desktop, near-fullscreen bottom sheet on mobile */
+@keyframes settingsModalIn {
     from {
         opacity: 0;
-        transform: translateX(20px);
+        transform: translateY(16px) scale(0.98);
     }
     to {
         opacity: 1;
-        transform: translateX(0);
+        transform: translateY(0) scale(1);
     }
 }
 
-.settings-detail-panel {
-    animation: slideInLeft var(--transition-normal) forwards;
+.settings-modal {
+    margin: auto;
+    padding: 0;
+    width: min(560px, calc(100vw - 32px));
+    max-height: min(680px, 85vh);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    background-color: var(--bg-sidebar);
+    color: var(--text-primary);
+    box-shadow: var(--shadow-lg);
+    backdrop-filter: var(--glass-blur);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
 
-/* iOS-style nav header: back chevron + inline page title */
-.settings-detail-header {
+.settings-modal[open] {
+    animation: settingsModalIn var(--transition-fast) forwards;
+}
+
+.settings-modal::backdrop {
+    background: rgba(5, 8, 15, 0.6);
+    backdrop-filter: blur(2px);
+}
+
+.settings-modal-header {
     display: flex;
     align-items: center;
-    gap: 4px;
-    margin-bottom: 18px;
-    margin-left: -8px;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 18px 20px;
+    border-bottom: 1px solid var(--border-color);
+    flex-shrink: 0;
 }
 
-.btn-settings-back {
+.settings-modal-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 19px;
+    font-weight: 800;
+    color: var(--text-primary);
+}
+
+.settings-modal-title .settings-emoji-icon {
+    font-size: 19px;
+    line-height: 1;
+}
+
+.btn-settings-modal-close {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 34px;
     height: 34px;
-    background: none;
-    border: none;
-    outline: none;
-    color: var(--primary);
+    background: var(--bg-input);
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
     cursor: pointer;
     border-radius: var(--radius-full);
     transition: all var(--transition-fast);
     flex-shrink: 0;
 }
 
-.btn-settings-back:hover {
-    background-color: rgba(99, 102, 241, 0.08);
+.btn-settings-modal-close:hover {
+    background-color: var(--danger-bg);
+    border-color: var(--danger);
+    color: var(--danger);
 }
 
-.btn-settings-back i {
-    width: 22px;
-    height: 22px;
+.btn-settings-modal-close i {
+    width: 18px;
+    height: 18px;
 }
 
-.settings-detail-title {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 20px;
-    font-weight: 800;
-    color: var(--text-primary);
+.settings-modal-body {
+    padding: 20px;
+    overflow-y: auto;
 }
 
-.settings-detail-title .settings-emoji-icon {
-    font-size: 19px;
-    line-height: 1;
+/* Mobile: modern bottom-sheet popup instead of a small centered box */
+@media (max-width: 640px) {
+    .settings-modal {
+        width: 100%;
+        max-width: 100%;
+        max-height: 88vh;
+        margin: auto auto 0 auto;
+        border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+        border-bottom: none;
+    }
+
+    @keyframes settingsModalIn {
+        from {
+            opacity: 0;
+            transform: translateY(100%);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
 }
 
 /* Each setting is its own card, laid out in a grid - matches topic-card / settings-menu-card, not one giant box */

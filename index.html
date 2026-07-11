@@ -448,376 +448,383 @@
             <!-- TAB: SETTINGS -->
             <section id="tab-settings" class="tab-content">
                 <div class="settings-container">
-                    <!-- Main Settings Menu -->
-                    <div id="settings-main-view" class="settings-view-active">
-                        <div class="settings-page-header">
-                            <h2>Cài đặt</h2>
-                            <p>Tùy chỉnh trải nghiệm học tập, ôn tập và giao diện theo ý bạn.</p>
-                        </div>
-                        <div class="settings-menu-grid">
-                            <div class="settings-menu-card" data-settings-target="study">
-                                <div class="menu-icon-wrapper study-icon">
-                                    <i data-lucide="book-open"></i>
-                                </div>
-                                <div class="settings-menu-card-body">
-                                    <h3>Học tập</h3>
-                                    <p>Từ mới mỗi ngày, phát âm, phiên âm & mục tiêu học tập.</p>
-                                </div>
-                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
-                            </div>
-
-                            <div class="settings-menu-card" data-settings-target="review">
-                                <div class="menu-icon-wrapper review-icon">
-                                    <i data-lucide="brain"></i>
-                                </div>
-                                <div class="settings-menu-card-body">
-                                    <h3>Ôn tập (FSRS)</h3>
-                                    <p>Giới hạn ôn tập, ưu tiên từ yếu & mục tiêu ôn tập/ngày.</p>
-                                </div>
-                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
-                            </div>
-
-                            <div class="settings-menu-card" data-settings-target="sound">
-                                <div class="menu-icon-wrapper sound-icon">
-                                    <i data-lucide="volume-2"></i>
-                                </div>
-                                <div class="settings-menu-card-body">
-                                    <h3>Âm thanh</h3>
-                                    <p>Tùy chỉnh giọng đọc, tốc độ & âm lượng phát âm.</p>
-                                </div>
-                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
-                            </div>
-
-                            <div class="settings-menu-card" data-settings-target="theme">
-                                <div class="menu-icon-wrapper theme-icon">
-                                    <i data-lucide="palette"></i>
-                                </div>
-                                <div class="settings-menu-card-body">
-                                    <h3>Giao diện</h3>
-                                    <p>Chế độ sáng/tối và tùy chỉnh giao diện ứng dụng.</p>
-                                </div>
-                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
-                            </div>
-
-                            <div class="settings-menu-card" data-settings-target="data">
-                                <div class="menu-icon-wrapper data-icon">
-                                    <i data-lucide="database"></i>
-                                </div>
-                                <div class="settings-menu-card-body">
-                                    <h3>Dữ liệu</h3>
-                                    <p>Sao lưu, khôi phục và quản lý dữ liệu học tập.</p>
-                                </div>
-                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
-                            </div>
-
-                            <div class="settings-menu-card" data-settings-target="info">
-                                <div class="menu-icon-wrapper info-icon">
-                                    <i data-lucide="info"></i>
-                                </div>
-                                <div class="settings-menu-card-body">
-                                    <h3>Thông tin</h3>
-                                    <p>Phiên bản ứng dụng & thông tin nhóm phát triển.</p>
-                                </div>
-                                <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
-                            </div>
-                        </div>
+                    <div class="settings-page-header">
+                        <h2>Cài đặt</h2>
+                        <p>Tùy chỉnh trải nghiệm học tập, ôn tập và giao diện theo ý bạn.</p>
                     </div>
 
-                    <!-- Details Panels -->
-                    <div id="settings-details-view" class="hidden">
-                        <!-- Panel 1: Học tập -->
-                        <div class="settings-detail-panel hidden" id="settings-panel-study">
-                            <div class="settings-detail-header">
-                                <button class="btn-settings-back" aria-label="Quay lại">
-                                    <i data-lucide="chevron-left"></i>
-                                </button>
-                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">📚</span>Học tập</h2>
+                    <div class="settings-menu-grid">
+                        <button type="button" class="settings-menu-card" data-open-modal="settings-modal-study">
+                            <div class="menu-icon-wrapper study-icon">
+                                <i data-lucide="book-open"></i>
                             </div>
-                            <div class="settings-group">
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Số từ mới mỗi ngày</h4>
-                                        <p>Giới hạn số lượng từ mới học hàng ngày.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <input type="number" id="settings-new-words-day" min="5" max="100" class="settings-input-num">
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Số câu trắc nghiệm/phiên</h4>
-                                        <p>Số lượng câu hỏi trong mỗi phiên làm trắc nghiệm.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <input type="number" id="settings-quiz-reps" min="5" max="50" class="settings-input-num">
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Tự động phát âm</h4>
-                                        <p>Tự động phát âm tiếng Anh khi chuyển thẻ flashcard mới.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <label class="switch-control">
-                                            <input type="checkbox" id="settings-auto-speak">
-                                            <span class="slider-switch"></span>
-                                        </label>
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Hiển thị phiên âm (IPA)</h4>
-                                        <p>Hiển thị ký hiệu phiên âm quốc tế IPA trên flashcard.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <label class="switch-control">
-                                            <input type="checkbox" id="settings-show-ipa">
-                                            <span class="slider-switch"></span>
-                                        </label>
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Hiển thị câu ví dụ</h4>
-                                        <p>Hiển thị câu ví dụ và dịch nghĩa trên thẻ flashcard.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <label class="switch-control">
-                                            <input type="checkbox" id="settings-show-example">
-                                            <span class="slider-switch"></span>
-                                        </label>
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Lật thẻ tự động</h4>
-                                        <p>Tự động hiển thị mặt sau sau khi phát âm xong.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <label class="switch-control">
-                                            <input type="checkbox" id="settings-auto-flip">
-                                            <span class="slider-switch"></span>
-                                        </label>
-                                    </div>
-                                </div>
-                                <!-- Tích hợp Mục tiêu học tập -->
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Mục tiêu từ mới/ngày</h4>
-                                        <p>Số lượng từ mới mục tiêu cần học trong ngày.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <input type="number" id="settings-goal-new-words" min="1" max="100" class="settings-input-num">
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Mục tiêu chuỗi streak</h4>
-                                        <p>Chuỗi số ngày học liên tục mong muốn đạt được.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <input type="number" id="settings-goal-streak" min="3" max="365" class="settings-input-num">
-                                    </div>
-                                </div>
+                            <div class="settings-menu-card-body">
+                                <h3>Học tập</h3>
+                                <p>Từ mới mỗi ngày, phát âm, phiên âm & mục tiêu học tập.</p>
                             </div>
-                        </div>
+                            <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                        </button>
 
-                        <!-- Panel 2: Ôn tập -->
-                        <div class="settings-detail-panel hidden" id="settings-panel-review">
-                            <div class="settings-detail-header">
-                                <button class="btn-settings-back" aria-label="Quay lại">
-                                    <i data-lucide="chevron-left"></i>
-                                </button>
-                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">🧠</span>Ôn tập (FSRS)</h2>
+                        <button type="button" class="settings-menu-card" data-open-modal="settings-modal-review">
+                            <div class="menu-icon-wrapper review-icon">
+                                <i data-lucide="brain"></i>
                             </div>
-                            <div class="settings-group">
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Giới hạn số thẻ ôn/ngày</h4>
-                                        <p>Số lượng từ tối đa cần ôn tập hàng ngày.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <input type="number" id="settings-review-limit" min="10" max="500" class="settings-input-num">
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Ưu tiên từ yếu trước</h4>
-                                        <p>Ưu tiên xếp lịch ôn tập các từ có độ ổn định kém lên trước.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <label class="switch-control">
-                                            <input type="checkbox" id="settings-prioritize-weak">
-                                            <span class="slider-switch"></span>
-                                        </label>
-                                    </div>
-                                </div>
-                                <!-- Tích hợp Mục tiêu ôn tập -->
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Mục tiêu ôn tập/ngày</h4>
-                                        <p>Số lượng từ ôn tập mục tiêu cần hoàn thành trong ngày.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <input type="number" id="settings-goal-reviews" min="1" max="500" class="settings-input-num">
-                                    </div>
-                                </div>
+                            <div class="settings-menu-card-body">
+                                <h3>Ôn tập (FSRS)</h3>
+                                <p>Giới hạn ôn tập, ưu tiên từ yếu & mục tiêu ôn tập/ngày.</p>
                             </div>
-                        </div>
+                            <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                        </button>
 
-                        <!-- Panel 3: Âm thanh -->
-                        <div class="settings-detail-panel hidden" id="settings-panel-sound">
-                            <div class="settings-detail-header">
-                                <button class="btn-settings-back" aria-label="Quay lại">
-                                    <i data-lucide="chevron-left"></i>
-                                </button>
-                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">🔊</span>Âm thanh</h2>
+                        <button type="button" class="settings-menu-card" data-open-modal="settings-modal-sound">
+                            <div class="menu-icon-wrapper sound-icon">
+                                <i data-lucide="volume-2"></i>
                             </div>
-                            <div class="settings-group">
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Tốc độ đọc giọng nói</h4>
-                                        <p>Điều chỉnh tốc độ phát âm từ vựng và câu ví dụ.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <div class="slider-wrapper">
-                                            <input type="range" id="settings-speech-rate" min="0.5" max="1.5" step="0.1" value="1.0">
-                                            <span id="speech-rate-val">1.0x</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Giọng phát âm chính</h4>
-                                        <p>Lựa chọn accent phát âm tiếng Anh US hoặc UK.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <select id="settings-speech-voice" class="settings-select">
-                                            <option value="us">Tiếng Anh - Mỹ (US)</option>
-                                            <option value="uk">Tiếng Anh - Anh (UK)</option>
-                                        </select>
-                                    </div>
-                                </div>
+                            <div class="settings-menu-card-body">
+                                <h3>Âm thanh</h3>
+                                <p>Tùy chỉnh giọng đọc, tốc độ & âm lượng phát âm.</p>
                             </div>
-                        </div>
+                            <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                        </button>
 
-                        <!-- Panel 4: Giao diện -->
-                        <div class="settings-detail-panel hidden" id="settings-panel-theme">
-                            <div class="settings-detail-header">
-                                <button class="btn-settings-back" aria-label="Quay lại">
-                                    <i data-lucide="chevron-left"></i>
-                                </button>
-                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">🎨</span>Giao diện</h2>
+                        <button type="button" class="settings-menu-card" data-open-modal="settings-modal-theme">
+                            <div class="menu-icon-wrapper theme-icon">
+                                <i data-lucide="palette"></i>
                             </div>
-                            <div class="settings-group">
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Chủ đề màu sắc</h4>
-                                        <p>Thay đổi giao diện màu sắc của ứng dụng.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <div class="theme-switch-wrapper">
-                                            <button class="theme-btn active" id="btn-theme-dark" data-theme="dark">
-                                                <i data-lucide="moon"></i>
-                                                <span>Tối (Dark)</span>
-                                            </button>
-                                            <button class="theme-btn" id="btn-theme-light" data-theme="light">
-                                                <i data-lucide="sun"></i>
-                                                <span>Sáng (Light)</span>
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="settings-menu-card-body">
+                                <h3>Giao diện</h3>
+                                <p>Chế độ sáng/tối và tùy chỉnh giao diện ứng dụng.</p>
                             </div>
-                        </div>
+                            <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                        </button>
 
-                        <!-- Panel 5: Dữ liệu -->
-                        <div class="settings-detail-panel hidden" id="settings-panel-data">
-                            <div class="settings-detail-header">
-                                <button class="btn-settings-back" aria-label="Quay lại">
-                                    <i data-lucide="chevron-left"></i>
-                                </button>
-                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">💾</span>Dữ liệu</h2>
+                        <button type="button" class="settings-menu-card" data-open-modal="settings-modal-data">
+                            <div class="menu-icon-wrapper data-icon">
+                                <i data-lucide="database"></i>
                             </div>
-                            <div class="settings-group">
-                                <div class="setting-row block-row">
-                                    <div class="setting-info">
-                                        <h4>Sao lưu & Khôi phục dữ liệu học</h4>
-                                        <p>Xuất tiến trình của bạn thành tệp tin JSON hoặc nhập tệp tiến trình đã sao lưu trước đó.</p>
-                                    </div>
-                                    <div class="setting-control buttons-row">
-                                        <button class="action-btn secondary" id="btn-export-data">
-                                            <i data-lucide="download"></i>
-                                            <span>Xuất dữ liệu học</span>
-                                        </button>
-                                        <button class="action-btn secondary" id="btn-import-trigger">
-                                            <i data-lucide="upload"></i>
-                                            <span>Nhập dữ liệu học</span>
-                                        </button>
-                                        <input type="file" id="import-file-input" style="display: none;" accept=".json">
-                                    </div>
-                                </div>
+                            <div class="settings-menu-card-body">
+                                <h3>Dữ liệu</h3>
+                                <p>Sao lưu, khôi phục và quản lý dữ liệu học tập.</p>
+                            </div>
+                            <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                        </button>
 
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Đặt lại toàn bộ tiến độ</h4>
-                                        <p class="warning-text">Hành động này sẽ xóa vĩnh viễn toàn bộ lịch sử học, điểm trắc nghiệm và tiến độ ôn tập FSRS của bạn.</p>
-                                    </div>
-                                    <div class="setting-control">
-                                        <button class="action-btn danger" id="btn-reset-data">
-                                            <i data-lucide="trash-2"></i>
-                                            <span>Đặt lại từ đầu</span>
-                                        </button>
-                                    </div>
-                                </div>
+                        <button type="button" class="settings-menu-card" data-open-modal="settings-modal-info">
+                            <div class="menu-icon-wrapper info-icon">
+                                <i data-lucide="info"></i>
                             </div>
-                        </div>
-
-                        <!-- Panel 6: Thông tin -->
-                        <div class="settings-detail-panel hidden" id="settings-panel-info">
-                            <div class="settings-detail-header">
-                                <button class="btn-settings-back" aria-label="Quay lại">
-                                    <i data-lucide="chevron-left"></i>
-                                </button>
-                                <h2 class="settings-detail-title"><span class="settings-emoji-icon">ℹ️</span>Thông tin</h2>
+                            <div class="settings-menu-card-body">
+                                <h3>Thông tin</h3>
+                                <p>Phiên bản ứng dụng & thông tin nhóm phát triển.</p>
                             </div>
-                            <div class="settings-group">
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Phiên bản ứng dụng</h4>
-                                    </div>
-                                    <div class="setting-control info-val">
-                                        <span id="info-app-version">1.0.0</span>
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Thuật toán ôn tập</h4>
-                                    </div>
-                                    <div class="setting-control info-val">
-                                        <span>FSRS-6 (Spaced Repetition)</span>
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Dung lượng dữ liệu tiến độ</h4>
-                                    </div>
-                                    <div class="setting-control info-val">
-                                        <span id="info-data-size">0 bytes</span>
-                                    </div>
-                                </div>
-                                <div class="setting-row">
-                                    <div class="setting-info">
-                                        <h4>Tổng số từ vựng TOEIC</h4>
-                                    </div>
-                                    <div class="setting-control info-val">
-                                        <span id="info-total-words">0 từ</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                            <i data-lucide="chevron-right" class="settings-menu-arrow"></i>
+                        </button>
                     </div>
                 </div>
+
+                <!-- Modal 1: Học tập -->
+                <dialog class="settings-modal" id="settings-modal-study">
+                    <div class="settings-modal-header">
+                        <h2 class="settings-modal-title"><span class="settings-emoji-icon">📚</span>Học tập</h2>
+                        <button type="button" class="btn-settings-modal-close" aria-label="Đóng">
+                            <i data-lucide="x"></i>
+                        </button>
+                    </div>
+                    <div class="settings-modal-body">
+                        <div class="settings-group">
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Số từ mới mỗi ngày</h4>
+                                    <p>Giới hạn số lượng từ mới học hàng ngày.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <input type="number" id="settings-new-words-day" min="5" max="100" class="settings-input-num">
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Số câu trắc nghiệm/phiên</h4>
+                                    <p>Số lượng câu hỏi trong mỗi phiên làm trắc nghiệm.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <input type="number" id="settings-quiz-reps" min="5" max="50" class="settings-input-num">
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Tự động phát âm</h4>
+                                    <p>Tự động phát âm tiếng Anh khi chuyển thẻ flashcard mới.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <label class="switch-control">
+                                        <input type="checkbox" id="settings-auto-speak">
+                                        <span class="slider-switch"></span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Hiển thị phiên âm (IPA)</h4>
+                                    <p>Hiển thị ký hiệu phiên âm quốc tế IPA trên flashcard.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <label class="switch-control">
+                                        <input type="checkbox" id="settings-show-ipa">
+                                        <span class="slider-switch"></span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Hiển thị câu ví dụ</h4>
+                                    <p>Hiển thị câu ví dụ và dịch nghĩa trên thẻ flashcard.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <label class="switch-control">
+                                        <input type="checkbox" id="settings-show-example">
+                                        <span class="slider-switch"></span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Lật thẻ tự động</h4>
+                                    <p>Tự động hiển thị mặt sau sau khi phát âm xong.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <label class="switch-control">
+                                        <input type="checkbox" id="settings-auto-flip">
+                                        <span class="slider-switch"></span>
+                                    </label>
+                                </div>
+                            </div>
+                            <!-- Tích hợp Mục tiêu học tập -->
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Mục tiêu từ mới/ngày</h4>
+                                    <p>Số lượng từ mới mục tiêu cần học trong ngày.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <input type="number" id="settings-goal-new-words" min="1" max="100" class="settings-input-num">
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Mục tiêu chuỗi streak</h4>
+                                    <p>Chuỗi số ngày học liên tục mong muốn đạt được.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <input type="number" id="settings-goal-streak" min="3" max="365" class="settings-input-num">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </dialog>
+
+                <!-- Modal 2: Ôn tập -->
+                <dialog class="settings-modal" id="settings-modal-review">
+                    <div class="settings-modal-header">
+                        <h2 class="settings-modal-title"><span class="settings-emoji-icon">🧠</span>Ôn tập (FSRS)</h2>
+                        <button type="button" class="btn-settings-modal-close" aria-label="Đóng">
+                            <i data-lucide="x"></i>
+                        </button>
+                    </div>
+                    <div class="settings-modal-body">
+                        <div class="settings-group">
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Giới hạn số thẻ ôn/ngày</h4>
+                                    <p>Số lượng từ tối đa cần ôn tập hàng ngày.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <input type="number" id="settings-review-limit" min="10" max="500" class="settings-input-num">
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Ưu tiên từ yếu trước</h4>
+                                    <p>Ưu tiên xếp lịch ôn tập các từ có độ ổn định kém lên trước.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <label class="switch-control">
+                                        <input type="checkbox" id="settings-prioritize-weak">
+                                        <span class="slider-switch"></span>
+                                    </label>
+                                </div>
+                            </div>
+                            <!-- Tích hợp Mục tiêu ôn tập -->
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Mục tiêu ôn tập/ngày</h4>
+                                    <p>Số lượng từ ôn tập mục tiêu cần hoàn thành trong ngày.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <input type="number" id="settings-goal-reviews" min="1" max="500" class="settings-input-num">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </dialog>
+
+                <!-- Modal 3: Âm thanh -->
+                <dialog class="settings-modal" id="settings-modal-sound">
+                    <div class="settings-modal-header">
+                        <h2 class="settings-modal-title"><span class="settings-emoji-icon">🔊</span>Âm thanh</h2>
+                        <button type="button" class="btn-settings-modal-close" aria-label="Đóng">
+                            <i data-lucide="x"></i>
+                        </button>
+                    </div>
+                    <div class="settings-modal-body">
+                        <div class="settings-group">
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Tốc độ đọc giọng nói</h4>
+                                    <p>Điều chỉnh tốc độ phát âm từ vựng và câu ví dụ.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <div class="slider-wrapper">
+                                        <input type="range" id="settings-speech-rate" min="0.5" max="1.5" step="0.1" value="1.0">
+                                        <span id="speech-rate-val">1.0x</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Giọng phát âm chính</h4>
+                                    <p>Lựa chọn accent phát âm tiếng Anh US hoặc UK.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <select id="settings-speech-voice" class="settings-select">
+                                        <option value="us">Tiếng Anh - Mỹ (US)</option>
+                                        <option value="uk">Tiếng Anh - Anh (UK)</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </dialog>
+
+                <!-- Modal 4: Giao diện -->
+                <dialog class="settings-modal" id="settings-modal-theme">
+                    <div class="settings-modal-header">
+                        <h2 class="settings-modal-title"><span class="settings-emoji-icon">🎨</span>Giao diện</h2>
+                        <button type="button" class="btn-settings-modal-close" aria-label="Đóng">
+                            <i data-lucide="x"></i>
+                        </button>
+                    </div>
+                    <div class="settings-modal-body">
+                        <div class="settings-group">
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Chủ đề màu sắc</h4>
+                                    <p>Thay đổi giao diện màu sắc của ứng dụng.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <div class="theme-switch-wrapper">
+                                        <button class="theme-btn active" id="btn-theme-dark" data-theme="dark">
+                                            <i data-lucide="moon"></i>
+                                            <span>Tối (Dark)</span>
+                                        </button>
+                                        <button class="theme-btn" id="btn-theme-light" data-theme="light">
+                                            <i data-lucide="sun"></i>
+                                            <span>Sáng (Light)</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </dialog>
+
+                <!-- Modal 5: Dữ liệu -->
+                <dialog class="settings-modal" id="settings-modal-data">
+                    <div class="settings-modal-header">
+                        <h2 class="settings-modal-title"><span class="settings-emoji-icon">💾</span>Dữ liệu</h2>
+                        <button type="button" class="btn-settings-modal-close" aria-label="Đóng">
+                            <i data-lucide="x"></i>
+                        </button>
+                    </div>
+                    <div class="settings-modal-body">
+                        <div class="settings-group">
+                            <div class="setting-row block-row">
+                                <div class="setting-info">
+                                    <h4>Sao lưu & Khôi phục dữ liệu học</h4>
+                                    <p>Xuất tiến trình của bạn thành tệp tin JSON hoặc nhập tệp tiến trình đã sao lưu trước đó.</p>
+                                </div>
+                                <div class="setting-control buttons-row">
+                                    <button class="action-btn secondary" id="btn-export-data">
+                                        <i data-lucide="download"></i>
+                                        <span>Xuất dữ liệu học</span>
+                                    </button>
+                                    <button class="action-btn secondary" id="btn-import-trigger">
+                                        <i data-lucide="upload"></i>
+                                        <span>Nhập dữ liệu học</span>
+                                    </button>
+                                    <input type="file" id="import-file-input" style="display: none;" accept=".json">
+                                </div>
+                            </div>
+
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Đặt lại toàn bộ tiến độ</h4>
+                                    <p class="warning-text">Hành động này sẽ xóa vĩnh viễn toàn bộ lịch sử học, điểm trắc nghiệm và tiến độ ôn tập FSRS của bạn.</p>
+                                </div>
+                                <div class="setting-control">
+                                    <button class="action-btn danger" id="btn-reset-data">
+                                        <i data-lucide="trash-2"></i>
+                                        <span>Đặt lại từ đầu</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </dialog>
+
+                <!-- Modal 6: Thông tin -->
+                <dialog class="settings-modal" id="settings-modal-info">
+                    <div class="settings-modal-header">
+                        <h2 class="settings-modal-title"><span class="settings-emoji-icon">ℹ️</span>Thông tin</h2>
+                        <button type="button" class="btn-settings-modal-close" aria-label="Đóng">
+                            <i data-lucide="x"></i>
+                        </button>
+                    </div>
+                    <div class="settings-modal-body">
+                        <div class="settings-group">
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Phiên bản ứng dụng</h4>
+                                </div>
+                                <div class="setting-control info-val">
+                                    <span id="info-app-version">1.0.0</span>
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Thuật toán ôn tập</h4>
+                                </div>
+                                <div class="setting-control info-val">
+                                    <span>FSRS-6 (Spaced Repetition)</span>
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Dung lượng dữ liệu tiến độ</h4>
+                                </div>
+                                <div class="setting-control info-val">
+                                    <span id="info-data-size">0 bytes</span>
+                                </div>
+                            </div>
+                            <div class="setting-row">
+                                <div class="setting-info">
+                                    <h4>Tổng số từ vựng TOEIC</h4>
+                                </div>
+                                <div class="setting-control info-val">
+                                    <span id="info-total-words">0 từ</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </dialog>
             </section>
 
             <!-- VIEW: NOTEBOOK (FULLSCREEN) -->

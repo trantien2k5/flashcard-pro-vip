@@ -1432,46 +1432,29 @@ function showToast(message, type = 'info') {
 
 // --- Event Listeners Mapping ---
 function setupEventListeners() {
-    // Detail Pages Settings Switcher logic
-    const settingsMainView = document.getElementById('settings-main-view');
-    const settingsDetailsView = document.getElementById('settings-details-view');
-    const detailPanels = document.querySelectorAll('.settings-detail-panel');
-    
-    // Clicking a category menu item
-    document.querySelectorAll('.settings-menu-card').forEach(item => {
-        item.addEventListener('click', () => {
-            const target = item.getAttribute('data-settings-target');
-            if (settingsMainView && settingsDetailsView) {
-                settingsMainView.classList.remove('settings-view-active');
-                settingsMainView.classList.add('hidden');
-                
-                settingsDetailsView.classList.remove('hidden');
-                
-                detailPanels.forEach(panel => {
-                    panel.classList.add('hidden');
-                });
-                
-                const targetPanel = document.getElementById(`settings-panel-${target}`);
-                if (targetPanel) {
-                    targetPanel.classList.remove('hidden');
-                }
+    // Settings modals: each category card opens its own <dialog> popup.
+    document.querySelectorAll('.settings-menu-card').forEach(card => {
+        card.addEventListener('click', () => {
+            const modalId = card.getAttribute('data-open-modal');
+            const modal = document.getElementById(modalId);
+            if (modal && typeof modal.showModal === 'function') {
+                modal.showModal();
             }
         });
     });
-    
-    // Clicking the back button inside a panel
-    document.querySelectorAll('.btn-settings-back').forEach(btn => {
+
+    // Close button inside each modal
+    document.querySelectorAll('.btn-settings-modal-close').forEach(btn => {
         btn.addEventListener('click', () => {
-            if (settingsMainView && settingsDetailsView) {
-                settingsDetailsView.classList.add('hidden');
-                
-                settingsMainView.classList.remove('hidden');
-                settingsMainView.classList.add('settings-view-active');
-                
-                detailPanels.forEach(panel => {
-                    panel.classList.add('hidden');
-                });
-            }
+            const modal = btn.closest('dialog.settings-modal');
+            if (modal) modal.close();
+        });
+    });
+
+    // Click on the backdrop (outside the modal content box) closes it
+    document.querySelectorAll('dialog.settings-modal').forEach(modal => {
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) modal.close();
         });
     });
 
@@ -1494,7 +1477,10 @@ function setupEventListeners() {
             });
             
             activeTab = tabId;
-            
+
+            // Close any settings modal left open when navigating away
+            document.querySelectorAll('dialog.settings-modal[open]').forEach(modal => modal.close());
+
             // Reload specific stats if going to review
             if (tabId === 'review') {
                 updateReviewDashboard();
@@ -1505,14 +1491,6 @@ function setupEventListeners() {
             } else if (tabId === 'home') {
                 updateGlobalStats();
                 updateReviewDashboard();
-            } else if (tabId === 'settings') {
-                const mainView = document.getElementById('settings-main-view');
-                const detailsView = document.getElementById('settings-details-view');
-                if (mainView && detailsView) {
-                    detailsView.classList.add('hidden');
-                    mainView.classList.remove('hidden');
-                    mainView.classList.add('settings-view-active');
-                }
             }
         });
     });
