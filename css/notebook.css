@@ -202,8 +202,8 @@
 
 .notebook-topic-card:hover {
     border-color: var(--border-focus);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15), var(--shadow-md);
 }
 
 .notebook-topic-card-header {
@@ -325,11 +325,12 @@
 .notebook-word-card:hover {
     border-color: var(--border-focus);
     background-color: var(--bg-card);
-    transform: translateY(-1px);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
 .notebook-word-card.studied-card {
-    border-left: 4px solid #27ae60;
+    border-left: 4px solid var(--success);
 }
 
 .notebook-word-card.unstudied-card {

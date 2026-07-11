@@ -106,10 +106,30 @@
     background-color: var(--primary-light);
 }
 
+.nav-btn:hover i, .nav-btn:hover svg {
+    transform: scale(1.1);
+    color: var(--text-primary);
+}
+
+.nav-btn i, .nav-btn svg {
+    transition: transform var(--transition-fast);
+}
+
 .nav-btn.active {
     color: var(--primary);
     background-color: var(--primary-light);
     box-shadow: none;
+}
+
+.nav-btn.active::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 20%;
+    height: 60%;
+    width: 4px;
+    background: var(--primary-gradient);
+    border-radius: 0 4px 4px 0;
 }
 
 body.light-theme .nav-btn.active {

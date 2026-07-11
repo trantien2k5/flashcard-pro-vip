@@ -2,8 +2,8 @@
 
 /* Welcome Banner */
 .welcome-banner {
-    background: linear-gradient(135deg, rgba(99, 102, 241, 0.08) 0%, rgba(236, 72, 153, 0.04) 100%);
-    border: 1px solid var(--border-color);
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.12) 0%, rgba(236, 72, 153, 0.06) 50%, rgba(14, 165, 233, 0.04) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: var(--radius-lg);
     padding: 30px;
     display: flex;
@@ -11,6 +11,7 @@
     align-items: center;
     margin-bottom: 24px;
     gap: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
 }
 
 .welcome-text h2 {
@@ -37,6 +38,13 @@
     text-align: center;
     min-width: 110px;
     backdrop-filter: var(--glass-blur);
+    transition: all var(--transition-fast);
+}
+
+.global-stats-summary .stat-item:hover {
+    transform: translateY(-2px);
+    border-color: var(--primary);
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.15);
 }
 
 .stat-item .stat-num {
@@ -91,10 +99,19 @@
     background: radial-gradient(circle, rgba(99, 102, 241, 0.05) 0%, rgba(255, 255, 255, 0) 70%);
     border-radius: var(--radius-full);
     pointer-events: none;
+    transition: opacity var(--transition-normal);
+}
+
+.dashboard-card:hover::before {
+    background: radial-gradient(circle, rgba(99, 102, 241, 0.1) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .dashboard-card.review-card::before {
     background: radial-gradient(circle, rgba(236, 72, 153, 0.05) 0%, rgba(255, 255, 255, 0) 70%);
+}
+
+.dashboard-card.review-card:hover::before {
+    background: radial-gradient(circle, rgba(236, 72, 153, 0.1) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .d-card-header {

@@ -53,6 +53,10 @@
         border-radius: var(--radius-sm);
     }
     
+    .nav-btn.active::before {
+        display: none !important;
+    }
+    
     .nav-btn .badge {
         position: absolute;
         top: 4px;

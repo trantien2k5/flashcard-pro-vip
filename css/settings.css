@@ -44,15 +44,30 @@
     flex-direction: column;
     box-shadow: var(--shadow-sm);
     backdrop-filter: var(--glass-blur);
+    transition: all var(--transition-normal);
 }
+
+.settings-section-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--border-focus);
+}
+
+/* Category Card Accent Borders */
+.settings-section-card:nth-child(1) { border-top: 3px solid #3b82f6; }
+.settings-section-card:nth-child(2) { border-top: 3px solid #ec4899; }
+.settings-section-card:nth-child(3) { border-top: 3px solid #f97316; }
+.settings-section-card:nth-child(4) { border-top: 3px solid #8b5cf6; }
+.settings-section-card:nth-child(5) { border-top: 3px solid #10b981; }
+.settings-section-card:nth-child(6) { border-top: 3px solid #6b7280; }
 
 .settings-section-header {
     display: flex;
     align-items: center;
-    gap: 10px;
-    padding-bottom: 12px;
+    gap: 12px;
+    padding-bottom: 16px;
     border-bottom: 1px solid var(--border-color);
-    margin-bottom: 16px;
+    margin-bottom: 20px;
 }
 
 .settings-section-header h3 {
@@ -62,20 +77,22 @@
     margin: 0;
 }
 
-.settings-section-header i {
-    width: 22px;
-    height: 22px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.settings-section-header svg {
+    width: 36px !important;
+    height: 36px !important;
+    border-radius: var(--radius-md);
+    padding: 6px;
+    flex-shrink: 0;
+    box-sizing: border-box;
 }
 
-.settings-section-header i.study-color { color: #3b82f6; }
-.settings-section-header i.review-color { color: #ec4899; }
-.settings-section-header i.sound-color { color: #f97316; }
-.settings-section-header i.theme-color { color: #8b5cf6; }
-.settings-section-header i.data-color { color: #10b981; }
-.settings-section-header i.info-color { color: #9ca3af; }
+/* Semi-transparent category-colored background bubbles */
+.settings-section-header .study-color { background: rgba(59, 130, 246, 0.12); }
+.settings-section-header .review-color { background: rgba(236, 72, 153, 0.12); }
+.settings-section-header .sound-color { background: rgba(249, 115, 22, 0.12); }
+.settings-section-header .theme-color { background: rgba(139, 92, 246, 0.12); }
+.settings-section-header .data-color { background: rgba(16, 185, 129, 0.12); }
+.settings-section-header .info-color { background: rgba(107, 114, 128, 0.12); }
 
 /* Nested setting rows within the section cards (removes card-in-card double styling) */
 .settings-section-card .setting-row {

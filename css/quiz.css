@@ -88,7 +88,9 @@
 
 .option-btn:hover {
     background-color: var(--bg-card-hover);
-    border-color: var(--text-secondary);
+    border-color: var(--primary);
+    transform: translateX(6px);
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.08);
 }
 
 .option-btn.correct {
